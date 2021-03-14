@@ -1,31 +1,29 @@
 #########################################################################
 # Uncompresses LSZZ stored data in PS1 game "Dr. Slump"                 #
-# Usage: uncompress.py [INPUT FILE] [OFFSET TO START OF COMPRESSED DATA]#
-# Start of compressed data pattern: 01XX00YY                            #
-# XX: number of uncompressed bytes                                      #
-# YY: first control block                                               #
 #########################################################################
+
 import sys    
 import os
 
-def uncompressChunk(filename, offsetArg, outputName):
+def uncompressChunk(fileName, offsetArg, outputName, isroot):
     #sys.argv = [sys.argv[0], "S01_M00C.PAC.out.bin.slump", 0]
-    inputFile = open(filename, "rb")
+    
+    if isroot:
+        inputFile = open("sourceDump/" + fileName, "rb")
+    else:
+        inputFile = open("gen/" + fileName, "rb")
 
-    if os.path.exists(filename + ".uncomp"):
-        os.remove(filename + ".uncomp")
+    if os.path.exists("gen/" + outputName + ".uncomp"):
+        os.remove("gen/" + outputName + ".uncomp")
 
-    output = open(outputName + ".uncomp", "w+b")
+    output = open("gen/" + outputName + ".uncomp", "w+b")
     
     #clear data to start point
     offset = offsetArg
     inputFile.read(offset+1)
 
-    #read filesize halfword
-    fileSize = int.from_bytes(inputFile.read(2), "little", signed=False)
-
-    #read block type
-    lzssType = inputFile.read(2)
+    #read filesize word
+    fileSize = int.from_bytes(inputFile.read(4), "little", signed=False)
 
     #loop until no bytes remaining
     bytesLeft = fileSize
@@ -36,7 +34,7 @@ def uncompressChunk(filename, offsetArg, outputName):
         controlBlockCursor = 1
 
         #iterate over 16 bit long control block
-        while controlBlockCursor <= 32768:
+        while controlBlockCursor <= 32768 and bytesLeft > 0:
             if (controlBlock & controlBlockCursor) == 0:
                 #write 1 raw byte
                 output.write(inputFile.read(1))
@@ -53,17 +51,21 @@ def uncompressChunk(filename, offsetArg, outputName):
 
                 #Number of bytes left to copy = last 5 bits of byte 1 + 3
                 copyBytes = (int.from_bytes(referenceBlock[1:2], "little", signed=False) >> 3) + 3
-                bytesLeft -= copyBytes
                 
                 #copy all bytes
-                while copyBytes > 0:
+                while copyBytes > 0 and bytesLeft > 0:
                     output.seek(-seekOffset, 2)
                     writeByte = output.read(1)
                     output.seek(0,2)
                     output.write(writeByte)
                     copyBytes -= 1
+                    bytesLeft -= 1
 
             controlBlockCursor *= 2
         
     inputFile.close()
     output.close()
+
+
+#debug
+

@@ -1,7 +1,7 @@
 #########################################################################
 # Separates .pac files into individual .lzss files for PS1 game         #
 # "Dr. Slump"                                                           #
-# Usage: pacUnpacker.py [INPUT FILE]                                    #
+#                                                                       #
 #########################################################################
 
 # Dr. Slump uses 4 byte little endian pointers followed by 4 byte little 
@@ -14,26 +14,17 @@ from pathlib import Path
 import uncompress
 import xml.etree.ElementTree as ET
 
-
-
 LZSS_IDENTIFIER = 1
 
-#sys.argv = [sys.argv[0], "S01_M00C.PAC"]
-
-root = ET.Element('source')
-
-root.attrib['fileName']="S01_M00C.PAC"
-root.attrib['offset']="0"
-root.attrib['size']=str(Path("S01_M00C.PAC").stat().st_size)
-
-def writeEntry(fileStream, node):
+def writeXMLEntry(fileStream, node):
     #first 4 bytes form pointer to lzss data chunk or embedded .pac file
     lzssPtr = int.from_bytes(fileStream.read(4), "little", signed=False)
-    #last 4 bytes form size of lzss data chunk or embedded .pac file
+    #last 4 bytes form size of compressed lzss data chunk or embedded .pac file
     lzssFileSize = int.from_bytes(fileStream.read(4), "little", signed=False)
 
     #Skip blank entries
-    if lzssPtr + lzssFileSize != 0:
+    if lzssPtr + lzssFileSize != 0 and lzssFileSize != 0xFFFFFFFF and lzssPtr != 0xFFFFFFFF and lzssFileSize!=0x44444444:
+        #return file cursor to pointer table after inserting entry
         returnPos = fileStream.tell()
         fileStream.seek(lzssPtr)
         
@@ -42,31 +33,56 @@ def writeEntry(fileStream, node):
         
         if chunkID == LZSS_IDENTIFIER:
             chunkType = "lzss"
+            elem = ET.SubElement(node, chunkType)
+
+            uncompressedSize = fileStream.read(4)
+            elem.attrib['uncompressedSize'] = str(int.from_bytes(uncompressedSize, "little", signed = False))
+
         else:
-            chunkType = "pac"
+            
+            fileStream.seek(lzssPtr)
+
+            typeFound = False
+            while typeFound == False:
+                testReading = int.from_bytes(fileStream.read(4), "little", signed = False)
+
+                #if testReading == 0x11F00415 or testReading == 0x1004041A or testReading % 2 == 1 or testReading == 0x001F0014 or testReading == 0x10000230:
+                if testReading == 0x11F00415 or testReading == 0x1004041A or testReading % 2 == 1 or testReading == 0x001F0014 or testReading == 0x10000230:
+                    chunkType = "raw"
+                    typeFound = True
+                    break
+                if testReading != 0:
+                    chunkType = "pac"
+                    typeFound = True
+                    break
+
+            #chunkType = "pac" or "raw"
+            elem = ET.SubElement(node, chunkType)
 
         #initialize leaf element
-        elem = ET.SubElement(node, chunkType)
-        #add offset attribute
-        #elem.attrib['offset'] = str(returnPos - int(node.get("offset")) - 8)
-        elem.attrib['offset'] = str(returnPos - 8)
-        elem.attrib['fileName'] = node.get('fileName') + '.' + elem.get('offset') + '.' + chunkType
+        elem.attrib['tableOffset'] = str(returnPos - 8)
+        elem.attrib['fileName'] = node.get('fileName') + '.' + elem.get('tableOffset') + '.' + chunkType
         elem.attrib['size'] = str(lzssFileSize)
         elem.attrib['dataOffset'] = str(lzssPtr)
+        
         fileStream.seek(returnPos)
 
     return lzssPtr
 
 
-def findData(currNode):
-    inputFile = open(currNode.get("fileName"), "rb")
-
+def findData(currNode, isroot):
+    if isroot == True:
+        inputFile = open('sourceDump/' +currNode.get("fileName"), "rb")
+    else:
+        inputFile = open('gen/' +currNode.get("fileName"), "rb")
     dataOffset = 0
     indexCursor = 0
     
     #find first pointer in file to find end of pointer block
     while True:
-        searchResult = writeEntry(inputFile, currNode)
+        print(ET.tostring(currNode))
+        searchResult = writeXMLEntry(inputFile, currNode)
+        print(ET.tostring(currNode))
         #Skip entries with values of 0
         if  searchResult != 0:
             dataOffset = searchResult
@@ -76,38 +92,59 @@ def findData(currNode):
 
     #iterate over all pointers in pointer block
     while indexCursor < dataOffset:
-        writeEntry(inputFile, currNode)
+        writeXMLEntry(inputFile, currNode)
         indexCursor += 8
 
     for node in currNode.findall('lzss'):
         print(node.get('fileName'))
-        print(int(node.get('dataOffset')))
-        uncompress.uncompressChunk(currNode.get('fileName'), int(node.get('dataOffset')), node.get('fileName'))
 
+        uncompress.uncompressChunk(currNode.get('fileName'), int(node.get('dataOffset')), node.get('fileName'), isroot)
+
+    for node in currNode.findall('raw'):
+        print(node.get('fileName'))
+
+        if os.path.exists("gen/" + node.get('fileName')):
+            os.remove("gen/" + node.get('fileName'))
+
+        pacOutput = open("gen/" + node.get('fileName'), "w+b")
+        inputFile.seek(int(node.get('dataOffset')))
+        pacOutput.write(inputFile.read(int(node.get('size'))))
+        pacOutput.close()
+    
     for node in currNode.findall('pac'):
         print(node.get('fileName'))
-        pacOutput = open(node.get('fileName'), "w+b")
-        inputFile.seek(int(node.get('dataOffset')))
-        pacOutput.write(inputFile.read(node.get('fileSize')))
-        pacOutput.close()
-        findData(node)
-        
 
+        if os.path.exists("gen/" + node.get('fileName')):
+            os.remove("gen/" + node.get('fileName'))
+
+        pacOutput = open("gen/" + node.get('fileName'), "w+b")
+        inputFile.seek(int(node.get('dataOffset')))
+        pacOutput.write(inputFile.read(int(node.get('size'))))
+        pacOutput.close()
+        findData(node, False)    
 
     #cleanup
     inputFile.close()
 
 
 
-findData(root)
-print(ET.tostring(root))
+for sourceFile in os.listdir("sourceDump/"):
+    isSource = True
 
-# Converting the xml data to byte object, 
-# for allowing flushing data to file  
-# stream 
-b_xml = ET.tostring(root) 
-  
-# Opening a file under the name `items2.xml`, 
-# with operation mode `wb` (write + binary) 
-with open(root.get("fileName")+".xml", "wb") as f: 
-    f.write(b_xml) 
+    if sourceFile.endswith(".PAC"):#$DEBUG
+        root = ET.Element('source')
+
+        
+        root.attrib['fileName'] = sourceFile
+        root.attrib['tableOffset']="0"
+        root.attrib['size']=str(Path("sourceDump/" + sourceFile).stat().st_size)
+        
+        findData(root, isSource)
+
+        # Converting the xml data to byte object, 
+        # for allowing flushing data to file  
+        # stream 
+        b_xml = ET.tostring(root) 
+        
+        with open("xml/" + root.get("fileName")+".xml", "wb") as f: 
+            f.write(b_xml) 
