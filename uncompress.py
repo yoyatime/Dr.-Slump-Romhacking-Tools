@@ -5,11 +5,14 @@
 import sys    
 import os
 
+
+# Takes a lzss compressed fragment of a file at a certain offset into it
+# and creates a decompressed version in the gen folder
 def uncompressChunk(fileName, offsetArg, outputName, isroot):
-    #sys.argv = [sys.argv[0], "S01_M00C.PAC.out.bin.slump", 0]
     
+    #look for the file in source if it is a source file
     if isroot:
-        inputFile = open("sourceDump/" + fileName, "rb")
+        inputFile = open("source/" + fileName, "rb")
     else:
         inputFile = open("gen/" + fileName, "rb")
 
@@ -62,7 +65,9 @@ def uncompressChunk(fileName, offsetArg, outputName, isroot):
                     bytesLeft -= 1
 
             controlBlockCursor *= 2
-        
+
+
+    #cleanup    
     inputFile.close()
     output.close()
 

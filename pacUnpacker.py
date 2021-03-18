@@ -16,13 +16,15 @@ import xml.etree.ElementTree as ET
 
 LZSS_IDENTIFIER = 1
 
+
+#Adds the next embedded entry to its parent
 def writeXMLEntry(fileStream, node):
     #first 4 bytes form pointer to lzss data chunk or embedded .pac file
     lzssPtr = int.from_bytes(fileStream.read(4), "little", signed=False)
     #last 4 bytes form size of compressed lzss data chunk or embedded .pac file
     lzssFileSize = int.from_bytes(fileStream.read(4), "little", signed=False)
 
-    #Skip blank entries
+    #Skip blank entries and invalid entries
     if lzssPtr + lzssFileSize != 0 and lzssFileSize != 0xFFFFFFFF and lzssPtr != 0xFFFFFFFF and lzssFileSize!=0x44444444:
         #return file cursor to pointer table after inserting entry
         returnPos = fileStream.tell()
@@ -69,10 +71,10 @@ def writeXMLEntry(fileStream, node):
 
     return lzssPtr
 
-
+#Searches the file for all embedded children and updates the xml file
 def findData(currNode, isroot):
     if isroot == True:
-        inputFile = open('sourceDump/' +currNode.get("fileName"), "rb")
+        inputFile = open('source/' +currNode.get("fileName"), "rb")
     else:
         inputFile = open('gen/' +currNode.get("fileName"), "rb")
     dataOffset = 0
@@ -128,7 +130,7 @@ def findData(currNode, isroot):
 
 
 
-for sourceFile in os.listdir("sourceDump/"):
+for sourceFile in os.listdir("source/"):
     isSource = True
 
     if sourceFile.endswith(".PAC"):#$DEBUG
@@ -137,7 +139,7 @@ for sourceFile in os.listdir("sourceDump/"):
         
         root.attrib['fileName'] = sourceFile
         root.attrib['tableOffset']="0"
-        root.attrib['size']=str(Path("sourceDump/" + sourceFile).stat().st_size)
+        root.attrib['size']=str(Path("source/" + sourceFile).stat().st_size)
         
         findData(root, isSource)
 

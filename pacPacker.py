@@ -1,8 +1,8 @@
 #########################################################################
 # Combines files specified in an xml file into a .PAC files for PS1     #
 # game "Dr. Slump"                                                      #
-# Place .PAC files into sourceDump folder                               #
-# Place xml files in same folder as this script                         #
+# Place .PAC files into source folder                                   #
+#                                                                       #
 #########################################################################
 
 # Dr. Slump uses 4 byte little endian pointers followed by 4 byte little 
@@ -16,11 +16,13 @@ from pathlib import Path
 import compress
 import xml.etree.ElementTree as ET
 
-
+#Aligns a number to the next multiple of 4
 def byteAlign(value):
     ret = value + ((4 - (value % 4) % 4)) 
     return ret
 
+
+#
 def packPac(node):
     #Size of table section for this node
     tableSize = int(node[0].get('dataOffset'))
@@ -83,14 +85,14 @@ def packPac(node):
 
             #write table entry
             outputStream.seek(int(tableOffset))
-            outputStream.write(bytes([int(dataOffset) & 0xFF]))
-            outputStream.write(bytes([(int(dataOffset) & 0xFF00) >> 8]))
-            outputStream.write(bytes([(int(dataOffset) & 0xFF0000) >> 16]))
+            outputStream.write(bytes([int(dataOffset)  & 0x000000FF]))
+            outputStream.write(bytes([(int(dataOffset) & 0x0000FF00) >> 8]))
+            outputStream.write(bytes([(int(dataOffset) & 0x00FF0000) >> 16]))
             outputStream.write(bytes([(int(dataOffset) & 0xFF000000) >> 24]))
 
-            outputStream.write(bytes([int(compressedSize) & 0xFF]))
-            outputStream.write(bytes([(int(compressedSize) & 0xFF00) >> 8]))
-            outputStream.write(bytes([(int(compressedSize) & 0xFF0000) >> 16]))
+            outputStream.write(bytes([int(compressedSize)  & 0x000000FF]))
+            outputStream.write(bytes([(int(compressedSize) & 0x0000FF00) >> 8]))
+            outputStream.write(bytes([(int(compressedSize) & 0x00FF0000) >> 16]))
             outputStream.write(bytes([(int(compressedSize) & 0xFF000000) >> 24]))
 
 
@@ -112,10 +114,12 @@ def packPac(node):
     pacOutput.write(outputStream.read())  
 
 
-for sourceFile in os.listdir("sourceDump/"):
+for sourceFile in os.listdir("source/"):
     
-    if sourceFile.endswith(".PAC"):#$DEBUG
+    if sourceFile.endswith("S01_M00C.PAC"):#$DEBUG
         tree = ET.parse('xml/' + sourceFile + ".xml")
         root = tree.getroot()
     
         packPac(root)
+
+        print(root.get('fileName'))
