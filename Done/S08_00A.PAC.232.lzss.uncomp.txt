@@ -1,0 +1,7 @@
+@@S08_00A.PAC.232.lzss.uncomp@@3@@8@@124
+@0@8
+*[ARALE]U-ho-hoi! This[nl]is gonna be fun![END]
+@1@52
+*[ARALE]Kya-ha-ha![nl]Let's go[nl]someplace else.[END]
+@2@92
+*[ARALE]Oops... I'm[nl]toast.[END]

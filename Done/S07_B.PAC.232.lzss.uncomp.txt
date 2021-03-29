@@ -1,0 +1,33 @@
+@@S07_B.PAC.232.lzss.uncomp@@66@@136@@1148
+@0/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/45/46/47/51/52/53/54/55/56/57/58/59/60/61/62/63@136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136/136
+*[ARALE]U-ho-hoi! Now I[nl]gotta harvest[nl]the Daikon.[nl]Being a farmer[nl]is tough work![END]
+@1@224
+*[ARALE]U-ho-hoi![nl]That's all of[nl]them![END]
+@2@268
+*[ARALE]Oops... I'm[nl]toast.[END]
+@3/32@300/300
+*[KING_NIKO]Hold up,[nl]doesn't[nl]something seem[nl]off to you? That[nl]last place was[nl]also giving me[nl]the creeps. I[nl]don't remember[nl]any of those[nl]other aliens[nl]living here...[END]
+@33@388
+*[NIKO_SERVANT][PINK]M-my liege[WHITE]![nl]I've managed to[nl]contact the rest[nl]of our people![END]
+@34@464
+*[KING_NIKO]Nice going![END]
+@35/39/65@488/752/1136
+*[ARALE]Ho-yo?[END]
+@36@500
+*[KING_NIKO]Whaaaa---! Some[nl]slimeball named[nl][PINK]The Pest[WHITE][nl_space] has taken[nl]over my [YELLOW]palace[WHITE]!?[nl]And he's[nl]demanding a[nl]ransom of 16[nl][YELLOW]Daikons[WHITE], or else[nl]he'll whack[nl]everyone!?[END]
+@37@676
+*[NIKO_SERVANT]What are we[nl]going to do...[END]
+@38@704
+*[KING_NIKO]Hey you, I got[nl]a favour to ask[nl]ya.[END]
+@40@764
+*[KING_NIKO]Gather up 16[nl][YELLOW]Daikons[WHITE] for me,[nl]will ya?[END]
+@41/49@820/1048
+*[ARALE]Hoi![END]
+@42@832
+*[KING_NIKO]A-alright! And[nl]howsabout maybe[nl]offing the dude[nl]in the [YELLOW]palace[WHITE]?[END]
+@43@900
+*[ARALE]I can do it![END]
+@44/48@924/924
+*[KING_NIKO]I see you[nl]running and[nl]jumping all[nl]around the[nl]place. You might[nl]need to reach[nl]some pretty high[nl]places, so be[nl]careful,[nl]capiche?[END]
+@50/64@1060/1060
+*[NIKO_SERVANT]The space[nl][BLUE]behind the[nl]waterfall[WHITE] looks[nl]a bit thin, you[nl]might need to[nl]crawl your way[nl]through it.[END]

@@ -1,0 +1,25 @@
+@@S00_M11A.PAC.232.lzss.uncomp@@13@@28@@284
+@0@28
+*Stay here[END]
+@1@44
+*Coffee Pot[END]
+@2@68
+*Barber Shop[END]
+@3@92
+*School[END]
+@4@108
+*Smoke Shop[END]
+@5@124
+*Police[END]
+@6@140
+*Where to?[END]
+@7/8@160/160
+*[ARALE]Let's find[nl]Akane.[END]
+@9@188
+*[ARALE]Let's find[nl]Taro.[END]
+@10@212
+*[ARALE]Let's go to[nl]School.[END]
+@11@236
+*[ARALE]Let's go to the[nl]Smoke Shop.[END]
+@12@260
+*[ARALE]Let's go to the[nl]Police Station.[END]

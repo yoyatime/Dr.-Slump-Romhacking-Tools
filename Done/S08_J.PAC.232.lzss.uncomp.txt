@@ -1,0 +1,47 @@
+@@S08_J.PAC.232.lzss.uncomp@@51@@104@@1804
+@0/7/8/9/10/11/12/13/14/15/30/31/35/36/37/38/39/40/41/42/43/44/45/46/47@104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104/104
+*[ARALE]Oho? Hey you're[nl]that old[nl][PINK]Mashirito[WHITE] guy![END]
+@1@152
+*[MASHARITO]I told you not[nl]to call me old![nl]Well whatever, I[nl]won't have to[nl]suffer your[nl]impudence for[nl]much longer![END]
+@2@268
+*[ARALE]Kya-ha-ha![nl]Oldie, oldie![END]
+@3@304
+*[MASHARITO]I'm rubber and[nl]you're glue![nl]Today you will[nl]taste your[nl]defeat and I[nl]will show the[nl]world the[nl]breadth of my[nl][YELLOW]ambition[WHITE]! Ready[nl]yourself, cur![END]
+@4@432
+*[ARALE]Hee-hee,[nl]really?[END]
+@5@456
+*[MASHARITO]Grrr... witness[nl]my true[nl]strength! Have[nl]at you!![END]
+@6/16@516/516
+*[TRIHORN_METAL_GUY]Heh-heh-heh...[nl]so you've[nl]finally arrived,[nl]Arale[nl]Norimaki...[END]
+@17/25@580/1436
+*[ARALE]Ho-yo?[END]
+@18@592
+*[TRIHORN_METAL_GUY]Long have I[nl]waited for this[nl]moment... all[nl]the hatred,[nl]anger, and[nl]bitterness I've[nl]harbored towards[nl]you... now it's[nl]your turn to[nl]feel true[nl]terror![END]
+@19@684
+*[ARALE]Who are you?[END]
+@20@700
+*[TRIHORN_METAL_GUY]Gah-![MEDIUM_PAUSE] I'm none[nl]other than the[nl]brilliant[nl]scientist [PINK]Dr.[nl]Mashirito[WHITE], and[nl]your twisted[nl]words aren't[nl]going to get to[nl]me! In order to[nl]seal your fate I[nl]transformed[nl]myself into a[nl][YELLOW]mechanical[nl]creation of[nl]unimaginable[nl]power[WHITE]...[nl][PINK]Robo-Mashirito[WHITE]![nl]In case you were[nl]wondering, the[nl]number 9 on my[nl]body refers to[nl]the version[nl]number of this[nl]design, i.e. the[nl]number of[nl]upgrades I've[nl]made to it. The[nl]result? My body[nl]is completely[nl]impervious to[nl]all of your[nl]attacks! Not[nl]only that, but[nl]I've got backup[nl]this time! My[nl][PINK]Robo-Santas[WHITE] will[nl]blow you to[nl]smithereens![nl]Mwa-ha-ha-ha! Do[nl]you still think[nl]you can win,[nl]stupid girl!?[END]
+@21@1264
+*[ARALE]Are you done[nl]talking?[END]
+@22@1288
+*[TRIHORN_METAL_GUY]Shut up! This[nl]is your last[nl]chance to speak[nl]to me, so make[nl]it count![END]
+@23@1344
+*[ARALE]Because you'll[nl]stop talking if[nl]you lose?[END]
+@24@1364
+*[TRIHORN_METAL_GUY]No, you idiot![nl]Do you really[nl]not have[nl]anything to say[nl]before this[nl]climactic[nl]battle![END]
+@26@1448
+*[TRIHORN_METAL_GUY]You didn't even[nl]give me the "Are[nl]you strong?"[nl]line![END]
+@27@1508
+*[ARALE]I think I[nl]already know the[nl]answer to that.[END]
+@28@1540
+*[TRIHORN_METAL_GUY]Gah-!![nl]T-There's no[nl]need to worry,[nl]this will end[nl]you for sure!![END]
+@29/32@1612/1612
+*[TRIHORN_METAL_GUY]Whuh, Waaaaah!![END]
+@33@1644
+*[ARALE]U-ho-hoi!![END]
+@34/48@1668/1668
+*[TRIHORN_METAL_GUY]I already told[nl]you, that won't[nl]hurt my[nl]magnificent[nl]metal body![END]
+@49@1716
+*[TRIHORN_METAL_GUY]Gah-!![END]
+@50@1744
+*[TRIHORN_METAL_GUY]Gah-!! Try this[nl][YELLOW]new attack[WHITE] on[nl]for size![END]

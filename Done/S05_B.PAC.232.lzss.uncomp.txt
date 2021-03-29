@@ -1,0 +1,25 @@
+@@S05_B.PAC.232.lzss.uncomp@@34@@72@@636
+@0/9/10/11/12/13/14/15/19/20/21/22/23/24/25/26/27/28/29/30/31@72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72
+*[OBOTCHAMAN]We can safely[nl]use our full[nl]strength here,[nl]Arale.[END]
+@1@144
+*[ARALE]U-ho-hoi![END]
+@2@164
+*[OBOTCHAMAN]Take a look at[nl]the [YELLOW]stone staues[WHITE][nl]ahead of us.[nl]I'll try to[nl]throw the [YELLOW]space[nl]boulders[WHITE] at the[nl]one that looks[nl]like [PINK]Dr.[nl]Norimaki[WHITE], and[nl]you'll try to[nl]throw them at[nl]the one that[nl]looks like [PINK]Dr.[nl]Mashirito[WHITE]. First[nl]one to destroy[nl]their [YELLOW]statue[WHITE][nl]wins.[END]
+@3@396
+*[ARALE]Hoi![END]
+@4@408
+*[OBOTCHAMAN]Righty-ho,[nl]let's start the[nl]challenge![END]
+@5@452
+*[OBOTCHAMAN]On your marks.[END]
+@6@472
+*[OBOTCHAMAN]Get set...[END]
+@7@488
+*[OBOTCHAMAN]GO!![END]
+@8/16@512/512
+*[ARALE]U-ho-hoi! I[nl]won, I won![END]
+@17@556
+*[OBOTCHAMAN]Oh heavens,[nl]I've lost![END]
+@18/32@584/584
+*[OBOTCHAMAN]I've done it,[nl]I've won![END]
+@33@612
+*[ARALE]Oh? I guess I[nl]lost.[END]

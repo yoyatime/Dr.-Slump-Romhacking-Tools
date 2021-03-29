@@ -1,0 +1,125 @@
+@@S00_M00D.PAC.232.lzss.uncomp@@112@@228@@1944
+@0@228
+*Stay here[END]
+@1@244
+*Living Room[END]
+@2@260
+*Basement[END]
+@3@276
+*Outside[END]
+@4@288
+*Where to?[END]
+@5/37@308/620
+*[ARALE]Nevermind.[END]
+@6@328
+*[ARALE]Let's go to the[nl]Living Room.[END]
+@7@352
+*[ARALE]Let's go to the[nl]Basement.[END]
+@8@376
+*[ARALE]Let's go to[nl]Outside.[END]
+@9/10/11/12/13/14/15/25/26/27/28/29/30/31/41/42/43/44/45/46/47/55/67/68/69@396/400/404/408/412/416/420/512/516/520/524/528/532/536/724/728/732/736/740/744/748/1060/1356/1360/1364
+*[END]
+@16@424
+*What do you want[nl]to wear?[END]
+@17@448
+*01[END]
+@18@456
+*02[END]
+@19@464
+*03[END]
+@20@472
+*04[END]
+@21@480
+*05[END]
+@22@488
+*06[END]
+@23@496
+*07[END]
+@24@504
+*08[END]
+@32/61@540/1260
+*Back[END]
+@33@548
+*Outfit 1[END]
+@34@564
+*Outfit 2[END]
+@35@580
+*Outfit 3[END]
+@36@596
+*What do you want[nl]to wear?[END]
+@38@640
+*[ARALE]Let's wear[nl]outfit 1[END]
+@39@668
+*[ARALE]Let's wear[nl]outfit 2[END]
+@40@696
+*[ARALE]Let's wear[nl]outfit 3[END]
+@48@752
+*Checking memory[nl]card[END]
+@49@792
+*Transmission[nl]Error[END]
+@50@816
+*No memory card[nl]inserted[END]
+@51@856
+*Insufficient[nl]free space to[nl]create save.[END]
+@52@904
+*The memory card[nl]is unformatted.[nl]Format now?[END]
+@53@980
+*Formatting...[END]
+@54@1036
+*Format[nl]completed![END]
+@56@1064
+*Creating a new[nl]save file. Is[nl]that OK?[END]
+@57@1124
+*Saving...[END]
+@58@1184
+*The existing[nl]save file will[nl]be overwritten.[nl]Is that OK?[END]
+@59@1228
+*Load completed![END]
+@60@1244
+*Save completed![END]
+@62/78@1268/1520
+*OK[END]
+@63@1280
+*Choose a file[END]
+@64/79@1312/1532
+*Back[END]
+@65@1320
+*System Settings[END]
+@66@1340
+*Controls[END]
+@70@1368
+*System Settings[END]
+@71@1388
+*Controls[END]
+@72@1408
+*Options[END]
+@73@1432
+*Capture[nl]Equipment[END]
+@74@1456
+*Choose a file[END]
+@75@1484
+*Available[END]
+@76@1500
+*Additions[END]
+@77@1508
+*Back[END]
+@80@1540
+*Press[END]
+@81@1552
+*Lift[END]
+@82@1564
+*Crawl[END]
+@83@1580
+*Frog Jump[END]
+@84@1596
+*Slide Kick[END]
+@85@1612
+*Spinny Punch[END]
+@86@1628
+*Shinobi Walk[END]
+@87@1640
+*Blast Hover[END]
+@88@1656
+*Tree Climbing[END]
+@89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111@1668/1680/1692/1704/1716/1728/1740/1752/1764/1776/1788/1800/1812/1824/1836/1848/1860/1872/1884/1896/1908/1920/1932
+*????[END]

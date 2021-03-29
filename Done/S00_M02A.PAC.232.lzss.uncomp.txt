@@ -1,0 +1,67 @@
+@@S00_M02A.PAC.232.lzss.uncomp@@72@@148@@1408
+@0/16@148/368
+*Stay here[END]
+@1@164
+*Home[END]
+@2@180
+*Barber Shop[END]
+@3@196
+*Coffee Pot[END]
+@4@212
+*Hills[END]
+@5/19@224/428
+*Where to?[END]
+@6/20@244/448
+*[ARALE]Nevermind.[END]
+@7@264
+*[ARALE]Let's go home.[END]
+@8@284
+*[ARALE]Let's go to the[nl]Barber Shop.[END]
+@9@308
+*[ARALE]Let's go to the[nl]Coffee Pot.[END]
+@10@328
+*[ARALE]Let's go to the[nl]Hills.[END]
+@11/12/13/14/15/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37/38/39/40/41/42/43/44/45/46/47/62/63/64/65/69/70/71@348/352/356/360/364/520/524/528/532/536/540/544/548/552/556/560/564/568/572/576/580/584/588/592/596/600/604/608/612/616/1252/1256/1260/1264/1396/1400/1404
+*[END]
+@17@384
+*Classroom[END]
+@18@404
+*Office[END]
+@21@468
+[ARALE]Let's go to the[nl]Classroom.[END]
+@22@492
+*[ARALE]Let's go to the[nl]Principal's[nl]Office[END]
+@48@620
+*[TARO]Oh, Arale! I[nl]finally managed[nl]to get a hold[nl]you![END]
+@49@672
+*[ARALE]Kya-ha-ha! You[nl]got me.[END]
+@50@708
+*[TARO]Let's play some[nl]baseball next.[END]
+@51@736
+*[ARALE]Baseball?[END]
+@52@752
+*[TARO]You're gonna be[nl]up against some[nl]really tough[nl]players, so I'll[nl]let you in on a[nl]little secret.[END]
+@53@828
+*[ARALE]U-ho-hoi! What[nl]is it, what is[nl]it?[END]
+@54@868
+*[TARO]Don't tell[nl]nobody, but[nl]Akane is trying[nl]to hide[nl]something. If[nl]you keep losing[nl]to her, I think[nl]she'll spill the[nl]beans.[END]
+@55@1008
+*[ARALE]Ooh, I wonder[nl]what it is...[END]
+@56@1036
+*[TARO]OK Arale, I'm[nl]counting on you.[END]
+@57@1076
+*[ARALE]Hoi![END]
+@58@1092
+*[ARALE]Hey Tarosie![END]
+@59@1120
+*[TARO]A-Arale, could[nl]you please not[nl]call me that? It[nl]makes me sound[nl]uncool...[END]
+@60@1204
+*[ARALE]Kya-ha-ha![nl]Tarosie,[nl]Tarosie![END]
+@61@1236
+*[TARO]...[END]
+@66@1268
+*[ARALE]Do you know[nl]where Ms. Midori[nl]is?[END]
+@67@1308
+*[TARO]I bet you can[nl]find her in the[nl]classroom.[END]
+@68@1356
+*[ARALE]Kya-ha-ha,[nl]thank you.[nl]Bye'cha![END]

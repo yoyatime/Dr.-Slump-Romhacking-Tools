@@ -1,0 +1,25 @@
+@@S05_C.PAC.232.lzss.uncomp@@34@@72@@672
+@0/9/10/11/12/13/14/15/19/20/21/22/23/24/25/26/27/28/29/30/31@72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72/72
+*[OBOTCHAMAN]What do you[nl]think of life in[nl]the big city,[nl]Arale?[END]
+@1@156
+*[ARALE]U-ho-hoi![END]
+@2@176
+*[OBOTCHAMAN]That's good to[nl]hear, but we're[nl]here to settle[nl]our score. I'm[nl]going to give it[nl]my all![END]
+@3@252
+*[ARALE]Oh, boy![END]
+@4@268
+*[OBOTCHAMAN]See that [YELLOW]big[nl]button[WHITE]? Use your[nl][GREEN]Ground Pound[WHITE] on[nl]it to inflate[nl]your [YELLOW]balloon[WHITE].[nl]First one to pop[nl]their [YELLOW]balloon[WHITE] is[nl]the winner.[nl]Righty-ho, let's[nl]start the[nl]challenge![END]
+@5@488
+*[OBOTCHAMAN]On your marks.[END]
+@6@508
+*[OBOTCHAMAN]Get set...[END]
+@7@524
+*[OBOTCHAMAN]GO!![END]
+@8/16@548/548
+*[ARALE]U-ho-hoi! I[nl]won, I won![END]
+@17@592
+*[OBOTCHAMAN]Oh heavens,[nl]I've lost![END]
+@18/32@620/620
+*[OBOTCHAMAN]I've done it,[nl]I've won![END]
+@33@648
+*[ARALE]Oh? I guess I[nl]lost.[END]

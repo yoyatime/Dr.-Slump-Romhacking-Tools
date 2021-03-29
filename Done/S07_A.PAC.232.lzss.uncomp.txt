@@ -1,0 +1,49 @@
+@@S07_A.PAC.232.lzss.uncomp@@49@@100@@1204
+@0/4/5/6/7/8/9/10/11/12/13/14/15/24/25/26/27/28/29/30/31/46/47@100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100/100
+*[ARALE]U-ho-hoi! I[nl]gotta get all[nl]the poops! Here[nl]I go![END]
+@1@180
+*[ARALE]Kya-ha-ha! I[nl]got 'em all![END]
+@2@220
+*[ARALE]Oops... I'm[nl]toast.[END]
+@3/16@252/252
+*[KING_NIKO]What the-, when[nl]did you get[nl]here?[END]
+@17@300
+*[ARALE]Kya-ha-ha![nl]Let's play,[nl]let's play![END]
+@18@336
+*[NIKO_SERVANT]My liege, maybe[nl]she can help us.[END]
+@19@392
+*[KING_NIKO]That's what I[nl]said! Is your[nl]head on[nl]straight?![END]
+@20@444
+*[NIKO_SERVANT]Uh, haha...[END]
+@21@456
+*[KING_NIKO]Gather up the[nl][YELLOW]poops[WHITE] to[nl]fertilize the[nl][YELLOW]Daikon[WHITE]. You can[nl]do that, right?[END]
+@22@544
+*[ARALE]U-ho-hoi! Leave[nl]it to me![END]
+@23/32@580/580
+*[NIKO_SERVANT][PINK]My liege[WHITE]... we[nl]finally made it[nl]to [BLUE]Planet[nl]Nikochan[WHITE]!![END]
+@33@644
+*[KING_NIKO]How many years[nl]has it been...[END]
+@34@704
+*[ARALE]Ho-yo! Ooh, so[nl]this is [BLUE]Planet[nl]Nikochan[WHITE].[END]
+@35@752
+*[KING_NIKO]What the-, what[nl]are you doing[nl]here!?[END]
+@36@800
+*[ARALE]I had some free[nl]time.[END]
+@37@820
+*[NIKO_SERVANT]Oh, what are we[nl]going to do[nl]about this...[END]
+@38@844
+*[KING_NIKO]She'll get[nl]tired and go[nl]home if we let[nl]her run around[nl]for a while.[nl]That's the[nl]safest thing to[nl]do![END]
+@39@924
+*[ARALE]Ho-yo?[END]
+@40@936
+*[KING_NIKO]Hey, this[nl][BLUE]planet[WHITE] also has[nl]plenty of that[nl][YELLOW]poop[WHITE] you love,[nl]why don't you[nl]try getting[nl]them?[END]
+@41@1020
+*[ARALE]U-ho-hoi![END]
+@42@1040
+*[NIKO_SERVANT]I think that[nl]worked![END]
+@43@1072
+*[KING_NIKO]Right, grab 10[nl]of them and then[nl]go back home,[nl]okay?[END]
+@44@1128
+*[ARALE]This is gonna[nl]be fun![END]
+@45/48@1164/1164
+*[ARALE]Kya-ha-ha! That[nl]was fun![END]

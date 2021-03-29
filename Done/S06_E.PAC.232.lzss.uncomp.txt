@@ -1,0 +1,37 @@
+@@S06_E.PAC.232.lzss.uncomp@@65@@132@@908
+@0/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/47/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63@132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132
+*[ARALE]U-ho-hoi! That[nl]was fun![END]
+@1@176
+*[ARALE]Kya-ha-ha![nl]Let's keep[nl]going.[END]
+@2@216
+*[ARALE]Oops... I'm[nl]toast.[END]
+@3/32@248/248
+*[MOLE]We left our[nl]poor [PINK]boy[WHITE] behind[nl]in [BLUE]Penguin[nl]Village. Is[nl]there a chance[nl]we can still[nl]rescue him?[END]
+@33@332
+*[MOLE_KING]Please, I don't[nl]want to hear[nl]another word[nl]about our [PINK]boy[WHITE]...[END]
+@34@392
+*[MOLE]But dear...[END]
+@35@416
+*[MOLE_KING]There's simply[nl]nothing we can[nl]do. You know[nl]that our species[nl]cannot survive[nl]in the [YELLOW]heat[WHITE] for[nl]this long.[END]
+@36@496
+*[MOLE]I won't give[nl]up! I'm going[nl]back to [BLUE]Penguin[nl]Village[WHITE]![END]
+@37@568
+*[MOLE_KING]Enough of your[nl]foolishness! Our[nl]son has perished[nl]and there is[nl]nothing we can[nl]do about it![END]
+@38@624
+*[ARALE]N'cha![END]
+@39@640
+*[MOLE_KING]What on earth?[END]
+@40@660
+*[ARALE]Hey, were you[nl]the ones that[nl]left a kid over[nl]in [BLUE]Penguin[nl]Village[WHITE]?[END]
+@41@728
+*[MOLE_KING]Wh-what[nl]business do you[nl]have regarding[nl]that?[END]
+@42@764
+*[ARALE]You can have[nl]him back. Here[nl]he is.[nl][nl][nl]MEGA-!![nl][nl][END]
+@43@820
+*[MOLE]...![END]
+@44@836
+*[MOLE_KING]My son... it's[nl]really you![END]
+@45@864
+*[ARALE]U-ho-hoi![END]
+@46/64@884/884
+*[ARALE]MEGA-!![END]

@@ -1,0 +1,65 @@
+@@S00_M03A.PAC.232.lzss.uncomp@@67@@136@@1224
+@0@136
+*Stay here[END]
+@1@152
+*Home[END]
+@2@168
+*Coffee Pot[END]
+@3@184
+*School[END]
+@4@200
+*Where to?[END]
+@5@220
+*[ARALE]Nevermind.[END]
+@6@240
+*[ARALE]Let's go home.[END]
+@7@264
+*[ARALE]Let's go to the[nl]Coffee Pot.[END]
+@8@284
+*[ARALE]Let's go to[nl]School.[END]
+@9/10/11/12/13/14/15/25/26/27/28/29/30/31/38/39/40/41/42/43/44/45/46/47/52/53/54/55/56/57/58/59/60/61/62/63@308/312/316/320/324/328/332/612/616/620/624/628/632/636/928/932/936/940/944/948/952/956/960/964/1064/1068/1072/1076/1080/1084/1088/1092/1096/1100/1104/1108
+*[END]
+@16@336
+*[ARALE]N'cha![END]
+@17@352
+*[PEASUKE_GOLD]Hey, Arale.[nl]Taro was looking[nl]for you.[END]
+@18@404
+*[ARALE]Ho-yo? Where is[nl]he?[END]
+@19@424
+*[PEASUKE_GOLD]He's probably[nl]at school.[END]
+@20@472
+*[ARALE]Hoi![END]
+@21@488
+*[PEASUKE_GOLD]Did you manage[nl]to find Taro[nl]yet?[END]
+@22@532
+*[ARALE]Nope.[END]
+@23@544
+*[PEASUKE_GOLD]He's gotta be[nl]somewhere around[nl]school.[END]
+@24@588
+*[ARALE]Got it, I'll go[nl]see him.[END]
+@32@640
+*[ARALE]Whatcha doing,[nl]Peasuke?[END]
+@33@672
+*[PEASUKE_GOLD]Hey Arale. Have[nl]you seen that[nl]weird building[nl]near the hills[nl]yet?[END]
+@34@748
+*[ARALE]Ho-yo? I don't[nl]know about any[nl]weird buildings.[END]
+@35@772
+*[PEASUKE_GOLD]It seems like a[nl]place that would[nl]be hiding a[nl]messed up robot[nl]factory or[nl]something.[END]
+@36@848
+*[ARALE]U-ho-hoi![nl]That's so cool![END]
+@37@884
+*[PEASUKE_GOLD]I don't think[nl]it's very cool[nl]at all...[END]
+@48@968
+*[PEASUKE_GOLD]Hey Arale,[nl]let's play a[nl]game.[END]
+@49@1000
+*[ARALE]Let's play pro[nl]wrestlers![END]
+@50@1020
+*[PEASUKE_GOLD]...I think I'll[nl]pass.[END]
+@51@1052
+*[ARALE]Ho-yo?[END]
+@64@1112
+*[PEASUKE_GOLD]Where you[nl]going, Arale?[END]
+@65@1144
+*[ARALE]I'm looking for[nl]Akane. Do you[nl]know where she[nl]is?[END]
+@66@1200
+*[PEASUKE_GOLD]Sorry, I[nl]haven't seen[nl]her.[END]

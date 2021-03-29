@@ -1,0 +1,41 @@
+@@S00_M01B.PAC.232.lzss.uncomp@@48@@100@@780
+@0@100
+*Stay here[END]
+@1@116
+*Kinoko's[END]
+@2/7/8/9/10/11/12/13/14/15/21/22/23/27/28/29/30/31/35/36/37/38/39/45/46/47@132/232/236/240/244/248/252/256/260/264/424/428/432/516/520/524/528/532/624/628/632/636/640/768/772/776
+* [END]
+@3@136
+*Where to?[END]
+@4@156
+*[ARALE]Nevermind.[END]
+@5/6@176/204
+*[ARALE]Let's go to [nl]Kinoko's House.[END]
+@16/24/40@268/436/644
+*[ARALE]N'cha![END]
+@17@284
+* Hello, Arale.[END]
+@18@312
+*[ARALE]Is Akane here?[END]
+@19@332
+* Sorry, she's[nl]out playing[nl]somewhere. She[nl]won't be back[nl]for a while.[END]
+@20@408
+*[ARALE]Hoi![END]
+@25@452
+*No no no,[nl]Arale. You[nl]shouldn't be[nl]back here.[END]
+@26@504
+*[ARALE]Ho-yo?[END]
+@32@536
+*[ARALE]Kya-ha-ha![END]
+@33@552
+* Oh dear, you're[nl]quite a handful,[nl]Arale. Please[nl]try not to break[nl]anything.[END]
+@34@608
+*[ARALE]Tee hee hee...[END]
+@41@660
+* Welcome, Arale.[nl]It's always nice[nl]to see you here.[END]
+@42@708
+*[ARALE]Where's Akane?[END]
+@43@728
+* Oh, isn't she[nl]just outside?[END]
+@44@756
+*[ARALE]Ho-yo-yo?[END]

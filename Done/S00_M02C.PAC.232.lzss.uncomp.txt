@@ -1,0 +1,35 @@
+@@S00_M02C.PAC.232.lzss.uncomp@@48@@100@@660
+@0@100
+*Stay here[END]
+@1@116
+*School Yard[END]
+@2@132
+*Office[END]
+@3@156
+*Where to?[END]
+@4@176
+*[ARALE]Nevermind.[END]
+@5@196
+*[ARALE]Let's go to the[nl]School Yard.[END]
+@6@220
+*[ARALE]Let's go to the[nl]Principal's[nl]Office.[END]
+@7/8/9/10/11/12/13/14/15/25/26/27/28/29/30/31/32/33/34/35/36/37/38/39/40/41/42/43/44/45/46/47@248/252/256/260/264/268/272/276/280/568/572/576/580/584/588/592/596/600/604/608/612/616/620/624/628/632/636/640/644/648/652/656
+* [END]
+@16@284
+*[YAMABUKI]If it isn't[nl]Arale. Good[nl]morning.[END]
+@17@320
+*[ARALE]Kya-ha-ha![nl]Teacher, let's[nl]play![END]
+@18@364
+*[YAMABUKI]Not right now,[nl]unfortunately.[nl]Maybe next time.[END]
+@19@412
+*[ARALE]Hoi.[END]
+@20@424
+*[ARALE]Ms. Midori![END]
+@21@444
+*[YAMABUKI]Oh? Is there[nl]something you[nl]would like to[nl]tell me?[END]
+@22@468
+*[ARALE]The professor[nl]told me to give[nl]this to you.[END]
+@23@516
+*[YAMABUKI]Thank you,[nl]Arale. See you[nl]later.[END]
+@24@552
+*[ARALE]Bye'cha![END]

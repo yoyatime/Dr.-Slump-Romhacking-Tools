@@ -1,0 +1,41 @@
+@@OPTION.PAC.0.lzss.uncomp@@20@@44@@784
+@0@44
+*Memory card[nl]message[END]
+@1@72
+*Checking memory[nl]card[END]
+@2@112
+*Transmission[nl]Error[END]
+@3@136
+*No memory card[nl]inserted[END]
+@4@176
+*Memory card[nl]exchanged[END]
+@5@208
+*Unformatted,[nl]format now?[END]
+@6@260
+*No save data[END]
+@7@288
+*Data corrupted[END]
+@8@316
+*Insufficient[nl]space[END]
+@9@348
+*Loading data...[END]
+@10@376
+*Data saved[END]
+@11@404
+*Load completed![END]
+@12@420
+*Save completed![END]
+@13@436
+*Overwrite[nl]existing save?[nl_space] Yes ○No[END]
+@14@504
+*Overwrite[nl]existing save?[nl_space]○Yes  No[END]
+@15@572
+*Unformatted,[nl]format now?[nl_space] Yes ○No[END]
+@16@640
+*Unformatted,[nl]format now?[nl_space]○Yes  No[END]
+@17@708
+*Formatting...[END]
+@18@736
+*Format[nl]completed![END]
+@19@760
+*Unknown error[END]

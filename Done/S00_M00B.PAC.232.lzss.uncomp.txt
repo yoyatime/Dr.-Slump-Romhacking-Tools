@@ -1,0 +1,51 @@
+@@S00_M00B.PAC.232.lzss.uncomp@@64@@132@@1004
+@0@132
+*Stay here[END]
+@1@148
+*My Room[END]
+@2@168
+*Basement[END]
+@3@184
+*Outside[END]
+@4@196
+*Where to?[END]
+@5@216
+*[ARALE]Nevermind[END]
+@6@236
+*[ARALE]Let's go to My[nl]Room.[END]
+@7@264
+*[ARALE]Let's go to the[nl]Basement.[END]
+@8@288
+*[ARALE]Let's go to [nl]Outside.[END]
+@9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/36/44/45/46/47/51/52/53/54/55/56/57/58/59/60/61/62@308/312/316/320/324/328/332/336/340/344/348/352/356/360/364/368/372/376/380/384/388/392/396/532/808/812/816/820/952/956/960/964/968/972/976/980/984/988/992/996
+* [END]
+@32@400
+*[HAKASE]Arale, did you[nl]take the letter[nl]over to Ms.[nl]Midori yet?[END]
+@33@460
+*[ARALE]Ah, I forgot[nl]to.[END]
+@34@484
+*[HAKASE]Get with the[nl]program Arale![nl]Don't forget[nl]this time.[END]
+@35@520
+*[ARALE]Hoi![END]
+@37@536
+*[ARALE]Professor, I[nl]delivered the[nl]letter.[END]
+@38@588
+*[HAKASE]Great! Nice[nl]going Arale![END]
+@39@628
+*[ARALE]She gave me[nl]this to give to[nl]you.[END]
+@40@660
+*[HAKASE]Whoa mama, Ms.[nl]Midori...[END]
+@41@696
+*[ARALE]Do I get a[nl]reward?[END]
+@42@724
+*[HAKASE]Come to the Lab[nl]later and I'll[nl]give you[nl]something nice.[END]
+@43@780
+*[ARALE]U-ho-hoi! Oh[nl]boy![END]
+@48@824
+*[ARALE]Kya-ha-ha![END]
+@49@848
+*[HAKASE]Stop that! No[nl]running around[nl]inside the[nl]house![END]
+@50@908
+*[ARALE]Kya-ha-ha! You[nl]look funny.[END]
+@63@1000
+* [nl_space][END]
