@@ -107,12 +107,12 @@ def unpackScript():
                     thisScript.addEntry(newLine)
 
             
-            if os.path.exists("translations/" + thisScript.fileName + ".txt"):
-                os.remove("translations/" + thisScript.fileName + ".txt")
+            if os.path.exists("translations/Originals/" + thisScript.fileName + ".txt"):
+                os.remove("translations/Originals/" + thisScript.fileName + ".txt")
 
-            with open("translations/" + thisScript.fileName +".txt", "w", encoding='utf-8') as f: 
+            with open("translations/Originals/" + thisScript.fileName +".txt", "w", encoding='utf-8') as f: 
 
-                f.write('@@' + thisScript.fileName + '@@' + str(thisScript.numEntries) + '@@' + str(thisScript.textStart) + '@@' + str(thisScript.textEnd) + os.linesep)
+                f.write('@@' + thisScript.fileName + '@@' + str(thisScript.numEntries) + '@@' + str(thisScript.textStart) + '@@' + str(thisScript.textEnd) + "\n")
                 for entry in thisScript.entries:
                     lineInfoBuffer = '@'
                     for ID in entry.entryIDs:
@@ -125,8 +125,8 @@ def unpackScript():
                     lineInfoBuffer = lineInfoBuffer.strip('/')
 
                     #lineInfoBuffer += str(entry.dataOffset)
-                    f.write(lineInfoBuffer + os.linesep)
-                    f.write('*' + entry.text + os.linesep)
+                    f.write(lineInfoBuffer + "\n")
+                    f.write('*' + entry.text + "\n")
 
                 f.close()
 

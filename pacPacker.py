@@ -1,7 +1,7 @@
 #########################################################################
 # Combines files specified in an xml file into a .PAC files for PS1     #
 # game "Dr. Slump"                                                      #
-# Place .PAC files into source folder                                   #
+#                                                                       #
 #                                                                       #
 #########################################################################
 
@@ -23,7 +23,7 @@ def byteAlign(value):
 
 
 #
-def packPac(node):
+def packPac(node, folder):
     #Size of table section for this node
     tableSize = int(node[0].get('dataOffset'))
 
@@ -34,14 +34,14 @@ def packPac(node):
 
     #recurse into embedded pac files
     for subNode in node.findall('pac'):
-        packPac(subNode)
+        packPac(subNode, folder)
 
     #compress subnode and add to this node's table and data section
     for subNode in node:
         if subNode.tag == 'lzss':
 
-
-            lzssPacked = compress.compressChunk("gen/" + subNode.get('fileName') + '.uncomp')
+            
+            lzssPacked = compress.compressChunk(folder + subNode.get('fileName') + '.uncomp')
             
             #Update XML
 
@@ -49,8 +49,8 @@ def packPac(node):
             dataOffset = str(dataCursor)
             subNode.attrib['size'] = str(len(lzssPacked))
             compressedSize = str(len(lzssPacked))
-            subNode.attrib['uncompressedSize'] = str(Path("gen/" + subNode.get('fileName') + '.uncomp').stat().st_size)
-            uncompressedSize = str(Path("gen/" + subNode.get('fileName') + '.uncomp').stat().st_size)
+            subNode.attrib['uncompressedSize'] = str(Path(folder + subNode.get('fileName') + '.uncomp').stat().st_size)
+            uncompressedSize = str(Path(folder + subNode.get('fileName') + '.uncomp').stat().st_size)
             tableOffset = subNode.get('tableOffset')
 
 
@@ -74,8 +74,26 @@ def packPac(node):
             #update cursor,  Align data offset to 4 byte grid
             dataCursor += byteAlign(int(compressedSize))
 
+        # Only update table for mysterious texture symbols
+        elif subNode.tag == 'textureSymbol':
+            tableOffset = int(subNode.get('tableOffset'))
+            dataOffset = int(subNode.get('dataOffset'))
+            size = int(subNode.get('size'))
+
+            outputStream.seek(int(tableOffset))
+            outputStream.write(bytes([int(dataOffset)  & 0x000000FF]))
+            outputStream.write(bytes([(int(dataOffset) & 0x0000FF00) >> 8]))
+            outputStream.write(bytes([(int(dataOffset) & 0x00FF0000) >> 16]))
+            outputStream.write(bytes([(int(dataOffset) & 0xFF000000) >> 24]))
+
+            outputStream.write(bytes([int(size)  & 0x000000FF]))
+            outputStream.write(bytes([(int(size) & 0x0000FF00) >> 8]))
+            outputStream.write(bytes([(int(size) & 0x00FF0000) >> 16]))
+            outputStream.write(bytes([(int(size) & 0xFF000000) >> 24]))
+
+
         else:
-            rawToWrite = open("gen/" + subNode.get('fileName'), "rb").read()
+            rawToWrite = open(folder + subNode.get('fileName'), "rb").read()
 
             subNode.attrib['dataOffset'] = str(dataCursor)
             dataOffset =  str(dataCursor)
@@ -105,21 +123,21 @@ def packPac(node):
 
     #write output file
     
-    if os.path.exists("gen/" + node.get('fileName')):
-        os.remove("gen/" + node.get('fileName'))
+    if os.path.exists(folder + node.get('fileName')):
+        os.remove(folder + node.get('fileName'))
 
 
-    pacOutput = open("gen/" + node.get('fileName'), "w+b")
+    pacOutput = open(folder + node.get('fileName'), "w+b")
     outputStream.seek(0)
     pacOutput.write(outputStream.read())  
 
 
 for sourceFile in os.listdir("source/"):
     
-    if sourceFile.endswith("S01_M00C.PAC"):#$DEBUG
+    if sourceFile.endswith("S01_M00D.PAC"):#$DEBUG
         tree = ET.parse('xml/' + sourceFile + ".xml")
         root = tree.getroot()
     
-        packPac(root)
+        packPac(root, 'gen/')
 
         print(root.get('fileName'))

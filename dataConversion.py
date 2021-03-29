@@ -49,7 +49,7 @@ def findTableMatchForText(textObj, tableFile):
     for line in tableFile:
         if line.startswith('#') == False and line != '\n':
             splitLine = line.split('=',1)
-            matchText = splitLine[1]
+            matchText = splitLine[1].strip('\n')
             #print(hexObj)
             #print(matchHex)
             #print(splitLine[1].strip('\n'))
@@ -73,10 +73,14 @@ def textToHex(textObj):
         if nextChar == '[':
             symbol = textObj[charsConverted:].split(']')[0] + ']'
             match = findTableMatchForText(symbol, tableFile)
+            returnBuffer+= match
             charsConverted += len(symbol)
         else:
             match = findTableMatchForText(nextChar, tableFile)
             returnBuffer += match
             charsConverted += 1
+
+    while (len(returnBuffer)>>1) % 4 !=0:
+        returnBuffer +='00'
 
     return returnBuffer

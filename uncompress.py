@@ -7,19 +7,19 @@ import os
 
 
 # Takes a lzss compressed fragment of a file at a certain offset into it
-# and creates a decompressed version in the gen folder
-def uncompressChunk(fileName, offsetArg, outputName, isroot):
+# and creates a decompressed version in the genClean folder
+def uncompressChunk(fileName, offsetArg, outputName, isroot, inputFolder, outputFolder):
     
     #look for the file in source if it is a source file
     if isroot:
-        inputFile = open("source/" + fileName, "rb")
+        inputFile = open(inputFolder + fileName, "rb")
     else:
-        inputFile = open("gen/" + fileName, "rb")
+        inputFile = open(outputFolder + fileName, "rb")
 
-    if os.path.exists("gen/" + outputName + ".uncomp"):
-        os.remove("gen/" + outputName + ".uncomp")
+    if os.path.exists(outputFolder + outputName + ".uncomp"):
+        os.remove(outputFolder + outputName + ".uncomp")
 
-    output = open("gen/" + outputName + ".uncomp", "w+b")
+    output = open(outputFolder + outputName + ".uncomp", "w+b")
     
     #clear data to start point
     offset = offsetArg
@@ -64,6 +64,7 @@ def uncompressChunk(fileName, offsetArg, outputName, isroot):
                     copyBytes -= 1
                     bytesLeft -= 1
 
+            #Check for next control bit in next interation
             controlBlockCursor *= 2
 
 

@@ -20,11 +20,11 @@ LZSS_IDENTIFIER = 1
 #Adds the next embedded entry to its parent
 def writeXMLEntry(fileStream, node):
     #first 4 bytes form pointer to lzss data chunk or embedded .pac file
-    lzssPtr = int.from_bytes(fileStream.read(4), "little", signed=False)
+    lzssPtr      = int.from_bytes(fileStream.read(4), "little", signed=False)
     #last 4 bytes form size of compressed lzss data chunk or embedded .pac file
     lzssFileSize = int.from_bytes(fileStream.read(4), "little", signed=False)
 
-    #Skip blank entries and invalid entries
+    #Skip blank entries
     if lzssPtr + lzssFileSize != 0 and lzssFileSize != 0xFFFFFFFF and lzssPtr != 0xFFFFFFFF and lzssFileSize!=0x44444444:
         #return file cursor to pointer table after inserting entry
         returnPos = fileStream.tell()
@@ -69,14 +69,22 @@ def writeXMLEntry(fileStream, node):
         
         fileStream.seek(returnPos)
 
+    #Seemingly invalid entries affect texture mapping
+    elif lzssFileSize == 0xFFFFFFFF or  lzssPtr == 0xFFFFFFFF or lzssFileSize==0x44444444:
+        elem = ET.SubElement(node, "textureSymbol")
+        elem.attrib['tableOffset'] = str(fileStream.tell()-8)
+        elem.attrib['dataOffset'] = str(lzssPtr)
+        elem.attrib['size'] = str(lzssFileSize)
+        
+
     return lzssPtr
 
 #Searches the file for all embedded children and updates the xml file
-def findData(currNode, isroot):
+def findData(currNode, isroot, inputFolder, outputFolder):
     if isroot == True:
-        inputFile = open('source/' +currNode.get("fileName"), "rb")
+        inputFile = open(inputFolder + currNode.get("fileName"), "rb")#DEBUG
     else:
-        inputFile = open('gen/' +currNode.get("fileName"), "rb")
+        inputFile = open(outputFolder +currNode.get("fileName"), "rb")
     dataOffset = 0
     indexCursor = 0
     
@@ -100,15 +108,15 @@ def findData(currNode, isroot):
     for node in currNode.findall('lzss'):
         print(node.get('fileName'))
 
-        uncompress.uncompressChunk(currNode.get('fileName'), int(node.get('dataOffset')), node.get('fileName'), isroot)
+        uncompress.uncompressChunk(currNode.get('fileName'), int(node.get('dataOffset')), node.get('fileName'), isroot, inputFolder, outputFolder)
 
     for node in currNode.findall('raw'):
         print(node.get('fileName'))
 
-        if os.path.exists("gen/" + node.get('fileName')):
-            os.remove("gen/" + node.get('fileName'))
+        if os.path.exists(outputFolder + node.get('fileName')):
+            os.remove(outputFolder + node.get('fileName'))
 
-        pacOutput = open("gen/" + node.get('fileName'), "w+b")
+        pacOutput = open(outputFolder + node.get('fileName'), "w+b")
         inputFile.seek(int(node.get('dataOffset')))
         pacOutput.write(inputFile.read(int(node.get('size'))))
         pacOutput.close()
@@ -116,14 +124,14 @@ def findData(currNode, isroot):
     for node in currNode.findall('pac'):
         print(node.get('fileName'))
 
-        if os.path.exists("gen/" + node.get('fileName')):
-            os.remove("gen/" + node.get('fileName'))
+        if os.path.exists(outputFolder + node.get('fileName')):
+            os.remove(outputFolder + node.get('fileName'))
 
-        pacOutput = open("gen/" + node.get('fileName'), "w+b")
+        pacOutput = open(outputFolder + node.get('fileName'), "w+b")
         inputFile.seek(int(node.get('dataOffset')))
         pacOutput.write(inputFile.read(int(node.get('size'))))
         pacOutput.close()
-        findData(node, False)    
+        findData(node, False, inputFolder, outputFolder)    
 
     #cleanup
     inputFile.close()
@@ -141,7 +149,7 @@ for sourceFile in os.listdir("source/"):
         root.attrib['tableOffset']="0"
         root.attrib['size']=str(Path("source/" + sourceFile).stat().st_size)
         
-        findData(root, isSource)
+        findData(root, isSource, "gen/", "gen/")
 
         # Converting the xml data to byte object, 
         # for allowing flushing data to file  
