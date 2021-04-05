@@ -9,14 +9,14 @@ import os
 from pathlib import Path
 import shutil
 import dataConversion
-def injectScript():
-    for script in os.listdir("translations/"):
-        scriptFile = open("translations/" + script, 'r', encoding='utf-8')
+def injectScript(inputFolder, outputFolder):
+    for script in os.listdir(inputFolder):
+        scriptFile = open(inputFolder + script, 'r', encoding='utf-8')
 
-        if os.path.exists("translatedScripts/" + script):
-            os.remove("translatedScripts/" + script)
+        if os.path.exists(outputFolder + script):
+            os.remove(outputFolder + script)
 
-        outputFile = open("translatedScripts/" + script.strip('.txt'), 'wb')
+        outputFile = open(outputFolder + script.strip('.txt'), 'wb')
 
         #firstline format: @@[FILENAME]@@[NUMBER OF ENTRIES]@@[DATA START]@@[DATA END]
         rawLine = scriptFile.readline()
@@ -95,5 +95,5 @@ def injectScript():
         print(fileName)
 
 
-injectScript()
+injectScript("translations/Done/", "translatedScripts/")
 

@@ -134,7 +134,7 @@ def packPac(node, folder):
 
 for sourceFile in os.listdir("source/"):
     
-    if sourceFile.endswith("S01_M00D.PAC"):#$DEBUG
+    if sourceFile.endswith("S01_E.PAC"):#$DEBUG
         tree = ET.parse('xml/' + sourceFile + ".xml")
         root = tree.getroot()
     

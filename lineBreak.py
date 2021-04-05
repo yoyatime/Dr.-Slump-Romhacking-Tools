@@ -78,7 +78,6 @@ def addSpacing(inputText):
     return '*' + output.strip()
 
 
-
 while True:
     #print("Input your line of text:")
     inputLine = input()

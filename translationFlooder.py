@@ -10,6 +10,7 @@ import shutil
 
 translatedLines = []
 originalLines = []
+fileCheck = []
 
 def populateMap(translatedFolder, originalsFolder):
     for sourceFile in os.listdir(translatedFolder):
@@ -18,8 +19,9 @@ def populateMap(translatedFolder, originalsFolder):
         translatedFile.readline()
 
         for line in translatedFile:
-            if '@' not in line and line != '':
+            if '@' not in line and line != '' and line:
                 translatedLines.append(line)
+                fileCheck.append(sourceFile)
 
         originalFile = open(originalsFolder + sourceFile, 'r', encoding='utf8')
 
@@ -45,10 +47,7 @@ def propagateTranslations(targetFolder, outputFolder):
                 if '@' not in targetData[line] and targetData[line] != '' and targetData[line] != '\n' and targetData[line] in originalLines:
                     index = originalLines.index(targetData[line])
                     targetData[line] = translatedLines[index]
-
-                    
                     print(translatedLines[index])
-                    print(' ')
                     numberChanges += 1
 
             outputFile = open(outputFolder + targetFile, 'w', encoding='utf8')
