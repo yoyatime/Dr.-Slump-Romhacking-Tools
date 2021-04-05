@@ -28,7 +28,7 @@
 @21@444
 *[YAMABUKI]Oh? Is there[nl]something you[nl]would like to[nl]tell me?[END]
 @22@468
-*[ARALE]The professor[nl]told me to give[nl]this to you.[END]
+*[ARALE]The Professor[nl]told me to give[nl]this to you.[END]
 @23@516
 *[YAMABUKI]Thank you,[nl]Arale. See you[nl]later.[END]
 @24@552

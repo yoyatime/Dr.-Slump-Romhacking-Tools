@@ -34,6 +34,6 @@
 @319@1408
 *[WHITE]Select a file[END]
 @320@1440
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1464
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

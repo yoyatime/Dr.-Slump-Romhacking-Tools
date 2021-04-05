@@ -42,7 +42,7 @@
 @47@856
 *[AKANE]What's up,[nl]Arale? What's[nl]Dr. Norimaki[nl]been up to?[END]
 @48@904
-*[ARALE]The professor[nl]is really busy[nl]inventing stuff.[END]
+*[ARALE]The Professor[nl]is really busy[nl]inventing stuff.[END]
 @49@948
 *[AKANE]I bet he's[nl]cooking up[nl]something weird[nl]and perverted[nl]again.[END]
 @50@1008

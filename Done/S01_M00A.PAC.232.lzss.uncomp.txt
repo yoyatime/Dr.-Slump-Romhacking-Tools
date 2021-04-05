@@ -1,0 +1,289 @@
+@@S01_M00A.PAC.232.lzss.uncomp@@432@@868@@8764
+@0/6/7/8/9/10/11/12/13/14/15/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/74/75/76/77/78/79/84/85/86/87/90/91/92/93/94/95/103/104/105/106/107/108/109/110/111/125/126/127/134/135/136/137/138/139/140/141/142/143/148/149/150/151/152/153/154/155/156/157/158/159/168/169/170/171/172/173/174/175/181/182/183/184/185/186/187/188/189/190/191/197/198/199/200/201/202/203/204/205/206/207/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/253/254/255/266/267/268/269/270/271/279/280/281/282/283/284/285/286/287/298/299/300/301/302/303/324/325/326/327/328/329/330/331/332/333/334/335/336/337/338/339/340/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/356/357/358/359/360/361/362/363/364/365/366/367/368/369/370/371/372/373/374/375/376/377/378/379/380/381/382/383/384/385/386/387/388/389/390/391/399/407/411/412/413/414/415/420/421/422/423@868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868
+*[HAKASE]You must have[nl]learned quite a[nl]few [YELLOW]abilities[WHITE] in[nl]town. Why don't[nl]you show me all[nl]of the moves[nl]you've learned[nl]so far.[END]
+@1/24/71/119@1080/1992/3892/4896
+*[ARALE]Hoi![END]
+@2@1092
+*[HAKASE]Hoo-ah! I've[nl]got a great[nl][YELLOW]invention[WHITE] for[nl]you, Arale.[nl]Let's head to[nl][BLUE]Your Room[WHITE] so I[nl]can show ya.[END]
+@3/17/22/36@1236/1356/1872/2476
+*[ARALE]Ho-yo?[END]
+@4@1248
+*[HAKASE]Show me all the[nl]moves you've[nl]learned![END]
+@5/16@1284/1284
+*[HAKASE]Hey Arale,[nl]don't you want[nl]to test out some[nl]of your mobility[nl]features?[END]
+@18@1368
+*[HAKASE]Kids should be[nl]bouncing up and[nl]down all over[nl]the place, like[nl]this...[END]
+@19@1448
+*[HAKASE]That's more[nl]like it! I've[nl]installed a[nl][YELLOW]special circuit[WHITE][nl]that lets you[nl]copy any [YELLOW]special[nl]abilities[WHITE] that[nl]you witness! I[nl]call it the[nl][YELLOW]Capture Circuit[WHITE].[nl]Isn't that[nl]exciting? Ooh,[nl]I'm getting[nl]chills.[END]
+@20@1712
+*[ARALE]That's amazing![END]
+@21@1740
+*[HAKASE](Th-that was[nl]unexpected... I[nl]didn't even know[nl]I built that[nl]functionality. I[nl]even surprise[nl]myself[nl]sometimes...♪)[END]
+@23@1884
+*[HAKASE]Whenever you[nl][YELLOW]Capture[WHITE][nl]something,[nl]you'll learn how[nl]to do that move.[nl]So pay attention[nl]when that[nl]happens, okay?[END]
+@25@2004
+*[HAKASE]Now go out and[nl]learn about the[nl]world. Doesn't[nl]that sound fun?[END]
+@26@2072
+*[HAKASE]Have you gone[nl]and played with[nl][PINK]Akane[WHITE]? Use the[nl][YELLOW]Sign Post[WHITE] to go[nl]to the [BLUE]Coffee[nl]Pot[WHITE], that's[nl]where she lives.[END]
+@27/32@2184/2184
+*[ARALE]Hey [PINK]Professor[WHITE],[nl]I made some[nl][YELLOW]friends[WHITE].[END]
+@33@2240
+*[HAKASE]So I see you[nl]met [PINK]Akane[WHITE]. I[nl]believe she[nl]lives in the[nl][BLUE]kettle shaped[nl]house[WHITE]. Why don't[nl]you go there[nl]again? Take the[nl][YELLOW]Sign Post[WHITE] to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@34@2428
+*[ARALE]I'm off![END]
+@35@2452
+*[HAKASE]Hold on a sec.[END]
+@37@2488
+*[HAKASE]When you spoke[nl]with [PINK]Akane[WHITE], the[nl][YELLOW]meter[WHITE] at the top[nl]of the screen[nl]went "ding" and[nl]filled up a bit.[nl]That's your [YELLOW]Pep[nl]Gauge[WHITE], it[nl]measures your[nl]excitement.[END]
+@38/50@2672/3096
+*[ARALE]M-hmm.[END]
+@39/51@2688/3112
+*[HAKASE]If you manage[nl]to fill it up,[nl]come down to [BLUE]My[nl]Lab[WHITE]. I'll create[nl]a brand new[nl][YELLOW]invention[WHITE] for[nl]you.[END]
+@40/52@2820/3244
+*[ARALE]Okay.[END]
+@41/53@2832/3256
+*[HAKASE]That deserves[nl]more than just[nl]"okay"! Act a[nl]bit more[nl]excited![END]
+@42/48@2884/2884
+*[HAKASE]It hasn't[nl]advanced at[nl]all!![END]
+@49@2916
+*[HAKASE]When you poked[nl]that [YELLOW]poop[WHITE], the[nl][YELLOW]meter[WHITE] at the top[nl]of the screen[nl]went "ding" and[nl]filled up a bit.[nl]That's your [YELLOW]Pep[nl]Gauge[WHITE], it[nl]measures your[nl]excitement.[END]
+@54/64@3308/3308
+*[HAKASE]Earth to Arale,[nl]I've got[nl]something to[nl]tell you.[END]
+@65@3384
+*[ARALE]What is this[nl]thing?[END]
+@66@3404
+*[HAKASE]Listen up[nl]Arale, whenever[nl]you want to go[nl]somewhere, use[nl]this [YELLOW]Sign Post[WHITE].[nl]Just choose[nl]where you want[nl]to go and it[nl]will take you[nl]there.[END]
+@67/69@3564/3692
+*[ARALE]Huh? I can't go[nl]any further.[END]
+@68@3604
+*[HAKASE]Were you not[nl]listening when I[nl]told you? Use[nl]the [YELLOW]Sign Post[WHITE].[END]
+@70@3732
+*[HAKASE]Whenever you[nl]want to go[nl]somewhere, use[nl]the [YELLOW]Sign Post[WHITE].[nl]Just choose[nl]where you want[nl]to go and it[nl]will take you[nl]there.[END]
+@72@3904
+*[HAKASE]Stop touching[nl]that.[END]
+@73/80@3960/3960
+*[HAKASE]Tada! This is[nl][BLUE]My House[WHITE].[nl]Doesn't it give[nl]off a nice vibe?[END]
+@81@4036
+*[ARALE]It's tiny.[END]
+@82@4056
+*[HAKASE]You're wrong![END]
+@83/88@4084/4084
+*[HAKASE]Come here for a[nl]moment, Arale.[END]
+@89/96@4136/4136
+*[HAKASE]Hurry up, give[nl]it a try.[END]
+@97@4160
+*[HAKASE]He-heh-heh.[nl]What do you[nl]think, Arale?[nl]What a[nl]magnificent[nl][YELLOW]invention[WHITE]! I[nl]call it... the[nl][BLUE]Time Slipper[WHITE]![END]
+@98@4268
+*[ARALE]Time Slipper?[END]
+@99@4288
+*[HAKASE]The [BLUE]Time[nl]Slipper[WHITE] has the[nl]power to take[nl]you to the[nl][YELLOW]distant past[WHITE].[END]
+@100@4380
+*[ARALE]Ho-yo.[END]
+@101@4392
+*[HAKASE](Geh, she[nl]doesn't sound[nl]very[nl]impressed...)[MEDIUM_PAUSE][nl]Well Arale, why[nl]don't you give[nl]it a spin. Talk[nl]with [PINK]Mr. Time[WHITE].[END]
+@102/112@4520/4520
+*[ARALE]Who are you?[END]
+@113@4540
+*[MR_TIME]I am your[nl]humble guide[nl]through the[nl]journey of time[nl]travel. You may[nl]call me [PINK]Mr.[nl]Time[WHITE].[END]
+@114@4628
+*[HAKASE]A-ha, a-ha-ha![END]
+@115@4652
+*[MR_TIME]F-first, please[nl]speak with [PINK]Dr.[nl]Norimaki[WHITE]...[END]
+@116@4716
+*[MR_TIME]Thank you for[nl]joining me on[nl]your journey[nl]today. Have you[nl]finished[nl]preparing for[nl]your trip?[END]
+@117/121@4804/4952
+*[MR_TIME]Gak...![END]
+@118@4816
+*[MR_TIME]Ms. Arale... we[nl]can't continue[nl]the story if you[nl]don't depart...[END]
+@120@4908
+*[MR_TIME]W-well then...[nl]are you ready?[END]
+@122/123@4964/5008
+*[HAKASE]Go ahead, talk[nl]to him.[END]
+@124/128@5052/5052
+*[HAKASE]Great timing[nl]Arale. I just[nl]put the[nl]finishing[nl]touches on[nl]another one of[nl]my [YELLOW]inventions[WHITE]![END]
+@129@5148
+*[HAKASE]What's the[nl]matter Arale,[nl]need something?[END]
+@130@5196
+*[HAKASE]Arale! Listen[nl]to what I have[nl]to say![END]
+@131@5244
+*[MR_TIME]Wh-what on[nl]earth are you[nl]doing!? Don't[nl]you dare touch[nl]me with those[nl]hands of yours!![END]
+@132@5324
+*[HAKASE]Hey, where do[nl]you think you're[nl]going![END]
+@133/144@5360/5360
+*[MR_TIME]Ehem, let's[nl]begin![END]
+@145/406/408@5384/8504/8504
+*[MR_TIME]TIIIME!![END]
+@146/409@5404/8524
+*[MR_TIME]SLIIIP!![END]
+@147/160@5428/5428
+*[HAKASE]I see you've[nl]learned how to[nl][GREEN]「Crouch」[WHITE].[END]
+@161@5480
+*[HAKASE]That's a mean[nl][GREEN]「Punch」[WHITE] you've[nl]got. Don't hit[nl]me with that![END]
+@162@5548
+*[HAKASE]So you've[nl]learned to[nl][GREEN]「Dash」[WHITE] I see.[END]
+@163@5580
+*[HAKASE]Yep that's the[nl][GREEN]「Jump」[WHITE] ability.[END]
+@164@5628
+*[HAKASE]Come back[nl]Arale, I can't[nl]see you from[nl]here.[END]
+@165@5696
+*[HAKASE]Is that all you[nl]learned?[END]
+@166@5724
+*[HAKASE]Whoa step back[nl]a bit, this[nl]could be[nl]dangerous.[END]
+@167/176@5780/5780
+*[HAKASE]I've seen the[nl][GREEN]Crouch[WHITE] already.[END]
+@177@5820
+*[HAKASE]That's the same[nl][GREEN]Punch[WHITE] you showed[nl]me already.[END]
+@178@5856
+*[HAKASE]Try something[nl]other than the[nl][GREEN]Dash[WHITE] now.[END]
+@179@5908
+*[HAKASE]That's enough[nl][GREEN]Jumping[WHITE].[END]
+@180/192@5936/5936
+*[HAKASE]Umm, what is[nl]that thing,[nl]Arale?[END]
+@193@5972
+*[ARALE]It's an [YELLOW]egg[WHITE]. A[nl][YELLOW]monster[WHITE] gave it[nl]to me.[END]
+@194@6028
+*[HAKASE] A [YELLOW]m-m-monster[WHITE]?[nl]That's[nl]incredible![END]
+@195@6100
+*[ARALE]Ah![END]
+@196/208/418@6112/6112/8656
+*[GATCHAN]Ku-pi-po![END]
+@209@6128
+*[ARALE]U-ho-hoi![END]
+@210@6148
+*[HAKASE]What kind of[nl]baby is that?[END]
+@211@6180
+*[ARALE]I'll call you[nl][PINK]Gadzilla[WHITE].[END]
+@212@6216
+*[HAKASE]That's an odd[nl]name. Why[nl][PINK]Gadzilla[WHITE]?[END]
+@213@6272
+*[ARALE]Cause this baby[nl]looks suuuper[nl]strong. I'll[nl]call you [PINK]Gatchan[WHITE][nl]for short.[END]
+@214@6320
+*[GATCHAN]Ku-pi!![END]
+@215@6336
+*[HAKASE][PINK]Gatchan[WHITE], huh?[nl][PINK]Gatchan[nl]Norimaki[WHITE]... what[nl]kind of baby are[nl]you!?[END]
+@216/240@6416/6416
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Jump」[WHITE] ability![nl]Press the [CROSS][YELLOW][nl]button[WHITE] to [GREEN]Jump[WHITE].[END]
+@241/248/393@6508/6508/8040
+*Oh boy![END]
+@249@6520
+*Wait[END]
+@250/395@6532/8068
+*[ARALE]Oh, boy![END]
+@251@6548
+*[ARALE]Wait a minute.[END]
+@252/256/292@6572/6572/7040
+*Where to?[END]
+@257/259/278/288@6592/6624/6952/6952
+*Stay here[END]
+@258@6608
+*Go play[END]
+@260@6640
+*[BLUE]Coffee Pot[END]
+@261@6668
+*[BLUE]Barber Shop[END]
+@262@6696
+*[BLUE]School[END]
+@263@6716
+*[BLUE]Smoke Shop[END]
+@264@6736
+*[BLUE]Police Station[END]
+@265/272@6768/6768
+*[ARALE]Let's go play![END]
+@273@6788
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@274@6820
+*[ARALE]Let's go to the[nl][BLUE]Barber Shop[WHITE].[END]
+@275@6856
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@276@6884
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@277@6912
+*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+@289@6968
+*[BLUE]My Room[END]
+@290@6992
+*[BLUE]Living Room[END]
+@291@7012
+*[BLUE]Lab[END]
+@293@7060
+*[ARALE]Nevermind.[END]
+@294@7080
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@295@7112
+*[ARALE]Let's go to the[nl][BLUE]Living Room[WHITE].[END]
+@296@7140
+*[ARALE]Let's go to the[nl][BLUE]Lab[WHITE].[END]
+@297/304@7172/7172
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@7216
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@7276
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@7320
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@7372
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@7460
+*[YELLOW]Formatting...[END]
+@310@7556
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@7584
+*[YELLOW]Save[WHITE] your game?[END]
+@312@7620
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@7684
+*[YELLOW]Saving[WHITE]...[END]
+@314@7784
+*Overwrite[nl]existing save?[END]
+@315@7828
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@7880
+*[YELLOW]Save[WHITE] complete![END]
+@317/321/419/424@7900/7968/8672/8672
+*Back[END]
+@318@7908
+*OK[END]
+@319@7920
+*[WHITE]Select a file[END]
+@320@7952
+*[YELLOW]Save[END]
+@322@7976
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
+@323/392@8028/8028
+*Stay[END]
+@394@8052
+*[ARALE]I'm not going.[END]
+@396@8084
+*[ARALE]I guess I'm not[nl]going anywhere.[END]
+@397@8108
+*[MR_TIME]Which [YELLOW]Action[nl]Stage[WHITE] would you[nl]like to visit?[END]
+@398/400@8168/8168
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]1[WHITE].[END]
+@401@8224
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]2[WHITE].[END]
+@402@8280
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]3[WHITE].[END]
+@403@8336
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]5[WHITE].[END]
+@404@8392
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]6[WHITE].[END]
+@405@8448
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]7[WHITE].[END]
+@410/416@8548/8548
+*[MR_TIME]Welcome back.[nl]Fantastic work[nl]out there. We[nl]can do this[nl]again anytime.[END]
+@417@8628
+*[ARALE]Aha! That was[nl]fun![END]
+@425@8680
+*Stage 1[END]
+@426@8692
+*Stage 2[END]
+@427@8704
+*Stage 3[END]
+@428@8716
+*Stage 5[END]
+@429@8728
+*Stage 6[END]
+@430@8740
+*Stage 7[END]
+@431@8752
+*Stage 8[END]

@@ -1,0 +1,267 @@
+@@S01_M02C.PAC.232.lzss.uncomp@@323@@648@@6684
+@0/7/8/9/10/11/12/13/14/15/24/25/26/27/28/29/30/31/40/41/42/43/44/45/46/47/55/56/57/58/59/60/61/62/63/71/72/73/74/75/76/77/78/79/89/90/91/92/93/94/95/102/103/104/105/106/107/108/109/110/111/120/121/122/123/124/125/126/127/134/135/136/137/138/139/140/141/142/143/149/150/151/152/153/154/155/156/157/158/159/166/167/168/169/170/171/172/173/174/175/184/185/186/187/188/189/190/191/200/201/202/203/204/205/206/207/215/216/217/218/219/220/221/222/223/239/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[YAMABUKI]Let's do our[nl]best, alright[nl]Arale?[END]
+@1/20@688/1052
+*[YAMABUKI]Please treat[nl]her as a friend[nl]so we can have a[nl]great school[nl]year.[END]
+@2@736
+*[PEASUKE_WHITE][PINK]Big bro[WHITE] is in a[nl]higher grade[nl]than ours.[END]
+@3@792
+*[PEASUKE_WHITE]Nice to see[nl]you, Arale.[END]
+@4@824
+*[AKANE]They put us in[nl]the same class!?[END]
+@5@868
+*[AKANE]Let's hurry up[nl]and get outta[nl]here.[END]
+@6/16@900/900
+*[YAMABUKI]Listen up,[nl]everyone! We[nl]have a new[nl]student joining[nl]us today. Please[nl]give a warm[nl]welcome to Arale[nl]Norimaki.[END]
+@17@976
+*[ARALE]N'cha![END]
+@18@996
+*[AKANE]Arale!?[END]
+@19@1020
+*[PEASUKE_WHITE]Wow, she's[nl]really in our[nl]class![END]
+@21@1100
+*[AKANE]Hold on, Arale.[nl]Let's head out[nl]together.[END]
+@22@1152
+*[ARALE]Yes.[END]
+@23/32@1164/1164
+*[PAPER]Class[nl]announcements go[nl]here. Pay[nl]attention to[nl]this posting.[END]
+@33@1224
+*[YAMABUKI]Great[nl]initiative[nl]Arale, but the[nl]class doesn't[nl]need to be[nl]cleaned right[nl]now.[END]
+@34@1300
+*[YAMABUKI]Arale, you[nl]musn't climb up[nl]there.[END]
+@35@1348
+*[AKANE]Same old same[nl]old, eh Arale?[END]
+@36@1380
+*[AKANE]Sometimes lost[nl]items show up in[nl]that locker.[END]
+@37@1432
+*[PEASUKE_WHITE]Yeah, 'cause[nl][PINK]Akane[WHITE] keeps[nl]misplacing her[nl]stuff.[END]
+@38@1468
+*[AKANE]Quiet, twerp![END]
+@39/48@1488/1488
+*[YAMABUKI]Why on earth do[nl]you have that[nl]again!? Give[nl]that to me[nl]immediately![END]
+@49@1560
+*[YAMABUKI]Children musn't[nl]carry around[nl][YELLOW]books[WHITE] like[nl]these.[END]
+@50@1600
+*[YAMABUKI]A-arale, be a[nl]good girl and[nl]hand that to me![END]
+@51@1672
+*[YAMABUKI]What kind of[nl][YELLOW]book[WHITE] do you have[nl]there, Arale?[END]
+@52@1724
+*[ARALE]It's full of[nl]naked people![END]
+@53@1764
+*[YAMABUKI]What what[nl]what!? Arale, be[nl]a good dear and[nl]give that [YELLOW]book[WHITE][nl]to your [PINK]teacher[WHITE],[nl]okay? Isn't it[nl]lame, anyways?[END]
+@54/64@1896/1896
+*[YAMABUKI]I'm very proud[nl]of you, Arale.[END]
+@65@1944
+*[ARALE]Am I a good[nl]girl?[END]
+@66@1964
+*[YAMABUKI]Yes, yes you[nl]are.[END]
+@67@1992
+*[ARALE]U-ho-hoi! Good[nl]girl! Good girl![END]
+@68@2028
+*[YAMABUKI](How did she[nl]end up with[nl]this... I need[nl]to let the[nl][PINK]Principal[WHITE] hold[nl]onto it...)[END]
+@69@2112
+*[YAMABUKI]A-Arale! Be a[nl]good girl and[nl]give that to me![END]
+@70/80@2184/2184
+*[YAMABUKI]Do you need[nl]help with[nl]something,[nl]Arale?[END]
+@81@2240
+*[YAMABUKI]Did you have a[nl]look at the[nl][YELLOW]curtains[WHITE] in the[nl][BLUE]Principal's[nl]Office[WHITE]?[END]
+@82@2300
+*[YAMABUKI]I-I see. No[nl]matter, I can[nl]have a look at[nl]them later.[END]
+@83@2372
+*[YAMABUKI]Is... that...[nl]so? Thanks[nl]anyway, I can[nl]have a look[nl]myself later.[END]
+@84@2460
+*[YAMABUKI]That's right![nl]Well done Arale.[nl]You've been a[nl]great help.[END]
+@85@2536
+*[ARALE]Am I a good[nl]girl?[END]
+@86@2556
+*[YAMABUKI]Yes, you're a[nl]very good girl[nl]indeed.[END]
+@87/132/147@2584/3448/3644
+*[ARALE]U-ho-hoi![END]
+@88/96@2600/2600
+*[YAMABUKI]Ah, you've come[nl]at just the[nl]right time,[nl]Arale.[END]
+@97@2652
+*[ARALE]Ho-yo?[END]
+@98@2664
+*[YAMABUKI]We're in the[nl]middle of[nl]redecorating the[nl][BLUE]School[WHITE], but I[nl]can't quite[nl]remember one[nl]detail. Can you[nl]tell me the[nl]color of the[nl][YELLOW]curtains[WHITE] in the[nl][BLUE]Principal's[nl]Office[WHITE]?[END]
+@99@2836
+*[YAMABUKI]If it isnt too[nl]much trouble,[nl]could you please[nl]go check?[END]
+@100@2892
+*[ARALE]Hoi![END]
+@101/112@2904/2904
+*[PAPER]The [YELLOW]keys to the[nl]office safe[WHITE] are[nl]missing. If[nl]found, please[nl]return them to[nl]one of the staff[nl]members. This is[nl]of the utmost[nl]importance.[END]
+@113@2996
+*[YAMABUKI]Have you left[nl]something[nl]behind, Arale?[nl]Remember to pack[nl]up all your[nl]belongings when[nl]you leave.[END]
+@114@3048
+*[YAMABUKI]Arale, please[nl]refrain from[nl]climbing that![END]
+@115/195@3108/4688
+*[YAMABUKI]Stop that[nl]Arale! That's[nl]very dangerous![END]
+@116@3144
+*[YAMABUKI]Very admirable,[nl]Arale! Have you[nl]come to [YELLOW]clean[WHITE][nl]the classroom?[END]
+@117/197@3196/4800
+*[YAMABUKI]Everything is[nl]squeaky clean.[nl]Thank you,[nl]Arale.[END]
+@118/198@3248/4852
+*[ARALE]Tee-hee-hee.[END]
+@119/128@3264/3264
+*[YAMABUKI]It's about time[nl]for you to head[nl]home, Arale.[END]
+@129@3316
+*[YAMABUKI]What!? You[nl]defeated a[nl][YELLOW]monster[WHITE] at the[nl][BLUE]Hills[WHITE]!?[END]
+@130@3392
+*[ARALE]Teacher![nl]Teacher! Am I a[nl]good girl?[END]
+@131@3420
+*[YAMABUKI]G-good girl,[nl]Arale...[END]
+@133/144@3464/3464
+*[YAMABUKI]Have you found[nl][PINK]Peasuke[WHITE] yet? I[nl]hope he hasn't[nl]gone to the[nl][BLUE]Hills[WHITE]...[END]
+@145@3532
+*[YAMABUKI]Incorrect. Did[nl]you remember to[nl]count them all?[nl]The correct[nl]answer is 17.[END]
+@146@3592
+*[YAMABUKI]Correct! You[nl]pass the test![END]
+@148/160@3660/3660
+*[YAMABUKI][PINK]Peasuke[WHITE] is[nl]missing? I hope[nl]he isn't trying[nl]to go to the[nl][BLUE]Hills[WHITE]...[END]
+@161@3780
+*[ARALE]How do I get to[nl]the [BLUE]Hills[WHITE]? Tell[nl]me, teacher![END]
+@162@3832
+*[YAMABUKI]Oh no, that[nl]place is very[nl]dangerous.[nl]Strange [YELLOW]monsters[WHITE][nl]inhabit it, you[nl]musn't go there.[END]
+@163@3952
+*[ARALE]U-ho-hoi! I[nl]wanna see a[nl][YELLOW]monster[WHITE]![END]
+@164@4004
+*[YAMABUKI]You are[nl]forbidden![END]
+@165/176@4024/4024
+*[YAMABUKI]I'm not sure if[nl]we actually have[nl]any [YELLOW]lessons[WHITE] at[nl]all...[END]
+@177@4116
+*[YAMABUKI]Hold on a[nl]minute, Arale.[nl]Why don't we try[nl]a little quiz.[END]
+@178@4192
+*[YAMABUKI]Great[nl]enthusiasm![nl]Here's the[nl][YELLOW]question[WHITE]. How[nl]many [YELLOW]desks[WHITE] are[nl]in this[nl][BLUE]Classroom[WHITE]?[END]
+@179@4312
+*[YAMABUKI]Too bad, the[nl]correct answer[nl]was 17. How[nl]unfortunate.[END]
+@180@4372
+*[YAMABUKI]Well done,[nl]Arale! You must[nl]have been paying[nl]close attention.[END]
+@181@4440
+*[ARALE]Wow,[nl]compliments feel[nl]nice![END]
+@182@4472
+*[YAMABUKI]Oh, I see. Try[nl]to count them[nl]carefully.[END]
+@183/192@4532/4532
+*[PAPER]Strange[nl][YELLOW]monsters[WHITE] inhabit[nl] the [BLUE]Hills[WHITE], you[nl]musn't go there.[END]
+@193@4608
+*[YAMABUKI]Have you left[nl]something[nl]behind, Arale?[nl]Remember to pack[nl]up all your[nl]belongings when[nl]you leave.[END]
+@194@4652
+*[YAMABUKI]You musn't[nl]climb on top of[nl]that.[END]
+@196@4724
+*[YAMABUKI]Very admirable,[nl]Arale. Could you[nl]do some [YELLOW]cleaning[WHITE][nl]around the[nl]classroom? It[nl]would be a great[nl]help.[END]
+@199/208@4868/4868
+*[YAMABUKI]Did you count[nl]them? Can you[nl]tell me what you[nl]think the answer[nl]is?[END]
+@209/210@4936/5020
+*[YAMABUKI]Too bad! The[nl]correct answer[nl]was 17. Did you[nl]remember to[nl]count my [YELLOW]desk[WHITE][nl]too?[END]
+@211@5104
+*[YAMABUKI]Oh, then count[nl]them and get[nl]back to me,[nl]okay?[END]
+@212@5164
+*[YAMABUKI]I'm starting to[nl]find your[nl]attitude a[nl]little lacking![nl]That's enough[nl]for today,[nl]goodbye Arale![END]
+@213@5252
+*[YAMABUKI]I hope he isn't[nl]at the [BLUE]Hills[WHITE]...[END]
+@214/224@5300/5300
+*I know[END]
+@225@5312
+*I forgot[END]
+@226@5324
+*[ARALE]I know![END]
+@227@5340
+*[ARALE]Ummm, I forgot.[END]
+@228@5356
+*No[END]
+@229@5368
+*Yes[END]
+@230@5376
+*[ARALE]I haven't.[END]
+@231@5392
+*[ARALE]Yeah I saw it.[END]
+@232@5412
+*Red[END]
+@233@5420
+*Blue[END]
+@234@5428
+*Green[END]
+@235@5436
+*[ARALE]Red![END]
+@236@5448
+*[ARALE]Blue![END]
+@237@5460
+*[ARALE]Green![END]
+@238/240@5476/5476
+*Okay[END]
+@241@5484
+*No way[END]
+@242@5492
+*[ARALE]Yeah, okay.[END]
+@243@5512
+*[ARALE]Nope.[END]
+@244@5528
+*15[END]
+@245@5536
+*16[END]
+@246@5544
+*17[END]
+@247@5552
+*I dunno[END]
+@248@5564
+*[ARALE]15 desks.[END]
+@249@5580
+*[ARALE]16 desks.[END]
+@250@5596
+*[ARALE]17 desks.[END]
+@251@5612
+*[ARALE]Umm, I don't[nl]know.[END]
+@252@5628
+*Oh boy[END]
+@253@5640
+*Ehh...[END]
+@254@5652
+*[ARALE]Oh, boy![END]
+@255@5668
+*[ARALE]Ehh...[END]
+@256@5684
+*Where to?[END]
+@257@5704
+*Stay here[END]
+@258@5720
+*[BLUE]Office[END]
+@259@5748
+*[BLUE]School Yard[END]
+@260/272@5768/5768
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@273@5800
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@274/304@5828/5828
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@5872
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@5932
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@5976
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@6028
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@6116
+*[YELLOW]Formatting...[END]
+@310@6212
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@6240
+*[YELLOW]Save[WHITE] your game?[END]
+@312@6276
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@6340
+*[YELLOW]Saving[WHITE]...[END]
+@314@6440
+*Overwrite[nl]existing save?[END]
+@315@6484
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@6536
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@6556/6624
+*Back[END]
+@318@6564
+*OK[END]
+@319@6576
+*[WHITE]Select a file[END]
+@320@6608
+*[YELLOW]Save[END]
+@322@6632
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

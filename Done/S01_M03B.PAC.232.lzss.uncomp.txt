@@ -1,0 +1,173 @@
+@@S01_M03B.PAC.232.lzss.uncomp@@323@@648@@6264
+@0/3/4/5/6/7/8/9/10/11/12/13/14/15/16/21/22/23/24/25/26/27/28/29/30/31/32/44/45/46/47/60/61/62/63/67/71/72/73/74/75/76/77/78/79/90/91/92/93/94/95/113/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/784/648/648/648/648/648/648/648/648/648/648/648/648/784/1048/648/648/648/648/648/648/648/648/648/648/1048/648/648/648/648/648/648/648/648/2256/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/4392/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE]N'cha![END]
+@1@668
+*[PAPA_SORAMAME]I like your[nl]energy, kid![END]
+@2@720
+*[TARO][PINK]Peasuke[WHITE] and[nl][PINK]Akane[WHITE] are in the[nl]same class.[END]
+@17@804
+*[PAPA_SORAMAME]Hey there[nl]Arale, welcome[nl]to my shop.[END]
+@18@848
+*[PAPA_SORAMAME][PINK]Taro[WHITE], you[nl]absolute ▲○★☆⬛![nl]I thought I told[nl]you to keep your[nl]damn hands out[nl]of the cash[nl]register![END]
+@19@940
+*[TARO]I'm sorry, [PINK]dad[WHITE]![nl]Please stop[nl]pummelling me![END]
+@20@996
+*[PAPA_SORAMAME]Oh no, not[nl]today, bucko![nl]I'm not letting[nl]it slide[nl]anymore![END]
+@33@1068
+*[TARO]A-Arale?!?[END]
+@34@1096
+*[PAPA_SORAMAME]So this is[nl]Arale? I heard[nl]all about you[nl]from [PINK]Peasuke[WHITE].[nl]Did you come[nl]here all by[nl]yourself?[END]
+@35@1180
+*[ARALE]Uh-huh![END]
+@36@1196
+*[PAPA_SORAMAME]That's really[nl]impressive for[nl]someone your[nl]age.[END]
+@37@1228
+*[TARO]Pshh, how old[nl]do you think she[nl]is? [MEDIUM_PAUSE]Wait a[nl]minute. How old[nl]are you, Arale?[END]
+@38@1324
+*[PAPA_SORAMAME]Do you go to[nl][BLUE]School[WHITE]?[END]
+@39@1364
+*[ARALE]Umm, what's[nl][BLUE]School[WHITE]?[END]
+@40@1392
+*[TARO]Huh? It's that[nl]place where you[nl]play with[nl]everyone, study,[nl]and do all sorts[nl]of other stuff.[nl][PINK]Akane[WHITE] and[nl][PINK]Peasuke[WHITE] go to[nl]school too.[END]
+@41@1496
+*[ARALE]U-ho-hoi! I[nl]wanna go to[nl][BLUE]School[WHITE] too![END]
+@42@1540
+*[PAPA_SORAMAME]Come back[nl]anytime.[END]
+@43/48@1568/1568
+*[PAPA_SORAMAME]Ha-ha-ha![nl]Trying to do an[nl]impression of[nl][PINK]Taro[WHITE], I presume?[END]
+@49@1636
+*[TARO]I said I'm[nl]sorry![END]
+@50@1664
+*[PAPA_SORAMAME]You seem to be[nl]in high spirits![END]
+@51@1696
+*[PAPA_SORAMAME]Here for a[nl]snip?[END]
+@52@1724
+*[TARO][PINK]Dad[WHITE], are you[nl]okay with this!?[nl]She's gonna[nl]smash the mirror[nl]into pieces![END]
+@53@1776
+*[PAPA_SORAMAME]I don't want to[nl]hear anything[nl]out of you.[END]
+@54@1800
+*[PAPA_SORAMAME]Doesn't that[nl]look sharp? That[nl]look is all the[nl]rage today.[END]
+@55@1856
+*[PAPA_SORAMAME][PINK]Taro[WHITE], how about[nl]you try rocking[nl]a mohawk?[END]
+@56@1892
+*[TARO]No way dude.[END]
+@57@1908
+*[PAPA_SORAMAME]Sorry, I can't[nl]let my guests[nl]into my house.[END]
+@58@1964
+*[PAPA_SORAMAME]Huh? Why so[nl]quiet all of a[nl]sudden?[END]
+@59/64@2012/2012
+*[PAPA_SORAMAME]My [PINK]Taro[WHITE] and[nl][PINK]Peasuke[WHITE] are on[nl]the [BLUE]School[WHITE]'s[nl]baseball team.[nl]It's a shame[nl]they keep losing[nl]so badly. Maybe[nl]you can lend[nl]them a hand[nl]sometime, Arale.[END]
+@65/97@2200/2924
+*[ARALE]Hoi![END]
+@66@2212
+*[PAPA_SORAMAME]Ha-ha-ha,[nl]you're a[nl]lifesaver,[nl]Arale.[END]
+@68/114@2276/4412
+*[PAPA_SORAMAME]Hello again[nl]Arale. You're[nl]energetic as[nl]usual, as a kid[nl]should be. You[nl]get full marks,[nl][YELLOW]100 points[WHITE]![END]
+@69/112@2420/4376
+*[ARALE]U-ho-hoi![END]
+@70/80/115@2436/2436/4572
+*[PAPA_SORAMAME]If it isn't[nl]Arale? Welcome![END]
+@81/119@2480/4808
+*[PAPA_SORAMAME]Come again,[nl]y'hear?[END]
+@82/120@2508/4836
+*[PAPA_SORAMAME]Ha-ha-ha![nl]You're a bundle[nl]of energy,[nl]Arale.[END]
+@83/121@2548/4876
+*[PAPA_SORAMAME]Here for a cut?[END]
+@84/122@2576/4904
+*[PAPA_SORAMAME]That's a mean[nl][GREEN]punch[WHITE] you've got[nl]there.[END]
+@85/123@2632/4960
+*[PAPA_SORAMAME]How about a[nl]nice clean cut[nl]like that one?[END]
+@86/124@2668/4996
+*[PAPA_SORAMAME]Some of these[nl]popular new[nl]hairstyles are[nl]really out[nl]there. I don't[nl]think I like[nl]'em.[END]
+@87/125@2720/5048
+*[PAPA_SORAMAME]Sorry kid, I[nl]can't let you in[nl]there. It isn't[nl]part of the[nl][YELLOW]shop[WHITE].[END]
+@88/126@2780/5108
+*[PAPA_SORAMAME]What's the[nl]matter? You got[nl]quiet all of a[nl]sudden.[END]
+@89/96@2840/2840
+*[PAPA_SORAMAME]If you learn[nl]any [GREEN]cool[nl]abilities[WHITE], I'd[nl]love to see them[nl]in action.[END]
+@98@2936
+*[PAPA_SORAMAME]Listen to me,[nl]Arale. Did [PINK]Taro[WHITE][nl]tell you to[nl]promise not to[nl]say anything[nl]about a [YELLOW]dirty[nl]book[WHITE] of his?[END]
+@99@3056
+*[PAPA_SORAMAME]I see. I know[nl]you're doing it[nl]for his sake,[nl]but you can't[nl]let him bring[nl]you down with[nl]him. I can only[nl]give you [YELLOW]30[nl]points[WHITE] today.[END]
+@100/110@3216/4180
+*[ARALE]Aww...[END]
+@101@3232
+*[PAPA_SORAMAME]Thank's for[nl]being honest. I[nl]know you're just[nl]sticking out for[nl][PINK]Taro[WHITE]. Sorry, but[nl]I can still only[nl]give you [YELLOW]50[nl]points[WHITE] today.[END]
+@102@3372
+*[PAPA_SORAMAME]Whoa, whoa[nl]Arale. Please[nl]try not to tell[nl]lies like that.[nl]You've really[nl]hurt my[nl]feelings, you[nl]know that? You[nl]get [YELLOW]0 points[WHITE][nl]today.[END]
+@103@3516
+*[ARALE]I'm sad now...[END]
+@104@3536
+*[PAPA_SORAMAME]Attagirl,[nl]Arale! You've[nl]done [PINK]Taro[WHITE] a real[nl]favor, even if[nl]he doesn't know[nl]it. Bravo,[nl]Arale! You get[nl][YELLOW]100 points[WHITE]![END]
+@105@3712
+*[ARALE]U-ho-hoi! Aww[nl]yeah! I got a[nl]hundred points![END]
+@106@3764
+*[PAPA_SORAMAME]By the way,[nl]Arale. That[nl][YELLOW]dirty book[WHITE] that[nl]you found... I[nl]think it was[nl]confiscated from[nl][PINK]Taro[WHITE] by [PINK]his[nl]teacher[WHITE].[END]
+@107@3920
+*[ARALE]It was[nl][PINK]Tarosie[WHITE]'s?[END]
+@108@3940
+*[PAPA_SORAMAME]Sure was. But[nl]try not to tell[nl]anyone, okay?[END]
+@109@4024
+*[PAPA_SORAMAME]I see. Well I'm[nl]glad [PINK]Taro[WHITE] can[nl]depend on you,[nl]but don't let[nl]him drag you[nl]down with him.[nl][YELLOW]50 points[WHITE] is all[nl]I can give you.[END]
+@111@4196
+*[PAPA_SORAMAME]Attagirl,[nl]Arale! You've[nl]done [PINK]Taro[WHITE] a real[nl]favor, even if[nl]he doesn't know[nl]it. Bravo,[nl]Arale! You get[nl][YELLOW]100 points[WHITE]![END]
+@116@4616
+*[PAPA_SORAMAME]Sorry Arale. Im[nl]out of [YELLOW]prizes[WHITE][nl]for you.[END]
+@117@4680
+*[PAPA_SORAMAME]That's cool no[nl]matter how many[nl]times I see it.[END]
+@118@4724
+*[PAPA_SORAMAME]That's a super[nl]cool [GREEN]ability[WHITE]![nl]You're awesome,[nl]Arale![END]
+@127/224@5168/5168
+*I promised[END]
+@225@5184
+*I didn't[END]
+@226@5196
+*[ARALE]Yeah, I[nl]promised him.[END]
+@227@5224
+*[ARALE]No, I didn't.[END]
+@228/232@5248/5248
+*Okay[END]
+@233@5256
+*No way[END]
+@234@5264
+*[ARALE]Yeah, that's[nl]okay.[END]
+@235@5284
+*[ARALE]Nope.[END]
+@236/240@5300/5300
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Punch」[WHITE] ability![nl]Press the [SQUARE][YELLOW][nl]button[WHITE] to [GREEN]Punch[WHITE][nl]objects and[nl]enemies.[END]
+@241/304@5408/5408
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@5452
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@5512
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@5556
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@5608
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@5696
+*[YELLOW]Formatting...[END]
+@310@5792
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@5820
+*[YELLOW]Save[WHITE] your game?[END]
+@312@5856
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@5920
+*[YELLOW]Saving[WHITE]...[END]
+@314@6020
+*Overwrite[nl]existing save?[END]
+@315@6064
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@6116
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@6136/6204
+*Back[END]
+@318@6144
+*OK[END]
+@319@6156
+*[WHITE]Select a file[END]
+@320@6188
+*[YELLOW]Save[END]
+@322@6212
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

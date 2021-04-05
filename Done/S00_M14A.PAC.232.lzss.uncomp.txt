@@ -1,0 +1,69 @@
+@@S00_M14A.PAC.232.lzss.uncomp@@273@@548@@2340
+@0/3/4/5/6/7/8/9/10/11/12/13/14/15/26/27/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271@548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548
+*[PEASUKE_WHITE]Thanks Arale![nl]Now I can focus[nl]on my [YELLOW]special[nl]training[WHITE].[END]
+@1@620
+*[PEASUKE_WHITE]It's still[nl]here...[END]
+@2/16@652/652
+*[PEASUKE_WHITE]Alright, you[nl]made it here![END]
+@17@696
+*[ARALE]Peasuke,[nl]whatcha doing?[END]
+@18@732
+*[PEASUKE_WHITE]I need to start[nl]doing some[nl][YELLOW]special training[WHITE][nl]so [PINK]big bro[WHITE] and[nl]the others stop[nl]picking on me.[nl]It's the kind of[nl]training that[nl]requires total[nl]isolation.[END]
+@19@868
+*[ARALE]I heard there[nl]are [YELLOW]Monsters[WHITE][nl]here. Have you[nl]seen any yet?[END]
+@20@932
+*[PEASUKE_WHITE]Eek!?[nl][YELLOW]M-monsters[WHITE]!?[nl]What do I do[nl]Arale, you gotta[nl]help me![END]
+@21@1028
+*[ARALE]Is a [YELLOW]monster[WHITE][nl]strong?[END]
+@22@1068
+*[PEASUKE_WHITE]Of course they[nl]are! They're[nl]mega ultra[nl]strong![END]
+@23@1124
+*[ARALE]Oh, boy![END]
+@24@1140
+*[PEASUKE_WHITE]Those bushes[nl]seem a little[nl]suspicious...[END]
+@25/32@1192/1192
+*[PEASUKE_WHITE]I'm practicing[nl]my [GREEN]Slide Kick[WHITE].[nl]Want to practice[nl]together?[END]
+@33@1268
+*[PEASUKE_WHITE]Where are you[nl]going? Let's[nl]practice the[nl][GREEN]Slide Kick[WHITE][nl]together, c'mon![END]
+@34@1332
+*[PEASUKE_WHITE]A-Arale! Don't[nl]abandon me![END]
+@35@1384
+*[PEASUKE_WHITE]Nicely done[nl]Arale! All it[nl]took was one[nl]look and you[nl]mastered it![END]
+@36@1456
+*[PEASUKE_WHITE]Great form![END]
+@37@1480
+*[PEASUKE_WHITE]Not bad, Arale.[END]
+@38@1516
+*[PEASUKE_WHITE]I'm gonna keep[nl]practicing.[END]
+@39@1548
+*[PEASUKE_WHITE]Phew, it feels[nl]great to be out[nl]here.[END]
+@40@1580
+*[PEASUKE_WHITE]Alright, I[nl]think I'm ready![nl]Thanks for all[nl]your help,[nl]Arale! I'm off![END]
+@41@1716
+*[ARALE]Bye'cha![END]
+@42/48@1740/1740
+*[ARALE]No [YELLOW]monsters[WHITE][nl]left here.[END]
+@49@1780
+*[ARALE]Where are the[nl][YELLOW]monsters[WHITE]...[END]
+@50@1812
+*[ARALE]Ah! [YELLOW]Monster[WHITE][nl]spotted![END]
+@51@1860
+*[PEASUKE_WHITE]Eeek![END]
+@52@1880
+*[PEASUKE_WHITE]I think they're[nl]hiding in the[nl]bushes. You can[nl]see them move[nl]sometimes...[END]
+@53@2000
+*[ARALE]Are all[nl][YELLOW]monsters[WHITE] that[nl]puny?[END]
+@54/80@2052/2052
+*[ARALE]Kya-ha-ha![nl]Gotcha![END]
+@81/240@2088/2088
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Slide Kick」[WHITE][nl]ability! While[nl][GREEN]dashing[WHITE], press[nl]the [YELLOW]Crouch[nl]Button[WHITE] to[nl]perform a [GREEN]Slide[nl]Kick[WHITE].[END]
+@241/256@2224/2224
+*Stay here[END]
+@257@2240
+*[BLUE]School[END]
+@258@2260
+*Where to?[END]
+@259@2280
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@260/272@2308/2308
+*Peasuke slides[END]

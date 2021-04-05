@@ -40,7 +40,7 @@
 @24@548
 *[ARALE]Let's go to the[nl]Basement.[END]
 @32@596
-*[ARALE]Hey, hey[nl]professor.[nl]Whatcha doing?[END]
+*[ARALE]Hey, hey[nl]Professor.[nl]Whatcha doing?[END]
 @33@636
 *[HAKASE]Good timing,[nl]Arale. I need[nl]you to take this[nl]letter to your[nl]teacher.[END]
 @34@708

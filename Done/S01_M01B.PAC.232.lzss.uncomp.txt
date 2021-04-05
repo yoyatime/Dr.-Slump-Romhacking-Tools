@@ -1,0 +1,185 @@
+@@S01_M01B.PAC.232.lzss.uncomp@@323@@648@@6104
+@0/6/7/8/9/10/11/12/13/14/15/23/24/25/26/27/28/29/30/31/38/39/47/55/56/57/58/59/60/61/62/63/68/69/70/71/77/78/79/85/86/87/88/89/90/91/92/93/94/95/104/105/106/107/108/109/110/111/120/121/122/123/124/125/126/127/132/133/134/135/136/137/138/139/140/141/142/143/151/152/153/154/155/156/157/158/159/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/271/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[LADY_WITH_EARRINGS]How old are[nl]you, Arale?[END]
+@1@680
+*[ARALE]I'm fresh out[nl]of the oven![END]
+@2@712
+*[LADY_WITH_EARRINGS]...?[END]
+@3@736
+*[LADY_WITH_EARRINGS]Arale, if you[nl]would like to[nl]have a seat,[nl]stand in front[nl]of the stool[nl]right here and[nl]press the [SQUARE][YELLOW][nl]button[WHITE].[END]
+@4/84/96/145@872/3064/3064/4284
+*[LADY_WITH_EARRINGS]Do you want to[nl]help with the[nl]cafe, Arale?[nl]Sorry, but not[nl]right now.[END]
+@5/16@944/944
+*[AKANE]So what [BLUE]School[WHITE][nl]do you go to?[END]
+@17@996
+*[ARALE]I'll have to[nl]ask the[nl][PINK]Professor[WHITE] about[nl]that.[END]
+@18@1048
+*[AKANE]...what?[END]
+@19@1076
+*[ARALE]Whatcha doing[nl]here, [PINK]Akane[WHITE]?[END]
+@20@1112
+*[AKANE]Can't you tell?[nl]I'm helping out[nl]around the cafe.[END]
+@21@1160
+*[AKANE]By the way,[nl][BLUE]Taro[WHITE] lives at[nl]the [BLUE]Barber Shop[WHITE][nl]named "Barber[nl]Soramame". Why[nl]not find him and[nl]play over there?[END]
+@22/32@1308/1308
+*[AKANE]What's cooking,[nl]Arale?[END]
+@33@1336
+*[LADY_WITH_EARRINGS]So your name is[nl]Arale? I heard[nl]all about you[nl]from [PINK]Akane[WHITE]. I'm[nl][PINK]Aoi[WHITE].[END]
+@34@1428
+*[AKANE]She's my [PINK]big[nl]sis[WHITE].[END]
+@35@1456
+*[ARALE]N'cha![END]
+@36@1476
+*[LADY_WITH_EARRINGS]If it isn't[nl]Arale, welcome![END]
+@37/40/103/112/150/160@1516/1516/3452/3452/4492/4492
+*[LADY_WITH_EARRINGS]Do you know[nl]what today's[nl][YELLOW]special[WHITE] is?[END]
+@41/113/161@1572/3508/4548
+*[LADY_WITH_EARRINGS]Incorrect. Take[nl]a look at the[nl][YELLOW]signboard[WHITE] to see[nl]today's [YELLOW]special[WHITE].[END]
+@42@1640
+*[LADY_WITH_EARRINGS]Well done! I'll[nl]reward you with[nl]a useful tip.[END]
+@43/115/163@1740/3680/4720
+*[ARALE]U-ho-hoi![END]
+@44@1756
+*[LADY_WITH_EARRINGS]If you fill up[nl]your [YELLOW]Pep Gauge[WHITE],[nl]talk to [PINK]Senbei[WHITE][nl]and he'll make[nl]an [YELLOW]invention[WHITE] for[nl]you. It won't be[nl]anything useful[nl]or important, so[nl]don't expect too[nl]much out of[nl]them. Got it?[END]
+@45/73@1984/2628
+*[ARALE]Hoi![END]
+@46/48@1996/1996
+*[AKANE]Smell ya later![END]
+@49@2012
+*[AKANE]Head over to[nl][BLUE]Taro[WHITE]'s place.[nl]Use the [YELLOW]Sign[nl]Post[WHITE] and go to[nl]the [BLUE]Barber Shop[WHITE].[END]
+@50@2108
+*[AKANE]What's the[nl]rush? Chill[nl]around here for[nl]a bit, first.[END]
+@51@2184
+*[ARALE]What is this[nl]thing?[END]
+@52@2204
+*[AKANE]I know, right?[nl]I don't know[nl]either.[END]
+@53@2248
+*[LADY_WITH_EARRINGS]You kids[nl]couldn't[nl]appreciate it.[END]
+@54/64@2288/2288
+*[LADY_WITH_EARRINGS]No no no,[nl]Arale. That door[nl]leads to our[nl]house, I can't[nl]let you in right[nl]now. But you can[nl]read the[nl][YELLOW]newspaper[WHITE] that I[nl]have on that[nl]door instead.[END]
+@65@2444
+*[AKANE]You're nuts![nl]Get off of the[nl][YELLOW]table[WHITE], dude![END]
+@66@2528
+*[AKANE]I don't care...[nl]do whatever you[nl]want.[END]
+@67/72@2572/2572
+*[LADY_WITH_EARRINGS]Can I take your[nl]order, Arale?[END]
+@74@2640
+*[LADY_WITH_EARRINGS]Customers need[nl]to be seated[nl]first. Press the[nl][SQUARE][YELLOW] button[WHITE] at this[nl]stool to have a[nl]seat.[END]
+@75@2712
+*[LADY_WITH_EARRINGS]Press the [SQUARE][YELLOW][nl]button[WHITE] at the[nl][YELLOW]chair[WHITE] to have a[nl]seat.[END]
+@76/80@2808/2808
+*[LADY_WITH_EARRINGS]Another car[nl]crash...[END]
+@81@2856
+*[LADY_WITH_EARRINGS]...I wish I was[nl]watching when[nl]the car crash[nl]happened.[END]
+@82@2916
+*[LADY_WITH_EARRINGS]Don't you enjoy[nl]coming here?[nl]Please stop by[nl]once in a while.[END]
+@83@2976
+*[LADY_WITH_EARRINGS]Have a look at[nl]the [YELLOW]newspaper[WHITE] on[nl]the door. I put[nl]it together[nl]myself![END]
+@97/99@3136/3252
+*[LADY_WITH_EARRINGS]Welcome, Arale.[END]
+@98@3176
+*[LADY_WITH_EARRINGS]Excuse me[nl]but... what was[nl]that loud noise[nl]just now?[END]
+@100/147@3292/4376
+*[LADY_WITH_EARRINGS]Goodbye for[nl]now![END]
+@101@3308
+*[LADY_WITH_EARRINGS]Is it that[nl]strange? I[nl]happen to like[nl]it.[END]
+@102@3368
+*[PAPER]Trouble for the[nl]baseball team!?[nl][PINK]Taro[WHITE] the pitcher[nl]can't get a[nl]strike![END]
+@114/162@3576/4616
+*[LADY_WITH_EARRINGS]Well done! I'll[nl]reward you with[nl]a useful tip.[END]
+@116@3696
+*[LADY_WITH_EARRINGS]You can get in[nl]and out of[nl][BLUE]School[WHITE] through[nl]other doors. For[nl]example the[nl]window in the[nl][BLUE]Classroom[WHITE] and[nl][BLUE]Office[WHITE].[END]
+@117@3840
+*[ARALE]Wowie![END]
+@118@3856
+*[LADY_WITH_EARRINGS]Ah, but don't[nl]try to use them.[nl]That would be[nl]dangerous.[END]
+@119/128@3900/3900
+*[LADY_WITH_EARRINGS][PINK]Senbei[WHITE] is still[nl]making those[nl]silly [YELLOW]inventions[WHITE][nl]it seems.[END]
+@129@3980
+*[LADY_WITH_EARRINGS]Sigh... not a[nl]single [YELLOW]customer[WHITE].[END]
+@130@4024
+*[LADY_WITH_EARRINGS][PINK]Peasuke[WHITE]? I'm[nl]sorry but I[nl]haven't seen[nl]him. He might be[nl]at the [BLUE]Hills[WHITE]? I[nl]think you should[nl]ask the [PINK]Police[WHITE].[nl]They're the ones[nl]driving around[nl]in the [YELLOW]Patrol[nl]Cars[WHITE].[END]
+@131/144@4228/4228
+*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] is[nl]probably at[nl][BLUE]School[WHITE].[END]
+@146@4356
+*[LADY_WITH_EARRINGS]Welcome![END]
+@148@4392
+*[ARALE]N'cha![END]
+@149@4408
+*[PAPER]A [YELLOW]police car[WHITE][nl]has been[nl]destroyed!? A[nl][YELLOW]girl[WHITE] with a[nl]terrifying power[nl]has appeared![END]
+@164@4736
+*[LADY_WITH_EARRINGS]If you score[nl]points with[nl][PINK]Peasuke's[nl]father[WHITE], he might[nl]evel let you[nl]check out his[nl][YELLOW]cash register[WHITE].[nl]I'm sure you'll[nl]get something[nl]nice from him.[END]
+@165@4876
+*[ARALE]Oh, boy![END]
+@166/256@4892/4892
+*Motor oil[END]
+@257@4908
+*Coffee[END]
+@258@4924
+*Cake[END]
+@259@4940
+*[ARALE]Motor oil![END]
+@260@4960
+*[ARALE]Coffee?[END]
+@261@4984
+*[ARALE]It's cake.[END]
+@262/264@5008/5008
+*Lemon[END]
+@265@5024
+*Grape[END]
+@266@5044
+*Orange[END]
+@267@5064
+*[ARALE]Lemon Juice![END]
+@268@5088
+*[ARALE]Grape Juice![END]
+@269@5112
+*[ARALE]Orange Juice![END]
+@270/272@5136/5136
+*Shortcake[END]
+@273@5152
+*Cookies[END]
+@274@5168
+*Pancakes[END]
+@275@5184
+*[ARALE]Shortcake![END]
+@276@5208
+*[ARALE]Cookies![END]
+@277@5228
+*[ARALE]Pancakes![END]
+@278/304@5248/5248
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@5292
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@5352
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@5396
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@5448
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@5536
+*[YELLOW]Formatting...[END]
+@310@5632
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@5660
+*[YELLOW]Save[WHITE] your game?[END]
+@312@5696
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@5760
+*[YELLOW]Saving[WHITE]...[END]
+@314@5860
+*Overwrite[nl]existing save?[END]
+@315@5904
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@5956
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@5976/6044
+*Back[END]
+@318@5984
+*OK[END]
+@319@5996
+*[WHITE]Select a file[END]
+@320@6028
+*[YELLOW]Save[END]
+@322@6052
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

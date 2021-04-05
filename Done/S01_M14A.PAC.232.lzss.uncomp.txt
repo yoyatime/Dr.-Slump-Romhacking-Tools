@@ -1,0 +1,109 @@
+@@S01_M14A.PAC.232.lzss.uncomp@@323@@648@@3960
+@0/3/4/5/6/7/8/9/10/11/12/13/14/15/26/27/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PEASUKE_WHITE]Thanks Arale![nl]Now I can focus[nl]on my [YELLOW]special[nl]training[WHITE].[END]
+@1@720
+*[PEASUKE_WHITE]There's still[nl]more of them...[END]
+@2/16@752/752
+*[PEASUKE_WHITE]Alright, you[nl]made it here![END]
+@17@796
+*[ARALE]Whatcha doing,[nl][PINK]Peasuke[WHITE]?[END]
+@18@836
+*[PEASUKE_WHITE]I need to start[nl]doing some[nl][YELLOW]special training[WHITE][nl]so [PINK]big bro[WHITE] and[nl]the others stop[nl]picking on me.[nl]It's the kind of[nl]training that[nl]requires total[nl]isolation.[END]
+@19@976
+*[ARALE]I heard there[nl]are [YELLOW]Monsters[WHITE][nl]here. Have you[nl]seen any yet?[END]
+@20@1040
+*[PEASUKE_WHITE]Eek!?[nl][YELLOW]M-monsters[WHITE]!?[nl]What do I do[nl]Arale, you gotta[nl]help me![END]
+@21@1136
+*[ARALE]Is a [YELLOW]monster[WHITE][nl]strong?[END]
+@22@1176
+*[PEASUKE_WHITE]Of course they[nl]are! They're[nl]mega ultra[nl]strong![END]
+@23@1232
+*[ARALE]Oh, boy![END]
+@24@1248
+*[PEASUKE_WHITE]Those bushes[nl]seem a little[nl]suspicious...[END]
+@25/32@1300/1300
+*[PEASUKE_WHITE]I'm practicing[nl]my [GREEN]Slide Kick[WHITE].[nl]Want to practice[nl]together?[END]
+@33@1376
+*[PEASUKE_WHITE]Where are you[nl]going? Let's[nl]practice the[nl][GREEN]Slide Kick[WHITE][nl]together, c'mon![END]
+@34@1464
+*[PEASUKE_WHITE]A-Arale! Don't[nl]abandon me![END]
+@35@1516
+*[PEASUKE_WHITE]Nicely done[nl]Arale! All it[nl]took was one[nl]look and you[nl]mastered it![END]
+@36@1588
+*[PEASUKE_WHITE]Great form![END]
+@37@1612
+*[PEASUKE_WHITE]Not bad, Arale.[END]
+@38@1648
+*[PEASUKE_WHITE]I'm gonna keep[nl]practicing.[END]
+@39@1680
+*[PEASUKE_WHITE]Phew, it feels[nl]great to be out[nl]here.[END]
+@40@1712
+*[PEASUKE_WHITE]Alright, I[nl]think I'm ready![nl]Thanks for all[nl]your help,[nl]Arale! I'm off![END]
+@41@1848
+*[ARALE]Bye'cha![END]
+@42/48@1872/1872
+*[ARALE]No [YELLOW]monsters[WHITE][nl]left here.[END]
+@49@1912
+*[ARALE]Where are the[nl][YELLOW]monsters[WHITE]...[END]
+@50@1944
+*[ARALE]Ah! [YELLOW]Monster[WHITE][nl]spotted![END]
+@51@1992
+*[PEASUKE_WHITE]Eeek![END]
+@52@2012
+*[PEASUKE_WHITE]I think they're[nl]hiding in the[nl]bushes. You can[nl]see them move[nl]sometimes...[END]
+@53@2132
+*[ARALE]Are all[nl][YELLOW]monsters[WHITE] that[nl]puny?[END]
+@54/80@2184/2184
+*[ARALE]Kya-ha-ha![nl]Gotcha![END]
+@81/96@2220/2220
+*[PEASUKE_WHITE]Hey, let's work[nl]on our [YELLOW]special[nl]training[WHITE][nl]together.[END]
+@97/240@2280/2280
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Slide Kick」[WHITE][nl]ability! While[nl][GREEN]dashing[WHITE], press[nl]the [YELLOW]Crouch[nl]Button[WHITE] to[nl]perform a [GREEN]Slide[nl]Kick[WHITE].[END]
+@241/256@2416/2416
+*Stay here[END]
+@257@2432
+*[BLUE]School[END]
+@258@2452
+*Where to?[END]
+@259@2472
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@260/272@2500/2500
+*Peasuke Slides[END]
+@273@2532
+*Checking memory[nl]card[END]
+@304@3104
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3148
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3208
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3252
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3304
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3392
+*[YELLOW]Formatting...[END]
+@310@3488
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3516
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3552
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3616
+*[YELLOW]Saving[WHITE]...[END]
+@314@3716
+*Overwrite[nl]existing save?[END]
+@315@3760
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3812
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3832/3900
+*Back[END]
+@318@3840
+*OK[END]
+@319@3852
+*[WHITE]Select a file[END]
+@320@3884
+*[YELLOW]Save[END]
+@322@3908
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

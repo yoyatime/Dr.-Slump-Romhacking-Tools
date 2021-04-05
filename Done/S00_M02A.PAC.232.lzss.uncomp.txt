@@ -28,7 +28,7 @@
 @18@404
 *Office[END]
 @21@468
-[ARALE]Let's go to the[nl]Classroom.[END]
+*[ARALE]Let's go to the[nl]Classroom.[END]
 @22@492
 *[ARALE]Let's go to the[nl]Principal's[nl]Office[END]
 @48@620

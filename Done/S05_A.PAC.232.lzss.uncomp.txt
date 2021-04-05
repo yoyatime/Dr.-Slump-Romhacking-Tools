@@ -4,7 +4,7 @@
 @1@152
 *[ARALE]U-ho-hoi![END]
 @2@172
-*[OBOTCHAMAN]The first one[nl]to [GREEN]Dash[WHITE] to the[nl]finish line on[nl]the other side[nl]is the winner.[nl]Do be careful of[nl]the [YELLOW]obstacles[WHITE] in[nl]our way.[nl]Righty-ho, let's[nl]start the race![END]
+*[OBOTCHAMAN]The first one[nl]to [GREEN]Dash[WHITE] to the[nl]finish line on[nl]the other side[nl]is the winner.[nl]Do be careful of[nl]the [YELLOW]hurdles[WHITE] in[nl]our way.[nl]Righty-ho, let's[nl]start the race![END]
 @3@384
 *[OBOTCHAMAN]On your marks.[END]
 @4@404

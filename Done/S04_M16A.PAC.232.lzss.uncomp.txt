@@ -1,0 +1,249 @@
+@@S04_M16A.PAC.232.lzss.uncomp@@323@@648@@6472
+@0/13/14/15/28/29/30/31/45/46/47/59/60/61/62/63/76/77/78/79/87/95/104/105/106/107/108/109/110/111/125/126/127/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/270/271/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[KINOKO_STYLISH]What are you[nl]doing, let's get[nl]going already.[END]
+@1@696
+*[KINOKO_STYLISH]What is that[nl]you're holding,[nl]are those[nl][YELLOW]cigarettes[WHITE]?[END]
+@2@756
+*[ARALE]Yup.[END]
+@3@768
+*[KINOKO_STYLISH]Whoa. I never[nl]would've guessed[nl]it, but you're[nl]kind of a [YELLOW]bad[nl]girl[WHITE], aren't[nl]you?[END]
+@4@844
+*[ARALE]Ho-yo?[END]
+@5@856
+*[KINOKO_STYLISH]It's one thing[nl]to carry them,[nl]but you've got[nl]to smoke them[nl]too. Here, let[nl]me try one.[END]
+@6@952
+*[ARALE]Okay.[END]
+@7@964
+*[KINOKO_STYLISH]Geh... bleh...[END]
+@8@984
+*[ARALE]Ho-yo~[END]
+@9@996
+*[KINOKO_STYLISH]That's what[nl][YELLOW]cigarette's[nl]taste like[WHITE]!?![nl]Arale, even if[nl]you're going for[nl]a [YELLOW]bad girl[WHITE] kind[nl]of look, don't[nl]smoke these[nl]things! What you[nl]did just now was[nl]pretty cool[nl]though, I've got[nl]to admit. How[nl]about playing at[nl][BLUE]my place[WHITE]?[END]
+@10@1196
+*[ARALE]U-ho-hoi![END]
+@11@1212
+*[KINOKO_STYLISH]Let's blow this[nl]popsicle stand.[END]
+@12/16@1236/1236
+*[KINOKO_STYLISH]You've got no[nl]style at all.[nl]Please exit my[nl]sight.[END]
+@17@1284
+*[ARALE]N'cha![END]
+@18@1300
+*[KINOKO_STYLISH]Who are you[nl]two? I don't[nl]recognize either[nl]of you?[END]
+@19@1368
+*[ARALE]I'm Arale! Oh,[nl]and this one is[nl][PINK]Gatchan[WHITE].[END]
+@20@1432
+*[GATCHAN]Ku-pi-po![END]
+@21@1448
+*[KINOKO_STYLISH]Th-that's a[nl]strange [YELLOW]toy[WHITE].[END]
+@22@1480
+*[ARALE]Hey, let's[nl]play![END]
+@23@1504
+*[KINOKO_STYLISH]A [YELLOW]hip[WHITE] girl like[nl]me has no[nl]business with a[nl][YELLOW]dull[WHITE] girl like[nl]you. I'll pass.[END]
+@24@1588
+*[ARALE]What does [YELLOW]hip[WHITE][nl]mean?[END]
+@25@1612
+*[KINOKO_STYLISH]...don't ask[nl]stupid[nl]questions.[nl]Please get out[nl]of here.[END]
+@26@1700
+*[ARALE]You're[nl]boring...[END]
+@27/32@1720/1720
+*[KING_NIKO]Hurry and ask[nl]that [PINK]Professor[WHITE][nl]to fix us a new[nl]ship.[END]
+@33@1776
+*[KING_NIKO]What's-a matta[nl]you? Now we[nl]ain't got no way[nl]to get back[nl][BLUE]home[WHITE]![END]
+@34@1856
+*[ARALE]How come?[END]
+@35@1876
+*[KING_NIKO]'cause-a you,[nl]that's why![END]
+@36@1904
+*[NIKO_SERVANT][PINK]My liege[WHITE],[nl]please calm[nl]yourself.[END]
+@37@1940
+*[KING_NIKO]How can you be[nl]calm in a time[nl]like dis![END]
+@38@1976
+*[ARALE]If you need a[nl][YELLOW]space ship[WHITE], the[nl][PINK]Professor[WHITE] can[nl]just build you[nl]one.[END]
+@39@2052
+*[KING_NIKO]You're not[nl]pulling my leg,[nl]are you!? Fer[nl]real!? Let's pay[nl]this [PINK]Professor[WHITE] a[nl]visit then, real[nl]quick like![END]
+@40@2152
+*[ARALE]Okay, but I[nl]gotta tell[nl]everyone about[nl]you first.[END]
+@41@2204
+*[KING_NIKO]You can do dat[nl]later![END]
+@42@2232
+*[ARALE]No way. I'm[nl]telling everyone[nl]first.[END]
+@43@2288
+*[KING_NIKO]Grrr...[END]
+@44/48@2312/2312
+*[NIKO_SERVANT]Good thing you[nl]brought that[nl][YELLOW]camera[WHITE]...[END]
+@49@2356
+*[NIKO_SERVANT]Hmm, so this is[nl][BLUE]earth[WHITE], huh.[END]
+@50@2388
+*[KING_NIKO]Quit gawking![nl]They'll think[nl]we're some two[nl]bit [YELLOW]country[nl]yokels[WHITE]![END]
+@51@2460
+*[ARALE]We call that[nl]thing over there[nl]a [YELLOW]mountain[WHITE].[END]
+@52@2496
+*[NIKO_SERVANT]Ooh, how[nl]interesting.[END]
+@53@2524
+*[KING_NIKO]You numbskull![nl]Our [BLUE]planet[WHITE] had[nl]mountains too![END]
+@54/68@2580/3152
+*[KING_NIKO](These lousy[nl]rotten kids...[nl]I'll teach them[nl]to insult the[nl][YELLOW]ultimate space[nl]emperor[WHITE]!)[END]
+@55@2664
+*[ARALE]Ho-yo? Where's[nl][PINK]four-eyes[WHITE]?[END]
+@56@2696
+*[KING_NIKO]Eyy, it's you[nl]again! I dont[nl]know where [PINK]my[nl]servant[WHITE] went! Go[nl]find him![END]
+@57/93@2800/4008
+*[ARALE]Hoi![END]
+@58/64@2812/2812
+*[AKANE]What's the[nl]matter? Can't do[nl]your buddy[nl]stand-up routine[nl]without your[nl]patner?[END]
+@65@2888
+*[TARO]Yo, Arale.[nl]These [YELLOW]aliens[WHITE] are[nl]hilarious! We've[nl]been laughing it[nl]up this whole[nl]time![END]
+@66@2980
+*[PEASUKE_WHITE]Cool! I got an[nl][YELLOW]autograph[WHITE].[nl]Although he[nl]wrote down that[nl]he's the[nl]"[BLUE]ulteemate[nl]spayce emparer[WHITE]",[nl]whatever that[nl]means.[END]
+@67@3072
+*[AKANE]A-hah-hah-ha![nl]Did he mean to[nl]write [YELLOW]ultimate[nl]space emperor[WHITE]?[END]
+@69@3236
+*[AKANE]A-hah-hah-ha![END]
+@70@3260
+*[TARO]Bwa-ha-ha![END]
+@71@3284
+*[PEASUKE_WHITE]I got an[nl][YELLOW]autograph[WHITE], cool![END]
+@72@3320
+*[KING_NIKO]Take us to [BLUE]your[nl]house[WHITE], and be[nl]quick about it![END]
+@73@3376
+*[NIKO_SERVANT]Uwaa, my[nl]liege...[END]
+@74@3420
+*[KING_NIKO]Stop crying,[nl]it's a disgrace![END]
+@75/80@3448/3448
+*[KING_NIKO]Hold up. How[nl]are we going to[nl]get our hands on[nl]a [YELLOW]space ship[WHITE]?[END]
+@81@3516
+*[KINOKO_STYLISH]Wait what have[nl]you got there?[nl]Why don't you[nl]show it to me?[END]
+@82@3584
+*[KINOKO_STYLISH]Ah, that's what[nl]I expected of[nl]you. Truly a[nl][YELLOW]dull[WHITE] girl.[END]
+@83@3640
+*[NIKO_SERVANT][PINK]My liege[WHITE]!![END]
+@84@3672
+*[KING_NIKO]Ooh! You're[nl]back![END]
+@85@3708
+*[KING_NIKO]Waaaugh... I[nl]missed you...[END]
+@86/88@3752/3752
+*[ARALE]Ho-yo? What is[nl]that?[END]
+@89@3776
+*[ARALE]Ho-yo-yo~[END]
+@90@3796
+*[KINOKO_STYLISH]You can call me[nl][PINK]Kinoko Sarada[WHITE].[END]
+@91@3828
+*[ARALE]I knew that.[nl]It's written on[nl]that [YELLOW]sign[WHITE].[END]
+@92@3880
+*[KINOKO_STYLISH]O-ho-ho. I see[nl]my reputation[nl]precedes me.[nl]This place isn't[nl]entirely without[nl]merit, but I'd[nl]really like to[nl]get going.[END]
+@94/96@4020/4020
+*[ARALE]Hey hey, I[nl]brought you a[nl]tough opponent.[END]
+@97@4060
+*[SUPPAMAN]What could you[nl]have possibly[nl]brought, you[nl]dumb brat? There[nl]isn't anything I[nl]can't handle.[END]
+@98@4124
+*[ARALE]Yeah there is,[nl]here![END]
+@99@4148
+*[SUPPAMAN]Wa-ha-ha-ha![nl]Just leave it to[nl]me! Bring it on,[nl]foul [YELLOW]monster[WHITE]![END]
+@100@4240
+*[ARALE]Hold on a[nl]minute.[END]
+@101@4264
+*[SUPPAMAN]Stay back,[nl][YELLOW]little girl[WHITE].[nl]This could get[nl]dangerous![END]
+@102@4324
+*[ARALE]Mega!![END]
+@103/112@4348/4348
+*[DINOSAUR]Gyaaaoooo!![END]
+@113@4376
+*[SUPPAMAN]GYAAAAA!![END]
+@114@4412
+*[SUPPAMAN](I don't think[nl]anything is[nl]going to show[nl]up...)[END]
+@115@4444
+*[SUPPAMAN]Feh, it's[nl]quiet. Too[nl]quiet. I don't[nl]like this[nl]feeling.[END]
+@116@4500
+*[ARALE]What feeling?[END]
+@117@4528
+*[SUPPAMAN]I'm just not[nl]myself if I'm[nl]not punishing[nl]evildoers with[nl]the [YELLOW]power of[nl]justice[WHITE].[END]
+@118@4620
+*[ARALE]Okay.[END]
+@119@4632
+*[CHIVIL]Take me, take[nl]me, chu![END]
+@120@4660
+*[CHIVIL]This won't do.[nl]There's nobody[nl]here, chu![END]
+@121@4704
+*[ARALE]O-ho![END]
+@122@4720
+*[SUPPAMAN]Find something[nl]and bring it[nl]here.[END]
+@123@4752
+*[CHIVIL]We can move on,[nl]chu.[END]
+@124/128@4784/4784
+*[CHIVIL]Let's get[nl]going, chu.[END]
+@129@4808
+*[ARALE]Hey [PINK]Chivil[WHITE]. The[nl][PINK]Professor[WHITE] and[nl][PINK]Ms. Midori[WHITE] are[nl]getting [YELLOW]married[WHITE].[nl]You'll come to[nl]the wedding at[nl]our house,[nl]right?[END]
+@130@4932
+*[CHIVIL]Nah, not[nl]inchurested. I'm[nl]busy with all of[nl]the [YELLOW]soul[WHITE][nl]collecting.[END]
+@131@5008
+*[ARALE]But everyone[nl]will be there![nl]It'll be fun![END]
+@132@5044
+*[CHIVIL]Will any [YELLOW]young[nl]girls[WHITE] come chu?[END]
+@133@5084
+*[ARALE]Everyone is[nl]coming.[END]
+@134@5104
+*[CHIVIL]In that case,[nl]okay chu![END]
+@135@5148
+*[ARALE]See ya there![END]
+@136@5172
+*[CHIVIL]Fu-fu-fu-fu...[nl]I'm gonna bag so[nl]many [YELLOW]chute[nl]girls[WHITE].[END]
+@137/256@5236/5236
+*Where to?[END]
+@257/262/264@5256/5360/5360
+*Stay here[END]
+@258/265@5272/5376
+*[BLUE]Home[END]
+@259/266@5292/5396
+*[BLUE]Smoke Shop[END]
+@260/267@5312/5416
+*[BLUE]Kinoko's[END]
+@261@5336
+*[BLUE]???'s House[END]
+@268@5440
+*[BLUE]Suppaman's[END]
+@269/272@5468/5468
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@273@5492
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@274@5520
+*[ARALE]Let's go to[nl][BLUE]Kinoko's House[WHITE].[END]
+@275@5552
+*[ARALE]Let's go to the[nl][BLUE]Mysterious[nl]House[WHITE].[END]
+@276@5580
+*[ARALE]Let's go to[nl][BLUE]Suppaman's[nl]House[WHITE].[END]
+@277/304@5616/5616
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@5660
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@5720
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@5764
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@5816
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@5904
+*[YELLOW]Formatting...[END]
+@310@6000
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@6028
+*[YELLOW]Save[WHITE] your game?[END]
+@312@6064
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@6128
+*[YELLOW]Saving[WHITE]...[END]
+@314@6228
+*Overwrite[nl]existing save?[END]
+@315@6272
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@6324
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@6344/6412
+*Back[END]
+@318@6352
+*OK[END]
+@319@6364
+*[WHITE]Select a file[END]
+@320@6396
+*[YELLOW]Save[END]
+@322@6420
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

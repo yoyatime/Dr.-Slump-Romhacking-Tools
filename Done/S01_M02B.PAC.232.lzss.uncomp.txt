@@ -1,0 +1,195 @@
+@@S01_M02B.PAC.232.lzss.uncomp@@323@@648@@4940
+@0/7/8/9/10/11/12/13/14/15/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47/58/59/60/61/62/63/72/73/74/75/76/77/78/79/85/86/87/88/89/90/91/92/93/94/95/103/104/105/106/107/108/109/110/111/121/122/123/124/125/126/127/140/141/142/143/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PRINCIPAL]Oh? Do you have[nl]any business[nl]with me?[END]
+@1@672
+*[ARALE]No I'm not[nl]looking for any[nl][YELLOW]old men[WHITE], I'm[nl]looking for[nl][PINK]Akane[WHITE].[END]
+@2@736
+*[PRINCIPAL]Who are you[nl]calling an [YELLOW]old[nl]man[WHITE]!?[END]
+@3@768
+*[PRINCIPAL][PINK]Ms. Midori[WHITE] is[nl]waiting for you[nl]by the door. She[nl]will take you to[nl]your [BLUE]Classroom[WHITE].[END]
+@4@868
+*[HAKASE]I better come[nl]too.[END]
+@5@904
+*[PRINCIPAL]There's no need[nl]for that![END]
+@6/16@940/940
+*[YAMABUKI]Come on Arale,[nl]I'll take you to[nl]the [BLUE]Classroom[WHITE].[END]
+@17/20@1000/1128
+*[ARALE]Hoi![END]
+@18@1012
+*[HAKASE]How lucky,[nl]Arale...[END]
+@19@1044
+*[HAKASE]Be a good girl,[nl]Arale. Listen to[nl]everything [PINK]Ms.[nl]Midori[WHITE] says,[nl]alright?[END]
+@21@1140
+*[HAKASE][PINK]Ms. Midori...[WHITE][PINK_HEART][END]
+@22@1172
+*[ARALE][PINK]Professor[WHITE],[nl]you're drooling.[END]
+@23@1204
+*[ARALE]Whoops, how did[nl]I end up here?[END]
+@24/32@1240/1240
+*[HAKASE]...and that's[nl]our story.[nl]Please look[nl]after Arale.[END]
+@33@1308
+*[PRINCIPAL]Very well. [PINK]Ms.[nl]Midori[WHITE] will[nl]escort Arale to[nl]her [BLUE]Classroom[WHITE].[END]
+@34@1408
+*[YAMABUKI]Nice to meet[nl]you, Arale.[END]
+@35@1440
+*[ARALE]N'cha![END]
+@36@1456
+*[HAKASE]Pleased to meet[nl]you. I'm her[nl]older brother,[nl][PINK]Senbei[WHITE]. Please[nl]take good care[nl]of Arale.[END]
+@37@1536
+*[YAMABUKI]R-right...[END]
+@38/48/52@1556/1556/1680
+*[HAKASE]Stop messing[nl]with that![END]
+@49@1608
+*[ARALE]I'm taking[nl]this.[END]
+@50@1628
+*[PRINCIPAL]Ha-ha-ha... no.[END]
+@51@1656
+*[ARALE]What does this[nl]flag mean?[END]
+@53/55@1732/1784
+*[ARALE]Pee-yew,[nl]stinky![END]
+@54@1752
+*[PRINCIPAL]...thanks for[nl]your input.[END]
+@56@1804
+*[HAKASE]You don't need[nl]to be so honest![END]
+@57/64@1860/1860
+*[PRINCIPAL]Ha-ha-ha...[nl]this is going on[nl]your permanent[nl]record.[END]
+@65@1924
+*[HAKASE]Psst! Arale![nl]Get down from[nl]there![END]
+@66@1980
+*[YAMABUKI]You could get[nl]hurt, Arale.[END]
+@67@2012
+*[ARALE]These plants[nl]are wilted.[END]
+@68@2036
+*[YAMABUKI]Admiring the[nl]plants, Arale?[END]
+@69@2072
+*[ARALE]C'mon, let's go[nl]to [PINK]Akane[WHITE]'s house[nl]already.[END]
+@70@2120
+*[PRINCIPAL]Oh-ho-ho. You[nl]won't open it[nl]without a [YELLOW]Key[WHITE].[END]
+@71/80@2168/2168
+*[PRINCIPAL]That [YELLOW]book[WHITE] was[nl]confiscated by[nl][PINK]Ms. Midori[WHITE]. It[nl]absolutely isn't[nl]mine![END]
+@81@2272
+*[PRINCIPAL]You don't[nl]believe me!?[END]
+@82@2304
+*[PRINCIPAL]Arale, are you[nl]familiar with[nl][YELLOW]dinosaurs[WHITE], by[nl]any chance?[END]
+@83@2368
+*[PRINCIPAL]O-ho-ho![END]
+@84/96@2388/2388
+*[ARALE]Is the[nl][PINK]Principal[WHITE] not[nl]here?[END]
+@97@2436
+*[PRINCIPAL]D-do you need[nl]something?[END]
+@98@2468
+*[ARALE]It's empty.[END]
+@99@2500
+*[PRINCIPAL]There's nothing[nl]left in there.[END]
+@100@2536
+*[ARALE]What's this? I[nl]found something.[END]
+@101@2572
+*[PRINCIPAL]Aaah! Why do[nl]you have that[nl][YELLOW]Key[WHITE]![END]
+@102/112@2636/2636
+*[ARALE]Huh? What's up[nl]with this [YELLOW]book[WHITE]?[END]
+@113@2672
+*[PRINCIPAL]Stop! I beg[nl]you! Don't look[nl]at that![END]
+@114@2720
+*[ARALE]Hey, how come[nl]these people are[nl]naked?[END]
+@115@2768
+*[PRINCIPAL]I... I have no[nl]idea...[END]
+@116@2800
+*[ARALE]I'm gonna show[nl]it to [PINK]Ms.[nl]Midori[WHITE].[END]
+@117@2852
+*[PRINCIPAL]You absolutely[nl]musn't do that![END]
+@118@2884
+*[PRINCIPAL]Quit messing[nl]with that, it's[nl]empty anyhow.[END]
+@119/135/137@2936/3220/3296
+*[PRINCIPAL]Leave at once![END]
+@120/128@2968/2968
+*[ARALE]What does this[nl]flag mean?[END]
+@129@2988
+*[PRINCIPAL]You wouldn't[nl]understand.[END]
+@130@3016
+*[PRINCIPAL]Where do you[nl]think you're[nl]peeking? Get out[nl]of here![END]
+@131@3072
+*[PRINCIPAL]Whoa, just[nl]where do you[nl]think you're[nl]looking?[END]
+@132/134@3104/3172
+*[PRINCIPAL]Don't play[nl]around in here.[nl]Just get out.[END]
+@133@3152
+*[PRINCIPAL]Ha-ha-ha...[END]
+@136@3252
+*[PRINCIPAL]That's[nl]dangerous,[nl]please stop![END]
+@138@3328
+*[PRINCIPAL](Bah... she[nl]hasn't even seen[nl]one yet...)[END]
+@139/144@3388/3388
+*[PRINCIPAL]Zzz...[END]
+@145/149@3408/3564
+*[PRINCIPAL]Huh, wuh?! What[nl]is it, what[nl]happened?![END]
+@146/150@3448/3604
+*[ARALE]Kya-ha-ha-ha![END]
+@147/151@3468/3624
+*[PRINCIPAL]Oh it's you. I[nl]don't have time[nl]for your[nl]nonsense, I'm[nl]very busy.[END]
+@148/152@3552/3708
+*[ARALE]Okay.[END]
+@153@3720
+*[PRINCIPAL]Why are you[nl]looking at me[nl]like that!?[nl]Look, I'll fill[nl]up your [YELLOW]Gauge[WHITE] a[nl]little bit, so[nl]please leave![END]
+@154@3808
+*[ARALE]What a big[nl]flag.[END]
+@155@3832
+*[ARALE]Stinky![END]
+@156@3848
+*[ARALE]N'cha![END]
+@157@3864
+*[ARALE]I don't have[nl]the [YELLOW]Key[WHITE], so it[nl]won't open.[END]
+@158/240@3900/3900
+*Yes[END]
+@241@3908
+*No[END]
+@242@3920
+*[ARALE]Yes.[END]
+@243@3932
+*[ARALE]No.[END]
+@244/256@3948/3948
+*Where to?[END]
+@257@3968
+*Stay here[END]
+@258@3984
+*[BLUE]Classroom[END]
+@259@4008
+*[BLUE]School Yard[END]
+@260/272@4028/4028
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@273@4056
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@274/304@4084/4084
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@4128
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4188
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4232
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4284
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4372
+*[YELLOW]Formatting...[END]
+@310@4468
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4496
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4532
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4596
+*[YELLOW]Saving[WHITE]...[END]
+@314@4696
+*Overwrite[nl]existing save?[END]
+@315@4740
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4792
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4812/4880
+*Back[END]
+@318@4820
+*OK[END]
+@319@4832
+*[WHITE]Select a file[END]
+@320@4864
+*[YELLOW]Save[END]
+@322@4888
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

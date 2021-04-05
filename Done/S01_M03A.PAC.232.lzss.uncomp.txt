@@ -1,0 +1,149 @@
+@@S01_M03A.PAC.232.lzss.uncomp@@323@@648@@4160
+@0/6/7/8/9/10/11/12/13/14/15/21/22/23/24/25/26/27/28/29/30/31/36/37/38/39/40/41/42/43/44/45/46/47/57/58/59/60/61/62/63/69/70/71/72/73/74/75/76/77/78/79/85/86/87/88/89/90/91/92/93/94/95/104/105/106/107/108/109/110/111/118/119/120/121/122/123/124/125/126/127/135/136/137/138/139/140/141/142/143/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PEASUKE_WHITE]I think things[nl]have cooled off[nl]in there...[END]
+@1@680
+*[PEASUKE_WHITE]Ah it's you,[nl]Arale. [PINK]Big bro[WHITE][nl]is having a[nl]fight with [PINK]dad[WHITE][nl]right now.[END]
+@2/68/80@768/1832/1832
+*[PEASUKE_WHITE]Arale, what are[nl]you doing!? Stop[nl]poking that,[nl]that's gross![END]
+@3/81@836/1900
+*[ARALE]Nah, it's okay.[END]
+@4/82@856/1920
+*[PEASUKE_WHITE]Well then, just[nl]don't touch me.[END]
+@5/16@884/884
+*[PAPA_SORAMAME]That Arale is a[nl]real good kid.[END]
+@17@932
+*[TARO]Eh? What about[nl]me and [PINK]Peasuke[WHITE]?[END]
+@18@964
+*[PAPA_SORAMAME]You two could[nl]try harder.[END]
+@19@988
+*[PAPA_SORAMAME]C'mere [PINK]Taro[WHITE]!![nl]I'll teach you a[nl]lesson, you[nl]⬛●×▲...!![END]
+@20/32@1044/1044
+*[HAKASE]Tell them[nl]you're my 13[nl]year old [YELLOW]sister[WHITE].[END]
+@33@1124
+*[ARALE]Shouldn't I be[nl]your daughter?[END]
+@34@1148
+*[HAKASE]Don't be[nl]stupid! I'm only[nl]28 years old![END]
+@35/48@1188/1188
+*[PEASUKE_WHITE]Hey, that's the[nl]same [YELLOW]book[WHITE] that[nl]my [PINK]big bro[WHITE] had.[END]
+@49@1256
+*[PEASUKE_WHITE]Heya, Arale.[END]
+@50@1280
+*[ARALE]Come to [BLUE]school[WHITE],[nl][PINK]Peasuke[WHITE].[END]
+@51@1328
+*[PEASUKE_WHITE]But why?[END]
+@52@1344
+*[ARALE][PINK]Akane[WHITE] has[nl]something for[nl]you.[END]
+@53@1400
+*[PEASUKE_WHITE][PINK]Akane[WHITE]? I've got[nl]a bad feeling[nl]about this.[END]
+@54@1452
+*[ARALE][PINK]Peasuke[WHITE], c'mon![END]
+@55@1484
+*[PEASUKE_WHITE]I-I'll follow[nl]you, so you go[nl]on ahead...[END]
+@56/64@1532/1532
+*[PEASUKE_WHITE]Heya Arale. You[nl]want [PINK]Big Bro[WHITE]? I[nl]think he's at[nl][BLUE]School[WHITE] right[nl]now.[END]
+@65@1612
+*[PEASUKE_WHITE]Oh, by the way[nl]Arale. Have you[nl]read the[nl][YELLOW]newspaper[WHITE] on the[nl]wall at the[nl][BLUE]Coffee Pot[WHITE]?[END]
+@66@1708
+*[PEASUKE_WHITE]They print some[nl]pretty useful[nl]stuff in it from[nl]time to time.[END]
+@67@1760
+*[PEASUKE_WHITE]The next time[nl]you're there,[nl]look for the[nl]newspaper on the[nl]door inside.[END]
+@83@1948
+*[PAPA_SORAMAME]Arale, won't[nl]you come in?[END]
+@84/96@1980/1980
+*[TARO]I heard from[nl][PINK]Akane[WHITE] that[nl][PINK]Senbei[WHITE] has[nl]finished[nl]building another[nl]one of his[nl][YELLOW]inventions[WHITE].[END]
+@97@2072
+*[PEASUKE_WHITE]You should show[nl]that [GREEN]Slide Kick[WHITE][nl]to [PINK]My Dad[WHITE], he[nl]gets a kick out[nl]of stuff like[nl]that![END]
+@98@2152
+*[ARALE]Hey, are you[nl]guys the [PINK]Police[WHITE]?[nl]Come out of[nl]there![END]
+@99@2216
+*[GALA]Oh no! It's[nl]that girl with[nl]the glasses![END]
+@100@2256
+*[HEADBAND_GUY]J-just ignore[nl]her! Maybe she[nl]won't notice us![END]
+@101/134/144@2316/2864/2864
+*[GALA]You want to[nl]know how to get[nl]to the [BLUE]Hills[WHITE]?[nl]You should be[nl]able to get[nl]there from the[nl][BLUE]School Yard[WHITE].[END]
+@102@2416
+*[HEADBAND_GUY]You devilish[nl]child...[END]
+@103/112@2440/2440
+*[PEASUKE_WHITE]Stop that[nl]Arale, that's[nl]gross![END]
+@113@2492
+*[GALA]Ewww! She's[nl]touching the[nl][YELLOW]poop[WHITE]![END]
+@114@2548
+*[HEADBAND_GUY]She's going to[nl]rub her[nl]disgusting hands[nl]on everything![END]
+@115@2600
+*[ARALE]N'cha![END]
+@116@2620
+*[PAPA_SORAMAME]Arale? Won't[nl]you come in?[END]
+@117/128@2668/2668
+*[GALA][HEADBAND_GUY]P-please stop![END]
+@129@2700
+*[GALA]I think she's[nl]leaving...[END]
+@130@2736
+*[HEADBAND_GUY]W-we're[nl]saved...[END]
+@131@2760
+*[GALA]Now's our[nl]chance! Let's[nl]get out of here![END]
+@132@2804
+*[HEADBAND_GUY]N-nothing is[nl]working![END]
+@133@2848
+*[GALA]Ho...[END]
+@145@2964
+*[ARALE]Ho-yo?[END]
+@146@2976
+*[GALA]You can get to[nl]the [BLUE]Hills[WHITE] from[nl]the [YELLOW]Sign Post[WHITE] at[nl][BLUE]School[WHITE]. So[nl]please just[nl]leave us be...[END]
+@147/256@3072/3072
+*Stay here[END]
+@257@3088
+*[BLUE]Home[END]
+@258@3108
+*[BLUE]Coffee Pot[END]
+@259@3136
+*[BLUE]School[END]
+@260@3156
+*Where to?[END]
+@261@3176
+*[ARALE]Nevermind.[END]
+@262@3196
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@263@3224
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@264@3256
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@265/288@3284/3284
+*Yes[END]
+@289@3292
+*What?[END]
+@290/304@3304/3304
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3348
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3408
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3452
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3504
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3592
+*[YELLOW]Formatting...[END]
+@310@3688
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3716
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3752
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3816
+*[YELLOW]Saving[WHITE]...[END]
+@314@3916
+*Overwrite[nl]existing save?[END]
+@315@3960
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4012
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4032/4100
+*Back[END]
+@318@4040
+*OK[END]
+@319@4052
+*[WHITE]Select a file[END]
+@320@4084
+*[YELLOW]Save[END]
+@322@4108
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
