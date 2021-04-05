@@ -6,11 +6,11 @@
 @257@704
 *Stay here[END]
 @258@720
-*[BLUE]Police Station[WHITE][END]
+*[BLUE]Police Station[END]
 @259@752
-*[BLUE]Cinema[WHITE][END]
+*[BLUE]Cinema[END]
 @260@780
-*[BLUE]Bank[WHITE][END]
+*[BLUE]Bank[END]
 @261/272@812/812
 *[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
 @273@852
@@ -50,6 +50,6 @@
 @319@1672
 *[WHITE]Select a file[END]
 @320@1704
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1728
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

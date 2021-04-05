@@ -6,15 +6,15 @@
 @2/16@744/744
 *[PRINCIPAL]Get down from[nl]there![END]
 @17@764
-*[ARALE]I can't open it[nl]without the [YELLOW]key[WHITE].[END]
+*[ARALE]I can't open it[nl]without the [YELLOW]Key[WHITE].[END]
 @18/256@800/800
 *Where to?[END]
 @257@820
 *Stay here[END]
 @258@836
-*[BLUE]Classroom[WHITE][END]
+*[BLUE]Classroom[END]
 @259@860
-*[BLUE]School Yard[WHITE][END]
+*[BLUE]School Yard[END]
 @260/272@880/880
 *[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
 @273@908
@@ -52,6 +52,6 @@
 @319@1684
 *[WHITE]Select a file[END]
 @320@1716
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1740
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

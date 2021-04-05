@@ -12,7 +12,7 @@
 @5@428
 *[SCRAGGLY_BLUE_MONSTER]Weaklings pee[nl]their pants when[nl]they see THAT[nl]attack![END]
 @6/8@476/476
-*Nice! You[nl][YELLOW]captured[WHITE] the[nl][GREEN]「N'cha Cannon」[WHITE][nl]ability! Rapidly[nl]pressing the[nl][YELLOW]punch button[WHITE][nl]here will fire[nl]off an [GREEN]「N'cha[nl]Cannon」[WHITE].[END]
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「N'cha Cannon」[WHITE][nl]ability! Rapidly[nl]pressing the[nl][YELLOW]punch button[WHITE][nl]here will fire[nl]off an [GREEN]「N'cha[nl]Cannon」[WHITE].[END]
 @9@608
 *[SCRAGGLY_BLUE_MONSTER]You whelp![nl]You're quite[nl]bold for one so[nl]puny! You'll[nl]make a fine[nl]garnish for my[nl][YELLOW]Daikon[WHITE]!![END]
 @10/16@728/728
@@ -22,7 +22,7 @@
 @18/32@800/800
 *[MASHARITO]This is bad![nl]Getting hit now[nl]would mean[nl]taking damage![END]
 @33@868
-*[ARALE]U-ho-ho! Now's[nl]my chance![END]
+*[ARALE]U-ho-hoi! Now's[nl]my chance![END]
 @34/48@908/908
 *[MASHARITO]Now to try[nl]Caramel Man's[nl]hyper attack![END]
 @49/64@972/972

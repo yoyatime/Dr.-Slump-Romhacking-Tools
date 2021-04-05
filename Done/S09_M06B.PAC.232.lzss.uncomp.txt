@@ -8,11 +8,11 @@
 @257@808
 *Stay here[END]
 @258@824
-*[BLUE]Reh Tsu Goh[WHITE][END]
+*[BLUE]Reh Tsu Goh[END]
 @259@848
-*[BLUE]Smoke Shop[WHITE][END]
+*[BLUE]Smoke Shop[END]
 @260@868
-*[BLUE]Kinoko's[WHITE][END]
+*[BLUE]Kinoko's[END]
 @261/272@892/892
 *[ARALE]Let's go to the[nl][BLUE]Reh Tsu Goh[WHITE].[END]
 @273@920
@@ -52,6 +52,6 @@
 @319@1728
 *[WHITE]Select a file[END]
 @320@1760
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1784
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

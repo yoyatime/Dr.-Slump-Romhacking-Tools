@@ -10,11 +10,11 @@
 @4/256@764/764
 *Stay here[END]
 @257@780
-*[BLUE]My Room[WHITE][END]
+*[BLUE]My Room[END]
 @258@804
-*[BLUE]Lab[WHITE][END]
+*[BLUE]Lab[END]
 @259@832
-*[BLUE]Outside[WHITE][END]
+*[BLUE]Outside[END]
 @260@848
 *Where to?[END]
 @261@868
@@ -58,6 +58,6 @@
 @319@1724
 *[WHITE]Select a file[END]
 @320@1756
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1780
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

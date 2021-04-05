@@ -14,11 +14,11 @@
 @195/256@816/816
 *Stay here[END]
 @257@832
-*[BLUE]Home[WHITE][END]
+*[BLUE]Home[END]
 @258@852
-*[BLUE]Barber Shop[WHITE][END]
+*[BLUE]Barber Shop[END]
 @259@880
-*[BLUE]School[WHITE][END]
+*[BLUE]School[END]
 @260@900
 *Where to?[END]
 @261@920
@@ -62,6 +62,6 @@
 @319@1792
 *[WHITE]Select a file[END]
 @320@1824
-*[YELLOW]Save[WHITE][END]
+*[YELLOW]Save[END]
 @322@1848
 *[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
