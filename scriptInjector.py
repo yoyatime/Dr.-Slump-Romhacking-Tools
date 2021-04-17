@@ -13,8 +13,8 @@ def injectScript(inputFolder, outputFolder):
     for script in os.listdir(inputFolder):
         scriptFile = open(inputFolder + script, 'r', encoding='utf-8')
 
-        if os.path.exists(outputFolder + script):
-            os.remove(outputFolder + script)
+        if os.path.exists(outputFolder + script.strip('.txt')):
+            os.remove(outputFolder + script.strip('.txt'))
 
         outputFile = open(outputFolder + script.strip('.txt'), 'wb')
 
@@ -95,5 +95,5 @@ def injectScript(inputFolder, outputFolder):
         print(fileName)
 
 
-injectScript("translations/Done/", "translatedScripts/")
+injectScript("translations/Done/", "gen/")
 

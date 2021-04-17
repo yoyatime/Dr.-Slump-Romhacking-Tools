@@ -57,6 +57,7 @@ def findTableMatchForText(textObj, tableFile):
                 return line.split('=', 1)[0]
     
     #return input hex if no match found
+    print(textObj)
     return '<NOMATCH>'
 
 

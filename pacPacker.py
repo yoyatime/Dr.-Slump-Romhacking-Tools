@@ -18,7 +18,7 @@ import xml.etree.ElementTree as ET
 
 #Aligns a number to the next multiple of 4
 def byteAlign(value):
-    ret = value + ((4 - (value % 4) % 4)) 
+    ret = value + ((4 - (value % 4)) % 4) 
     return ret
 
 
@@ -134,7 +134,7 @@ def packPac(node, folder):
 
 for sourceFile in os.listdir("source/"):
     
-    if sourceFile.endswith("S01_E.PAC"):#$DEBUG
+    if sourceFile.endswith(".PAC"):#$DEBUG
         tree = ET.parse('xml/' + sourceFile + ".xml")
         root = tree.getroot()
     

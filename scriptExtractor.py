@@ -65,7 +65,7 @@ class Script:
 
 #Alignes a value to the next 4 byte position
 def byteAlign(value):
-    ret = value + ((4 - (value % 4) % 4)) 
+    ret = value + ((4 - (value % 4)) % 4) 
     return ret
 
 #converts a byte object to integer

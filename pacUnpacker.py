@@ -141,7 +141,7 @@ def findData(currNode, isroot, inputFolder, outputFolder):
 for sourceFile in os.listdir("source/"):
     isSource = True
 
-    if sourceFile.endswith("S01_E.PAC"):#$DEBUG
+    if sourceFile.endswith(".PAC"):#$DEBUG
         root = ET.Element('source')
 
         
@@ -149,7 +149,7 @@ for sourceFile in os.listdir("source/"):
         root.attrib['tableOffset']="0"
         root.attrib['size']=str(Path("source/" + sourceFile).stat().st_size)
         
-        findData(root, isSource, "genClean/", "genClean/")
+        findData(root, isSource, "source/", "genClean/")
 
         # Converting the xml data to byte object, 
         # for allowing flushing data to file  
