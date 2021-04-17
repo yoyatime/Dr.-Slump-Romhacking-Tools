@@ -22,7 +22,7 @@
 @257@952
 *Stay here[END]
 @258@968
-*[BLUE]Police Station[END]
+*[BLUE]Police[END]
 @259@1000
 *[BLUE]Bank[END]
 @260@1032

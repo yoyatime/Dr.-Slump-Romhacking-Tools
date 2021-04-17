@@ -1,0 +1,185 @@
+@@S04_M06A.PAC.232.lzss.uncomp@@323@@648@@5292
+@0/1/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/58/59/60/61/62/63/75/76/77/78/79/90/91/92/93/94/95/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/668/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[GLASSES_GUY]It's[nl]peaceful...[END]
+@2@688
+*[ARALE]Hey, it's[nl][PINK]Suppaman[WHITE].[END]
+@3@720
+*[GLASSES_GUY]I-I'm sorry,[nl]you must be[nl]mistaken![nl][PINK]Suppaman[WHITE]!? I'm[nl]certainly not[nl]the [YELLOW]ultra cool[nl]superhero[WHITE][nl][PINK]Suppaman[WHITE]! Ha,[nl]ha, ha...[END]
+@4@880
+*[ARALE]Hey [PINK]Suppaman[WHITE],[nl]what'cha doing?[END]
+@5@928
+*[GLASSES_GUY]I'm not[nl][PINK]Suppaman[WHITE]!![END]
+@6@960
+*[SUPPAMAN]I-I'm letting[nl]him off the hook[nl]for now...[END]
+@7@1012
+*[ARALE]What are you[nl]guys playing?[END]
+@8@1044
+*[SUPPAMAN]This isn't a[nl]game! The fate[nl]of the [BLUE]planet[WHITE] is[nl]at stake here![nl]I'm battling[nl]with this[nl][YELLOW]villain[WHITE]![END]
+@9@1148
+*[ARALE]U-ho-hoi! I[nl]wanna do that[nl]too![END]
+@10/16@1192/1192
+*[SUPPAMAN]Are you sure[nl]you can handle[nl]it? It's not[nl]exactly work a[nl]kid should be[nl]doing. But if[nl]you can prove[nl]your strength by[nl]pulling this[nl]off, I'll let[nl]you handle this[nl]one.[END]
+@17@1312
+*[SUPPAMAN]Nnnggghhhh...[END]
+@18@1348
+*[SUPPAMAN]Huff... puff...[nl]H-how about[nl]that? Do you[nl]think you can[nl]budge this[nl]thing?[END]
+@19@1424
+*[SUPPAMAN]....!!!![END]
+@20@1452
+*[ARALE]Huff puff.[END]
+@21@1468
+*[SUPPAMAN]I see... by[nl]pushing yourself[nl]to your absolute[nl]limit you were[nl]barely able to[nl]move that thing.[nl]You must have[nl]used up the last[nl]of your[nl]strength, so we[nl]should call it a[nl]day.[END]
+@22@1628
+*[ARALE]Aww...[END]
+@23@1648
+*[NIKO_SERVANT]I'm saved![END]
+@24@1672
+*[NIKO_SERVANT]Phew, this [PINK]old[nl]guy[WHITE] came out of[nl]nowhere and[nl]started accusing[nl]me![END]
+@25@1768
+*[SUPPAMAN]Who are you[nl]calling old!?[END]
+@26/32@1796/1796
+*[ARALE][PINK]King Nikochan[WHITE][nl]said he's[nl]looking for you.[END]
+@33@1852
+*[NIKO_SERVANT]Oh dear, I got[nl]so carried away[nl]with sightseeing[nl]the [BLUE]planet[WHITE] that[nl]we got[nl]separated...[nl]let's hurry and[nl]get away from[nl]this [PINK]old guy[WHITE]. [END]
+@34@1992
+*[SUPPAMAN]What did I say[nl]about calling me[nl]old!?![END]
+@35@2028
+*[SUPPAMAN]Hold it right[nl]there,[nl]evildoer! You[nl][YELLOW]aliens[WHITE] have come[nl]to take over the[nl][BLUE]Earth[WHITE], haven't[nl]you!?[END]
+@36@2116
+*[NIKO_SERVANT]You're wrong![nl]We've come in[nl]peace![END]
+@37@2144
+*[SUPPAMAN]Wait, really!?[END]
+@38@2168
+*[NIKO_SERVANT]A-wa-wa-wa.[nl]Yeah, we're[nl]innocent![END]
+@39@2212
+*[SUPPAMAN]Hmm...[END]
+@40@2228
+*[NIKO_SERVANT]W-wait! Please[nl]save me![END]
+@41@2276
+*[ARALE]Huh? It isn't[nl]connected.[END]
+@42/48@2308/2308
+*[SUPPAMAN]That's my[nl]exclusive[nl]personal[nl][YELLOW]phonebooth[WHITE], so[nl]don't touch it.[END]
+@49@2380
+*[ARALE]It's filled[nl]with abandoned[nl][YELLOW]clothes[WHITE].[END]
+@50@2408
+*[SUPPAMAN]They're not[nl]abandoned![END]
+@51@2440
+*[ARALE]Knock knock.[END]
+@52@2456
+*[SUPPAMAN]There's nobody[nl]home![END]
+@53@2480
+*[ARALE]It seems like[nl]no one's home.[END]
+@54@2512
+*[ARALE]Is this[nl][BLUE]Suppaman's[nl]House[WHITE]?[END]
+@55@2548
+*[GLASSES_GUY]I told you I'm[nl]not [PINK]Suppaman[WHITE]![END]
+@56@2600
+*[SUPPAMAN]Completely[nl]oblivious...[END]
+@57/64@2632/2632
+*[SUPPAMAN]I'm looking the[nl]other way this[nl]time.[END]
+@65@2660
+*[SUPPAMAN]Hey now! Who[nl]does that [PINK]rude[nl]pipsqueak[WHITE] think[nl]he is!?[END]
+@66@2720
+*[ARALE]He's [PINK]Chivil[WHITE].[nl]He's a [YELLOW]demon[WHITE].[END]
+@67@2756
+*[CHIVIL]Do you wanna[nl]die, chu?[END]
+@68@2784
+*[SUPPAMAN][YELLOW]D-demon[WHITE]?[nl]F-forget what I[nl]said. You're a[nl]very nice boy,[nl]a-ha... Sorry,[nl]but the people[nl]depend on me to[nl]maintain [YELLOW]peace[WHITE][nl]in this world,[nl]so I'll need to[nl]turn down your[nl]offer...[END]
+@69@2944
+*[CHIVIL]Let's keep[nl]moving, chu![END]
+@70@2976
+*[SUPPAMAN]That's too bad.[END]
+@71@3000
+*[SUPPAMAN]Aah! You again![nl]Did you bring[nl]another opponent[nl]for me!?[END]
+@72@3080
+*[ARALE]Nah, I don't[nl]have anything.[END]
+@73@3104
+*[SUPPAMAN]What!? Well[nl]that's too bad,[nl]ha-ha-ha. I was[nl]looking forward[nl]to it.[END]
+@74/80@3168/3168
+*[ARALE]Oh wait, I do[nl]have something.[END]
+@81@3196
+*[SUPPAMAN]Gah![END]
+@82@3212
+*[ARALE]Kya-ha-ha-ha! I[nl]lied.[END]
+@83@3248
+*[SUPPAMAN](Damn kid...)[END]
+@84@3272
+*[SUPPAMAN]Waa! It's the[nl][YELLOW]demonic duo[WHITE]![END]
+@85@3320
+*[CHIVIL]What's up with[nl]him? The [YELLOW]soul[WHITE] of[nl]an [PINK]old man[WHITE] like[nl]him isn't worth[nl]diddly squat.[END]
+@86@3412
+*[CHIVIL]We can move on,[nl]chu.[END]
+@87@3448
+*[SUPPAMAN]That's for[nl]emergencies[nl]only, so don't[nl]mess with it.[END]
+@88/103@3504/4048
+*[SUPPAMAN]You can't just[nl]let yourself in![END]
+@89/96@3544/3544
+*[SUPPAMAN]I suppose I can[nl]make an[nl]appearance.[END]
+@97@3584
+*[ARALE]Hey [PINK]Suppaman[WHITE].[nl]The [PINK]Professor[WHITE][nl]and [PINK]Ms. Midori[WHITE][nl]are getting[nl][YELLOW]married[WHITE].[END]
+@98@3676
+*[SUPPAMAN]Ha-ha-ha. So[nl]you want me to[nl]grace your event[nl]with my[nl]presence?[END]
+@99@3760
+*[ARALE]Yeah, something[nl]like that.[END]
+@100@3780
+*[SUPPAMAN]Wa-ha-ha-ha! It[nl]looks like the[nl][YELLOW]ally of justice[WHITE][nl]is pretty[nl]important[nl]celebrity! Sure[nl]kid, I'll be[nl]there. You're[nl]lucky I'm taking[nl]time out of my[nl]busy schedule[nl]for this.[END]
+@101@3964
+*[SUPPAMAN]So this is what[nl]fame feels like![END]
+@102@3996
+*[SUPPAMAN]That's for[nl]emergency use[nl]only. Don't[nl]touch it.[END]
+@104/224@4088/4088
+*[ARALE]I'm done with[nl]talking.[END]
+@225/240@4128/4128
+*Woo! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Push」[WHITE] ability![nl]Just walk into a[nl][YELLOW]pushable object[WHITE][nl]and you can move[nl]it![END]
+@241/256@4252/4252
+*Where to?[END]
+@257@4272
+*Stay here[END]
+@258@4288
+*[BLUE]Empty Lot[END]
+@259@4308
+*[BLUE]Smoke Shop[END]
+@260@4328
+*[BLUE]Kinoko's[END]
+@261/272@4352/4352
+*[ARALE]Let's go to the[nl][BLUE]Empty Lot[WHITE].[END]
+@273@4376
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@274@4404
+*[ARALE]Let's go to[nl][BLUE]Kinoko's House[WHITE].[END]
+@275/304@4436/4436
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@4480
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4540
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4584
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4636
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4724
+*[YELLOW]Formatting...[END]
+@310@4820
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4848
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4884
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4948
+*[YELLOW]Saving[WHITE]...[END]
+@314@5048
+*Overwrite[nl]existing save?[END]
+@315@5092
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@5144
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@5164/5232
+*Back[END]
+@318@5172
+*OK[END]
+@319@5184
+*[WHITE]Select a file[END]
+@320@5216
+*[YELLOW]Save[END]
+@322@5240
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

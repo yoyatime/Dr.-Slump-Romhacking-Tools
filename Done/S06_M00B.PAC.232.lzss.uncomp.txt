@@ -18,7 +18,7 @@
 @260@848
 *Where to?[END]
 @261@868
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @262@888
 *[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
 @263@920

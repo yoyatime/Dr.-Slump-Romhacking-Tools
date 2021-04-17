@@ -1,0 +1,139 @@
+@@S04_M02C.PAC.232.lzss.uncomp@@323@@648@@3868
+@0/13/14/15/27/28/29/30/31/43/44/45/46/47/54/55/56/57/58/59/60/61/62/63/76/77/78/79/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/233/234/235/236/237/238/239/245/246/247/248/249/250/251/252/253/254/255/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[YAMABUKI]Is [PINK]Senbei[WHITE] doing[nl]well?[END]
+@1@680
+*[YAMABUKI]Did you have a[nl]good look? Then[nl]can you tell me[nl]the [YELLOW]answer[WHITE]?[END]
+@2/20/23@748/1392/1504
+*[YAMABUKI]Sorry, that's[nl]wrong. Green was[nl]the correct[nl]answer.[END]
+@3/6/18/21/24@796/892/1328/1440/1552
+*[ARALE]But how did you[nl]know?[END]
+@4/7/19/22/25@840/936/1372/1484/1596
+*[YAMABUKI]O-ho-ho-ho.[END]
+@5/17@860/1296
+*[YAMABUKI]Correct! Nicely[nl]done, Arale.[END]
+@8@956
+*[ARALE]Did you know[nl]there are[nl][YELLOW]aliens[WHITE] at[nl]the [BLUE]Empty Lot[WHITE][nl]right now?[END]
+@9@1024
+*[YAMABUKI]Please don't[nl]tell those kinds[nl]of fibs, Arale.[nl]I might have to[nl]tell the[nl][PINK]Principal[WHITE] if you[nl]don't stop with[nl]them.[END]
+@10/33/37@1116/1684/1872
+*[ARALE]But it's true![END]
+@11@1136
+*[YAMABUKI]Then what color[nl]were those[nl][YELLOW]aliens[WHITE]? Can you[nl]answer that?[END]
+@12/16@1224/1224
+*[YAMABUKI]See? I knew you[nl]were lying. Make[nl]sure you really[nl]saw them and[nl]then answer the[nl]question.[END]
+@26/32/36@1616/1616/1804
+*[YAMABUKI]Arale, you[nl]really shouldn't[nl]tease your[nl]teacher.[END]
+@34@1704
+*[YAMABUKI]What is it,[nl]Arale?[END]
+@35@1740
+*[ARALE]The [PINK]Professor[WHITE][nl]wants to [YELLOW]marry[WHITE][nl][PINK]Ms. Midori[WHITE].[END]
+@38@1892
+*[PAPER][YELLOW]Cigarettes[WHITE] are[nl]only for grown[nl]ups.[END]
+@39/74@1928/2572
+*[YAMABUKI]Oh, are you[nl]going to clean[nl]the classroom?[END]
+@40@1960
+*[YAMABUKI]Please, go[nl]ahead.[END]
+@41/69@1988/2420
+*[ARALE]Hoi![END]
+@42/48/70@2000/2000/2432
+*[YAMABUKI]I see...[END]
+@49@2016
+*[YAMABUKI]Please don't[nl]try to leave[nl]through the[nl]window.[END]
+@50@2048
+*[YAMABUKI]Have a look and[nl]then come back,[nl]okay?[END]
+@51@2072
+*[YAMABUKI]Goodbye, Arale.[END]
+@52@2100
+*[ARALE][PINK]Ms. Midori[WHITE]![nl]There's a [YELLOW]space[nl]ship[WHITE] at our[nl][BLUE]house[WHITE]![END]
+@53/64/71@2176/2176/2448
+*[YAMABUKI]Oh? What is it,[nl]Arale?[END]
+@65@2216
+*[ARALE]Mini!![END]
+@66@2240
+*[YAMABUKI]Wh-what's[nl]happening!? What[nl]did you do to[nl]me!?[END]
+@67@2288
+*[ARALE]U-ho-hoi! I'm[nl]taking you to[nl]the [PINK]Professor[WHITE].[END]
+@68@2340
+*[PAPER][YELLOW]Dinosaurs[WHITE] are[nl]the strongest[nl]creatures that[nl]ever lived.[END]
+@72@2488
+*[ARALE]I found you,[nl][PINK]Ms. Midori[WHITE].[END]
+@73@2524
+*[ARALE]Huh? [PINK]Ms. Midori[WHITE][nl]isn't here.[END]
+@75/80@2604/2604
+*[PAPER]Life has ups[nl]and downs, just[nl]as mountains[nl]give way to[nl]valleys.[END]
+@81@2640
+*[ARALE]Oh right, [PINK]Ms.[nl]Midori[WHITE] is at [BLUE]Our[nl]House[WHITE].[END]
+@82/224@2708/2708
+*I dunno[END]
+@225@2720
+*Green[END]
+@226@2728
+*Blue[END]
+@227@2736
+*Pink[END]
+@228@2744
+*[ARALE]I dunno...[END]
+@229@2764
+*[ARALE]Green.[END]
+@230@2776
+*[ARALE]Blue.[END]
+@231@2788
+*[ARALE]Pink.[END]
+@232/240@2800/2800
+*Yes[END]
+@241@2808
+*Nah[END]
+@242@2820
+*[ARALE]Yes.[END]
+@243@2832
+*[ARALE]Nope.[END]
+@244/256@2848/2848
+*Stay here[END]
+@257@2864
+*[BLUE]Office[END]
+@258@2892
+*[BLUE]School Yard[END]
+@259@2912
+*Where to?[END]
+@260@2932
+*[ARALE]Never mind.[END]
+@261@2952
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@262@2980
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@263/304@3012/3012
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3056
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3116
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3160
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3212
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3300
+*[YELLOW]Formatting...[END]
+@310@3396
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3424
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3460
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3524
+*[YELLOW]Saving[WHITE]...[END]
+@314@3624
+*Overwrite[nl]existing save?[END]
+@315@3668
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3720
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3740/3808
+*Back[END]
+@318@3748
+*OK[END]
+@319@3760
+*[WHITE]Select a file[END]
+@320@3792
+*[YELLOW]Save[END]
+@322@3816
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

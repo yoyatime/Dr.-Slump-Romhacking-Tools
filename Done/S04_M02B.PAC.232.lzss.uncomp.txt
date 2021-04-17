@@ -1,0 +1,115 @@
+@@S04_M02B.PAC.232.lzss.uncomp@@323@@648@@2868
+@0/11/12/13/14/15/22/23/24/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PRINCIPAL]Try not to tell[nl]such outrageous[nl]lies.[END]
+@1@676
+*[ARALE]I met an [YELLOW]alien[WHITE][nl]and had a nice[nl]chat with them.[END]
+@2@740
+*[PRINCIPAL]Don't be silly.[nl][YELLOW]Aliens[WHITE] aren't[nl]real.[END]
+@3@804
+*[ARALE]They're real![nl]They're funny[nl]and I talked to[nl]one![END]
+@4@844
+*[PRINCIPAL]And what did[nl]this alien look[nl]like?[END]
+@5@896
+*[ARALE]They're just[nl]like a big face.[END]
+@6@928
+*[PRINCIPAL]Ha-ha-ha! You[nl]haven't gotten[nl]any better at[nl]lying, it seems.[END]
+@7@988
+*[PRINCIPAL]It's fun?[nl]That's swell.[END]
+@8@1012
+*[PRINCIPAL]Not having fun?[END]
+@9@1040
+*[PRINCIPAL]What do you[nl]think? Are you[nl]having fun at[nl][BLUE]School[WHITE]?[END]
+@10/16@1084/1084
+*[PRINCIPAL]Well said, well[nl]said.[END]
+@17@1108
+*[PRINCIPAL]Ho-ho-ho![END]
+@18/35@1124/1336
+*[ARALE]Ho-ho-ho![END]
+@19@1140
+*[PRINCIPAL]Stop that![END]
+@20/37/58@1164/1384/1804
+*[PRINCIPAL]Get down from[nl]there.[END]
+@21/32@1184/1184
+*[PRINCIPAL]Aren't you[nl]tired of the[nl]ridiculous[nl]nonsense you[nl]come up with?[END]
+@33@1228
+*[ARALE]This time I met[nl]a [YELLOW]demon[WHITE] and[nl]talked to him.[END]
+@34@1280
+*[PRINCIPAL]I see. That's[nl]nice. Ho-ho-ho.[END]
+@36@1352
+*[PRINCIPAL]Stop doing[nl]that![END]
+@38/48@1404/1404
+*[PRINCIPAL][PINK]Ms. Midori[WHITE]...[END]
+@49@1440
+*[ARALE]Hey, [PINK]Ms. Midori[WHITE][nl]and the[nl][PINK]Professor[WHITE] are[nl]getting [YELLOW]married[WHITE].[END]
+@50@1512
+*[PRINCIPAL]What!? Are you[nl]telling the[nl]truth!?[END]
+@51@1548
+*[ARALE]Hee-hee-hee.[END]
+@52@1564
+*[PRINCIPAL]Phew! You had[nl]me going there[nl]for a second.[nl]Remind me to[nl]never believe[nl]anything you[nl]say.[END]
+@53@1636
+*[ARALE]But it's true.[END]
+@54@1656
+*[PRINCIPAL]Then maybe I'll[nl]go and make sure[nl]of it myself.[END]
+@55@1716
+*[ARALE]Yeah, you[nl]should come.[END]
+@56@1736
+*[PRINCIPAL]You better not[nl]be lying![END]
+@57@1764
+*[PRINCIPAL]That's what you[nl]came here for?[END]
+@59/224@1824/1824
+*Hoi[END]
+@225@1832
+*Boring...[END]
+@226@1844
+*[ARALE]Hoi![END]
+@227@1856
+*[ARALE]It sucks~[END]
+@228/256@1876/1876
+*Where to?[END]
+@257@1896
+*Stay here[END]
+@258@1912
+*[BLUE]Classroom[END]
+@259@1936
+*[BLUE]School Yard[END]
+@260/272@1956/1956
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@273@1984
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@274/304@2012/2012
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2056
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2116
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2160
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2212
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2300
+*[YELLOW]Formatting...[END]
+@310@2396
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2424
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2460
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2524
+*[YELLOW]Saving[WHITE]...[END]
+@314@2624
+*Overwrite[nl]existing save?[END]
+@315@2668
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@2720
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@2740/2808
+*Back[END]
+@318@2748
+*OK[END]
+@319@2760
+*[WHITE]Select a file[END]
+@320@2792
+*[YELLOW]Save[END]
+@322@2816
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

@@ -14,7 +14,7 @@
 @35/39/65@488/752/1136
 *[ARALE]Ho-yo?[END]
 @36@500
-*[KING_NIKO]Whaaaa---! Some[nl]slimeball named[nl][PINK]The Pest[WHITE][nl_space] has taken[nl]over my [YELLOW]palace[WHITE]!?[nl]And he's[nl]demanding a[nl]ransom of 16[nl][YELLOW]Daikons[WHITE], or else[nl]he'll whack[nl]everyone!?[END]
+*[KING_NIKO]Whaaaa--!? Some[nl]slime-ball named[nl][PINK]The Pest[WHITE][nl_space] has taken[nl]over my [YELLOW]palace[WHITE]!?[nl]And he's[nl]demanding a[nl]ransom of 16[nl][YELLOW]Daikons[WHITE], or else[nl]he'll whack[nl]everyone!?[END]
 @37@676
 *[NIKO_SERVANT]What are we[nl]going to do...[END]
 @38@704

@@ -1,0 +1,161 @@
+@@S04_M00B.PAC.232.lzss.uncomp@@323@@648@@4800
+@0/14/15/23/24/25/26/27/28/29/30/31/40/41/42/43/44/45/46/47/72/73/74/75/76/77/78/79/91/92/93/94/95/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[HAKASE]Do you have my[nl][YELLOW]cigarettes[WHITE] yet?[END]
+@1@684
+*[HAKASE]Sigh...[END]
+@2@700
+*[ARALE]What's the[nl]matter,[nl][PINK]Professor[WHITE]?[END]
+@3@728
+*[HAKASE]I want to get[nl]closer to [PINK]Ms.[nl]Midori[WHITE], but I[nl]just can't[nl]figure out[nl]how...[END]
+@4/61/69@800/2656/3044
+*[ARALE]Ho-yo?[END]
+@5@812
+*[HAKASE]Maybe it would[nl]be best if I[nl]stopped hiding[nl]and just[nl][YELLOW]proposed[WHITE] to[nl]her... [END]
+@6@896
+*[ARALE]Hey, umm.[END]
+@7@908
+*[HAKASE]But what if she[nl]says no!? I'll[nl]need to think[nl]this over[nl]carefully.[END]
+@8@984
+*[ARALE][PINK]PROFESSOR[WHITE]!![END]
+@9@1012
+*[HAKASE]Bwuh!? Oh,[nl]hello Arale.[nl]Were you there[nl]the whole time?[END]
+@10@1056
+*[ARALE]What'cha doing?[END]
+@11@1076
+*[HAKASE]Oh, you know...[nl]busy with my[nl][YELLOW]inventions[WHITE] and[nl]whatnot. Busy[nl]busy busy! Why[nl]don't you do me[nl]a favor and pick[nl]up a pack of[nl][YELLOW]cigarettes[WHITE] for[nl]me. You can get[nl]to the [BLUE]Smoke[nl]Shop[WHITE] from the[nl][BLUE]Empty Lot[WHITE][nl]nearby.[END]
+@12@1296
+*[ARALE]Hoi![END]
+@13/16@1308/1308
+*[HAKASE]It's broken.[nl]Maybe I'll fix[nl]it for next[nl]time.[END]
+@17/88/90/96@1368/3532/3604/3604
+*[ARALE]There's nothing[nl]inside.[END]
+@18/19/21/66/89/97@1396/1440/1556/2888/3560/3632
+*[ARALE]U-ho-hoi! I[nl]found some[nl][YELLOW]money[WHITE]♪[END]
+@20@1484
+*[HAKASE](Damn! That was[nl]my [YELLOW]secret[nl]stash[WHITE]!)[END]
+@22/32@1600/1600
+*[ARALE]What are you[nl]mumbling about?[END]
+@33@1640
+*[HAKASE]I need to stop[nl]beating around[nl]the bush and[nl]approach [PINK]Ms.[nl]Midori[WHITE] with my[nl]honest feelings.[END]
+@34@1700
+*[ARALE]There he goes[nl]again...[END]
+@35@1724
+*[HAKASE][PINK]Ms. Midori[WHITE],[nl]would you please[nl][YELLOW]marry[WHITE] me! I need[nl]to tell her[nl]plainly like[nl]that.[END]
+@36@1788
+*[YAMABUKI]Yes![END]
+@37@1800
+*[HAKASE]Huh!?[END]
+@38@1812
+*[ARALE]Mega![END]
+@39/48@1832/1832
+*[HAKASE]A-wa-wa-wa![nl][PINK]M-Ms. Midori[WHITE]...[nl]do you really[nl]mean it?[END]
+@49@1912
+*[YAMABUKI]Tee-hee.[END]
+@50@1924
+*[HAKASE]A-Arale! Please[nl]let everyone[nl]know about this![END]
+@51@1976
+*[ARALE]Hoi![END]
+@52@1992
+*[HAKASE]Wahoo! I'm[nl][YELLOW]marrying[WHITE] [PINK]Ms.[nl]Midori[WHITE]! Yippee![END]
+@53@2064
+*[HAKASE]Time to do what[nl]I do best,[nl][YELLOW]invent[WHITE]![END]
+@54@2112
+*[HAKASE]I've come up[nl]with a [YELLOW]genius[WHITE][nl]plan to get[nl]closer to [PINK]Ms.[nl]Midori[WHITE]. As with[nl]most things,[nl]this problem can[nl]be solved with[nl][YELLOW]inventions[WHITE].[END]
+@55@2276
+*[ARALE]M-hmm.[END]
+@56@2292
+*[HAKASE]Anyways, I'm no[nl]good with people[nl]and emotions.[nl]Even getting[nl]thanked by those[nl][PINK]out-of-towners[WHITE][nl]earlier was[nl]enough to get me[nl]flustered.[END]
+@57@2444
+*[ARALE]Umm, those[nl]people were[nl]actually [YELLOW]aliens[WHITE].[END]
+@58@2508
+*[HAKASE]Zounds!? Those[nl]people were[nl]really [YELLOW]aliens[WHITE]!?[END]
+@59@2560
+*[ARALE]Yup.[END]
+@60@2572
+*[HAKASE]No wonder their[nl]faces looked so[nl]funny... whoops.[END]
+@62@2668
+*[HAKASE]All I did was[nl]build them a[nl]simple [YELLOW]car[WHITE]. No[nl]matter how fast[nl]it goes, that[nl]thing isn't[nl]making it to[nl][BLUE]outer space[WHITE]...[nl]oh well, I'll[nl]get back to the[nl][YELLOW]lab[WHITE] and build[nl]them a real[nl][YELLOW]space ship[WHITE][nl]later.[END]
+@63/64@2828/2828
+*[ARALE]No dice.[END]
+@65@2856
+*[ARALE]There's nothing[nl]in here.[END]
+@67@2932
+*U-ho-hoi! I[nl]found some[nl][YELLOW]money[WHITE]♪[END]
+@68@2976
+*[HAKASE]...maybe I[nl]should be more[nl]honest about my[nl]feelings...[END]
+@70@3056
+*[HAKASE]Hold on a[nl]minute, Arale![nl]I've got[nl]something good[nl]to tell you![END]
+@71/80@3140/3140
+*[LADY_WITH_EARRINGS]Maybe I just[nl]didn't know him[nl]all that well...[END]
+@81@3180
+*[LADY_WITH_EARRINGS]I can't believe[nl]it. How did that[nl]guy of all[nl]people manage to[nl]find a [YELLOW]wife[WHITE]...[END]
+@82@3264
+*[PAPA_SORAMAME]But it seems to[nl]have worked...[END]
+@83@3292
+*[PAPA_SORAMAME]I don't know[nl]what kind of[nl]dirty trick he[nl]pulled...[END]
+@84@3352
+*[PRINCIPAL]Umm.[nl]Congratulations[nl]I suppose.[END]
+@85@3376
+*[PRINCIPAL][PINK]Ms. Midori[WHITE] and[nl][PINK]Dr. Norimaki[WHITE]...[nl]unbelievable.[END]
+@86@3444
+*[TOBACCO_GRANNY]Can you fetch[nl]me a cup of [YELLOW]tea[WHITE]?[END]
+@87@3472
+*[TOBACCO_GRANNY]Call me back[nl]when there's a[nl]baby on the way.[nl]I'm a great[nl]midwife, you[nl]know.[END]
+@98/192@3676/3676
+*[HAKASE]I'm back![END]
+@193@3696
+*[ARALE]The [PINK]Professor[WHITE][nl]is here![END]
+@194/256@3732/3732
+*Stay here[END]
+@257@3748
+*[BLUE]My Room[END]
+@258@3772
+*[BLUE]Lab[END]
+@259@3800
+*[BLUE]Outside[END]
+@260@3816
+*Where to?[END]
+@261@3836
+*[ARALE]Never mind.[END]
+@262@3856
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@263@3888
+*[ARALE]Let's go to the[nl][BLUE]Lab[WHITE].[END]
+@264@3920
+*[ARALE]Let's go[nl][BLUE]Outside[WHITE].[END]
+@265/304@3944/3944
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3988
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4048
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4092
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4144
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4232
+*[YELLOW]Formatting...[END]
+@310@4328
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4356
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4392
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4456
+*[YELLOW]Saving[WHITE]...[END]
+@314@4556
+*Overwrite[nl]existing save?[END]
+@315@4600
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4652
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4672/4740
+*Back[END]
+@318@4680
+*OK[END]
+@319@4692
+*[WHITE]Select a file[END]
+@320@4724
+*[YELLOW]Save[END]
+@322@4748
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

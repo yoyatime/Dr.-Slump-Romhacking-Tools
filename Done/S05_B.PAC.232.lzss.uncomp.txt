@@ -4,7 +4,7 @@
 @1@144
 *[ARALE]U-ho-hoi![END]
 @2@164
-*[OBOTCHAMAN]Take a look at[nl]the [YELLOW]stone staues[WHITE][nl]ahead of us.[nl]I'll try to[nl]throw the [YELLOW]space[nl]boulders[WHITE] at the[nl]one that looks[nl]like [PINK]Dr.[nl]Norimaki[WHITE], and[nl]you'll try to[nl]throw them at[nl]the one that[nl]looks like [PINK]Dr.[nl]Mashirito[WHITE]. First[nl]one to destroy[nl]their [YELLOW]statue[WHITE][nl]wins.[END]
+*[OBOTCHAMAN]Take a look at[nl]the [YELLOW]stone[nl]statues[WHITE] ahead of[nl]us. I'll try to[nl]throw the [YELLOW]space[nl]boulders[WHITE] at the[nl]one that looks[nl]like [PINK]Dr.[nl]Norimaki[WHITE], and[nl]you'll try to[nl]throw them at[nl]the one that[nl]looks like [PINK]Dr.[nl]Mashirito[WHITE]. First[nl]one to destroy[nl]their [YELLOW]statue[WHITE][nl]wins.[END]
 @3@396
 *[ARALE]Hoi![END]
 @4@408

@@ -28,7 +28,7 @@
 @17@1284
 *[ARALE]N'cha![END]
 @18@1300
-*[KINOKO_STYLISH]Who are you[nl]two? I don't[nl]recognize either[nl]of you?[END]
+*[KINOKO_STYLISH]Who are you[nl]two? I don't[nl]recognize either[nl]of you.[END]
 @19@1368
 *[ARALE]I'm Arale! Oh,[nl]and this one is[nl][PINK]Gatchan[WHITE].[END]
 @20@1432
@@ -80,17 +80,17 @@
 @52@2496
 *[NIKO_SERVANT]Ooh, how[nl]interesting.[END]
 @53@2524
-*[KING_NIKO]You numbskull![nl]Our [BLUE]planet[WHITE] had[nl]mountains too![END]
+*[KING_NIKO]You numb-skull![nl]Our [BLUE]planet[WHITE] had[nl]mountains too![END]
 @54/68@2580/3152
 *[KING_NIKO](These lousy[nl]rotten kids...[nl]I'll teach them[nl]to insult the[nl][YELLOW]ultimate space[nl]emperor[WHITE]!)[END]
 @55@2664
 *[ARALE]Ho-yo? Where's[nl][PINK]four-eyes[WHITE]?[END]
 @56@2696
-*[KING_NIKO]Eyy, it's you[nl]again! I dont[nl]know where [PINK]my[nl]servant[WHITE] went! Go[nl]find him![END]
+*[KING_NIKO]Eyy, it's you[nl]again! I don't[nl]know where [PINK]my[nl]servant[WHITE] went! Go[nl]find him![END]
 @57/93@2800/4008
 *[ARALE]Hoi![END]
 @58/64@2812/2812
-*[AKANE]What's the[nl]matter? Can't do[nl]your buddy[nl]stand-up routine[nl]without your[nl]patner?[END]
+*[AKANE]What's the[nl]matter? Can't do[nl]your buddy[nl]stand-up routine[nl]without your[nl]partner?[END]
 @65@2888
 *[TARO]Yo, Arale.[nl]These [YELLOW]aliens[WHITE] are[nl]hilarious! We've[nl]been laughing it[nl]up this whole[nl]time![END]
 @66@2980
@@ -114,7 +114,7 @@
 @81@3516
 *[KINOKO_STYLISH]Wait what have[nl]you got there?[nl]Why don't you[nl]show it to me?[END]
 @82@3584
-*[KINOKO_STYLISH]Ah, that's what[nl]I expected of[nl]you. Truly a[nl][YELLOW]dull[WHITE] girl.[END]
+*[KINOKO_STYLISH]Ah, that's what[nl]I expected of[nl]you. You truly[nl]are a [YELLOW]dimwitted[WHITE][nl]girl.[END]
 @83@3640
 *[NIKO_SERVANT][PINK]My liege[WHITE]!![END]
 @84@3672
@@ -164,7 +164,7 @@
 @120@4660
 *[CHIVIL]This won't do.[nl]There's nobody[nl]here, chu![END]
 @121@4704
-*[ARALE]O-ho![END]
+*[ARALE]Ho-yo.[END]
 @122@4720
 *[SUPPAMAN]Find something[nl]and bring it[nl]here.[END]
 @123@4752
@@ -172,7 +172,7 @@
 @124/128@4784/4784
 *[CHIVIL]Let's get[nl]going, chu.[END]
 @129@4808
-*[ARALE]Hey [PINK]Chivil[WHITE]. The[nl][PINK]Professor[WHITE] and[nl][PINK]Ms. Midori[WHITE] are[nl]getting [YELLOW]married[WHITE].[nl]You'll come to[nl]the wedding at[nl]our house,[nl]right?[END]
+*[ARALE]Hey [PINK]Chivil[WHITE]. The[nl][PINK]Professor[WHITE] and[nl][PINK]Ms. Midori[WHITE] are[nl]getting [YELLOW]married[WHITE].[nl]You'll come to[nl]the celebration[nl]at our house,[nl]right?[END]
 @130@4932
 *[CHIVIL]Nah, not[nl]inchurested. I'm[nl]busy with all of[nl]the [YELLOW]soul[WHITE][nl]collecting.[END]
 @131@5008
