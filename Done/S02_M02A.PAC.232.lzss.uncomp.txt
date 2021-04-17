@@ -1,0 +1,189 @@
+@@S02_M02A.PAC.232.lzss.uncomp@@323@@648@@5044
+@0/10/11/12/13/14/15/27/28/29/30/31/42/43/44/45/46/47/58/59/60/61/62/63/75/76/77/78/79/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/270/271/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE]I got your [YELLOW]key[WHITE]![END]
+@1@676
+*[MASHARITO]Blast! I must[nl]say your skills[nl]have impressed[nl]me once again.[nl]But don't think[nl]you've seen the[nl]last of me![nl]Come,[nl][PINK]Caramelman[WHITE]![END]
+@2@860
+*[ARALE]Ho-yo-yo.[END]
+@3@876
+*[MASHARITO]This isn't[nl]good...[END]
+@4/22@932/1656
+*[ARALE]N'cha![END]
+@5@948
+*[MASHARITO]Where did that[nl][GREEN]jumping[WHITE] power[nl]come from!? I[nl]didn't have any[nl]data on this...[END]
+@6@1032
+*[MASHARITO]Bwa-ha-ha-ha![nl]There's no[nl]escaping me now![nl]I must commend[nl]you for making[nl]it this far...[nl]but you'll go no[nl]further! You[nl]have no hope of[nl]navigating my[nl]dastardly[nl][YELLOW]minefield[WHITE]![END]
+@7@1172
+*[ARALE]U-ho-hoi![nl]This'll be fun![END]
+@8@1212
+*[MASHARITO]Poor girl. I[nl]see she's[nl]already been[nl]driven mad by my[nl][YELLOW]psychological[nl]warfare[WHITE].[END]
+@9/16@1292/1292
+*[MASHARITO]I've been[nl]waiting for you![nl]Hey, I'm up[nl]here! I'm on the[nl][BLUE]roof[WHITE]![END]
+@17@1368
+*[ARALE]Ho-yo~[END]
+@18@1380
+*[MASHARITO]The [YELLOW]key to my[nl]secret base[WHITE] is[nl]right here. If[nl]you can somehow[nl]manage to reach[nl]me, you can have[nl]it. How about[nl]it, do you[nl]accept my[nl]challenge!?[END]
+@19@1512
+*[ARALE]U-ho-hoi![END]
+@20@1528
+*[MASHARITO](Idiot girl![nl]Your [GREEN]jump[WHITE] has no[nl]hope of reaching[nl]me up here! I've[nl]already[nl]calculated all[nl]of your[nl]options!)[END]
+@21@1616
+*[YAMABUKI]Oh, good[nl]morning Arale.[END]
+@23@1672
+*[YAMABUKI]Oh? What's that[nl]you've got[nl]there?[END]
+@24@1704
+*[ARALE]Turn into a[nl][YELLOW]monster[WHITE]![END]
+@25@1732
+*[YAMABUKI]!!!!!!!![END]
+@26/32@1752/1752
+*[MASHARITO]Curses! I've[nl]failed again...[nl]but I'll be[nl]back! Let's get[nl]out of here,[nl][PINK]Caramelman[WHITE]!![END]
+@33@1856
+*[ARALE]This is cool![END]
+@34@1880
+*[MASHARITO]S-stop that![nl]Those are my[nl][YELLOW]secret weapons[WHITE],[nl]please take this[nl]seriously![END]
+@35@1960
+*[MASHARITO]You disgust[nl]me... You know[nl]that's [YELLOW]poop[WHITE],[nl]right?[END]
+@36@2036
+*[MASHARITO]Unbelievable...[nl]unimaginable...[nl]this can't be![END]
+@37@2108
+*[MASHARITO]This is[nl]madness... I[nl]think she might[nl]even be enjoying[nl]this...[END]
+@38@2180
+*[MASHARITO]What the heck[nl]are you doing?![nl]Did you[nl]seriously just[nl]poke that[nl]thing?![END]
+@39@2252
+*[MASHARITO]You can't run[nl]away now! Honor[nl]our duel, you[nl]worm![END]
+@40@2304
+*[MASHARITO]Wa-ha-ha-ha![nl]Given up[nl]already? I win,[nl]I win![END]
+@41/48@2376/2376
+*[AKANE]Welcome to the[nl]bad girl club.[END]
+@49@2408
+*[AKANE]Great, another[nl]goody two shoes[nl]in our group.[END]
+@50@2440
+*[AKANE]Go take a[nl]closer look at[nl]it.[END]
+@51@2472
+*[TARO]Do what you[nl]want with it.[END]
+@52@2500
+*[TARO]I'm impressed,[nl]Arale.[END]
+@53@2532
+*[TARO]Why don't you[nl]try picking it[nl]up?[END]
+@54@2568
+*[PEASUKE_WHITE]You should try[nl]to be a better[nl]citizen.[END]
+@55@2592
+*[PEASUKE_WHITE]All lost items[nl]need to be[nl]returned to the[nl][PINK]Police[WHITE].[END]
+@56@2660
+*[PEASUKE_WHITE]...isn't this[nl]dangerous?[END]
+@57/64@2704/2704
+*[AKANE]Damn, [PINK]Taro[WHITE]'s[nl]pitches are all[nl]over the place.[END]
+@65@2760
+*[AKANE]Did you find[nl]something to do[nl]with that [YELLOW]100[nl]yen[WHITE]?[END]
+@66@2808
+*[TARO]Ha-ha... I was[nl]just warming up,[nl]I swear! Now I'm[nl]playing for[nl]real.[END]
+@67@2872
+*[TARO]Find a use for[nl]that [YELLOW]100 yen[WHITE][nl]yet?[END]
+@68@2924
+*[PEASUKE_WHITE][PINK]Big bro[WHITE] can't[nl]throw a single[nl]strike, so the[nl]ball never[nl]actually reaches[nl]me.[END]
+@69@3008
+*[PEASUKE_WHITE]Heya Arale. Did[nl]you find a[nl][PINK]Police Officer[WHITE][nl]yet?[END]
+@70@3064
+*[AKANE]Hey... what's[nl]that on the[nl]ground over[nl]there?[END]
+@71@3108
+*[PEASUKE_WHITE]It looks shiny.[END]
+@72@3136
+*[TARO]Why don't you[nl]check it out,[nl]Arale?[END]
+@73@3168
+*[AKANE]Nah dude, it's[nl]probably a piece[nl]of trash.[END]
+@74/80@3208/3208
+*[ARALE]U-ho-hoi! I[nl]found [YELLOW]100 yen[WHITE]![END]
+@81@3256
+*[TARO]Aww man... I[nl]could've used[nl]that.[END]
+@82@3312
+*[AKANE]It was only [YELLOW]100[nl]yen[WHITE]. Don't lose[nl]your head over[nl]it.[END]
+@83@3376
+*[PEASUKE_WHITE]Arale, you[nl]should let the[nl][PINK]police[WHITE] hold onto[nl]any money you[nl]find.[END]
+@84@3464
+*[AKANE]Tch, you're[nl]such a square.[END]
+@85@3496
+*[AKANE]Hee-hee, Arale[nl]is a bit of a[nl]bad girl too it[nl]seems.[END]
+@86@3540
+*[AKANE]Yo, aren't you[nl]gonna pick it[nl]up?[END]
+@87@3584
+*[TARO]Okay, see you[nl]later Arale.[nl]We're gonna play[nl]around here a[nl]little longer.[END]
+@88@3664
+*[AKANE]See ya, Arale.[END]
+@89@3688
+*[ARALE]Bye'cha![END]
+@90/224@3708/3708
+*Hoi[END]
+@225@3716
+*No way[END]
+@226@3728
+*[ARALE]Hoi![END]
+@227@3744
+*[ARALE]I don't wanna.[END]
+@228/256/275@3760/3760/4088
+*Where to?[END]
+@257/269/272@3780/4020/4020
+*Stay here[END]
+@258@3796
+*[BLUE]Home[END]
+@259@3816
+*[BLUE]Coffee Pot[END]
+@260@3844
+*[BLUE]Barber Shop[END]
+@261@3872
+*[BLUE]Hills[END]
+@262/264@3892/3892
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@265@3920
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@266@3952
+*[ARALE]Let's go to the[nl][BLUE]Barber Shop[WHITE].[END]
+@267@3988
+*[ARALE]Let's go to the[nl][BLUE]Hills[WHITE].[END]
+@268@4016
+* [END]
+@273@4036
+*[BLUE]Classroom[END]
+@274@4060
+*[BLUE]Office[END]
+@276@4108
+*[ARALE]Never mind.[END]
+@277@4128
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@278@4156
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@279/304@4188/4188
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@4232
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4292
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4336
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4388
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4476
+*[YELLOW]Formatting...[END]
+@310@4572
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4600
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4636
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4700
+*[YELLOW]Saving[WHITE]...[END]
+@314@4800
+*Overwrite[nl]existing save?[END]
+@315@4844
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4896
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4916/4984
+*Back[END]
+@318@4924
+*OK[END]
+@319@4936
+*[WHITE]Select a file[END]
+@320@4968
+*[YELLOW]Save[END]
+@322@4992
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

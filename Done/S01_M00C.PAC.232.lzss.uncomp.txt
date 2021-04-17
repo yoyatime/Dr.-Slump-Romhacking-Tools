@@ -92,7 +92,7 @@
 @146@4400
 *[HAKASE]K-k-kids[nl]shouldn't be[nl]messing around[nl]with [YELLOW]books[WHITE] like[nl]this. I can't[nl]let you keep it,[nl]hand it over.[END]
 @147@4496
-*[ARALE]Ok, here you[nl]go.[END]
+*[ARALE]Okay, here you[nl]go.[END]
 @148@4524
 *[HAKASE]Wait, really?[nl]I'm so proud of[nl]you, Arale![END]
 @149@4580
@@ -108,7 +108,7 @@
 @157@4948
 *[HAKASE]Whatever, just[nl]go [BLUE]Outside[WHITE][nl]already![END]
 @169/192@5520/5520
-*[ARALE]Kyahaha![END]
+*[ARALE]Kya-ha-ha![END]
 @193@5540
 *[ARALE]U-ho-hoi![END]
 @194@5556
@@ -142,7 +142,7 @@
 @260@6528
 *Where to?[END]
 @261@6548
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @262@6568
 *[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
 @263@6600
@@ -156,7 +156,7 @@
 @307@7704
 *[ARALE]Really? What[nl]did you make?[END]
 @308@7736
-*[HAKASE]Behold the[nl][BLUE]Spedometer[WHITE]! It[nl]can tell you how[nl]fast you're[nl]moving. You can[nl]find it on the[nl]right side of[nl]the screen.[END]
+*[HAKASE]Behold the[nl][BLUE]Speedometer[WHITE]! It[nl]can tell you how[nl]fast you're[nl]moving. You can[nl]find it on the[nl]right side of[nl]the screen.[END]
 @309/313/317/321/325/329/333/337/341/345/349/353/357/361/365/367/369@7860/8084/8296/8480/8656/8848/9036/9224/9408/9584/9796/10056/10360/10512/10728/10884/11040
 *[ARALE]U-ho-hoi![END]
 @310/314/318/322/326/330/334/338@7880/8104/8316/8500/8676/8868/9056/9244

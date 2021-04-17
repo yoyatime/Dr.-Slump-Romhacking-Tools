@@ -1,0 +1,179 @@
+@@S02_M01B.PAC.232.lzss.uncomp@@323@@648@@5656
+@0/23/24/25/26/27/28/29/30/31/40/41/42/43/44/45/46/47/54/55/56/57/58/59/60/61/62/63/72/73/74/75/76/77/78/79/89/90/91/92/93/94/95/99/100/101/102/103/104/105/106/107/108/109/110/111/122/123/124/125/126/127/135/136/137/138/139/140/141/142/143/147/148/149/150/151/152/153/154/155/156/157/158/159/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/247/248/249/250/251/252/253/254/255/263/264/265/266/267/268/269/270/271/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[LADY_WITH_EARRINGS]Awfully quiet[nl]in here...[END]
+@1@672
+*[LADY_WITH_EARRINGS]I-I wouldn't[nl]know anything[nl]about that![END]
+@2@708
+*[LADY_WITH_EARRINGS]It's a full[nl]house today♪[nl]Although most of[nl]them are not[nl]exactly paying[nl]customers.[END]
+@3@776
+*[AKANE]Whatever, it's[nl]all cool.[END]
+@4@800
+*[LADY_WITH_EARRINGS]"Cool" doesn't[nl]pay the bills![END]
+@5@864
+*[AKANE]Eek! Why is[nl]there a[nl]cockroach in my[nl]cup![END]
+@6@936
+*[TARO]Hey Arale, have[nl]you heard?[END]
+@7@980
+*[ARALE]Ooh! What is[nl]it?[END]
+@8@996
+*[TARO][PINK]Suppaman[WHITE][nl]appeared again[nl]yesterday.[END]
+@9@1044
+*[AKANE]Yeah, a [YELLOW]martian[WHITE][nl]was attacking[nl]the city...[nl]while he was[nl]busy fighting[nl]with an octopus![END]
+@10@1152
+*[TARO]Earlier he[nl]caught a[nl][YELLOW]caterpillar[WHITE] and[nl]acted like we[nl]should thank him[nl]for saving our[nl]lives![END]
+@11@1220
+*[AKANE]Ah-ha-ha-ha-ha![nl]What a moron![END]
+@12/14@1264/1324
+*[GLASSES_GUY]...[END]
+@13@1288
+*[TARO]Wh-when did[nl]that get in[nl]here?![END]
+@15/16/18/71/80/119@1348/1348/1424/2592/2592/3380
+*[LADY_WITH_EARRINGS]Welcome, Arale![END]
+@17@1388
+*[AKANE]Aaaah! A[nl]cockroach, ew![END]
+@19@1464
+*[PAPER]Strange events[nl]are happening in[nl][BLUE]Penguin Village[WHITE]![nl]Who is[nl]responsible for[nl]them!?[END]
+@20@1548
+*[LADY_WITH_EARRINGS]I'm so bored...[END]
+@21@1576
+*[LADY_WITH_EARRINGS]Sorry, I'm a[nl]little busy[nl]right now.[END]
+@22/32/82/121/128@1636/1636/2700/3504/3504
+*[LADY_WITH_EARRINGS]Do you know[nl]what today's[nl][YELLOW]special[WHITE] is?[END]
+@33/83/129@1692/2756/3560
+*[LADY_WITH_EARRINGS]Incorrect. Take[nl]a look at the[nl][YELLOW]signboard[WHITE] to see[nl]today's [YELLOW]special[WHITE].[END]
+@34/146/160@1760/3916/3916
+*[LADY_WITH_EARRINGS]Well done! I'll[nl]reward you with[nl]a useful tip.[END]
+@35/67/85/131/161@1864/2392/2924/3728/4020
+*[ARALE]U-ho-hoi![END]
+@36@1880
+*[LADY_WITH_EARRINGS]You might have[nl]some [YELLOW]money[WHITE][nl]tucked away in[nl]the ceiling of[nl]your house. If[nl]you give it a[nl]shake, maybe[nl]some of it will[nl]come falling[nl]down♪[END]
+@37@1996
+*[ARALE]Okay.[END]
+@38@2008
+*[LADY_WITH_EARRINGS]But be careful![nl]Don't bring down[nl]your entire[nl]house![END]
+@39/48/88/96/134/144@2060/2060/3072/3072/3884/3884
+*[LADY_WITH_EARRINGS]Goodbye for[nl]now![END]
+@49@2076
+*[AKANE]We should get[nl]going.[END]
+@50@2108
+*[TARO]See ya later,[nl]Arale. You too,[nl][PINK]Gatchan[WHITE].[END]
+@51@2164
+*[ARALE]Bye'cha, [PINK]Akane[WHITE][nl]and [PINK]Taro[WHITE]![END]
+@52/97/145@2212/3088/3900
+*[ARALE]N'cha![END]
+@53/64/116@2228/2228/3228
+*[ARALE]Where's [PINK]Akane[WHITE]?[END]
+@65@2252
+*[LADY_WITH_EARRINGS]That idiot is[nl]having a nap.[END]
+@66@2296
+*[LADY_WITH_EARRINGS]That [YELLOW]robot[WHITE] has[nl]appeared[nl]again...[END]
+@68@2408
+*[LADY_WITH_EARRINGS]That weird[nl][YELLOW]robot[WHITE] was seen[nl]wandering around[nl]again. What[nl]should we do I[nl]wonder.[END]
+@69@2488
+*[LADY_WITH_EARRINGS]Sigh... bored[nl]again.[END]
+@70/118@2520/3308
+*[LADY_WITH_EARRINGS]Thanks, but I[nl]don't need any[nl]help right now.[nl]Not that there[nl]are any[nl]customers,[nl]anyways.[END]
+@81@2632
+*[PAPER][PINK]Suppaman[WHITE] you[nl]lout! Go back to[nl][BLUE]space[WHITE]![END]
+@84/130@2824/3628
+*[LADY_WITH_EARRINGS]Correct! You[nl]must have been[nl]paying[nl]attention. Let[nl]me give you a[nl]little hint as a[nl]reward.[END]
+@86@2940
+*[LADY_WITH_EARRINGS]When you learn[nl]a new [GREEN]ability[WHITE],[nl]go and show it[nl]off to [PINK]Taro's[nl]dad[WHITE]. I'm sure[nl]he'll praise you[nl]for it.[END]
+@87@3060
+*[ARALE]Hoi![END]
+@98/112@3104/3104
+*[LADY_WITH_EARRINGS]At it again,[nl]Arale?[END]
+@113@3144
+*[ARALE]Hee-hee-hee.[END]
+@114@3160
+*[LADY_WITH_EARRINGS]I'm bored...[END]
+@115@3180
+*[LADY_WITH_EARRINGS]My, shouldn't[nl]you be in [BLUE]School[WHITE][nl]right now?[END]
+@117@3252
+*[LADY_WITH_EARRINGS]If you're[nl]looking for[nl][PINK]Akane[WHITE] she took[nl]off unsually[nl]early today.[END]
+@120@3420
+*[PAPER]Is [BLUE]Penguin[nl]Village[WHITE] in[nl]trouble!? A[nl]strange [YELLOW]robot[WHITE] is[nl]terrorizing the[nl]town![END]
+@132@3744
+*[LADY_WITH_EARRINGS]The [BLUE]Principal[WHITE]'s[nl]locker is[nl]locked, but[nl]there might be a[nl]way to open it[nl]other than with[nl]the [YELLOW]Key[WHITE]. It[nl]involves using a[nl]certain[nl][YELLOW]invention[WHITE].[END]
+@133@3872
+*[ARALE]Ho-yo?[END]
+@162@4036
+*[LADY_WITH_EARRINGS]Have you spoken[nl]with [PINK]Mr. Time[WHITE][nl]recently? He can[nl]take you back to[nl]visit any [YELLOW]action[nl]stage[WHITE] that[nl]you've[nl]previously[nl]cleared. You can[nl]use this to fill[nl]up your [YELLOW]Pep[nl]Gauge[WHITE] as much as[nl]you want![END]
+@163@4324
+*[ARALE]M-hmm.[END]
+@164@4340
+*[LADY_WITH_EARRINGS]After you've[nl][YELLOW]captured[WHITE] a new[nl][YELLOW]ability[WHITE], you can[nl]use it to reach[nl]places that you[nl]were previously[nl]unable to[nl]before.[END]
+@165@4476
+*[ARALE]Oh, boy![END]
+@166/240@4492/4492
+*Yakisoba[END]
+@241@4504
+*Takoyaki[END]
+@242@4516
+*Okonomi[END]
+@243@4532
+*[ARALE]Yakisoba![END]
+@244@4548
+*[ARALE]Takoyaki![END]
+@245@4564
+*[ARALE]Okonomiyaki![END]
+@246/256@4584/4584
+*Oolong[END]
+@257@4600
+*Barley[END]
+@258@4612
+*Iced[END]
+@259@4628
+*[ARALE]Oolong tea![END]
+@260@4648
+*[ARALE]Barley tea![END]
+@261@4664
+*[ARALE]Iced Tea![END]
+@262/272@4688/4688
+*Apple pie[END]
+@273@4704
+*Ice cream[END]
+@274@4720
+*Pancakes[END]
+@275@4736
+*[ARALE]Apple pie![END]
+@276@4756
+*[ARALE]Ice cream![END]
+@277@4780
+*[ARALE]Pancakes![END]
+@278/304@4800/4800
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@4844
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4904
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4948
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@5000
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@5088
+*[YELLOW]Formatting...[END]
+@310@5184
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@5212
+*[YELLOW]Save[WHITE] your game?[END]
+@312@5248
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@5312
+*[YELLOW]Saving[WHITE]...[END]
+@314@5412
+*Overwrite[nl]existing save?[END]
+@315@5456
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@5508
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@5528/5596
+*Back[END]
+@318@5536
+*OK[END]
+@319@5548
+*[WHITE]Select a file[END]
+@320@5580
+*[YELLOW]Save[END]
+@322@5604
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

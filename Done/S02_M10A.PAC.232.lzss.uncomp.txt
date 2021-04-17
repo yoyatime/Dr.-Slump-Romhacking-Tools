@@ -1,0 +1,167 @@
+@@S02_M10A.PAC.232.lzss.uncomp@@323@@648@@4568
+@0/7/8/9/10/11/12/13/14/15/27/28/29/30/31/44/45/46/47/60/61/62/63/68/69/70/71/72/73/74/75/76/77/78/79/92/93/94/95/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE]Hey, what's[nl]wrong?[END]
+@1@672
+*[GALA]It looks like[nl]that [YELLOW]robot[WHITE] has[nl]appeared again.[nl]This time he's[nl]at the [BLUE]Penguin[nl]Village Bank[WHITE].[END]
+@2@744
+*[HEADBAND_GUY]I guess [YELLOW]robots[WHITE][nl]aren't just[nl]science[nl]fiction...[END]
+@3@796
+*[ARALE]How do I get to[nl][BLUE]The Bank[WHITE]?[END]
+@4@848
+*[HEADBAND_GUY]J-just use the[nl][YELLOW]Sign Post[WHITE], it[nl]should be[nl]written on it...[END]
+@5@908
+*[ARALE]U-ho-hoi! Wowie[nl]a [YELLOW]robot[WHITE], a[nl][YELLOW]robot[WHITE]![END]
+@6/16@960/960
+*[GALA]Oh no! Wh-why[nl]is the girl with[nl]the glasses[nl]here!?[END]
+@17@1016
+*[HEADBAND_GUY]That [YELLOW]robot[WHITE][nl]can't be real.[nl]There's no need[nl]to panic.[END]
+@18@1080
+*[GALA]Yeah, you're[nl]right.[END]
+@19@1096
+*[HEADBAND_GUY]Wah! Th-that[nl]girl![END]
+@20@1136
+*[ARALE]Hey, what's the[nl]problem?[END]
+@21@1164
+*[HEADBAND_GUY]Th-that [YELLOW]robot[WHITE][nl]appeared and[nl]switched up the[nl][YELLOW]film reels[WHITE]...[END]
+@22@1248
+*[ARALE]No way! Is the[nl][YELLOW]monster movie[WHITE][nl]still okay?[END]
+@23@1284
+*[HEADBAND_GUY]It seems to[nl]have been[nl]replaced with[nl]「[PINK]Dr. Mashirito[WHITE]'s[nl]Ambition」...[END]
+@24@1364
+*[ARALE]Aww man, this[nl]stinks! And I[nl]got all excited[nl]for it too...[END]
+@25@1420
+*[HEADBAND_GUY]S-so it seems[nl]the [BLUE]Cinema[WHITE] will[nl]be closed for a[nl]while.[END]
+@26/32@1484/1484
+*[GLASSES_GUY][BLUE]Penguin Village[nl]Bank[WHITE]? I gotta[nl]hurry![END]
+@33@1544
+*[GLASSES_GUY]Darn it! I got[nl]here too late...[END]
+@34/59/64/91/96@1592/2664/2664/3128/3128
+*[PAPER]Temporarily[nl]closed.[END]
+@35@1624
+*[ARALE]Two tickets for[nl]the [YELLOW]monster[nl]movie[WHITE] please![END]
+@36@1672
+*[LADY_WITH_EARRINGS]We only have[nl]showings for 「[PINK]Dr[nl]Mashirito[WHITE]'s[nl]Ambition」...[END]
+@37@1732
+*[ARALE]Nah, I don't[nl]want that.[END]
+@38@1756
+*[ARALE]I wanna watch[nl]the [YELLOW]monster[nl]movie[WHITE].[END]
+@39@1796
+*[ARALE]Hey! I found[nl]some [YELLOW]Robovita-A[WHITE]![END]
+@40@1832
+*[GALA]Oh? We're[nl]getting a radio[nl]message...[MEDIUM_PAUSE][nl]WHAT!? [SHORT_PAUSE][BLUE]Penguin[nl]Village Bank[WHITE] is[nl]under attack[nl]from a [YELLOW]robot[WHITE]!?[END]
+@41@1976
+*[ARALE]Ho-yo?[END]
+@42@1988
+*[GLASSES_GUY]Hmm! This could[nl]be a good chance[nl]to show off how[nl]strong I am![END]
+@43/48@2044/2044
+*[GLASSES_GUY]Lucky dog...[END]
+@49@2072
+*[ARALE]Hey, what'cha[nl]doing?[END]
+@50@2096
+*[GLASSES_GUY]Shhhh! Not so[nl]loud! It'll find[nl]me![END]
+@51@2172
+*[ARALE]The [YELLOW]robot[WHITE] is[nl]already gone.[END]
+@52@2204
+*[GLASSES_GUY]No kidding!? I[nl]see... It must[nl]have noticed my[nl]presence and[nl]escaped.[END]
+@53@2280
+*[GLASSES_GUY]I don't see a[nl][BLUE]telephone booth[WHITE][nl]anywhere...[END]
+@54@2336
+*[GLASSES_GUY]Shhhh! Not so[nl]loud! It'll find[nl]me! There's a[nl][YELLOW]robot[WHITE] lurking[nl]about![END]
+@55@2460
+*[ARALE]Can't [PINK]Suppaman[WHITE][nl]beat it up?[END]
+@56@2496
+*[GLASSES_GUY]Ah, err, um...[nl]and who would[nl]that be? [END]
+@57@2540
+*[ARALE][PINK]Suppaman[WHITE] is a[nl]huge pushover.[END]
+@58@2584
+*[GLASSES_GUY]That's not fair[nl]to say! Nobody[nl]could take on a[nl][YELLOW]robot[WHITE] like that![END]
+@65/97@2696/3160
+*[ARALE]This is cool![END]
+@66/99@2720/3220
+*[ARALE]Looks like[nl]nobody's here.[END]
+@67/80@2760/2760
+*[GALA]Don't make eye[nl]contact...[END]
+@81@2800
+*[HEADBAND_GUY]Eeek![END]
+@82@2820
+*[ARALE]Gotcha![END]
+@83@2848
+*[GALA]Aahh! W-what do[nl]you want from[nl]us!?[END]
+@84@2888
+*[ARALE]I found [YELLOW]100 yen[WHITE][nl]on the ground.[nl]You guys hold on[nl]to it.[END]
+@85@2936
+*[HEADBAND_GUY]Huh?[END]
+@86@2944
+*[ARALE]Am I a good[nl]girl?[END]
+@87@2964
+*[GALA]Yeah... you're[nl]a good girl[nl]Arale...[END]
+@88@2996
+*[ARALE]U-ho-hoi! I[nl]love being[nl]praised![END]
+@89@3052
+*[GATCHAN]Ku-pi-po![END]
+@90@3068
+*[HEADBAND_GUY](Another police[nl]car destroyed[nl]for a measly [YELLOW]100[nl]yen[WHITE]...)[END]
+@98@3184
+*[ARALE]It doesn't have[nl]any [YELLOW]Robovita-A[WHITE].[END]
+@100/103@3260/3356
+*[GALA]Oh no! She's[nl]here![END]
+@101/104@3296/3392
+*[ARALE]Found ya![END]
+@102@3328
+*[HEADBAND_GUY]Yikes! There's[nl]no where left[nl]for us to hide![END]
+@105@3424
+*[HEADBAND_GUY]Let's get outta[nl]here![END]
+@106/144@3444/3444
+*[ARALE]Wait for me ♪[END]
+@145/256@3464/3464
+*Where to?[END]
+@257@3484
+*Stay here[END]
+@258@3500
+*[BLUE]Police[END]
+@259@3532
+*[BLUE]Bank[END]
+@260@3564
+*[BLUE]Apartments[END]
+@261/272@3596/3596
+*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+@273@3636
+*[ARALE]Let's go to the[nl][BLUE]Bank[WHITE].[END]
+@274@3676
+*[ARALE]Let's go to the[nl][BLUE]Apartments[WHITE].[END]
+@275/304@3712/3712
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3756
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3816
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3860
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3912
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4000
+*[YELLOW]Formatting...[END]
+@310@4096
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4124
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4160
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4224
+*[YELLOW]Saving[WHITE]...[END]
+@314@4324
+*Overwrite[nl]existing save?[END]
+@315@4368
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4420
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4440/4508
+*Back[END]
+@318@4448
+*OK[END]
+@319@4460
+*[WHITE]Select a file[END]
+@320@4492
+*[YELLOW]Save[END]
+@322@4516
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

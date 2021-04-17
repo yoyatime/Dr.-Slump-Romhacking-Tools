@@ -6,7 +6,7 @@
 @2/16@652/652
 *[PEASUKE_WHITE]Alright, you[nl]made it here![END]
 @17@696
-*[ARALE]Peasuke,[nl]whatcha doing?[END]
+*[ARALE]Peasuke,[nl]what'cha doing?[END]
 @18@732
 *[PEASUKE_WHITE]I need to start[nl]doing some[nl][YELLOW]special training[WHITE][nl]so [PINK]big bro[WHITE] and[nl]the others stop[nl]picking on me.[nl]It's the kind of[nl]training that[nl]requires total[nl]isolation.[END]
 @19@868

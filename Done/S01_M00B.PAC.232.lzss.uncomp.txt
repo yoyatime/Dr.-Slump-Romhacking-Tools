@@ -58,7 +58,7 @@
 @86@2480
 *[HAKASE]It's broken.[nl]Maybe I'll fix[nl]it for next[nl]time.[END]
 @87@2556
-*[ARALE]Aww...[END]
+*[ARALE]Seems familiar.[END]
 @88/96/130@2576/2576/3228
 *[ARALE]Zzzz...[END]
 @97@2596
@@ -126,7 +126,7 @@
 @260@4316
 *Where to?[END]
 @261@4336
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @262@4356
 *[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
 @263@4388

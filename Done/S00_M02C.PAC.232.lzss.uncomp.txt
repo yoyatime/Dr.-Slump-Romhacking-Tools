@@ -8,7 +8,7 @@
 @3@156
 *Where to?[END]
 @4@176
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @5@196
 *[ARALE]Let's go to the[nl]School Yard.[END]
 @6@220

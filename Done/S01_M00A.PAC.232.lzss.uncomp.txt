@@ -186,7 +186,7 @@
 @263@6716
 *[BLUE]Smoke Shop[END]
 @264@6736
-*[BLUE]Police Station[END]
+*[BLUE]Police[END]
 @265/272@6768/6768
 *[ARALE]Let's go play![END]
 @273@6788
@@ -206,7 +206,7 @@
 @291@7012
 *[BLUE]Lab[END]
 @293@7060
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @294@7080
 *[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
 @295@7112

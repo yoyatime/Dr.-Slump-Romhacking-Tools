@@ -1,0 +1,135 @@
+@@S02_M11A.PAC.232.lzss.uncomp@@323@@648@@3672
+@0/8/9/10/11/12/13/14/15/28/29/30/31/40/41/42/43/44/45/46/47/60/61/62/63/69/70/71/72/73/74/75/76/77/78/79/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[YAMABUKI]Shall we head[nl]to [BLUE]My Apartment[WHITE]?[END]
+@1@684
+*[YAMABUKI]Very well,[nl]let's go. I live[nl]in the green[nl][BLUE]Apartment[WHITE] right[nl]behind me.[END]
+@2@776
+*[YAMABUKI]Ah, that's too[nl]bad. I live in[nl]the green[nl][BLUE]Apartment[WHITE] right[nl]behind me. Come[nl]back anytime you[nl]want to play[nl]with me.[END]
+@3@900
+*[YAMABUKI]Kyaaaa! Get[nl]away from me,[nl]you creep![END]
+@4@960
+*[MASHARITO]Heh-heh-heh,[nl]how do you like[nl]my [YELLOW]signature[nl]move[WHITE]?[END]
+@5@1008
+*[ARALE]I found the[nl][YELLOW]robot[WHITE]![END]
+@6@1044
+*[MASHARITO]Bah! Someone's[nl]coming, let's[nl]get out of here,[nl][PINK]Caramelman[WHITE]![END]
+@7/16/23@1112/1112/1444
+*[YAMABUKI]Oh, if it isn't[nl]Arale. What[nl]brings you here?[END]
+@17/24@1176/1508
+*[YAMABUKI]Arale! Don't[nl]ignore your[nl]teacher![END]
+@18/27/32/34@1240/1616/1616/1688
+*[ARALE]Hello! I'm[nl]here, [PINK]Ms.[nl]Midori[WHITE]![END]
+@19@1288
+*[YAMABUKI]Hello Arale,[nl]please come in.[END]
+@20@1340
+*[ARALE]Hoi![END]
+@21@1352
+*[YAMABUKI]Oh, have you[nl]come to play[nl]with me? Please,[nl]come in.[END]
+@22/242@1428/2544
+*[ARALE]U-ho-hoi![END]
+@25/37/66@1572/1772/2268
+*[ARALE]I can't get in.[END]
+@26/38@1596/1796
+*[ARALE]N'cha![END]
+@33@1664
+*[YAMABUKI]...[END]
+@35@1736
+*[GATCHAN]Ku-pi-po![END]
+@36@1752
+*[ARALE]I think[nl]nobody's home.[END]
+@39/48@1816/1816
+*[GALA]Don't make eye[nl]contact...[END]
+@49@1856
+*[HEADBAND_GUY]Eeek![END]
+@50@1876
+*[ARALE]Gotcha![END]
+@51@1904
+*[GALA]Aahh! W-what do[nl]you want from[nl]us!?[END]
+@52@1944
+*[ARALE]I found [YELLOW]100 yen[WHITE][nl]on the ground.[nl]You guys hold on[nl]to it.[END]
+@53@1992
+*[HEADBAND_GUY]Huh?[END]
+@54@2000
+*[ARALE]Am I a good[nl]girl?[END]
+@55@2020
+*[GALA]Yeah... you're[nl]a good girl[nl]Arale...[END]
+@56@2052
+*[ARALE]U-ho-hoi! I[nl]love being[nl]praised![END]
+@57@2108
+*[GATCHAN]Ku-pi-po![END]
+@58@2124
+*[HEADBAND_GUY](Another police[nl]car destroyed[nl]for a measly [YELLOW]100[nl]yen[WHITE]...)[END]
+@59/64@2184/2184
+*[ARALE][PINK]Ms. Midori[WHITE] is[nl]at [BLUE]School[WHITE], so[nl]she wouldn't be[nl]here. Right,[nl][PINK]Gatchan[WHITE]?[END]
+@65@2256
+*[GATCHAN]Ku-pi.[END]
+@67@2292
+*「N'cha!」[END]
+@68/80/83@2316/2316/2412
+*[GALA]Oh no! She's[nl]here![END]
+@81/84@2352/2448
+*[ARALE]Found ya![END]
+@82@2384
+*[HEADBAND_GUY]Yikes! There's[nl]no where left[nl]for us to hide![END]
+@85@2480
+*[HEADBAND_GUY]Let's get outta[nl]here![END]
+@86/144@2500/2500
+*[ARALE]Wait for me ♪[END]
+@145/240@2520/2520
+*U-ho-hoi[END]
+@241@2532
+*Bye'cha[END]
+@243@2560
+*[ARALE]Bye'cha.[END]
+@244/256@2576/2576
+*Where to?[END]
+@257@2596
+*Stay here[END]
+@258@2612
+*[BLUE]Police[END]
+@259@2644
+*[BLUE]Cinema[END]
+@260@2672
+*[BLUE]Bank[END]
+@261/272@2704/2704
+*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+@273@2744
+*[ARALE]Let's go to the[nl][BLUE]Cinema[WHITE].[END]
+@274@2776
+*[ARALE]Let's go to the[nl][BLUE]Bank[WHITE].[END]
+@275/304@2816/2816
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2860
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2920
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2964
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3016
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3104
+*[YELLOW]Formatting...[END]
+@310@3200
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3228
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3264
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3328
+*[YELLOW]Saving[WHITE]...[END]
+@314@3428
+*Overwrite[nl]existing save?[END]
+@315@3472
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3524
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3544/3612
+*Back[END]
+@318@3552
+*OK[END]
+@319@3564
+*[WHITE]Select a file[END]
+@320@3596
+*[YELLOW]Save[END]
+@322@3620
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

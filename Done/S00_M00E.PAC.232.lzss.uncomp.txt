@@ -14,7 +14,7 @@
 @6/20@212/456
 *Where to?[END]
 @7/21@232/476
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @8@252
 *[ARALE]Let's find[nl]Akane.[END]
 @9@280

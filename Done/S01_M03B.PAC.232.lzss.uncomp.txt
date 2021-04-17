@@ -92,7 +92,7 @@
 @100/110@3216/4180
 *[ARALE]Aww...[END]
 @101@3232
-*[PAPA_SORAMAME]Thank's for[nl]being honest. I[nl]know you're just[nl]sticking out for[nl][PINK]Taro[WHITE]. Sorry, but[nl]I can still only[nl]give you [YELLOW]50[nl]points[WHITE] today.[END]
+*[PAPA_SORAMAME]Thanks for[nl]being honest. I[nl]know you're just[nl]sticking out for[nl][PINK]Taro[WHITE]. Sorry, but[nl]I can still only[nl]give you [YELLOW]50[nl]points[WHITE] today.[END]
 @102@3372
 *[PAPA_SORAMAME]Whoa, whoa[nl]Arale. Please[nl]try not to tell[nl]lies like that.[nl]You've really[nl]hurt my[nl]feelings, you[nl]know that? You[nl]get [YELLOW]0 points[WHITE][nl]today.[END]
 @103@3516
@@ -112,7 +112,7 @@
 @111@4196
 *[PAPA_SORAMAME]Attagirl,[nl]Arale! You've[nl]done [PINK]Taro[WHITE] a real[nl]favor, even if[nl]he doesn't know[nl]it. Bravo,[nl]Arale! You get[nl][YELLOW]100 points[WHITE]![END]
 @116@4616
-*[PAPA_SORAMAME]Sorry Arale. Im[nl]out of [YELLOW]prizes[WHITE][nl]for you.[END]
+*[PAPA_SORAMAME]Sorry Arale.[nl]I'm out of[nl][YELLOW]prizes[WHITE] for you.[END]
 @117@4680
 *[PAPA_SORAMAME]That's cool no[nl]matter how many[nl]times I see it.[END]
 @118@4724

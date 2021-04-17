@@ -12,7 +12,7 @@
 @5@224
 *Where to?[END]
 @6@244
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @7@264
 *[ARALE]Let's go home.[END]
 @8@284

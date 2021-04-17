@@ -10,7 +10,7 @@
 @4@172
 *Where to?[END]
 @5@192
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @6@212
 *[ARALE]Let's go to the[nl]Police Station.[END]
 @7@236

@@ -10,7 +10,7 @@
 @4@288
 *Where to?[END]
 @5/37@308/620
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @6@328
 *[ARALE]Let's go to the[nl]Living Room.[END]
 @7@352
@@ -114,7 +114,7 @@
 @84@1596
 *Slide Kick[END]
 @85@1612
-*Spinny Punch[END]
+*Wind-Up Punch[END]
 @86@1628
 *Shinobi Walk[END]
 @87@1640

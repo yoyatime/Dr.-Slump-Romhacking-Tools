@@ -1,0 +1,245 @@
+@@S02_M00B.PAC.232.lzss.uncomp@@323@@648@@9056
+@0/12/13/14/15/23/24/25/26/27/28/29/30/31/42/43/44/45/46/47/52/53/54/55/56/57/58/59/60/61/62/63/77/78/79/90/91/92/93/94/95/105/106/107/108/109/110/111/133/134/135/136/137/138/139/140/141/142/143/166/167/168/169/170/171/172/173/174/175/185/186/187/188/189/190/191/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE][PINK]Professor[WHITE],[nl][PINK]professor[WHITE]! Let's[nl]go see a [YELLOW]movie[WHITE].[END]
+@1@704
+*[HAKASE]A [YELLOW]movie[WHITE]? What[nl]kind of movie?[END]
+@2@744
+*[ARALE]You know, one[nl]with all kinds[nl]of cool[nl][YELLOW]monsters[WHITE].[END]
+@3@792
+*[HAKASE]Hmmm, actually[nl]I'm too busy to[nl]watch one.[END]
+@4@820
+*[ARALE]I wanna go! I[nl]wanna go![END]
+@5@844
+*[HAKASE]Quiet already![nl]Just go with[nl][PINK]Gatchan[WHITE] if you[nl]want to see it[nl]so badly.[END]
+@6@932
+*[ARALE]How do I get to[nl]the [BLUE]Cinema[WHITE]?[END]
+@7@968
+*[HAKASE]Let me think...[nl]it might have[nl]been on the[nl]opposite side of[nl]town from the[nl][BLUE]School[WHITE]. You have[nl]to pass by the[nl][BLUE]Police Station[WHITE][nl]to get there,[nl]why not ask one[nl]of the [PINK]officers[WHITE][nl]for directions?[nl]Take the [YELLOW]Sign[nl]Post[WHITE] to the[nl][BLUE]Police Station[WHITE][nl]first.[END]
+@8/10/73/87/130/163@1184/1380/2792/3372/5028/6752
+*[ARALE]Hoi![END]
+@9@1196
+*[HAKASE]What's the[nl]matter? Weren't[nl]you going to[nl]watch a [YELLOW]movie[WHITE]?[nl]Remember, take[nl]the [YELLOW]Sign Post[WHITE] to[nl]the [BLUE]Police[nl]Station[WHITE] and then[nl]ask someone[nl]there for[nl]directions.[END]
+@11/16@1392/1392
+*[HAKASE]It's broken.[nl]Maybe I'll fix[nl]it for next[nl]time.[END]
+@17/99/177@1452/3548/6904
+*[ARALE]There's nothing[nl]inside.[END]
+@18/19@1480/1524
+*[ARALE]U-ho-hoi! I[nl]found some[nl][YELLOW]money[WHITE]♪[END]
+@20/102/180@1568/3664/7020
+*[HAKASE](Damn! That was[nl]my [YELLOW]secret[nl]stash[WHITE]!)[END]
+@21/103/181@1640/3736/7092
+*[HAKASE]No running[nl]inside the[nl]house![END]
+@22/32@1692/1692
+*[HAKASE]WHAT!? You took[nl]a b-b-bath with[nl][PINK]Ms. Midori[WHITE]!?[END]
+@33@1768
+*[ARALE]Yup.[END]
+@34@1780
+*[HAKASE]Geez... I wish[nl]I could have[nl]come too![END]
+@35@1852
+*[ARALE][PINK]Professor[WHITE],[nl]you're drooling.[END]
+@36@1884
+*[HAKASE]Quiet you! It's[nl]not like I'm[nl]bitter about[nl]this or[nl]anything![END]
+@37/128@1932/4980
+*[ARALE]Ho-yo.[END]
+@38@1944
+*[HAKASE]Whatever, just[nl]go to bed[nl]already.[END]
+@39@1996
+*[ARALE]Hoi. Good[nl]night.[END]
+@40@2028
+*[GATCHAN]Ku-pi.[END]
+@41/48@2040/2040
+*[HAKASE]I can't believe[nl]he wrote the[nl]address to his[nl][BLUE]Secret Lair[WHITE] on[nl]the back of that[nl]letter. I think[nl]you can get[nl]there from the[nl][BLUE]Hills[WHITE] past the[nl][BLUE]School Yard[WHITE].[END]
+@49@2188
+*[ARALE]I'm off![END]
+@50@2208
+*[HAKASE]Remember, no[nl]playing tricks[nl]with that [BLUE]Pom[nl]Poko[nl]Transformer[WHITE].[END]
+@51/64@2272/2272
+*[HAKASE][PINK]Mashirito[WHITE] has[nl]issued a[nl][YELLOW]challenge[WHITE] to[nl]you, Arale.[END]
+@65/81/120@2336/2976/4360
+*[ARALE]U-ho-hoi![END]
+@66@2352
+*[HAKASE]It's not[nl]something to get[nl]excited over![nl]Hold on a[nl]minute, there's[nl]something more[nl]to read here.[END]
+@67/83/116@2432/3092/4092
+*[ARALE]Oh, boy![END]
+@68@2448
+*[HAKASE]Let's see...[MEDIUM_PAUSE][nl]WHAT!? Thing's[nl]got real bad,[nl]Arale! [PINK]Mashirito[WHITE][nl]is going after[nl][PINK]Ms. Midori[WHITE] next![END]
+@69/155@2592/6060
+*[ARALE]Ho-yo~[END]
+@70@2604
+*[HAKASE]We have no time[nl]to lose! Hurry[nl]up and save her,[nl]go![END]
+@71@2680
+*[ARALE]Go where?[END]
+@72@2700
+*[HAKASE]Isn't it[nl]obvious!? Go to[nl][BLUE]Ms. Midori's[nl]Place[WHITE] and crush[nl]that [PINK]Mashirito[WHITE][nl]guy![END]
+@74@2804
+*[HAKASE]Don't mess this[nl]up, Arale![END]
+@75@2832
+*[HAKASE]What are you[nl]doing!? Get your[nl]butt to [BLUE]Ms.[nl]Midori's Place[WHITE]![END]
+@76/80@2908/2908
+*[HAKASE]Another[nl][YELLOW]challenge[WHITE][nl]arrived for you[nl]from [PINK]Mashirito[WHITE].[END]
+@82@2992
+*[HAKASE]Look's like he[nl]hasn't learned[nl]his lesson yet.[nl]Let's see what[nl]he wrote...[END]
+@84@3108
+*[HAKASE]Let's see...[nl]this time he's[nl]after the[nl][BLUE]School[WHITE]. It says[nl]he's prepared[nl]his [YELLOW]secret[nl]weapon[WHITE] this[nl]time. I wonder[nl]what he cooked[nl]up.[END]
+@85/124@3288/4676
+*[ARALE]Okay, I'm off.[END]
+@86@3316
+*[HAKASE]Try not to take[nl]too long.[END]
+@88@3384
+*[HAKASE]He's at the[nl][BLUE]School[WHITE] this[nl]time. Man, he[nl]never learns.[END]
+@89/96@3440/3440
+*[ARALE]Ho-i.[END]
+@97@3452
+*[HAKASE]It's broken.[nl]Maybe I'll fix[nl]it for next[nl]time.[END]
+@98@3528
+*[ARALE]Seems familiar.[END]
+@100/101/178/179@3576/3620/6932/6976
+*[ARALE]U-ho-hoi! I[nl]found some[nl][YELLOW]money[WHITE]![END]
+@104/112/131@3788/3788/5040
+*[HAKASE]Hey Arale, a[nl][YELLOW]letter[WHITE] arrived[nl]for you. Come[nl]here for a[nl]minute.[END]
+@113@3860
+*[HAKASE]Hey Arale, a[nl][YELLOW]letter[WHITE] arrived[nl]for you. I[nl]wonder who wrote[nl]it. Let's see...[nl]huh? It's from[nl][PINK]Mashirito[WHITE]. What[nl]does he want[nl]with you...[END]
+@114@4012
+*[ARALE]What's it say?[nl]What's it say?[END]
+@115@4048
+*[HAKASE]Give me a[nl]second to read[nl]it.[END]
+@117@4108
+*[HAKASE]What the... it[nl]says he wants to[nl]destroy you.[nl]He's trying to[nl]achieve [YELLOW]world[nl]domination[WHITE] by[nl]hatching plans[nl]from his [BLUE]Secret[nl]Lair[WHITE]. He's[nl]issued a[nl][YELLOW]challenge[WHITE] to[nl]you.[END]
+@118@4292
+*[ARALE]What does that[nl]mean?[END]
+@119@4308
+*[HAKASE]It seems like[nl]you're in the[nl]way of his plans[nl]for [YELLOW]world[nl]domination[WHITE].[END]
+@121@4376
+*[HAKASE]I can't believe[nl]that [PINK]Mashirito[WHITE][nl]guy is still[nl]trying to take[nl]over the world,[nl]what a real[nl]idiot.[END]
+@122@4468
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]There's some[nl]writing on the[nl]back, too.[END]
+@123@4524
+*[HAKASE]What a maroon,[nl]he wrote the[nl]address to his[nl][BLUE]Secret Lair[WHITE] on[nl]the back. I[nl]think you can[nl]get there from[nl]the [BLUE]Hills[WHITE] behind[nl]the [BLUE]School[WHITE].[END]
+@125@4704
+*[HAKASE]Hold on a[nl]second there.[nl]Maybe you should[nl]hold on to this[nl]for safety.[END]
+@126@4784
+*[ARALE]What is this[nl]thing?[END]
+@127@4800
+*[HAKASE]I call it the[nl][BLUE]Pom Poko[nl]Transformer[WHITE].[nl]Just point it at[nl]something and[nl]say what you[nl]want to[nl][YELLOW]transform[WHITE] it[nl]into and.. poof![nl]It'll turn into[nl]that thing![nl]Amazing, isn't[nl]it?[END]
+@129@4992
+*[HAKASE]No pranks, you[nl]got that? [END]
+@132/144@5112/5112
+*[HAKASE]What should I[nl]get her...[END]
+@145@5180
+*[HAKASE]I've done it![nl]I've come up[nl]with an[nl][YELLOW]invention[WHITE] that[nl]can deliver my[nl]gift to [PINK]Mr.[nl]Midori[WHITE]! Behold,[nl]the [BLUE]Rob-bot[WHITE]![END]
+@146@5320
+*[HAKASE]Want to hear[nl]all about my[nl]master plan?[END]
+@147@5368
+*[ARALE]Yeah, tell me![END]
+@148@5392
+*[HAKASE]It's supposed[nl]to be a secret,[nl]but what the[nl]heck. You know[nl][BLUE]where Ms. Midori[nl]lives[WHITE], right?[END]
+@149/151@5564/5768
+*[ARALE]M-hmm.[END]
+@150@5580
+*[HAKASE]While [PINK]Ms.[nl]Midori[WHITE] is fast[nl]asleep, my[nl][YELLOW]invention[WHITE] is[nl]going to sneak[nl]in undetected[nl]and drop off my[nl][YELLOW]present[WHITE] and a[nl][YELLOW]letter[WHITE] next to[nl]her. When she[nl]wakes up, she's[nl]going to be[nl]all...[END]
+@152@5784
+*[HAKASE]Oh my gosh! A[nl][YELLOW]present[WHITE] for me?[nl]And it's from[nl][PINK]Senbei[WHITE]! I love[nl]him so much[PINK_HEART]![END]
+@153@5912
+*[ARALE]How will you[nl]get in without[nl]her [YELLOW]Keys[WHITE]?[END]
+@154@5972
+*[HAKASE]That's where[nl]the [BLUE]Rob-bot[WHITE][nl]comes in! It can[nl]open any [YELLOW]lock[WHITE] in[nl]a jiffy.[END]
+@156@6072
+*[HAKASE]How devilish of[nl]me... it pays to[nl]be this [YELLOW]smart[WHITE].[END]
+@157@6136
+*[ARALE]So what are you[nl]giving her?[END]
+@158@6168
+*[HAKASE]...what?[MEDIUM_PAUSE][nl][nl][nl]Oh no, I[nl]completely[nl]forgot all about[nl]that! I got so[nl]caught up in how[nl]I'd get past the[nl][YELLOW]locks[WHITE] that the[nl][YELLOW]present[WHITE] slipped[nl]my mind[nl]entirely! What[nl]should I do...[END]
+@159@6368
+*[ARALE]What's that[nl]you've been[nl]holding this[nl]whole time?[END]
+@160@6432
+*[HAKASE]Oh this? It's[nl]another[nl][YELLOW]challenge letter[WHITE][nl]from [PINK]Dr.[nl]Mashirito[WHITE]. It[nl]says it's his[nl]final [YELLOW]challenge[WHITE].[nl]It says he's[nl]waiting for you[nl]at his [BLUE]Secret[nl]Lair[WHITE].[END]
+@161@6596
+*[ARALE]U-ho-hoi! Hey[nl][PINK]Professor[WHITE], let[nl]me hold onto the[nl][BLUE]Rob-bot[WHITE].[END]
+@162@6652
+*[HAKASE]Fine, you can[nl]use him until I[nl]think of a[nl]suitable[nl][YELLOW]present[WHITE]. Don't[nl]break it![END]
+@164@6764
+*[HAKASE]I'll have to[nl]figure out how[nl]to get it to her[nl]later. I'm too[nl]shy to just hand[nl]it to her...[END]
+@165/176@6880/6880
+*[ARALE]C'mon, work[nl]you![END]
+@182@7144
+*[HAKASE]C'mere Arale.[nl]I've got[nl]something to[nl]tell you.[END]
+@183@7188
+*[HAKASE]Hey there[nl]Arale. I've[nl]finally come up[nl]with an[nl][YELLOW]invention[WHITE] that[nl]can deliver my[nl][YELLOW]present[WHITE].[END]
+@184/192@7272/7272
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]What are you[nl]smiling about?[END]
+@193@7320
+*[HAKASE]Hee-hee-hee![nl]I've just come[nl]up with a great[nl]plan to get[nl]closer to [PINK]Ms.[nl]Midori[WHITE].[END]
+@194@7416
+*[ARALE]I'm already[nl]pretty close to[nl]her, though.[nl]She's my[nl]teacher![END]
+@195@7476
+*[HAKASE]I don't mean[nl]it like that![nl]It's something[nl]you wouldn't[nl]understand yet.[END]
+@196@7568
+*[ARALE]What's[nl]different about[nl]it?[END]
+@197@7588
+*[HAKASE]I wouldn't want[nl]to over-excite[nl]you, so quit[nl]asking.[END]
+@198@7668
+*[ARALE]Tell me! Tell[nl]me![END]
+@199@7696
+*[HAKASE]Shut up and go[nl]to [BLUE]School[WHITE]! I[nl]have to get[nl]working on my[nl][YELLOW]ultimate gift[WHITE].[END]
+@200@7836
+*[ARALE]I see, you've[nl]got a [YELLOW]present[WHITE][nl]for her.[END]
+@201@7876
+*[HAKASE]Oops, I've said[nl]too much.[END]
+@202@7920
+*[ARALE]Ooh, a [YELLOW]present[WHITE].[nl]Hee-hee-hee.[END]
+@203@7956
+*[HAKASE]This is gonna[nl]be so[nl]embarassing~[nl]Hee-hee[PINK_HEART][END]
+@204/256@7988/7988
+*Stay here[END]
+@257@8004
+*[BLUE]My Room[END]
+@258@8028
+*[BLUE]Lab[END]
+@259@8056
+*[BLUE]Outside[END]
+@260@8072
+*Where to?[END]
+@261@8092
+*[ARALE]Never mind.[END]
+@262@8112
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@263@8144
+*[ARALE]Let's go to the[nl][BLUE]Lab[WHITE].[END]
+@264@8176
+*[ARALE]Let's go[nl][BLUE]Outside[WHITE].[END]
+@265/304@8200/8200
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@8244
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@8304
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@8348
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@8400
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@8488
+*[YELLOW]Formatting...[END]
+@310@8584
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@8612
+*[YELLOW]Save[WHITE] your game?[END]
+@312@8648
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@8712
+*[YELLOW]Saving[WHITE]...[END]
+@314@8812
+*Overwrite[nl]existing save?[END]
+@315@8856
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@8908
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@8928/8996
+*Back[END]
+@318@8936
+*OK[END]
+@319@8948
+*[WHITE]Select a file[END]
+@320@8980
+*[YELLOW]Save[END]
+@322@9004
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

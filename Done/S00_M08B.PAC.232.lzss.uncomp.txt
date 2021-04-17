@@ -8,7 +8,7 @@
 @3@148
 *Where to?[END]
 @4@168
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @5@188
 *[ARALE]Let's go to the[nl]Bank.[END]
 @6@212

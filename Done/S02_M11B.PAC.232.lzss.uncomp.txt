@@ -1,0 +1,161 @@
+@@S02_M11B.PAC.232.lzss.uncomp@@323@@648@@4460
+@0/10/11/12/13/14/15/30/31/43/44/45/46/47/59/60/61/62/63/74/75/76/77/78/79/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/201/202/203/204/205/206/207/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[YAMABUKI]Did you have a[nl]good look? Let's[nl]hear your[nl]answer.[END]
+@1@708
+*[YAMABUKI]Ding ding ding![nl]That's correct.[END]
+@2/27@740/1616
+*[ARALE]U-ho-hoi![END]
+@3@756
+*[YAMABUKI]Are you sure[nl]you took a good[nl]look? The[nl]correct answer[nl]was "cat".[END]
+@4/40/84@808/2140/3140
+*[ARALE]Whoops.[END]
+@5@828
+*[YAMABUKI]I know it's[nl]around here[nl]somewhere. Could[nl]you help me look[nl]for it?[END]
+@6@884
+*[YAMABUKI]By the way,[nl]I've seem to[nl]have misplaced[nl][YELLOW]something[nl]important[WHITE]. It's[nl]put me in a bit[nl]of a pickle,[nl]could you help[nl]me look for it,[nl]Arale?[END]
+@7/25/33@1020/1528/1784
+*[ARALE]Hoi![END]
+@8@1032
+*[YAMABUKI]Thank you so[nl]much.[END]
+@9/16@1060/1060
+*[YAMABUKI]Welcome! This[nl]is [BLUE]My Apartment[WHITE].[nl]Make yourself at[nl]home.[END]
+@17/68@1108/2832
+*[YAMABUKI]Oh? Welcome,[nl]Arale.[END]
+@18@1148
+*[YAMABUKI]Hee-hee, go[nl]have a look at[nl]it and come[nl]back.[END]
+@19@1184
+*[YAMABUKI]Can't you stay[nl]a bit longer?[nl]Take a minute[nl]and relax.[END]
+@20@1236
+*[YAMABUKI]Won't you[nl]please help me[nl]look around?[END]
+@21@1280
+*[ARALE]Found it! Is[nl]this what you[nl]lost, [PINK]Ms.[nl]Midori[WHITE]?[END]
+@22@1336
+*[YAMABUKI]That's it,[nl]thank you Arale.[nl]You've been a[nl]great help.[MEDIUM_PAUSE][nl]Except it was[nl][PINK]Akane[WHITE]'s [YELLOW]test[WHITE][nl]that I'm looking[nl]for.[END]
+@23@1464
+*[ARALE][PINK]Akane[WHITE] got a big[nl]'ol [YELLOW]0[WHITE].[END]
+@24@1500
+*[YAMABUKI]That's not[nl]something you[nl]should be[nl]telling people.[END]
+@26@1540
+*[YAMABUKI]Well, to[nl]commend you for[nl]your help,[nl]here's a [YELLOW]pop[nl]quiz[WHITE].[END]
+@28@1632
+*[YAMABUKI]There's a store[nl]called [YELLOW]Undies[WHITE][nl]next to [BLUE]Penguin[nl]Cinema[WHITE]. What[nl]animal is[nl]displayed on the[nl]roof of [YELLOW]Undies[WHITE]?[END]
+@29/32@1724/1724
+*[YAMABUKI]Hee-hee, then[nl]go have a look[nl]at it and come[nl]back.[END]
+@34@1796
+*[YAMABUKI]Well done,[nl]Arale! You're a[nl]very bright[nl]girl![END]
+@35/65/86@1852/2744/3220
+*[ARALE]Aww shucks.[END]
+@36@1868
+*[YAMABUKI]Oh dear, it's[nl]gotten late.[nl]Sorry for[nl]keeping you so[nl]long. If you'd[nl]like, you could[nl]have a bath here[nl]with me.[END]
+@37@2016
+*[ARALE]U-ho-hoi! Yay,[nl]a bath with [PINK]Ms.[nl]Midori[WHITE]![END]
+@38@2084
+*[YAMABUKI]A-ha-ha.[END]
+@39@2100
+*[YAMABUKI]Too bad, the[nl]correct answer[nl]was "cat".[END]
+@41@2160
+*[ARALE]It's not here.[END]
+@42/48/49@2184/2184/2220
+*[YAMABUKI]It's fine. I[nl]forgive you,[nl]Arale.[END]
+@50@2256
+*[YAMABUKI]Did you go take[nl]a look at it?[nl]Can you tell me[nl]the answer now?[END]
+@51@2316
+*[YAMABUKI]I'm very angry[nl]with you right[nl]now. Can you[nl]guess why?[END]
+@52@2372
+*[ARALE]I'm sorry...[END]
+@53@2396
+*[YAMABUKI]If you can[nl]answer this[nl][YELLOW]question[WHITE], I'll[nl]forgive you.[nl]What animal is[nl]on the sign in[nl]front of the[nl][BLUE]Police Station[WHITE]?[END]
+@54@2548
+*[ARALE]Umm...[END]
+@55@2568
+*[YAMABUKI]Then go have a[nl]look and come[nl]back, okay?[END]
+@56@2604
+*[YAMABUKI]No, it's a[nl]penguin. You[nl]shouldn't just[nl]guess if you[nl]don't know the[nl]answer.[END]
+@57@2680
+*[ARALE]Aww.[END]
+@58/64@2696/2696
+*[YAMABUKI]That's right.[nl]You've got a[nl]pretty good[nl]memory.[END]
+@66@2760
+*[YAMABUKI]That leaves me[nl]no choice. I[nl]forgive you,[nl]Arale.[END]
+@67/88@2812/3280
+*[ARALE]U-ho-hoi![END]
+@69@2872
+*[YAMABUKI]Did you take a[nl]good look?[END]
+@70@2900
+*[YAMABUKI]Do you need[nl]something?[END]
+@71@2928
+*[ARALE]Umm, are you[nl]mad?[END]
+@72@2960
+*[YAMABUKI]Yeah, of course[nl]I am.[END]
+@73/80@2980/2980
+*[YAMABUKI]Come back[nl]anytime.[END]
+@81@3004
+*[YAMABUKI]Go take a good[nl]look at it.[END]
+@82@3032
+*[YAMABUKI]Please don't[nl]come here if[nl]there's nothing[nl]you need.[END]
+@83@3076
+*[YAMABUKI]That's wrong.[nl]The answer was[nl]"penguin". I[nl]don't think you[nl]looked at it.[END]
+@85@3160
+*[YAMABUKI]That's right![nl]Taking the time[nl]to check your[nl]answers makes it[nl]easy, doesn't[nl]it?[END]
+@87@3236
+*[YAMABUKI]It's okay, I[nl]forgive you,[nl]Arale.[END]
+@89/192/200/208@3300/3300/3448/3448
+*I forgot[END]
+@193@3312
+*Cat[END]
+@194/209@3328/3460
+*Tiger[END]
+@195@3344
+*Pig[END]
+@196/212@3360/3516
+*[ARALE]Umm, I don't[nl]know.[END]
+@197@3376
+*[ARALE]I think it's a[nl]cat.[END]
+@198/213@3400/3532
+*[ARALE]I think it's a[nl]tiger.[END]
+@199@3424
+*[ARALE]Is it a pig?[END]
+@210@3476
+*Owl[END]
+@211@3496
+*Penguin[END]
+@214@3556
+*[ARALE]Is it an owl?[END]
+@215@3580
+*[ARALE]Is it a[nl]penguin?[END]
+@216/304@3604/3604
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3648
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3708
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3752
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3804
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3892
+*[YELLOW]Formatting...[END]
+@310@3988
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4016
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4052
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4116
+*[YELLOW]Saving[WHITE]...[END]
+@314@4216
+*Overwrite[nl]existing save?[END]
+@315@4260
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4312
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4332/4400
+*Back[END]
+@318@4340
+*OK[END]
+@319@4352
+*[WHITE]Select a file[END]
+@320@4384
+*[YELLOW]Save[END]
+@322@4408
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

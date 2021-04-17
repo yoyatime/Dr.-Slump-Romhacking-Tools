@@ -10,7 +10,7 @@
 @4@228
 *Where to?[END]
 @5@248
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @6@268
 *[ARALE]Let's go to My[nl]Room.[END]
 @7@296

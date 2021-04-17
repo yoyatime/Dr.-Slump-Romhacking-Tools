@@ -34,7 +34,7 @@
 @39/130/146@1928/4000/4136
 *[ARALE]Zzzz...[END]
 @40/48@1948/1948
-*[HAKASE]That [YELLOW]Stereo[WHITE][nl]will let you[nl]change the [YELLOW]Audio[nl]Settings[WHITE]. Choose[nl][YELLOW]Stereo[WHITE] if you[nl]have a Stereo[nl]TV, and [YELLOW]Mono[WHITE] if[nl]you're still[nl]using a[nl]Monoaural TV.[nl]You can change[nl]your [YELLOW]Rumble[WHITE][nl]settings there[nl]as well.[END]
+*[HAKASE]That [YELLOW]Stereo[WHITE][nl]will let you[nl]change the [YELLOW]Audio[nl]Settings[WHITE]. Choose[nl][YELLOW]Stereo[WHITE] if you[nl]have a Stereo[nl]TV, and [YELLOW]Mono[WHITE] if[nl]you're still[nl]using a Monaural[nl]TV. You can[nl]change your[nl][YELLOW]Rumble[WHITE] settings[nl]there as well.[END]
 @49@2192
 *[ARALE]Can't it play[nl]music?[END]
 @50@2220
@@ -104,7 +104,7 @@
 @260@4264
 *Where to?[END]
 @261@4284
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @262@4304
 *[ARALE]Let's go to the[nl][BLUE]Living Room[WHITE].[END]
 @263@4332
@@ -178,7 +178,7 @@
 @340/343@5568/5616
 *Capture Guide[END]
 @344@5640
-*Sound settings[END]
+*Audio options[END]
 @345@5660
 *Prank FX[END]
 @346@5676
@@ -198,7 +198,7 @@
 @357@5792
 *Slide Kick[END]
 @358@5808
-*Spinny Punch[END]
+*Wind-Up Punch[END]
 @359@5824
 *Shinobi Walk[END]
 @360@5836
@@ -218,7 +218,7 @@
 @367@5940
 *Ground Pound[END]
 @369@5964
-*Spedometer  [END]
+*Speedometer [END]
 @370@5988
 *Altimeter   [END]
 @371@6008

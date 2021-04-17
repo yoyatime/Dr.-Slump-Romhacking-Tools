@@ -8,6 +8,6 @@
 @3@136
 *Where to?[END]
 @4@156
-*[ARALE]Nevermind[END]
+*[ARALE]Never mind[END]
 @5/6@176/204
 *[ARALE]Let's go to[nl]Kinoko's house.[END]

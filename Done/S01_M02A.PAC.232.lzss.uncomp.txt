@@ -234,7 +234,7 @@
 @261/275@7024/7272
 *Where to?[END]
 @262/276@7044/7292
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @263@7064
 *[ARALE]Let's go [BLUE]Home[WHITE].[END]
 @264@7088

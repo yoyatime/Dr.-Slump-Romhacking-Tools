@@ -100,7 +100,7 @@
 @260@3156
 *Where to?[END]
 @261@3176
-*[ARALE]Nevermind.[END]
+*[ARALE]Never mind.[END]
 @262@3196
 *[ARALE]Let's go [BLUE]Home[WHITE].[END]
 @263@3224
