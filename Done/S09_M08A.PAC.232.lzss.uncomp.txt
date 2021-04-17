@@ -8,7 +8,7 @@
 @257@820
 *Stay here[END]
 @258@836
-*[BLUE]Police Station[END]
+*[BLUE]Police[END]
 @259@868
 *[BLUE]Cinema[END]
 @260@896

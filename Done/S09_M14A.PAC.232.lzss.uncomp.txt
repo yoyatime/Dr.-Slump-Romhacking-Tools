@@ -12,11 +12,11 @@
 @258@880
 *[BLUE]School[END]
 @259@900
-*[BLUE]Evil Lair[END]
+*[BLUE]Secret Lair[END]
 @260/272@928/928
 *[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
 @273@956
-*[ARALE]Let's go to the[nl][BLUE]Evil Lair[WHITE].[END]
+*[ARALE]Let's go to the[nl][BLUE]Secret Lair[WHITE].[END]
 @274/304@992/992
 *Checking [YELLOW]memory[nl]card[WHITE].[END]
 @305@1036

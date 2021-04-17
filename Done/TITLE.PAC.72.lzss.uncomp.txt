@@ -50,7 +50,7 @@
 @30@2420
 *[YELLOW]Formatting[nl][WHITE]complete![END]
 @31@2448
-*Unknown [YELLOW]Error[WHITE] occured.[END]
+*Unknown [YELLOW]Error[WHITE] occurred.[END]
 @32@2476
 *[WHITE]Choose a save file to [YELLOW]Load[WHITE].[END]
 @33@2512
