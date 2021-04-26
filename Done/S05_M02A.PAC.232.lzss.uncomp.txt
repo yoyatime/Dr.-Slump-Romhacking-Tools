@@ -1,0 +1,167 @@
+@@S05_M02A.PAC.232.lzss.uncomp@@323@@648@@4712
+@0/11/12/13/14/15/27/28/29/30/31/42/43/44/45/46/47/59/60/61/62/63/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/232/233/234/235/236/237/238/239/244/245/246/247/248/249/250/251/252/253/254/255/263/270/271/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[DR_BRAIN]Great[nl]initiative,[nl]Arale. Who shall[nl]be your[nl]opponent...[nl]sadly not much[nl]enthusiasm in[nl]the rest of the[nl]class. [PINK]Akane[nl]Kimidori[WHITE] will[nl]have to be your[nl]opponent.[END]
+@1@800
+*[AKANE]What, me!?[END]
+@2/17/23@824/1208/1484
+*[DR_BRAIN]I don't want to[nl]hear any[nl][YELLOW]complaints[WHITE]. To[nl]the starting[nl]lines![END]
+@3@896
+*[DR_BRAIN]Well done.[nl]Great form out[nl]there.[END]
+@4/38/193@940/1876/3184
+*[ARALE]U-ho-hoi![END]
+@5@960
+*[DR_BRAIN]Not that I can[nl]say the same[nl]about [PINK]Akane's[WHITE][nl]sloppy[nl]performance.[END]
+@6@1016
+*[AKANE]Tch... not like[nl]anyone could[nl]come close to[nl]beating Arale.[END]
+@7@1076
+*[DR_BRAIN]Did I hear a[nl][YELLOW]complaint[WHITE]!?[END]
+@8/20@1104/1380
+*[DR_BRAIN]Would you like[nl]to try again?[END]
+@9/21@1136/1412
+*[DR_BRAIN]Then once again[nl]to the starting[nl]lines.[END]
+@10/16/22@1168/1168/1444
+*[AKANE]Huh!?[nl]Seriously...[END]
+@18/24@1280/1556
+*[DR_BRAIN]That's all for[nl]today's [YELLOW]class[WHITE].[nl]See you[nl]tomorrow,[nl]everyone.[END]
+@19/25@1364/1640
+*[ARALE]Bye'cha![END]
+@26/32@1656/1656
+*[AKANE]Man, what a[nl]pain...[END]
+@33@1680
+*[PEASUKE_WHITE]I don't think I[nl]can win a race[nl]against you,[nl]Arale.[END]
+@34@1724
+*[TSUKUTSUN]I'd like to[nl]face off against[nl][PINK]Akane[WHITE], yes...[END]
+@35@1764
+*[DR_BRAIN]Is everyone[nl]here and ready?[END]
+@36@1800
+*[ARALE]Hoi![END]
+@37@1812
+*[DR_BRAIN]Today you'll be[nl]racing against[nl]each other out[nl]on the track.[END]
+@39@1896
+*[DR_BRAIN]I like your[nl]enthusiasm. If[nl]anyone would[nl]like to[nl]volunteer to go[nl]first, let me[nl]know.[END]
+@40@2028
+*[DR_BRAIN]Arale! Where do[nl]you think you're[nl]going!? We are[nl]in the middle of[nl][YELLOW]gym class[WHITE]![END]
+@41/48@2108/2108
+*[OBOTCHAMAN]We must test[nl]our abilities[nl]against each[nl]other![END]
+@49@2140
+*[ARALE]Oh, boy![END]
+@50@2156
+*[OBOTCHAMAN]I apologize for[nl]being so[nl]forward, but I[nl]must challenge[nl]you to a duel of[nl]intelligence![END]
+@51/67/70@2228/2908/2972
+*[ARALE]Ho-yo?[END]
+@52@2240
+*[DR_BRAIN]Oh? What are[nl]you doing here,[nl]Arale?[END]
+@53@2292
+*[OBOTCHAMAN]Very good. That[nl]gentleman can be[nl]our judge for[nl]today.[END]
+@54@2368
+*[OBOTCHAMAN]You are quite[nl]capable indeed.[nl]However, I will[nl]not stand idly[nl]and let you take[nl]over the world![nl]You will taste[nl]defeat in our[nl]next encounter![END]
+@55@2492
+*[OBOTCHAMAN]Is that all you[nl]can muster? If[nl]you were aiming[nl]for [YELLOW]world[nl]domination[WHITE], then[nl]I must say you[nl]are sorely[nl]lacking![END]
+@56@2568
+*[ARALE]You're really[nl]smart,[nl][PINK]Obotchaman[WHITE]![END]
+@57@2612
+*[OBOTCHAMAN]Hmm!? That look[nl]in your eye[nl]tells me you[nl]haven't given up[nl]yet! I'll defeat[nl]you no matter[nl]how many times[nl]we clash![END]
+@58/64@2716/2716
+*[OBOTCHAMAN]It seems we[nl]meet again! I[nl]had a feeling[nl]you would show[nl]up![END]
+@65@2788
+*[ARALE]Hey lookie,[nl]it's [PINK]Obotchaman[WHITE]![END]
+@66@2832
+*[OBOTCHAMAN]Gah, I won't[nl]allow myself to[nl]be tricked by[nl]any of your [YELLOW]cute[WHITE][nl]antics![END]
+@68@2920
+*[OBOTCHAMAN]I challenge you[nl]to a contest![END]
+@69@2948
+*[OBOTCHAMAN]W-wait![END]
+@71@2984
+*[OBOTCHAMAN]That's enough![END]
+@72@3016
+*[OBOTCHAMAN]Brimming with[nl]excitement, are[nl]you!?[END]
+@73/80@3044/3044
+*[OBOTCHAMAN]I won't be so[nl]easily defeated[nl]this time.[END]
+@81/192@3100/3100
+*[OBOTCHAMAN]The winner of[nl]the match will[nl]be awarded a[nl][YELLOW]Golden Poop[WHITE]![END]
+@194@3204
+*[ARALE]Ho-yo? He left.[END]
+@195@3228
+*[DR_BRAIN]I don't know[nl]what came over[nl]me. I just went[nl]along with it[nl]without really[nl]thinking.[END]
+@196/224@3300/3300
+*Yeah![END]
+@225@3312
+*Nah[END]
+@226@3324
+*[ARALE]Yeah, I wanna[nl]try again![END]
+@227@3340
+*[ARALE]Nah, I'm good.[END]
+@228/240@3360/3360
+*[ARALE]Gotcha![END]
+@241@3380
+*[HAPPY_HAT_GUY]A-wa-wa-wa-[END]
+@242@3400
+*[ARALE]Huh? I can't[nl]get in.[END]
+@243/256/275@3428/3428/3756
+*Where to?[END]
+@257/269/272@3448/3688/3688
+*Stay here[END]
+@258@3464
+*[BLUE]Home[END]
+@259@3484
+*[BLUE]Coffee Pot[END]
+@260@3512
+*[BLUE]Barber Shop[END]
+@261@3540
+*[BLUE]Hills[END]
+@262/264@3560/3560
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@265@3588
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@266@3620
+*[ARALE]Let's go to the[nl][BLUE]Barber Shop[WHITE].[END]
+@267@3656
+*[ARALE]Let's go to the[nl][BLUE]Hills[WHITE].[END]
+@268@3684
+*[END]
+@273@3704
+*[BLUE]Classroom[END]
+@274@3728
+*[BLUE]Office[END]
+@276@3776
+*[ARALE]Nevermind.[END]
+@277@3796
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@278@3824
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@279/304@3856/3856
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3900
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3960
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4004
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4056
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4144
+*[YELLOW]Formatting...[END]
+@310@4240
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4268
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4304
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4368
+*[YELLOW]Saving[WHITE]...[END]
+@314@4468
+*Overwrite[nl]existing save?[END]
+@315@4512
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4564
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4584/4652
+*Back[END]
+@318@4592
+*OK[END]
+@319@4604
+*[WHITE]Select a file[END]
+@320@4636
+*[YELLOW]Save[END]
+@322@4660
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

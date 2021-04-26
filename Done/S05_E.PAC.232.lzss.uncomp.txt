@@ -1,0 +1,95 @@
+@@S05_E.PAC.232.lzss.uncomp@@85@@172@@4428
+@0/7/11/22/23/27/28/29/30/31/34/35/38/39/42/43/46/47/50/51/54/55/58/59/62/63@172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172/172
+*[DR_BRAIN]I'm not[nl]entirely sure[nl]why, but I've[nl]been asked to[nl]administer a[nl][YELLOW]quiz[WHITE]. The[nl]questions are[nl]multiple choice[nl]with 3 options.[nl]You will need to[nl]find the [YELLOW]box[WHITE][nl]with the correct[nl]number printed[nl]on it and [GREEN]punch[WHITE][nl]it to answer the[nl]question.[nl]Understood?[END]
+@1@356
+*[ARALE]Hoi![END]
+@2@372
+*[OBOTCHAMAN]There are[nl][YELLOW]obstacles[WHITE] placed[nl]around the[nl]field, so mind[nl]your step.[END]
+@3@448
+*[DR_BRAIN]First to 2[nl]points is the[nl]winner.[END]
+@4@528
+*[DR_BRAIN]Ready? Let's[nl]get it on![END]
+@5@564
+*[nl]Start![END]
+@6/8@580/580
+*[ARALE]Is this right?[END]
+@9@596
+*[OBOTCHAMAN]I have the[nl]answer![END]
+@10/12@620/620
+*[DR_BRAIN]Correct! 1[nl]point to[nl]challenger Ms.[nl]Norimaki![END]
+@13@704
+*[DR_BRAIN]I'm sorry, that[nl]was the wrong[nl]answer. I'm[nl]afraid I need to[nl]award [PINK]Obotchaman[WHITE][nl]a point.[END]
+@14@824
+*[DR_BRAIN]Correct! 1[nl]point to[nl]challenger[nl][PINK]Obotchaman[WHITE]![END]
+@15@928
+*[DR_BRAIN]I'm sorry, that[nl]was the wrong[nl]answer. I'm[nl]afraid I need to[nl]award [PINK]Arale[WHITE] a[nl]point.[END]
+@16@1048
+*[DR_BRAIN]On to the first[nl][YELLOW]question[WHITE].[END]
+@17@1072
+*[DR_BRAIN]On to the[nl]second [YELLOW]question[WHITE].[END]
+@18@1096
+*[DR_BRAIN]Time for the[nl]final [YELLOW]question[WHITE].[END]
+@19/20@1136/1136
+*[DR_BRAIN]On to the next[nl][YELLOW]question[WHITE].[END]
+@21/24@1180/1180
+*[ARALE]U-ho-hoi![END]
+@25@1200
+*[ARALE]Ho-yo-yo...[END]
+@26/32@1220/1220
+*[DR_BRAIN]0-0[END]
+@33/36@1232/1232
+*[DR_BRAIN][PINK]Obotchaman[WHITE] is[nl]in the lead with[nl]1 point![END]
+@37/40@1288/1288
+*[DR_BRAIN][PINK]Obotchaman[WHITE] wins[nl]the set with a[nl]clean sweep.[END]
+@41/44@1344/1344
+*[DR_BRAIN]Ms. Norimaki is[nl]in the lead with[nl]1 point![END]
+@45/48@1384/1384
+*[DR_BRAIN]Things are[nl]heating up! The[nl]match is all[nl]tied up.[END]
+@49/52@1440/1440
+*[DR_BRAIN][PINK]Obotchaman[WHITE] wins[nl]the set 2-1.[END]
+@53/56@1492/1492
+*[DR_BRAIN]Ms. Norimaki[nl]wins the set[nl]with a clean[nl]sweep.[END]
+@57/60@1544/1544
+*[DR_BRAIN]Ms. Norimaki[nl]wins the set[nl]2-1.[END]
+@61/64@1592/1592
+*[DR_BRAIN]You may be[nl]familiar with[nl][PINK]Dr. Norimaki[WHITE]'s[nl]invention [PINK]Mr.[nl]Time[WHITE]... but can[nl]you tell me his[nl]full name!?[MEDIUM_PAUSE][nl]1 Time Slippa[nl]2 Time Stripper[nl]3 Time Slipper[END]
+@65@1756
+*[DR_BRAIN]What did [PINK]Dr.[nl]Norimaki[WHITE] turn[nl]into when he was[nl]hit with the [BLUE]Pom[nl]Poko[nl]Transformer[WHITE]!?[MEDIUM_PAUSE][nl]1 Piglet[nl]2 Monster[nl]3 Frog[END]
+@66@1872
+*[DR_BRAIN][PINK]Klark Kenta[WHITE] is[nl]merely a secret[nl]identity for a[nl]certain super[nl]hero. But who is[nl]that hero!?[MEDIUM_PAUSE][nl]1 Supaman[nl]2 Suppaman[nl]3 Syoppaman[END]
+@67@1988
+*[DR_BRAIN]Fill in the[nl]blank. The[nl]infamous[nl]good-for-nothing[nl]hero [PINK]Suppaman[WHITE][nl]calls himself[nl]the "XXXX of[nl]Justice".[MEDIUM_PAUSE][nl]1 Champion[nl]2 Good boy[nl]3 Cutie[END]
+@68@2144
+*[DR_BRAIN]What is the[nl]name of the[nl][YELLOW]circuit[WHITE] that[nl]allows Arale to[nl]mimic others!?[MEDIUM_PAUSE][nl]1 Catcher[nl]2 Capture[nl]3 Pitcher[END]
+@69@2296
+*[DR_BRAIN]What is the[nl]real name of[nl]Arale's cute[nl]follower we call[nl][PINK]Gatchan[WHITE]!?[MEDIUM_PAUSE][nl]1 Tornado[nl]2 Gorilla[nl]3 Gajira[END]
+@70@2440
+*[DR_BRAIN]What is the[nl]first name of[nl]the professor[nl]that some people[nl]disparagingly[nl]call [YELLOW]Dr. Slump[WHITE]!?[MEDIUM_PAUSE][nl]1 Sembei[nl]2 Senbie[nl]3 Senbei[END]
+@71@2568
+*[DR_BRAIN]Now for a[nl]common sense[nl][YELLOW]question[WHITE]. I am[nl][YELLOW]extremely cool[WHITE]![nl]What do you[nl]think about that!?[MEDIUM_PAUSE][nl]1 Yes[nl]2 No[nl]3 I don't know[END]
+@72@2700
+*[DR_BRAIN]What is Arale[nl]Norimaki's[nl]farewell[nl]greeting!?[MEDIUM_PAUSE][nl]1 N'cha![nl]2 Bye'cha![nl]3 U-ho-hoi![END]
+@73@2820
+*[DR_BRAIN]What kind of[nl]accent does[nl][PINK]Space Emperor[nl]Nikochan[WHITE] speak[nl]with!?[MEDIUM_PAUSE][nl]1 Southern[nl]2 Italian[nl]3 Canadian[END]
+@74@2948
+*[DR_BRAIN]What is the[nl]name of the[nl][YELLOW]robot[WHITE] that [PINK]Dr.[nl]Mashirito[WHITE][nl]terrorized the[nl]town with!?[MEDIUM_PAUSE][nl]1 Caramelman[nl]2 Candyman[nl]3 Candleman[END]
+@75@3096
+*[DR_BRAIN]What is the[nl]full name of[nl][PINK]Akane's older[nl]sister[WHITE] who works[nl]at the [BLUE]Coffee[nl]Pot[WHITE]!?[MEDIUM_PAUSE][nl]1 Aoi Fukamidori[nl]2 Aoi Aomidori[nl]3 Aoi Kimidori[END]
+@76@3240
+*[DR_BRAIN]How old is [PINK]Dr.[nl]Senbei[nl]Norimaki[WHITE]!?[MEDIUM_PAUSE][nl]1 24[nl]2 26[nl]3 28[END]
+@77@3352
+*[DR_BRAIN]What is the[nl]name of the[nl]apartment[nl]building where[nl][PINK]Mrs. Midori[nl]Yamabuki[WHITE] lives!?[MEDIUM_PAUSE][nl]1 Cream Mansion[nl]2 Clean Mansion[nl]3 Green Mansion[END]
+@78@3500
+*[DR_BRAIN]What is sitting[nl]on the heater in[nl]the [BLUE]Principal's[nl]Office[WHITE]!?[MEDIUM_PAUSE][nl]1 Kettle[nl]2 Pot[nl]3 Nothing[END]
+@79@3612
+*[DR_BRAIN]What is sitting[nl]on the heater in[nl]your [BLUE]Classroom[WHITE]!?[MEDIUM_PAUSE][nl]1 Kettle[nl]2 Pot[nl]3 Nothing[END]
+@80@3732
+*[DR_BRAIN][YELLOW]What does [PINK]King[nl]Nikochan[WHITE] have[nl]sprouting out of[nl]his head!?[MEDIUM_PAUSE][nl]1 Nose[nl]2 Feelers[nl]3 Antenna[END]
+@81@3852
+*[DR_BRAIN]What did[nl][PINK]Caramelman[WHITE] steal[nl]from [BLUE]Penguin[nl]Village Bank[WHITE]!?[MEDIUM_PAUSE][nl]1 Ledger[nl]2 Tissues[nl]3 Cash[END]
+@82@3976
+*[DR_BRAIN]Fill in the[nl]blank. [PINK]Mashirito[WHITE][nl]switched all the[nl]film reels at[nl][BLUE]Penguin Cinema[WHITE][nl]with "Dr.[nl]Mashirito's[nl]XXXX".[MEDIUM_PAUSE][nl]1 Ambulance[nl]2 Ambivalence[nl]3 Ambition[END]
+@83@4148
+*[DR_BRAIN]The lady who[nl]works at the[nl][BLUE]Smoke Shop[WHITE] has a[nl]name. What is it!?[MEDIUM_PAUSE][nl]1 Oharu[nl]2 Ohello[nl]3 Ohaiyo[END]
+@84@4284
+*[DR_BRAIN]What is the[nl]name of the[nl][BLUE]Barber Shop[WHITE][nl]where [PINK]Peasuke[WHITE][nl]lives!?[MEDIUM_PAUSE][nl]1 Soramame[nl]2 Soramane[nl]3 Zoramame[END]

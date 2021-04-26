@@ -1,0 +1,127 @@
+@@S05_M14A.PAC.232.lzss.uncomp@@323@@648@@3844
+@0/2/3/4/5/6/7/8/9/10/11/12/13/14/15/25/27/28/29/30/31/43/44/45/46/47/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/1240/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE]Look's like[nl]nobody's here.[END]
+@1/16@684/684
+*[OBOTCHAMAN]I don't think[nl]this is a[nl]fitting place[nl]for our duel.[nl]The atmosphere[nl]doesn't feel[nl]quite right.[END]
+@17/87@760/2396
+*[ARALE]Huh, what do[nl]you mean?[END]
+@18@784
+*[OBOTCHAMAN]Stop acting so[nl]cute![END]
+@19/52/54@816/1988/2024
+*[ARALE]Ho-yo?[END]
+@20@828
+*[OBOTCHAMAN]Don't hold[nl]anything back[nl]this time! Have[nl]you readied[nl]yourself!?[END]
+@21@880
+*[OBOTCHAMAN]Oh dear, it[nl]seems I've lost[nl]to you again![nl]Next time won't[nl]be so easy![END]
+@22@996
+*[OBOTCHAMAN]I did it, I[nl]won! Surely this[nl]means you'll[nl]give up on [YELLOW]world[nl]domination[WHITE],[nl]correct!?[END]
+@23@1092
+*[ARALE][PINK]Obotchaman[WHITE],[nl]you're so[nl]strong![END]
+@24@1136
+*[OBOTCHAMAN]Hmm, that look[nl]you're giving me[nl]tells me that[nl]you haven't[nl]given up. Very[nl]well, let's have[nl]a rematch![END]
+@26/32@1276/1276
+*[OBOTCHAMAN]Huh!? What is[nl]the deal with[nl]your strange[nl]movements!?[END]
+@33@1336
+*[OBOTCHAMAN]That's enough![END]
+@34@1368
+*[OBOTCHAMAN]Brimming with[nl]excitement, are[nl]you!?[END]
+@35@1396
+*[OBOTCHAMAN]And who do you[nl]think you are!?[END]
+@36@1424
+*[SUPPAMAN]Shut your pie[nl]hole! I don't[nl]need to take[nl]this from some[nl]dumb brat![nl]Prepare to get a[nl]taste of[nl]justice![END]
+@37@1492
+*[OBOTCHAMAN]Using that kind[nl]of awful[nl]language towards[nl]children... are[nl]you a [YELLOW]villain[WHITE] by[nl]any chance!?[END]
+@38@1572
+*[SUPPAMAN]Pffthh!! How[nl]dare you call[nl]the [YELLOW]Champion of[nl]Justice[WHITE] a[nl][YELLOW]villain[WHITE]![END]
+@39@1660
+*[OBOTCHAMAN]That's enough![nl]You're a[nl]wretched [YELLOW]villain[WHITE][nl]and I'm not[nl]tolerating you[nl]any longer![END]
+@40@1688
+*[SUPPAMAN]A-wa-wa-wa...[END]
+@41@1708
+*[SUPPAMAN]!!!!!!!![END]
+@42/48@1728/1728
+*[SUPPAMAN]Waaaaaaaghhh...[END]
+@49@1752
+*[OBOTCHAMAN]That was quite[nl]the[nl]intermission,[nl]but now it's on[nl]to the main[nl]event![END]
+@50@1820
+*[ARALE]N'cha![END]
+@51@1836
+*[OBOTCHAMAN]Oh, excuse me[nl]miss... Ah, the[nl]weather is so[nl]lovely today...[MEDIUM_PAUSE][nl]No!! I can't get[nl]lost in your[nl][YELLOW]pretty[WHITE] smile yet[nl]again! You won't[nl]fool me![END]
+@53@2000
+*[OBOTCHAMAN]Wait![END]
+@55@2036
+*[SUPPAMAN]Gaaah!!!![END]
+@56/80@2056/2056
+*[OBOTCHAMAN]Have a taste of[nl]real justice![END]
+@81@2092
+*[OBOTCHAMAN]Would you look[nl]at that, I[nl]missed.[END]
+@82@2148
+*[ARALE]Kya-ha-ha-ha! I[nl]missed too![END]
+@83@2184
+*[SUPPAMAN]Waaagh! I won't[nl]forget this![END]
+@84@2224
+*[OBOTCHAMAN]Phew, it took[nl]some[nl]intimidating but[nl]we're finally[nl]rid of that[nl]awful lout. It's[nl]just the two of[nl]us now.[END]
+@85@2304
+*[ARALE]Uh-huh.[END]
+@86@2320
+*[OBOTCHAMAN]Yeah...[MEDIUM_PAUSE] N-no! I[nl]can't let myself[nl]get carried away[nl]by the romantic[nl]atmosphere![END]
+@88@2420
+*[OBOTCHAMAN]Stop being so[nl]cute! I'm going[nl]to stop being[nl]easy on you! Are[nl]you ready!?[END]
+@89@2500
+*[ARALE]Oh, boy![END]
+@90@2516
+*[OBOTCHAMAN]For our next[nl]duel I thought[nl]we might try[nl]going to a very[nl]distant place.[nl]Once again the[nl]winner will be[nl]awarded a [YELLOW]Golden[nl]Poop[WHITE]![END]
+@91@2668
+*[ARALE]U-ho-hoi![END]
+@92/93@2688/2688
+*[ARALE]Ho-yo? He left.[END]
+@94/224@2712/2712
+*Nice! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Lift」[WHITE] ability.[nl]Press the [YELLOW]Punch[nl]Button[WHITE] in front[nl]of a liftable[nl]object to [GREEN]lift[WHITE][nl]it and [GREEN]throw[WHITE] it![END]
+@225/256@2840/2840
+*Where to?[END]
+@257@2860
+*Stay here[END]
+@258@2876
+*[BLUE]School[END]
+@259@2896
+*[BLUE]Secret Lair[END]
+@260/272@2924/2924
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@273@2952
+*[ARALE]Let's go to the[nl][BLUE]Secret Lair[WHITE].[END]
+@274/304@2988/2988
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3032
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3092
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3136
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3188
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3276
+*[YELLOW]Formatting...[END]
+@310@3372
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3400
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3436
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3500
+*[YELLOW]Saving[WHITE]...[END]
+@314@3600
+*Overwrite[nl]existing save?[END]
+@315@3644
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3696
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3716/3784
+*Back[END]
+@318@3724
+*OK[END]
+@319@3736
+*[WHITE]Select a file[END]
+@320@3768
+*[YELLOW]Save[END]
+@322@3792
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

@@ -1,0 +1,121 @@
+@@S05_M03B.PAC.232.lzss.uncomp@@323@@648@@4324
+@0/11/12/13/14/15/21/22/23/24/25/26/27/28/29/30/31/43/44/45/46/47/54/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PAPA_SORAMAME]Shouldn't you[nl]get going? You[nl]wouldn't want to[nl]be late.[END]
+@1/34@692/1380
+*[ARALE]N'cha![END]
+@2/35@712/1400
+*[PAPA_SORAMAME]Is that you[nl]Arale? You're[nl]looking as peppy[nl]as ever. That's[nl]the kind of[nl]energy kids[nl]should have.[nl]Here, have [YELLOW]100[nl]points[WHITE]![END]
+@3/36@856/1544
+*[ARALE]U-ho-hoi![END]
+@4/37@872/1560
+*[PAPA_SORAMAME]If it isn't[nl]Arale? Welcome![END]
+@5/38@916/1604
+*[PAPA_SORAMAME]Sorry Arale. Im[nl]out of [YELLOW]prizes[WHITE][nl]for you.[END]
+@6@980
+*[PAPA_SORAMAME]Good luck out[nl]there![END]
+@7/8/9/10/16/17/18/19@1004/1048/1092/1136/1136/1180/1224/1268
+*[PAPA_SORAMAME]Shouldn't you[nl]get going? You[nl]wouldn't want to[nl]be late.[END]
+@20/32@1312/1312
+*[PAPA_SORAMAME]It must be nice[nl]to be young.[END]
+@33@1336
+*[PAPA_SORAMAME]Damn that [PINK]Taro[WHITE]![nl]All thinks about[nl]is girls.[END]
+@39@1668
+*[PAPA_SORAMAME]Come again,[nl]y'hear?[END]
+@40@1696
+*[PAPA_SORAMAME]Ha-ha-ha![nl]You're a bundle[nl]of energy,[nl]Arale.[END]
+@41@1736
+*[PAPA_SORAMAME]Here for a cut?[END]
+@42/48@1764/1764
+*[PAPA_SORAMAME]That's a mean[nl][GREEN]punch[WHITE] you've got[nl]there.[END]
+@49@1820
+*[PAPA_SORAMAME]How about a[nl]nice stylish[nl]haircut?[END]
+@50@1852
+*[PAPA_SORAMAME]Some of these[nl]popular new[nl]hairstyles are[nl]really out[nl]there. I don't[nl]think I like[nl]'em.[END]
+@51@1904
+*[PAPA_SORAMAME]Sorry kid, I[nl]can't let you in[nl]there. It isn't[nl]part of the[nl][YELLOW]shop[WHITE].[END]
+@52@1964
+*[PAPA_SORAMAME]What's the[nl]matter? You got[nl]quiet all of a[nl]sudden.[END]
+@53/96@2024/2024
+*[PAPA_SORAMAME]That's a super[nl]cool [GREEN]ability[WHITE]![nl]You're awesome,[nl]Arale![END]
+@97@2108
+*[PAPA_SORAMAME]That's cool no[nl]matter how many[nl]times I see it.[END]
+@98@2152
+*[PAPA_SORAMAME]Whoa, what a[nl]tremor! The[nl][BLUE]Earth[WHITE] just split[nl]open before my[nl]eyes![END]
+@99@2224
+*[PAPA_SORAMAME]That's an[nl]impressive[nl][GREEN]ability[WHITE], but try[nl]not to destroy[nl]the shop.[END]
+@100@2276
+*[PAPA_SORAMAME]So that's your[nl][YELLOW]powered up[WHITE][nl][GREEN]punch[WHITE]. You can[nl]really do some[nl]damage with[nl]that.[END]
+@101@2364
+*[PAPA_SORAMAME]I hope I'm[nl]never on the[nl]receiving end of[nl]that![END]
+@102@2396
+*[PAPA_SORAMAME]Wow, a [GREEN]jump[WHITE][nl]that high would[nl]let you climb[nl]anything![END]
+@103@2472
+*[PAPA_SORAMAME]You look just[nl]like a [YELLOW]frog[WHITE] when[nl]you do that.[END]
+@104@2516
+*[PAPA_SORAMAME]Wh-what was[nl]that [GREEN]move[WHITE]!?[nl]That's a funny[nl]one![END]
+@105@2588
+*[PAPA_SORAMAME]Maybe you[nl]should try not[nl]to do that one[nl]so much...[END]
+@106@2640
+*[PAPA_SORAMAME]Ha-ha-ha! You[nl]remind of of one[nl]of those [YELLOW]spoiled[nl]brats[WHITE].[END]
+@107@2724
+*[PAPA_SORAMAME]Ha-ha-ha![nl]You've got some[nl]strength in[nl]those arms.[END]
+@108@2788
+*[PAPA_SORAMAME]I see you've[nl]learned another[nl]new [GREEN]jump[nl]ability[WHITE]. Nothing[nl]is out of your[nl]reach now![END]
+@109@2892
+*[PAPA_SORAMAME]You could be an[nl]olympic athlete![END]
+@110@2924
+*[PAPA_SORAMAME]You've even[nl]learned to use[nl]your butt as a[nl]weapon?[nl]Incredible![END]
+@111@3012
+*[PAPA_SORAMAME]Squish 'em into[nl]goo, Arale![END]
+@112@3052
+*[PAPA_SORAMAME]Whoa... that[nl]must be the[nl]ultimate [GREEN] jump[nl]ability[WHITE].[END]
+@113@3120
+*[PAPA_SORAMAME]That [GREEN]jump[WHITE] could[nl]solve anything![END]
+@114@3144
+*[PAPA_SORAMAME]Ha-ha-ha! Just[nl]like a little[nl][YELLOW]baby[WHITE].[END]
+@115@3188
+*[PAPA_SORAMAME]Hey it's filthy[nl]down there, you[nl]know?[END]
+@116@3224
+*[PAPA_SORAMAME]Wh-who taught[nl]you to do that?[nl]Don't get into[nl]any mischief,[nl]Arale.[END]
+@117@3304
+*[PAPA_SORAMAME]Cool [YELLOW]ninja[WHITE][nl]moves.[END]
+@118@3348
+*[PAPA_SORAMAME]A [GREEN]somersault[WHITE],[nl]huh. Must be a[nl]great workout[nl]for your abs.[END]
+@119@3420
+*[PAPA_SORAMAME]Doesn't that[nl]make you dizzy?[END]
+@120/304@3468/3468
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3512
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3572
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3616
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3668
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3756
+*[YELLOW]Formatting...[END]
+@310@3852
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3880
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3916
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3980
+*[YELLOW]Saving[WHITE]...[END]
+@314@4080
+*Overwrite[nl]existing save?[END]
+@315@4124
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4176
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4196/4264
+*Back[END]
+@318@4204
+*OK[END]
+@319@4216
+*[WHITE]Select a file[END]
+@320@4248
+*[YELLOW]Save[END]
+@322@4272
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

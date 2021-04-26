@@ -1,0 +1,99 @@
+@@S05_M08A.PAC.232.lzss.uncomp@@323@@648@@3088
+@0/11/12/13/14/15/27/28/29/30/31/35/36/37/38/39/40/41/42/43/44/45/46/47/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[OBOTCHAMAN]We must test[nl]our abilities[nl]against each[nl]other![END]
+@1/5@680/856
+*[ARALE]Oh, boy![END]
+@2@696
+*[OBOTCHAMAN]Sorry, but I[nl]must test the[nl]limits of your[nl][YELLOW]speed[WHITE]![END]
+@3/7/17/22/25@772/988/1200/1460/1564
+*[ARALE]Ho-yo?[END]
+@4@784
+*[OBOTCHAMAN]I'm not losing[nl]this one! This[nl]next duel is[nl]going to be a[nl][YELLOW]race[WHITE]![END]
+@6@872
+*[OBOTCHAMAN]I didn't[nl]imagine I would[nl]lose yet[nl]again... I must[nl]have[nl]underestimated[nl]you once more...[nl]We must have[nl]another duel![END]
+@8@1000
+*[OBOTCHAMAN]Pant... pant...[nl]I-I won![END]
+@9@1068
+*[ARALE]You were so[nl]fast,[nl][PINK]Obotchaman[WHITE]![END]
+@10/16@1116/1116
+*[OBOTCHAMAN]Oh gee, I[nl]suppose I was[nl]quite dashing[nl]there...[MEDIUM_PAUSE] Wait!?[nl]No! You won't[nl]deceive me with[nl]your wiles[nl]again![END]
+@18@1212
+*[OBOTCHAMAN]Are you trying[nl]to tempt me with[nl]your wiles!? I[nl]won't stand for[nl]this! We must[nl]race again![END]
+@19@1348
+*[OBOTCHAMAN]I've been[nl]waiting for you![END]
+@20@1376
+*[ARALE]Hey, it's[nl][PINK]Obotchaman[WHITE].[END]
+@21@1408
+*[OBOTCHAMAN]I can see[nl]through the[nl]deception of a[nl][YELLOW]villain[WHITE]![END]
+@23@1472
+*[OBOTCHAMAN]The [BLUE]bank[WHITE] is[nl]going to be[nl]attacked, I'm[nl]sure of it![END]
+@24@1540
+*[OBOTCHAMAN]Wait![END]
+@26/32@1576/1576
+*[OBOTCHAMAN]That's enough![END]
+@33@1608
+*[OBOTCHAMAN]Brimming with[nl]excitement, are[nl]you!?[END]
+@34/224@1636/1636
+*[OBOTCHAMAN]This place is a[nl]bit too small to[nl]properly test[nl]our [YELLOW]top speed[WHITE],[nl]let's find a[nl]place where we[nl]can properly[nl]stretch our[nl]legs. We should[nl]race in[nl][BLUE]Cyberspace[WHITE]! The[nl]winner will be[nl]awarded a [YELLOW]Golden[nl]Poop[WHITE]![END]
+@192/227@1928/1928
+*[ARALE]Gotcha![END]
+@193@1948
+*[HAPPY_HAT_GUY]A-wa-wa-wa...[END]
+@194@1972
+*[PAPER]Closed[nl]temporarily.[END]
+@195/256@1996/1996
+*Where to?[END]
+@225@1884
+*[ARALE]U-ho-hoi![END]
+@226@1904
+*[ARALE]Ho-yo? He left.[END]
+@257@2016
+*Stay here[END]
+@258@2032
+*[BLUE]Police[END]
+@259@2064
+*[BLUE]Cinema[END]
+@260@2092
+*[BLUE]Apartments[END]
+@261/272@2124/2124
+*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+@273@2164
+*[ARALE]Let's go to the[nl][BLUE]Cinema[WHITE].[END]
+@274@2196
+*[ARALE]Let's go to the[nl][BLUE]Apartments[WHITE].[END]
+@275/304@2232/2232
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2276
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2336
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2380
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2432
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2520
+*[YELLOW]Formatting...[END]
+@310@2616
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2644
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2680
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2744
+*[YELLOW]Saving[WHITE]...[END]
+@314@2844
+*Overwrite[nl]existing save?[END]
+@315@2888
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@2940
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@2960/3028
+*Back[END]
+@318@2968
+*OK[END]
+@319@2980
+*[WHITE]Select a file[END]
+@320@3012
+*[YELLOW]Save[END]
+@322@3036
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

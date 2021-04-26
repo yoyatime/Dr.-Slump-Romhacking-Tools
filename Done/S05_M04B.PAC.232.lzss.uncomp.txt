@@ -1,0 +1,135 @@
+@@S05_M04B.PAC.232.lzss.uncomp@@323@@648@@3856
+@0/10/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/56/57/58/59/60/61/62/63/70/71/72/73/74/75/76/77/78/79/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[POLICE_COMISSIONER]Shouldn't you[nl]be in [BLUE]School[WHITE]?[nl]Don't let me[nl]catch you[nl]playing hooky![END]
+@1@700
+*[POLICE_GIRL]The [YELLOW]radio[WHITE] is[nl]still on the[nl]fritz...[END]
+@2/23@760/1308
+*[ARALE]Hello? I'm[nl]Arale, is anyone[nl]there?[END]
+@3/24@812/1360
+*[POLICE_COMISSIONER]No prank[nl]calling! That's[nl]an important[nl]line![END]
+@4/25@852/1400
+*[PAPER]Damage report[nl]·? [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@5/26/32@892/1440/1440
+*[POLICE_COMISSIONER]No touching.[END]
+@6/33@912/1460
+*[POLICE_COMISSIONER]Don't open[nl]that.[END]
+@7@932
+*[ARALE]Hello![END]
+@8@948
+*[POLICE_GIRL]The [YELLOW]radio[WHITE] is[nl]still busted.[END]
+@9/16@992/992
+*[POLICE_COMISSIONER]Great work[nl]nabbing that[nl][YELLOW]burglar[WHITE], Arale![END]
+@17/49/51@1048/1864/1924
+*[ARALE]U-ho-hoi![END]
+@18@1068
+*[POLICE_COMISSIONER]Can you check[nl]the [YELLOW]radio[WHITE] for[nl]me?[END]
+@19@1112
+*[ARALE]Hey, there's a[nl][YELLOW]burglar[WHITE] on the[nl]loose.[END]
+@20@1156
+*[POLICE_COMISSIONER]What!? A[nl][YELLOW]burglar[WHITE]!? What's[nl]the status on[nl]our [YELLOW]radio[WHITE]!?[END]
+@21@1216
+*[POLICE_GIRL]I've got the[nl][YELLOW]burglar[WHITE] locked[nl]up in [BLUE]jail[WHITE].[END]
+@22@1268
+*[POLICE_GIRL]The [YELLOW]radio[WHITE] is[nl]finally fixed.[END]
+@34@1480
+*The [YELLOW]burglar[WHITE] is[nl]preying on[nl][BLUE]Penguin Village[WHITE]![END]
+@35@1536
+*[POLICE_COMISSIONER]Damn, none of[nl]our officers can[nl]nab this perp...[nl]Wait! I've got[nl]it![END]
+@36@1600
+*[ARALE]Ho-yo?[END]
+@37@1612
+*[POLICE_COMISSIONER]Arale! Why[nl]don't you go and[nl]play tag with[nl]the [YELLOW]burglar[WHITE]!?[nl]It'll be fun![END]
+@38@1684
+*[POLICE_COMISSIONER]You have your[nl]orders![nl]Dismissed![END]
+@39@1720
+*[ARALE]Roger![END]
+@40@1744
+*[POLICE_COMISSIONER]Wait... is[nl]that...[END]
+@41@1772
+*[ARALE]I caught the[nl][YELLOW]burglar[WHITE]![END]
+@42/48@1820/1820
+*[POLICE_COMISSIONER]Well done[nl]Arale![nl]Wonderful![END]
+@50@1884
+*[POLICE_COMISSIONER]Great work. You[nl]bagged him.[END]
+@52@1944
+*[POLICE_COMISSIONER]Phew, you saved[nl]our hides.[nl]Thanks a lot.[END]
+@53/66@1988/2156
+*[ARALE]Hoi![END]
+@54@2000
+*[POLICE_COMISSIONER]We don't have[nl]much [YELLOW]time[WHITE]...[END]
+@55/64@2056/2056
+*[ARALE]I wanna help[nl]you catch the[nl][YELLOW]burglar[WHITE].[END]
+@65@2092
+*[POLICE_COMISSIONER]Really!? You'll[nl]help us!? We're[nl]counting on you![END]
+@67@2168
+*[POLICE_COMISSIONER]The [YELLOW]burglar[WHITE] is[nl]operating[nl]somewhere in[nl][BLUE]Penguin Village[WHITE].[nl]You've gotta nab[nl]him![END]
+@68@2260
+*[ARALE]Roger![END]
+@69/80@2280/2280
+*[POLICE_COMISSIONER]We've got a[nl]serious problem.[nl]A [YELLOW]burglar[WHITE] has[nl]been on the[nl]prowl in [BLUE]Penguin[nl]Village[WHITE]...[END]
+@81@2364
+*[ARALE]Oh, boy![END]
+@82@2380
+*[POLICE_COMISSIONER]That shouldn't[nl]make you happy![END]
+@83@2412
+*[POLICE_COMISSIONER]Quit bothering[nl]me.[END]
+@84@2452
+*[POLICE_GIRL]I could knock[nl]that [YELLOW]burglar[WHITE]'s[nl]head clean off[nl]with one hit.[END]
+@85/192@2512/2512
+*[PAPER]Damage report[nl]·0 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@193@2556
+*[PAPER]Damage report[nl]·1 [YELLOW]Patrol Car[WHITE][nl]destroyed.[END]
+@194@2600
+*[PAPER]Damage report[nl]·2 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@195@2644
+*[PAPER]Damage report[nl]·3 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@196@2688
+*[PAPER]Damage report[nl]·4 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@197@2732
+*[PAPER]Damage report[nl]·5 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@198@2776
+*[PAPER]Damage report[nl]·6 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@199@2820
+*[PAPER]Damage report[nl]·7 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@200@2864
+*[PAPER]Damage report[nl]·8 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@201@2908
+*[PAPER]Damage report[nl]·9 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@202@2952
+*[PAPER]Damage report[nl]·10 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@203/304@3000/3000
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3044
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3104
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3148
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3200
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3288
+*[YELLOW]Formatting...[END]
+@310@3384
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3412
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3448
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3512
+*[YELLOW]Saving[WHITE]...[END]
+@314@3612
+*Overwrite[nl]existing save?[END]
+@315@3656
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3708
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3728/3796
+*Back[END]
+@318@3736
+*OK[END]
+@319@3748
+*[WHITE]Select a file[END]
+@320@3780
+*[YELLOW]Save[END]
+@322@3804
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

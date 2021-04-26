@@ -20,7 +20,7 @@
 @261/272@1004/1004
 *[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
 @273@1044
-*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+*[ARALE]Let's go to the[nl][BLUE]Cinema[WHITE].[END]
 @274@1076
 *[ARALE]Let's go to[nl][BLUE]Obotchaman's[nl]House[WHITE].[END]
 @275/304@1116/1116

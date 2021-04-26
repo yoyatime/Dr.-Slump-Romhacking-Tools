@@ -1,0 +1,173 @@
+@@S05_M02C.PAC.232.lzss.uncomp@@323@@648@@4636
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/56/57/58/59/60/61/62/63/75/76/77/78/79/91/92/93/94/95/104/105/106/107/108/109/110/111/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[AKANE]A [YELLOW]house[WHITE]!? Are[nl]you sure you're[nl]alright, Arale?[END]
+@1@704
+*[AKANE]Oh yeah, what[nl]do you think[nl]that loud noise[nl]from this[nl]morning was?[END]
+@2@760
+*[ARALE]A [YELLOW]house[WHITE] fell[nl]out of the sky.[END]
+@3@796
+*[AKANE]Huh?[END]
+@4@808
+*[PEASUKE_WHITE]I wonder what[nl]they'll be like.[END]
+@5@840
+*[PEASUKE_WHITE]We're getting a[nl]new [PINK]teacher[WHITE][nl]today.[END]
+@6/52@888/2244
+*[AKANE]Hey~~~ He's[nl]kinda cute.[END]
+@7@932
+*[AKANE]So he lives in[nl]that [YELLOW]house[WHITE] you[nl]were talking[nl]about? I guess[nl]your story[nl]wasn't made up.[END]
+@8@1000
+*[PEASUKE_WHITE]Do you think he[nl]could lift his[nl]head back up if[nl]he fell over?[END]
+@9@1036
+*[PEASUKE_WHITE]Man, our[nl][PINK]teacher[WHITE] has a[nl]huge [YELLOW]head[WHITE].[END]
+@10/16@1088/1088
+*[DR_BRAIN]You'll learn[nl]much if you pay[nl]attention in[nl]class.[END]
+@17@1136
+*[DR_BRAIN]Thank you for[nl]helping me[nl]earlier today.[END]
+@18/66/98@1172/2612/3360
+*[ARALE]Hoi![END]
+@19@1184
+*[DR_BRAIN]You should act[nl]a bit more[nl]mannerly when[nl]speaking to your[nl]teacher![END]
+@20@1232
+*[ARALE]Ho-yo?[END]
+@21@1244
+*[DR_BRAIN]Are you really[nl]my [YELLOW]students[WHITE]...?[END]
+@22/51@1296/2224
+*[TSUKUTSUN]Hello to[nl]everyone.[END]
+@23@1316
+*[TSUKUTSUN]It seems we[nl]ended up in the[nl]same [YELLOW]class[WHITE], yes?[nl]Let's get along[nl]well.[END]
+@24@1384
+*[DR_BRAIN]Very admirable[nl]of you to care[nl]for the[nl]cleanliness of[nl]our classroom,[nl]but we are in[nl]the middle of a[nl][YELLOW]lesson[WHITE].[END]
+@25@1468
+*[AKANE]Dude, why would[nl]you ever want to[nl][YELLOW]clean up[WHITE] when[nl]you aren't[nl]forced to? It's[nl]a pain in the[nl]butt.[END]
+@26/32@1540/1540
+*[PAPER]Let's all get[nl]along.[END]
+@33@1572
+*[AKANE]Whoa, that's[nl]dangerous, dude.[END]
+@34@1600
+*[AKANE]What's up,[nl]Arale![END]
+@35@1628
+*[ARALE]N'cha![END]
+@36@1644
+*[DR_BRAIN]Hello and good[nl]morning,[nl]children! Please[nl]take your seats![END]
+@37@1700
+*[AKANE]Ack, he's here![END]
+@38@1716
+*[DR_BRAIN]From today[nl]onwards, I will[nl]be your [YELLOW]teacher[WHITE].[nl]Please call me[nl][PINK]Mr. Kurigashira[WHITE].[nl]I hope we can[nl]have an[nl]excellent school[nl]year.[END]
+@39@1836
+*[ARALE]Hoi![END]
+@40@1852
+*[DR_BRAIN]Quiet,[nl]everyone! Today[nl]we have gym[nl]class out on the[nl][BLUE]School Yard[WHITE].[nl]Everyone[nl]outside![END]
+@41@1964
+*[DR_BRAIN]Everyone[nl]outside. Let's[nl]get going.[END]
+@42/48@2008/2008
+*[DR_BRAIN]We are in the[nl]middle of a[nl][YELLOW]lesson[WHITE], Ms.[nl]Norimaki. You[nl]can't just leave[nl]whenever you[nl]feel like it.[END]
+@49@2092
+*[AKANE]Whoa, hold on![nl]The [PINK]teacher[WHITE] is[nl]gonna be here[nl]any minute![END]
+@50@2144
+*[DR_BRAIN]We also have a[nl][YELLOW]transfer student[WHITE][nl]joining us[nl]today. Please[nl]give a warm[nl]welcome to[nl][PINK]Tsukutsun[WHITE].[END]
+@53@2288
+*[DR_BRAIN][PINK]Ms. Kimidori[WHITE], I[nl]presume? That[nl]type of language[nl]is hardly[nl]appropriate for[nl]the classroom.[END]
+@54@2372
+*[ARALE]Kya-ha-ha-ha![END]
+@55/64@2392/2392
+*[DR_BRAIN]By the way, do[nl]you have an idea[nl]who that [PINK]child[WHITE][nl]from earlier[nl]was?[END]
+@65@2452
+*[DR_BRAIN]Come back for[nl]supplemental[nl]lessons? Very[nl]well. I'll test[nl]you to see how[nl]much you know[nl]about your[nl]fellow[nl]classmates.[END]
+@67@2624
+*[DR_BRAIN]I believe[nl][PINK]Peasuke[WHITE] lives at[nl]the [BLUE]Soramame[nl]Barber Shop[WHITE], so[nl]then...[END]
+@68@2688
+*[ARALE]Oh, boy![END]
+@69@2704
+*[DR_BRAIN]How many chairs[nl]are there at the[nl][BLUE]Barber Shop[WHITE]!?[nl]And don't count[nl]the sofa![END]
+@70/72/83/85@2776/2836/3028/3088
+*[DR_BRAIN]Incorrect! The[nl]answer was 4.[END]
+@71/73/84/86@2816/2876/3068/3128
+*[ARALE]Whoops.[END]
+@74/80/87@2896/2896/3148
+*[DR_BRAIN]Correct! Well[nl]done![END]
+@81/88@2940/3192
+*[ARALE]U-ho-hoi![END]
+@82@2960
+*[DR_BRAIN]Excuse me? Did[nl]you never bother[nl]to look!? You[nl]need to shape[nl]up, pronto![END]
+@89@3212
+*[PAPER]Get along well[nl]with your[nl][PINK]teacher[WHITE].[END]
+@90/96@3252/3252
+*[DR_BRAIN]O-ho? Planning[nl]on cleaning up?[END]
+@97@3288
+*[DR_BRAIN]Ho-ho, quite[nl]admirable of[nl]you. Please, go[nl]ahead.[END]
+@99@3372
+*[DR_BRAIN]Are you teasing[nl]me!? I won't[nl]stand for this![END]
+@100@3428
+*[DR_BRAIN]Oh, hello Ms.[nl]Norimaki. Do you[nl]need something?[END]
+@101@3468
+*[ARALE]Bye'cha.[END]
+@102@3484
+*[DR_BRAIN]Goodbye.[END]
+@103/112@3500/3500
+*[ARALE]Nope.[END]
+@113/224@3516/3516
+*I dunno[END]
+@225@3528
+*3[END]
+@226@3536
+*4[END]
+@227@3544
+*5[END]
+@228@3552
+*[ARALE]Umm, I don't[nl]know.[END]
+@229@3568
+*[ARALE]3, I think.[END]
+@230@3584
+*[ARALE]4, I think.[END]
+@231@3600
+*[ARALE]5, I think.[END]
+@232/256@3616/3616
+*Stay here[END]
+@257@3632
+*[BLUE]Office[END]
+@258@3660
+*[BLUE]School Yard[END]
+@259@3680
+*Where to?[END]
+@260@3700
+*[ARALE]Nevermind.[END]
+@261@3720
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@262@3748
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@263/304@3780/3780
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3824
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3884
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3928
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3980
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4068
+*[YELLOW]Formatting...[END]
+@310@4164
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4192
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4228
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4292
+*[YELLOW]Saving[WHITE]...[END]
+@314@4392
+*Overwrite[nl]existing save?[END]
+@315@4436
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4488
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4508/4576
+*Back[END]
+@318@4516
+*OK[END]
+@319@4528
+*[WHITE]Select a file[END]
+@320@4560
+*[YELLOW]Save[END]
+@322@4584
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

@@ -1,0 +1,151 @@
+@@S05_M09A.PAC.232.lzss.uncomp@@323@@648@@3808
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/53/54/55/56/57/58/59/60/61/62/63/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/264/265/266/267/268/269/270/271/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[TSURURIN]Nice to meet[nl]you.[END]
+@1/6@668/864
+*[ARALE]N'cha![END]
+@2@684
+*[TSURURIN]Good morning to[nl]you. My name is[nl][PINK]Tsururin[WHITE].[END]
+@3@732
+*[ARALE]My name's[nl]Arale.[END]
+@4@756
+*[TSURURIN]We've come here[nl]from [BLUE]China[WHITE]. I[nl]hope we can be[nl]the bestest of[nl]friends.[END]
+@5@832
+*[TSUKUTSUN]Let's be good[nl]friends.[END]
+@7@880
+*[TSUKUTSUN]Good day to[nl]you.[END]
+@8@900
+*[ARALE]I'm Arale. Can[nl]you tell me your[nl]name?[END]
+@9@936
+*[TSUKUTSUN]I am [PINK]Tsukutsun[WHITE].[nl]Can you be[nl]telling us where[nl]we are?[END]
+@10/16@984/984
+*[ARALE]Yup, you're in[nl][BLUE]Penguin Village[WHITE].[END]
+@17@1012
+*[TSUKUTSUN]I see... I am[nl]unfamiliar with[nl]this town...[END]
+@18@1060
+*[TSURURIN]No one here is[nl]stranger than[nl]him.[END]
+@19@1100
+*[TSURURIN]Perhaps our[nl]family is not so[nl]normal.[END]
+@20@1148
+*[ARALE]Ho-yo?[END]
+@21@1160
+*[ARALE]Hey, what'cha[nl]doing?[END]
+@22@1188
+*[TSUKUTSUN]This is my[nl]training. My[nl]pride and[nl]confidence are[nl]in my martial[nl]ability.[nl]Wonderful, yes?[END]
+@23@1276
+*[TSUKUTSUN]Wow...[END]
+@24@1296
+*[TSURURIN][YELLOW]Children in[nl]Japan[WHITE] are quite[nl]formidable...[END]
+@25@1352
+*[ARALE]Wowie! You're[nl]floating!?[END]
+@26/32@1392/1392
+*[TSUKUTSUN][PINK]My sister[WHITE] has[nl]extaordinary[nl][YELLOW]telekinetic[nl]powers[WHITE]. Strange,[nl]yes?[END]
+@33@1472
+*[TSURURIN]Hmph...[END]
+@34@1488
+*[TSURURIN]What are you[nl]saying? Number[nl]one weirdo here[nl]is you...[END]
+@35@1548
+*[ARALE]Whoa...[END]
+@36@1564
+*[TSURURIN]If ever he is[nl]touched by a[nl][YELLOW]girl[WHITE], he takes[nl]on the form of a[nl][YELLOW]tiger[WHITE].[END]
+@37@1644
+*[ARALE]That's cool![END]
+@38@1668
+*[TSURURIN][YELLOW]Children in[nl]Japan[WHITE] are quite[nl]strange as[nl]well...[END]
+@39@1720
+*[TIGER_HEAD]ROOOAAARRR![END]
+@40@1748
+*[ARALE]Ho-yo-yo? This[nl]wasn't here[nl]before.[END]
+@41/42/48@1788/1836/1836
+*[TSUKUTSUN]Do you not want[nl]to play with us[nl]longer, Arale?[END]
+@49@1884
+*[TSUKUTSUN]Hey, wait! Can[nl]you be telling[nl]us where we are?[END]
+@50@1932
+*[TSUKUTSUN]You can't go to[nl][BLUE]someone's house[WHITE][nl]without asking,[nl]yes?[END]
+@51@1984
+*[TSUKUTSUN]GWWWOOOOAAARR![END]
+@52/64@2016/2016
+*[TSUKUTSUN]My heart is[nl]beating so fast,[nl]yes...[END]
+@65@2044
+*[TSUKUTSUN][PINK]Akane[WHITE] is a[nl]cutie...[END]
+@66@2084
+*[AKANE]What's the[nl]matter? Don't[nl]wanna talk to me[nl]or something?[END]
+@67@2120
+*[AKANE][PINK]Tsukutsun[WHITE][nl]hasn't said a[nl]word to me this[nl]whole time.[END]
+@68@2184
+*[TIGER_HEAD]I was touched[nl]by [PINK]Akane[WHITE]![END]
+@69@2232
+*[AKANE]Wh-what's up[nl]with this guy!?[END]
+@70@2260
+*[TSUKUTSUN]I'm glad she[nl]isn't put off by[nl]me![END]
+@71@2300
+*[AKANE]You turn into a[nl][YELLOW]tiger[WHITE] if a [YELLOW]girl[WHITE][nl]touches you?[nl]Boy, you're[nl]weird.[END]
+@72@2380
+*[AKANE]A-ha-ha-ha...[END]
+@73@2404
+*[AKANE]Whoa, what the[nl]heck is going[nl]on!?[END]
+@74/80@2440/2440
+*[AKANE]What's the[nl]matter? You[nl]havent spoken a[nl]word to me this[nl]whole time.[END]
+@81/192@2508/2508
+*[ARALE]Gotcha![END]
+@193@2528
+*[HAPPY_HAT_GUY]A-wa-wa-wa...[END]
+@194@2548
+*[ARALE]Huh? It's[nl]closed.[END]
+@195/224@2572/2572
+*Lucky! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Long Jump」[WHITE][nl]ability! While[nl]crouching, press[nl]the [YELLOW]Jump Button[WHITE][nl]to [GREEN]jump very[nl]far[WHITE]![END]
+@225/256@2704/2704
+*Where to?[END]
+@257@2724
+*Stay here[END]
+@258@2740
+*[BLUE]Home[END]
+@259@2760
+*[BLUE]Smoke Shop[END]
+@260@2780
+*[BLUE]Kinoko's[END]
+@261@2804
+*[BLUE]Suppaman's[END]
+@262/272@2832/2832
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@273@2856
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@274@2884
+*[ARALE]Let's go to[nl][BLUE]Kinoko's House[WHITE].[END]
+@275@2916
+*[ARALE]Let's go to[nl][BLUE]Suppaman's[nl]House[WHITE].[END]
+@276/304@2952/2952
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2996
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3056
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3100
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3152
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3240
+*[YELLOW]Formatting...[END]
+@310@3336
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3364
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3400
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3464
+*[YELLOW]Saving[WHITE]...[END]
+@314@3564
+*Overwrite[nl]existing save?[END]
+@315@3608
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3660
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3680/3748
+*Back[END]
+@318@3688
+*OK[END]
+@319@3700
+*[WHITE]Select a file[END]
+@320@3732
+*[YELLOW]Save[END]
+@322@3756
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
