@@ -154,7 +154,7 @@
 @109@5236
 *[CHIVIL]I'm counting on[nl]you to take me[nl]someplace good,[nl]chu![END]
 @114@5532
-*[SUPPAMAN]How dare you[nl]keep an [YELLOW]Ally of[nl]Justice[WHITE] waiting[nl]outside with the[nl]rabble![END]
+*[SUPPAMAN]How dare you[nl]keep a [YELLOW]Champion[nl]of Justice[WHITE][nl]waiting outside[nl]with the rabble![END]
 @115@5624
 *[CHIVIL]You lied to me,[nl]chu.[END]
 @116@5640
@@ -399,4 +399,3 @@
 *Stage 7[END]
 @431@10924
 *Stage 8[END]
-

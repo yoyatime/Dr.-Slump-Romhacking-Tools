@@ -122,7 +122,7 @@
 @99@3760
 *[ARALE]Yeah, something[nl]like that.[END]
 @100@3780
-*[SUPPAMAN]Wa-ha-ha-ha! It[nl]looks like the[nl][YELLOW]ally of justice[WHITE][nl]is pretty[nl]important[nl]celebrity! Sure[nl]kid, I'll be[nl]there. You're[nl]lucky I'm taking[nl]time out of my[nl]busy schedule[nl]for this.[END]
+*[SUPPAMAN]Wa-ha-ha-ha! It[nl]looks like the[nl][YELLOW]Champion of Justice[WHITE][nl]is a respected[nl]celebrity! Sure[nl]kid, I'll be[nl]there. You're[nl]lucky I'm taking[nl]time out of my[nl]busy schedule[nl]for this.[END]
 @101@3964
 *[SUPPAMAN]So this is what[nl]fame feels like![END]
 @102@3996

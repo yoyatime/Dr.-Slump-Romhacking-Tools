@@ -112,7 +112,7 @@
 @75/80@3448/3448
 *[KING_NIKO]Hold up. How[nl]are we going to[nl]get our hands on[nl]a [YELLOW]space ship[WHITE]?[END]
 @81@3516
-*[KINOKO_STYLISH]Wait what have[nl]you got there?[nl]Why don't you[nl]show it to me?[END]
+*[KINOKO_STYLISH]Wait, what have[nl]you got there?[nl]Why don't you[nl]show it to me?[END]
 @82@3584
 *[KINOKO_STYLISH]Ah, that's what[nl]I expected of[nl]you. You truly[nl]are a [YELLOW]dimwitted[WHITE][nl]girl.[END]
 @83@3640

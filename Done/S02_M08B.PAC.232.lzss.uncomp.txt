@@ -14,11 +14,11 @@
 @6/16@952/952
 *[ARALE]Hey mister, are[nl]you a [YELLOW]bad guy[WHITE]?[END]
 @17@996
-*[SUPPAMAN]Wh-what do you[nl]mean? I am the[nl][YELLOW]ally of justice[WHITE],[nl][PINK]Suppaman[WHITE]![END]
+*[SUPPAMAN]Wh-what do you[nl]mean? I am the[nl][YELLOW]champion of[nl]justice[WHITE],[nl][PINK]Suppaman[WHITE]![END]
 @18@1068
 *[BANKER_TORI]You damn dirty[nl]liar! You didn't[nl]lift a finger to[nl]protect the[nl]bank![END]
 @19@1148
-*[SUPPAMAN]How dare you[nl]mock the [YELLOW]ally of[nl]justice[WHITE]! Perhaps[nl]you'd like to[nl]taste the wrath[nl]of justice![END]
+*[SUPPAMAN]How dare you[nl]mock the[nl][YELLOW]champion of[nl]justice[WHITE]! Perhaps[nl]you'd like to[nl]taste the wrath[nl]of justice![END]
 @20@1216
 *[BANKER_TORI]Don't make me[nl]laugh! You're a[nl]cowardly[nl]miscreant[nl]without a[nl]fighting bone in[nl]your body![END]
 @21@1256

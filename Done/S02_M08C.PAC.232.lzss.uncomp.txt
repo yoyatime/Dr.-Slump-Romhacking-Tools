@@ -88,7 +88,7 @@
 @74/80@3060/3060
 *[ARALE]Someone's[nl]scribbled[nl]something here.[END]
 @81@3088
-*[PAPER]The [YELLOW]ally of[nl]justice[WHITE] [PINK]Suppaman[WHITE][nl]is awesome![END]
+*[PAPER]The [YELLOW]Champion of[nl]Justice[WHITE] [PINK]Suppaman[WHITE][nl]is awesome![END]
 @82@3140
 *[HEADBAND_GUY](She's standing[nl]on the [YELLOW]police[nl]car[WHITE]...)[END]
 @83@3180
@@ -188,7 +188,7 @@
 @261/272@4688/4688
 *[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
 @273@4728
-*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+*[ARALE]Let's go to the[nl][BLUE]Cinema[WHITE].[END]
 @274@4760
 *[ARALE]Let's go to the[nl][BLUE]Apartments[WHITE].[END]
 @275/304@4796/4796
