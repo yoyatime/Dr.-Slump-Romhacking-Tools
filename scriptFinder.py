@@ -12,7 +12,7 @@ import shutil
 
 TIM_ID = 0x10
 
-
+#scripts start with a pointer to the end of the table header
 def isScript(short1, short2):
     endOfTable = (short1 * 2) + 2
     alignedTable = endOfTable + (4 - endOfTable % 4)%4
@@ -23,7 +23,7 @@ def isScript(short1, short2):
     else:
         return False
 
-
+#tim image files start with 0x10
 def isTim(short1, short2):
     value1 = short2 << 16
     value2 = short1
@@ -33,6 +33,8 @@ def isTim(short1, short2):
     else:
         return False
 
+
+#run main loop
 for sourceFile in os.listdir("gen/"):
 
     if sourceFile.endswith(".uncomp"):

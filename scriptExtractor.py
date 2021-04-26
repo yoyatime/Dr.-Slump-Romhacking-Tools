@@ -1,8 +1,8 @@
-############################################################################
-# Dumps script from script files and applies a table file for PS1 game     #
-# "Dr. Slump"                                                              #
-# Searches 'script' folder and places files in the 'translations' folder   #                                                                     #
-############################################################################
+#################################################################################
+# Dumps script from script files and applies a table file for PS1 game          #
+# "Dr. Slump"                                                                   #
+# Searches 'script' folder and places files in the 'translations/done' folder   #                                                                     #
+#################################################################################
 
 import sys    
 import os
@@ -14,8 +14,8 @@ import xml.dom.minidom
 import dataConversion
 
 
+#Each translation entry has a positional ID and binary offset
 class LineEntry:
-
     def __init__(self, text, dataOffset, newID):
         self.text = text
         self.dataOffset = [dataOffset]
@@ -27,8 +27,8 @@ class LineEntry:
     def addOffset(self, offset):
         self.dataOffset.append(offset)    
 
+#Each script file has a list of entries and a parent file
 class Script:
-
     def __init__(self, fileName, textStart, numEntries):
         self.entries = []
         self.numEntries = numEntries
@@ -72,7 +72,7 @@ def byteAlign(value):
 def toInt(byteObj):
     return int.from_bytes(byteObj, "little", signed = False)
 
-
+#looks in the script folder and dumps each binary script file to a txt file
 def unpackScript():
     for script in os.listdir("script/"):
         if script.endswith('uncomp'):

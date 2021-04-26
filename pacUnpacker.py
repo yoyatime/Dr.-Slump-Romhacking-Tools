@@ -137,7 +137,7 @@ def findData(currNode, isroot, inputFolder, outputFolder):
     inputFile.close()
 
 
-
+#Run main loop, iterating over all files in "source" and outputting to "genClean"
 for sourceFile in os.listdir("source/"):
     isSource = True
 

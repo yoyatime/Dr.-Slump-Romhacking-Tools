@@ -12,6 +12,8 @@ translatedLines = []
 originalLines = []
 fileCheck = []
 
+
+#Populates the lists of translated and original lines for use in propagating translations
 def populateMap(translatedFolder, originalsFolder):
     for sourceFile in os.listdir(translatedFolder):
         translatedFile = open(translatedFolder + sourceFile, 'r', encoding='utf8')
@@ -19,21 +21,22 @@ def populateMap(translatedFolder, originalsFolder):
         translatedFile.readline()
 
         for line in translatedFile:
-            if '@' not in line and line != '' and line:
+            if '@' not in line and line != '\n' and line:
                 translatedLines.append(line)
                 fileCheck.append(sourceFile)
 
         originalFile = open(originalsFolder + sourceFile, 'r', encoding='utf8')
 
         for line in originalFile:
-            if '@' not in line and line != '':
+            if '@' not in line and line != '\n' and line:
                 originalLines.append(line)
-
+    
         translatedFile.close()
         originalFile.close()
 
 
-def propagateTranslations(targetFolder, outputFolder):
+#Edits scripts in the target folder to include lines already translated in the "Done" folder
+def propagateTranslations(targetFolder):
     
     numberChanges = 0
 
@@ -42,19 +45,21 @@ def propagateTranslations(targetFolder, outputFolder):
             openTarget = open(targetFolder + targetFile, 'r', encoding='utf8')
 
             targetData = openTarget.readlines()
-
+            openTarget.close()
+            
             for line in range(0, len(targetData)):
-                if '@' not in targetData[line] and targetData[line] != '' and targetData[line] != '\n' and targetData[line] in originalLines:
+                if '@' not in targetData[line] and targetData[line] != '\n' and line and targetData[line] in originalLines:
                     index = originalLines.index(targetData[line])
                     targetData[line] = translatedLines[index]
                     print(translatedLines[index])
+                    print(originalLines[index] + '\n')
                     numberChanges += 1
 
-            outputFile = open(outputFolder + targetFile, 'w', encoding='utf8')
+            outputFile = open(targetFolder + targetFile, 'w', encoding='utf8')
             outputFile.writelines(targetData)
 
             outputFile.close()
-            openTarget.close()
+            
 
         print(numberChanges)
         break
@@ -63,4 +68,10 @@ def propagateTranslations(targetFolder, outputFolder):
 
 populateMap('translations/Done/', 'translations/Originals/')
 
-propagateTranslations('translations/', 'translations/')
+#write output to text file for debugging
+with open('newlines.txt', 'w', encoding = 'utf-8') as f:
+    for i in range(len(translatedLines)):
+        f.write("%s" % translatedLines[i])
+        f.write("%s\n" % originalLines[i])
+
+propagateTranslations('translations/')

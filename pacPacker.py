@@ -22,7 +22,7 @@ def byteAlign(value):
     return ret
 
 
-#
+#Reforms a pac file following its definition in its XML file and child files in the "gen" folder
 def packPac(node, folder):
     #Size of table section for this node
     tableSize = int(node[0].get('dataOffset'))
@@ -38,6 +38,7 @@ def packPac(node, folder):
 
     #compress subnode and add to this node's table and data section
     for subNode in node:
+        #compress lzss file and add to parent
         if subNode.tag == 'lzss':
 
             
@@ -91,7 +92,7 @@ def packPac(node, folder):
             outputStream.write(bytes([(int(size) & 0x00FF0000) >> 16]))
             outputStream.write(bytes([(int(size) & 0xFF000000) >> 24]))
 
-
+        #write raw file
         else:
             rawToWrite = open(folder + subNode.get('fileName'), "rb").read()
 
@@ -131,7 +132,7 @@ def packPac(node, folder):
     outputStream.seek(0)
     pacOutput.write(outputStream.read())  
 
-
+#run main loop
 for sourceFile in os.listdir("source/"):
     
     if sourceFile.endswith(".PAC"):#$DEBUG
