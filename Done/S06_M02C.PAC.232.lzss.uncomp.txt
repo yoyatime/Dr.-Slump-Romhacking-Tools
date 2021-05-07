@@ -1,0 +1,123 @@
+@@S06_M02C.PAC.232.lzss.uncomp@@323@@648@@3836
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/53/54/55/56/57/58/59/60/61/62/63/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[DR_BRAIN]Working hard at[nl]your [YELLOW]part-time[nl]job[WHITE]?[END]
+@1/52/64@684/2344/2344
+*[ARALE]Hoi![END]
+@2@696
+*[DR_BRAIN]Good, good.[END]
+@3/35@712/1828
+*[DR_BRAIN]Oh? Have you[nl]changed your[nl]mind? Would you[nl]like to clean up[nl]the classroom?[END]
+@4/21/36@776/1460/1892
+*[DR_BRAIN]Very well,[nl]please clean up[nl]all the [YELLOW]books[WHITE][nl]from atop all of[nl]the [YELLOW]desks[WHITE].[END]
+@5/22/37@852/1536/1968
+*[DR_BRAIN]Thanks for your[nl]help, Arale. As[nl]promised, I'll[nl]buy a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@6/23/38@932/1616/2048
+*[ARALE]U-ho-hoi![END]
+@7/24/39@952/1636/2068
+*[DR_BRAIN]Well, then I'm[nl]not buying one.[END]
+@8@996
+*[DR_BRAIN]Hello Arale,[nl]what are you up[nl]to?[END]
+@9@1040
+*[ARALE]Hey [PINK]teach[WHITE]! Buy[nl]one of these[nl][YELLOW]scrubbing[nl]brushes[WHITE].[END]
+@10/16@1092/1092
+*[DR_BRAIN]I'm sorry, but[nl]why are you[nl]selling those[nl]things?[END]
+@17@1140
+*[ARALE]It's a[nl][YELLOW]part-time job[WHITE].[END]
+@18@1164
+*[DR_BRAIN]What was that!?[nl][YELLOW]Children[WHITE][nl]shouldn't be put[nl]to work like[nl]this![END]
+@19@1236
+*[ARALE]C'mon, buy one![END]
+@20@1264
+*[DR_BRAIN]Mmm, hmm. Then[nl]let's make a[nl]deal. If you[nl][YELLOW]clean up[WHITE] the[nl][BLUE]Classroom[WHITE], I'll[nl]overlook the[nl]problems[nl]surrounding your[nl]job and buy a[nl][YELLOW]scrubbing brush[WHITE].[nl]How about that?[END]
+@25@1680
+*[DR_BRAIN]You're going to[nl]have a new baby[nl]in your family[nl]soon![END]
+@26/32@1732/1732
+*[ARALE]But it's not my[nl]baby.[END]
+@33@1760
+*[DR_BRAIN]I'm well aware[nl]of that![END]
+@34@1796
+*[DR_BRAIN]That's quite[nl]enough [YELLOW]cleaning[WHITE].[END]
+@40@2112
+*[DR_BRAIN]The class might[nl]need some[nl][YELLOW]cleaning[WHITE] soon...[END]
+@41@2168
+*[PAPER]Treat [YELLOW]animals[WHITE][nl]with care and[nl]respect.[END]
+@42/48@2212/2212
+*[DR_BRAIN]Stop that,[nl]that's[nl]dangerous![END]
+@49@2256
+*[DR_BRAIN]Oho, if it[nl]isn't Arale. [END]
+@50@2296
+*[DR_BRAIN]Goodbye, Arale.[END]
+@51@2328
+*[ARALE]Bye'cha.[END]
+@65@2356
+*[DR_BRAIN]You aren't done[nl]yet. Please keep[nl]working at it.[END]
+@66@2408
+*[DR_BRAIN]Arale! You[nl]aren't finished[nl]yet, where do[nl]you think you're[nl]going? I'm not[nl]letting you go[nl]until it's done.[END]
+@67@2492
+*[DR_BRAIN]You haven't[nl]cleaned at all[nl]yet![END]
+@68@2540
+*[DR_BRAIN]There's still a[nl]lot left. Good[nl]luck.[END]
+@69@2596
+*[DR_BRAIN]Just a little[nl]more to go. Just[nl]work at it a bit[nl]more.[END]
+@70@2640
+*[ARALE]U-ho-hoi! All[nl]done![END]
+@71@2676
+*[DR_BRAIN]Do I really[nl]need to buy a[nl][YELLOW]scrubbing brush[WHITE]?[END]
+@72@2736
+*[DR_BRAIN]You've only[nl]begun [YELLOW]cleaning[WHITE].[END]
+@73/224@2780/2780
+*Yes[END]
+@225@2788
+*Nah[END]
+@226@2800
+*[ARALE]Yeah, okay.[END]
+@227@2820
+*[ARALE]Nah.[END]
+@228/256@2836/2836
+*Where to?[END]
+@257@2856
+*Stay here[END]
+@258@2872
+*[BLUE]Office[END]
+@259@2900
+*[BLUE]School Yard[END]
+@260/272@2920/2920
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@273@2952
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@274/304@2980/2980
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3024
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3084
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3128
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3180
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3268
+*[YELLOW]Formatting...[END]
+@310@3364
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3392
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3428
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3492
+*[YELLOW]Saving[WHITE]...[END]
+@314@3592
+*Overwrite[nl]existing save?[END]
+@315@3636
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3688
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3708/3776
+*Back[END]
+@318@3716
+*OK[END]
+@319@3728
+*[WHITE]Select a file[END]
+@320@3760
+*[YELLOW]Save[END]
+@322@3784
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

@@ -1,0 +1,135 @@
+@@S06_M03A.PAC.232.lzss.uncomp@@323@@648@@3408
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[TARO]A [YELLOW]date[WHITE] with[nl][PINK]Tsururin[WHITE]... Ooh,[nl]I'm getting[nl]excited...♪[END]
+@1@712
+*[TARO]Arale! How did[nl]it go!?[END]
+@2@748
+*[ARALE]She's cool with[nl]a [YELLOW]date[WHITE].[END]
+@3@780
+*[TARO]Yahoo![END]
+@4@812
+*[ARALE]Buy a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@5@840
+*[TARO]Yeah yeah, I'll[nl]buy as many as[nl]you want![END]
+@6@900
+*[ARALE]U-ho-hoi![nl]Alright then[nl]take 'em all![END]
+@7@948
+*[TARO]A-actually[nl]maybe I'll just[nl]take one...[END]
+@8@984
+*[TARO]Have you[nl]delivered my[nl]message to[nl][PINK]Tsururin[WHITE] yet?[END]
+@9@1040
+*[ARALE]Not yet.[END]
+@10/16@1056/1056
+*[TARO]Oh... well[nl]that's okay.[nl]Ha-ha-ha.[END]
+@17@1124
+*[ARALE]Hey [PINK]Tarosie[WHITE],[nl]buy a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@18@1172
+*[TARO]Huh? But why?[END]
+@19@1188
+*[ARALE]Buy one[nl]already.[END]
+@20@1216
+*[TARO]Sure, fine. But[nl]I've got a[nl]request for you[nl]first.[END]
+@21@1296
+*[ARALE]Ho-yo?[END]
+@22@1308
+*[TARO]Can you tell[nl][PINK]Tsururin[WHITE] to go[nl]out on a [YELLOW]date[WHITE][nl]with me?[END]
+@23@1388
+*[ARALE]Hoi! A [YELLOW]date[WHITE][nl]with [PINK]Tsururin[WHITE],[nl]got it![END]
+@24@1440
+*[TARO]I'm counting on[nl]you, Arale![END]
+@25@1472
+*[TARO]Hey, what's up?[END]
+@26/32@1496/1496
+*[PEASUKE_WHITE]Hee-hee, I got[nl]it.[END]
+@33@1536
+*[ARALE][PINK]Peasuke[WHITE], I've[nl]got that[nl][YELLOW]autograph[WHITE] you[nl]wanted.[END]
+@34@1588
+*[PEASUKE_WHITE]Aww yeah! Thank[nl]you so much![nl]Alright, I'll[nl]buy a [YELLOW]scrubbing[nl]brush[WHITE]![END]
+@35@1664
+*[ARALE]U-ho-hoi![END]
+@36@1684
+*[PEASUKE_WHITE]Arale! Do you[nl]have the[nl][YELLOW]autograph[WHITE]!?[END]
+@37@1728
+*[ARALE]Hey [PINK]Peasuke[WHITE].[nl]Buy a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@38@1776
+*[PEASUKE_WHITE]What!? But I[nl]don't want one.[END]
+@39@1820
+*[ARALE]Buy one anyway.[END]
+@40@1852
+*[PEASUKE_WHITE]Okay... but[nl]there's an[nl][YELLOW]autograph[WHITE] that[nl]I'd really like[nl]for you to get[nl]me.[END]
+@41@1916
+*[ARALE]Who's[nl][YELLOW]autograph[WHITE]?[END]
+@42/48@1940/1940
+*[PEASUKE_WHITE]The [PINK]guy[WHITE] who was[nl]riding around in[nl]that cool robot[nl]earlier. I want[nl]his [YELLOW]autograph[WHITE].[END]
+@49@2028
+*[ARALE]Hoi![END]
+@50@2040
+*[PEASUKE_WHITE]You gotta get[nl]me that[nl][YELLOW]autograph[WHITE]![END]
+@51@2060
+*[PEASUKE_WHITE]Heya, Arale.[END]
+@52@2084
+*[PAPA_SORAMAME]I'd really like[nl]to witness a[nl]cool new[nl][GREEN]ability[WHITE]...[END]
+@53@2132
+*[PAPA_SORAMAME]Arale seemed a[nl]little funny[nl]today...[END]
+@54/192@2188/2188
+*[ARALE]Gotcha![END]
+@193@2208
+*[HAPPY_HAT_GUY]A-wa-wa-wa-[END]
+@194@2228
+*[ARALE]Huh? It's[nl]closed.[END]
+@195@2256
+*[PAPA_SORAMAME]Business is in[nl]the dumps 'cause[nl]of that [YELLOW]burglar[WHITE].[END]
+@196@2312
+*[TARO]We barely had[nl]customers as it[nl]is.[END]
+@197/256@2360/2360
+*Stay here[END]
+@257@2376
+*[BLUE]Home[END]
+@258@2396
+*[BLUE]Coffee Pot[END]
+@259@2424
+*[BLUE]School[END]
+@260@2444
+*Where to?[END]
+@261/272@2464/2464
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@273@2492
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@274@2524
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@275/304@2552/2552
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2596
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2656
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2700
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2752
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2840
+*[YELLOW]Formatting...[END]
+@310@2936
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2964
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3000
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3064
+*[YELLOW]Saving[WHITE]...[END]
+@314@3164
+*Overwrite[nl]existing save?[END]
+@315@3208
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3260
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3280/3348
+*Back[END]
+@318@3288
+*OK[END]
+@319@3300
+*[WHITE]Select a file[END]
+@320@3332
+*[YELLOW]Save[END]
+@322@3356
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

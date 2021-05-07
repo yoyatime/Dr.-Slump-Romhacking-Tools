@@ -1,0 +1,87 @@
+@@S06_M09B.PAC.232.lzss.uncomp@@323@@648@@2872
+@0/11/12/13/14/15/27/28/29/30/31/42/43/44/45/46/47/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[TSURUTEN]Curse you,[nl]Arale...[END]
+@1@688
+*[TSURUTEN]Mind your own[nl]business![END]
+@2@732
+*[TSURUTEN]Very sorry.[END]
+@3/17@752/1200
+*[ARALE]Hey, buy a[nl][YELLOW]scrubbing brush[WHITE],[nl]why don't ya![END]
+@4@788
+*[TSURUTEN]A [YELLOW]scrubbing[nl]brush[WHITE]? Sorry,[nl]but [PINK]Tsunoda[WHITE][nl]holds on to all[nl]of our [YELLOW]money[WHITE].[nl]Try to be asking[nl]her.[END]
+@5@936
+*[TSUNODA]I've already[nl]bought one.[nl]Please try[nl]asking someone[nl]else, yes.[END]
+@6@1004
+*[TSUNODA]Good job[nl]finding it, yes.[nl]As promised, I[nl]will buy a[nl][YELLOW]scrubbing brush[WHITE].[END]
+@7@1068
+*[ARALE]U-ho-hoi![END]
+@8@1088
+*[TSUNODA]Well then,[nl]dear...[END]
+@9/23@1112/1472
+*[TSURUTEN]Ngh...![END]
+@10/16@1132/1132
+*[TSUNODA]Please look[nl]around a bit[nl]more. I am[nl]certain it is[nl]here somewhere,[nl]yes.[END]
+@18@1236
+*[TSUNODA]I do need a[nl][YELLOW]scrubbing brush[WHITE].[nl]Maybe I'll go[nl]shopping.[END]
+@19@1292
+*[ARALE]C'mon, buy one[nl]right now![END]
+@20@1320
+*[TSUNODA]Oh well... I'll[nl]buy one, but[nl]first I have a[nl]request.[END]
+@21@1392
+*[ARALE]Ho-yo?[END]
+@22@1404
+*[TSUNODA]Somewhere in[nl]this room, a[nl][YELLOW]dirty book[WHITE] is[nl]hidden.[END]
+@24@1492
+*[TSUNODA]If you can find[nl]it for me, I[nl]will purchase[nl]one [YELLOW]scrubbing[nl]brush[WHITE] from you,[nl]yes.[END]
+@25@1560
+*[TSURUTEN]Th-there's[nl]nothing like[nl]that in here...[END]
+@26/32@1608/1608
+*[TSUNODA]Whether or not[nl]it exists we[nl]shall determine[nl]by searching.[nl]Now search![END]
+@33@1676
+*[ARALE]Hoi![END]
+@34@1692
+*[ARALE]I found the[nl][YELLOW]dirty book[WHITE]![END]
+@35/37/38@1728/1796/1844
+*[TSURUTEN]I'd like it if[nl]you didn't poke[nl]around[nl]everywhere...[END]
+@36@1776
+*[ARALE]Where could it[nl]be...[END]
+@39@1892
+*[TSUNODA]Where are you[nl]going? Please[nl]hand that [YELLOW]book[WHITE][nl]to me.[END]
+@40@1948
+*[TSUNODA]Where are you[nl]going? If you[nl]don't search for[nl]it, I won't buy[nl]a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@41/304@2016/2016
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2060
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2120
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2164
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2216
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2304
+*[YELLOW]Formatting...[END]
+@310@2400
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2428
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2464
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2528
+*[YELLOW]Saving[WHITE]...[END]
+@314@2628
+*Overwrite[nl]existing save?[END]
+@315@2672
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@2724
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@2744/2812
+*Back[END]
+@318@2752
+*OK[END]
+@319@2764
+*[WHITE]Select a file[END]
+@320@2796
+*[YELLOW]Save[END]
+@322@2820
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

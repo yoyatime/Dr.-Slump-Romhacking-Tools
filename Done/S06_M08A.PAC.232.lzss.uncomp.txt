@@ -38,7 +38,7 @@
 @259@1300
 *[BLUE]Cinema[END]
 @260@1328
-*[BLUE]Obotchaman[END]
+*[BLUE]Obotchaman's[END]
 @261/272@1360/1360
 *[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
 @273@1400

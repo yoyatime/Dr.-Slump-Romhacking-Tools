@@ -6,7 +6,7 @@
 @2@216
 *[ARALE]Oops... I'm[nl]toast.[END]
 @3/32@248/248
-*[MOLE]We left our[nl]poor [PINK]boy[WHITE] behind[nl]in [BLUE]Penguin[nl]Village. Is[nl]there a chance[nl]we can still[nl]rescue him?[END]
+*[MOLE]We left our[nl]poor [PINK]boy[WHITE] behind[nl]in [BLUE]Penguin[nl]Village[WHITE]. Is[nl]there a chance[nl]we can still[nl]rescue him?[END]
 @33@332
 *[MOLE_KING]Please, I don't[nl]want to hear[nl]another word[nl]about our [PINK]boy[WHITE]...[END]
 @34@392
@@ -26,7 +26,7 @@
 @41@728
 *[MOLE_KING]Wh-what[nl]business do you[nl]have regarding[nl]that?[END]
 @42@764
-*[ARALE]You can have[nl]him back. Here[nl]he is.[nl][nl][nl]MEGA-!![nl][nl][END]
+*[ARALE]You can have[nl]him back. Here[nl]he is. MEGA-!![END]
 @43@820
 *[MOLE]...![END]
 @44@836

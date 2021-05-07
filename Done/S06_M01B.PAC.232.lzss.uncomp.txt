@@ -1,0 +1,123 @@
+@@S06_M01B.PAC.232.lzss.uncomp@@323@@648@@3380
+@0/11/12/13/14/15/26/27/28/29/30/31/40/41/42/43/44/45/46/47/53/54/55/56/57/58/59/60/61/62/63/69/70/71/72/73/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/181/182/183/184/185/186/187/188/189/190/191/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[LADY_WITH_EARRINGS]I don't need[nl]that many.[END]
+@1@684
+*[LADY_WITH_EARRINGS]Have you[nl]decided to help[nl]out?[END]
+@2@728
+*[LADY_WITH_EARRINGS]I'm counting on[nl]you![END]
+@3/6@752/916
+*[LADY_WITH_EARRINGS]Thanks for[nl]cleaning up. As[nl]promised, I'll[nl]buy a [YELLOW]scrubbing[nl]brush[WHITE].[END]
+@4/7/177@816/980/2276
+*[ARALE]U-ho-hoi![END]
+@5@836
+*[LADY_WITH_EARRINGS]Why don't you[nl]help me by[nl]gathering up all[nl]the [YELLOW]dishes[WHITE] from[nl]the [YELLOW]tables[WHITE]?[END]
+@8/38@1000/1672
+*[LADY_WITH_EARRINGS]Well then I'm[nl]not buying one.[END]
+@9@1028
+*[LADY_WITH_EARRINGS]Sigh... I don't[nl]really feel like[nl]working today.[END]
+@10/16@1076/1076
+*[LADY_WITH_EARRINGS]Welcome![END]
+@17@1096
+*[PAPER]Does Arale have[nl]a boyfriend?[nl]Evidence comes[nl]to light![END]
+@18@1144
+*[LADY_WITH_EARRINGS]Do you know[nl]what today's[nl][YELLOW]special[WHITE] is?[END]
+@19@1200
+*[LADY_WITH_EARRINGS]Incorrect. Take[nl]a look at the[nl][YELLOW]signboard[WHITE] to see[nl]today's [YELLOW]special[WHITE].[END]
+@20@1268
+*[LADY_WITH_EARRINGS]Well done! I'll[nl]reward you with[nl]a useful tip.[END]
+@21@1372
+*[ARALE]U-ho-hoi![END]
+@22@1388
+*[LADY_WITH_EARRINGS]★Hint[END]
+@23@1400
+*[LADY_WITH_EARRINGS]Goodbye for[nl]now![END]
+@24@1416
+*[ARALE]N'cha![END]
+@25/32@1432/1432
+*[ARALE]Hey, buy a[nl][YELLOW]scrubbing brush[WHITE],[nl]why don't ya![END]
+@33@1468
+*[LADY_WITH_EARRINGS]A [YELLOW]scrubbing[nl]brush[WHITE]? I don't[nl]think I need[nl]one.[END]
+@34@1512
+*[ARALE]But it, buy it,[nl]buy it![END]
+@35@1548
+*[LADY_WITH_EARRINGS]You make a[nl]compelling[nl]argument...[nl]okay, let's make[nl]a deal.[END]
+@36@1596
+*[ARALE]Ho-yo?[END]
+@37@1608
+*[LADY_WITH_EARRINGS]If you can help[nl]clean up the[nl][YELLOW]cafe[WHITE], I'll buy[nl]one. How's that?[END]
+@39/48@1700/1700
+*[LADY_WITH_EARRINGS]Oh? There's[nl]still work to[nl]do, where are[nl]you going?[END]
+@49@1744
+*[LADY_WITH_EARRINGS]Oh? What is it?[nl]You haven't done[nl]anything yet.[END]
+@50@1796
+*[LADY_WITH_EARRINGS]There's still a[nl]lot remaining.[nl]I'm counting on[nl]you.[END]
+@51@1840
+*[LADY_WITH_EARRINGS]There's still a[nl]little bit left.[nl]Almost there![END]
+@52/64/65/179@1884/1884/1896/2380
+*[ARALE]Hoi![END]
+@66@1908
+*[ARALE]U-ho-hoi! All[nl]done![END]
+@67@1944
+*[LADY_WITH_EARRINGS]Oh? Do I need[nl]to buy a[nl][YELLOW]scrubbing brush[WHITE]?[END]
+@68/80@2004/2004
+*[LADY_WITH_EARRINGS]Sorry, but I[nl]can't let you[nl]back here.[END]
+@81/176@2040/2040
+*[LADY_WITH_EARRINGS][PINK]Peasuke's[nl]father[WHITE] is a[nl]really big fan[nl]of yours. Did[nl]you know that?[nl]If you show him[nl]the [GREEN]abilities[WHITE][nl]that you've[nl]learned, it[nl]would make him[nl]very happy.[nl]He'll return the[nl]favor by filling[nl]your [YELLOW]Pep Gauge[WHITE][nl]for each new[nl]move you show[nl]him.[END]
+@178@2296
+*[LADY_WITH_EARRINGS]If you [YELLOW]talk[WHITE] to[nl]him again, you[nl]might be able to[nl]impress him with[nl]moves you've[nl]already showed[nl]him.[END]
+@180/192@2392/2392
+*Miso k.[END]
+@193@2404
+*Kebab[END]
+@194@2416
+*Cheese[END]
+@195@2428
+*[ARALE]Miso katsu![END]
+@196@2444
+*[ARALE]Kebabs![END]
+@197@2460
+*[ARALE]Fried cheese![END]
+@198/224@2476/2476
+*Help[END]
+@225@2488
+*No way[END]
+@226@2496
+*[ARALE]I'll do it![END]
+@227@2512
+*[ARALE]No way.[END]
+@228/304@2524/2524
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2568
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2628
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2672
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2724
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2812
+*[YELLOW]Formatting...[END]
+@310@2908
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2936
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2972
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3036
+*[YELLOW]Saving[WHITE]...[END]
+@314@3136
+*Overwrite[nl]existing save?[END]
+@315@3180
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3232
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3252/3320
+*Back[END]
+@318@3260
+*OK[END]
+@319@3272
+*[WHITE]Select a file[END]
+@320@3304
+*[YELLOW]Save[END]
+@322@3328
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

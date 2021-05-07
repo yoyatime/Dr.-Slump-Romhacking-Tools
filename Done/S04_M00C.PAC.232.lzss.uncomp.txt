@@ -10,7 +10,7 @@
 @4/17/33/305/382/386@1048/1568/2088/4020/8044/8312
 *[ARALE]Oh, boy![END]
 @5/18/34/371@1064/1584/2104/7528
-*[HAKASE]What is it,[nl]Arale? I'm busy,[nl]go bother[nl]someone else.[nl]Come back when[nl]you've filled up[nl]your [YELLOW]Pep Gauge[END]
+*[HAKASE]What is it,[nl]Arale? I'm busy,[nl]go bother[nl]someone else.[nl]Come back when[nl]you've filled up[nl]your [YELLOW]Pep Gauge[WHITE].[END]
 @6/19/35/372@1204/1724/2244/7668
 *[ARALE]Aww...[END]
 @7/20/36@1224/1744/2264
