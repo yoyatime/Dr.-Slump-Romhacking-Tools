@@ -1,0 +1,105 @@
+@@S08_M08B.PAC.232.lzss.uncomp@@323@@648@@3040
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[BANKER_TORI]You're the[nl][YELLOW]champion[WHITE]? Must[nl]have been a[nl]fluke.[END]
+@1/2/3/4/53@712/740/768/796/2100
+*[BANKER_TORI]Just go home,[nl]please![END]
+@5@824
+*[ARALE]Hey mister, do[nl]you have some[nl][YELLOW]tissues[WHITE] I could[nl]borrow?[END]
+@6@868
+*[BANKER_TORI]All of my[nl][YELLOW]tissues[WHITE] were[nl]stolen by that[nl][YELLOW]robot[WHITE] a while[nl]back.[MEDIUM_PAUSE] Huh? Looks[nl]like I have one[nl]left.[END]
+@7@988
+*[ARALE]C'mon, give it[nl]to me![END]
+@8@1012
+*[BANKER_TORI]Here, it was my[nl]last one.[END]
+@9@1052
+*[ARALE]U-ho-hoi![END]
+@10/16@1072/1072
+*[BANKER_TORI]In return you[nl]must promise to[nl]never come back[nl]here.[END]
+@17@1108
+*[ARALE]Nah.[END]
+@18@1124
+*[BANKER_TORI]Oh you[nl]absolute...[END]
+@19@1144
+*[ARALE]Hey mister, do[nl]you have a[nl][YELLOW]fountain pen[WHITE] I[nl]could borrow?[END]
+@20@1188
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@21@1236
+*[ARALE]Hey mister, do[nl]you have a pair[nl]of [YELLOW]scissors[WHITE] I[nl]could borrow?[END]
+@22@1276
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@23@1320
+*[ARALE]Hey mister, do[nl]you have a[nl][YELLOW]drinking glass[WHITE] I[nl]could borrow?[END]
+@24@1360
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@25@1404
+*[ARALE]Hey, let me[nl]borrow your[nl][YELLOW]handcuffs[WHITE].[END]
+@26/32@1444/1444
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@33@1488
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]phone[nl]book[WHITE] I could[nl]borrow?[END]
+@34@1532
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@35@1580
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]sour[nl]plum[WHITE] I could[nl]borrow?[END]
+@36@1620
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@37@1664
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]cook[nl]pot[WHITE] I could[nl]borrow?[END]
+@38@1700
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@39@1740
+*[ARALE]Hey mister, do[nl]you have an[nl][YELLOW]apron[WHITE] I could[nl]borrow?[END]
+@40@1780
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@41@1824
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]dirty[nl]book[WHITE] I could[nl]borrow?[END]
+@42/48@1868/1868
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@49@1916
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]bib[WHITE] I[nl]could borrow?[END]
+@50@1960
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@51@2008
+*[ARALE]Hey mister, do[nl]you have a pair[nl]of [YELLOW]strawberry[nl]panties[WHITE] I could[nl]borrow?[END]
+@52@2052
+*[BANKER_TORI]What? No, I[nl]don't have that.[END]
+@54@2128
+*[BANKER_TORI]Welcome... oh,[nl]it's you.[END]
+@55@2160
+*[BANKER_TORI]What do you[nl]think you're[nl]doing![END]
+@56/304@2184/2184
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2228
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2288
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2332
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2384
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2472
+*[YELLOW]Formatting...[END]
+@310@2568
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2596
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2632
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2696
+*[YELLOW]Saving[WHITE]...[END]
+@314@2796
+*Overwrite[nl]existing save?[END]
+@315@2840
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@2892
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@2912/2980
+*Back[END]
+@318@2920
+*OK[END]
+@319@2932
+*[WHITE]Select a file[END]
+@320@2964
+*[YELLOW]Save[END]
+@322@2988
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

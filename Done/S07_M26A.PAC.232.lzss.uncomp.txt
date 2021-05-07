@@ -1,0 +1,141 @@
+@@S07_M26A.PAC.232.lzss.uncomp@@323@@648@@4336
+@0/7/8/9/10/11/12/13/14/15/27/28/29/30/31/42/43/44/45/46/47/59/60/61/62/63/75/76/77/78/79/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[ARALE][PINK]Turbo[WHITE], are you[nl]here?[END]
+@1@680
+*[ARALE][PINK]Tuuurbooo[WHITE]![nl]Where are you?[nl]Not here[nl]either...[END]
+@2@764
+*[TOUGH_GUY_RED_HAIR_BALLS]Yahoo~♪ I've[nl]got a huge[nl]collection of[nl]lovely [YELLOW]poop[WHITE]~~~♪[END]
+@3@828
+*[ARALE]Whoa! That's a[nl]lot of [YELLOW]poop[WHITE]![END]
+@4@868
+*[TOUGH_GUY_RED_HAIR_BALLS]Ah, it's you[nl]again! Come to[nl]steal all of my[nl]hard earned [YELLOW]poop[WHITE][nl]again? It can't[nl]be helped. Here,[nl]take 'em all![nl]Farewell![END]
+@5@1028
+*[ARALE]What is his[nl]deal...?[END]
+@6/16@1056/1056
+*[PURPLE_CYCLOPS]I CaN ReTuRn To[nl][YELLOW]SpAcE[WHITE] AgAiN WiTh[nl]ThIs. ThAnK YoU.[END]
+@17/23@1108/1440
+*[PURPLE_CYCLOPS]PlEaSE HuRrY...[END]
+@18@1132
+*[ARALE]Hey, what'cha[nl]doing?[END]
+@19@1160
+*[PURPLE_CYCLOPS]I Am FrOm[nl]PlAnEt LuMaLuMa.[nl]My [YELLOW]SpAcE ShIp[WHITE][nl]HaS CrAsH LaNdEd[nl]AnD I Am[nl]StRaNdEd HeRe.[END]
+@20@1260
+*[ARALE]A busted [YELLOW]space[nl]ship[WHITE]? I think[nl]the [PINK]Professor[WHITE][nl]can fix it for[nl]you.[END]
+@21@1332
+*[PURPLE_CYCLOPS]ReAlLy!?[nl]PlEaSe, CoNtAcT[nl]ThIs [PINK]PrOfEsSoR[WHITE][nl]RiGhT AwAy![END]
+@22@1404
+*[ARALE]Okay, I'll be[nl]back in a[nl]minute.[END]
+@24/55@1464/2368
+*[ARALE]Hoi![END]
+@25@1476
+*[HAKASE]This is gonna[nl]take some time.[nl]You should head[nl]home.[END]
+@26/32@1528/1528
+*[KING_NIKO]What!? You're[nl]just gonna give[nl]us a [YELLOW]space[nl]ship[WHITE]!? This[nl]ain't a prank or[nl]nothing!?[END]
+@33@1604
+*[ARALE]It's true. The[nl][PINK]Professor[WHITE] is[nl]building it[nl]right now.[END]
+@34@1680
+*[NIKO_SERVANT]Could it really[nl]be...?[END]
+@35@1712
+*[KING_NIKO]I don't know...[nl]but I gotta[nl]check it out...[END]
+@36@1776
+*[ARALE]C'mon, let's[nl]go![END]
+@37@1804
+*[KING_NIKO]Yeah, let's[nl]move![END]
+@38@1832
+*[KING_NIKO]I don't see a[nl][YELLOW]space ship[WHITE][nl]anywhere![END]
+@39@1888
+*[NIKO_SERVANT]How odd, I[nl]thought it had[nl]crashed right[nl]here...[END]
+@40@1956
+*[KING_NIKO]You're just[nl]trying to get[nl]out of the [YELLOW]yam[WHITE][nl]business, you[nl]shmuck![END]
+@41/48@2040/2040
+*[HAKASE]I see... so[nl]this part does[nl]this, and that[nl]thing goes[nl]there...[END]
+@49@2108
+*[PURPLE_CYCLOPS]...[END]
+@50@2128
+*[HAKASE]Aha! And this[nl]is the [YELLOW]engine[WHITE].[nl]It's incredible![nl]It's got[nl][BLUE]anti gravity[WHITE][nl]technology![END]
+@51/57@2228/2436
+*[ARALE]Ho-yo?[END]
+@52@2240
+*[HAKASE]I think I've[nl]got it. I can[nl]work with this.[END]
+@53@2284
+*[PURPLE_CYCLOPS]OhO...[END]
+@54@2300
+*[HAKASE]This might take[nl]a while, Arale.[nl]You should[nl]probably head[nl]home.[END]
+@56@2380
+*[PURPLE_CYCLOPS]NoThInG Is[nl]WoRkInG... I'm[nl]In BiG TrOuBlE.[END]
+@58/64/67@2448/2448/2592
+*...hel...p...me[nl]...a..ra...le[END]
+@65@2508
+*[ARALE]Ho-yo!? Did you[nl]call for me just[nl]now, [PINK]Professor[WHITE]!?[END]
+@66@2568
+*[HAKASE]What? I didn't[nl]say anything.[END]
+@68@2652
+*[ARALE]Ah! I heard it,[nl]someone's[nl]calling for me![nl]Hey, who is it!?[END]
+@69@2728
+*[PINK]obot...chaman[WHITE]...[END]
+@70@2768
+*[ARALE][PINK]Obotchaman[WHITE]!?[nl]Where are you!?[END]
+@71@2824
+*[OBOTCHAMAN]...[END]
+@72@2844
+*[HAKASE]Arale, who are[nl]you talking to?[END]
+@73@2908
+*[ARALE]I've gotta find[nl][PINK]Obotchaman[WHITE].[END]
+@74/80@2964/2964
+*[HAKASE]Huh?[END]
+@81@2976
+*[PURPLE_CYCLOPS]PaNiC, PaNiC![nl]SyStEmS[nl]FaIlInG!? CrAsH[nl]ImMiNeNt![nl]WaAaAa...[END]
+@82@3096
+*[PURPLE_CYCLOPS]U-UrGh... AcK![nl]OuCh OuCh[nl]OuCh...[END]
+@83@3140
+*WhAt A TeRrIbLe[nl]MeSs! MuSt GeT[nl]HeLp...[END]
+@84@3204
+*HeLlO! CaN[nl]SoMeOnE[nl]ReSpOnD!?[nl]...EvEn ThE[nl][YELLOW]CoMmUnIcAtOr[WHITE] Is[nl]OfFlInE... Oh[nl]DeAr...[END]
+@85/256@3332/3332
+*Where to?[END]
+@257@3352
+*Stay here[END]
+@258@3368
+*[BLUE]School[END]
+@259@3388
+*[BLUE]Secret Lair[END]
+@260/272@3416/3416
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@273@3444
+*[ARALE]Let's go to the[nl][BLUE]Secret Lair[WHITE].[END]
+@274/304@3480/3480
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3524
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3584
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3628
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3680
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3768
+*[YELLOW]Formatting...[END]
+@310@3864
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3892
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3928
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3992
+*[YELLOW]Saving[WHITE]...[END]
+@314@4092
+*Overwrite[nl]existing save?[END]
+@315@4136
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@4188
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@4208/4276
+*Back[END]
+@318@4216
+*OK[END]
+@319@4228
+*[WHITE]Select a file[END]
+@320@4260
+*[YELLOW]Save[END]
+@322@4284
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

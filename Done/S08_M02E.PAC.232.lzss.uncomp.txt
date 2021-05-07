@@ -1,6 +1,6 @@
 @@S08_M02E.PAC.232.lzss.uncomp@@323@@648@@14300
 @0/170/171/172/173/174/175/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
-*[GLASSES_GUY]Ladies and[nl]gentlemen, thank[nl]you for[nl]patiently[nl]waiting! She may[nl]have emerged[nl]victorious from[nl]the elimination[nl]stage of the[nl][YELLOW]Penguin Village[nl]Children's[nl]Tournament[WHITE], but[nl]Arale Norimaki[nl]has one final[nl]challenge to[nl]overcome! She'll[nl]have to prove[nl]her skills[nl]inside the world[nl]of the [YELLOW]Picture[nl]Book[WHITE]![END]
+*[GLASSES_GUY]Ladies and[nl]gentlemen, thank[nl]you for[nl]patiently[nl]waiting! Arale[nl]Norimaki has one[nl]final challenge[nl]to overcome![nl]She'll have to[nl]prove her skills[nl]inside the world[nl]of the [YELLOW]Picture[nl]Book[WHITE]![END]
 @1@856
 *[HAKASE]I'd like to[nl]point out that[nl]the [BLUE]Fairy Tale[nl]Machine[WHITE] is one[nl]of my[nl][YELLOW]inventions[WHITE], just[nl]so you know![END]
 @2@924
@@ -14,11 +14,11 @@
 @6@1080
 *[GLASSES_GUY]Fine, fine![nl]Take it away,[nl][BLUE]Fairy Tale[nl]Machine[WHITE]![END]
 @7@1132
-*[GREEN_MAGICIAN]Fiction becomes[nl]fact! Enter...[nl]the [YELLOW]book[WHITE]!![END]
+*[GREEN_MAGICIAN]Fiction becomes[nl]fact! Enter...[nl]the [YELLOW]book[WHITE]![END]
 @8@1168
 *[ARALE]Oh, boy![END]
 @9@1184
-*[GLASSES_GUY]Apologies for[nl]the delay, but[nl]we are now ready[nl]to announce our[nl][YELLOW]winner[WHITE]! Our[nl]winner today[nl]is...[MEDIUM_PAUSE] Arale[nl]Norimaki![END]
+*[GLASSES_GUY]We finally have[nl]our [YELLOW]winner[WHITE]! Our[nl]winner today[nl]is...[MEDIUM_PAUSE] Arale[nl]Norimaki![END]
 @10@1320
 *[ARALE]U-ho-hoi![END]
 @11@1340
@@ -26,21 +26,21 @@
 @12@1400
 *[HAKASE]I'm sure you[nl]all know me[nl]already, it's[nl]your pal [PINK]Senbei[WHITE]![END]
 @13@1428
-*[GLASSES_GUY]Our top prize[nl]today is an[nl][YELLOW]invention[WHITE] from[nl][PINK]Dr. Norimaki[WHITE]![END]
+*[GLASSES_GUY]Our top prize[nl]today comes from[nl][PINK]Dr. Norimaki[WHITE]![END]
 @14@1508
 *[HAKASE]I call it...[nl]the [BLUE]Fairy Tale[nl]Machine[WHITE]![END]
 @15@1544
-*[ARALE]U-ho-hoi! I've[nl]been a good[nl]girl![END]
+*[ARALE]U-ho-hoi![END]
 @16@1580
 *[GLASSES_GUY]Not so fast![END]
 @17@1604
 *[ARALE]Ho-yo?[END]
 @18@1616
-*[GLASSES_GUY]You may have[nl]cleared the[nl]elimination[nl]bracket, but[nl]you've only[nl]earned the right[nl]to take on our[nl]final challenge.[nl]If you can enter[nl]the [YELLOW]Picture Book[WHITE][nl]via the [BLUE]Fairy[nl]Tale Machine[WHITE] and[nl]return in one[nl]piece, only then[nl]will you be our[nl][YELLOW]Children's[nl]Tournament[WHITE][nl]champion![END]
+*[GLASSES_GUY]You've only[nl]earned the right[nl]to take on our[nl]final challenge.[nl]If you can enter[nl]the [YELLOW]Picture Book[WHITE][nl]via the [BLUE]Fairy[nl]Tale Machine[WHITE] and[nl]return in one[nl]piece, only then[nl]will you be our[nl][YELLOW]Children's[nl]Tournament[WHITE][nl]champion![END]
 @19@1924
 *[ARALE]Ho-yo~[END]
 @20@1936
-*[GLASSES_GUY]Then let's[nl]begin the final[nl]challenge! And[nl]now, behold the[nl][YELLOW]Picture Book[WHITE][nl]that will set[nl]the stage for[nl]the ultimate[nl]trial![END]
+*[GLASSES_GUY]Behold the[nl][YELLOW]Picture Book[WHITE][nl]that will set[nl]the stage for[nl]the ultimate[nl]trial![END]
 @21@2052
 *[KING_NIKO]I don't got it.[END]
 @22@2068
@@ -50,29 +50,29 @@
 @24@2112
 *[GLASSES_GUY]Are you[nl]serious!? Now we[nl]can't finish the[nl]tournament![END]
 @25@2200
-*[HAKASE]Arale! Why[nl]don't you go and[nl]look for it,[nl]okay?[END]
+*[HAKASE]Arale! Go look[nl]for it![END]
 @26@2244
 *[ARALE]Hoi![END]
 @27@2256
-*[GLASSES_GUY]Arale has been[nl]eliminated! That[nl]means today's[nl][YELLOW]winner[WHITE] is...[nl][MEDIUM_PAUSE][PINK]Obotchaman[WHITE]![nl]Arale put up a[nl]good fight, but[nl]our[nl]congratulations[nl]go to[nl][PINK]Obotchaman[WHITE]![END]
+*[GLASSES_GUY]Arale has been[nl]eliminated![nl]Today's [YELLOW]winner[WHITE][nl]is...[nl][MEDIUM_PAUSE][PINK]Obotchaman[WHITE]![END]
 @28/42/55/76/101/127@2444/3480/4604/6392/8260/10656
-*[KING_NIKO]That girl[nl]couldn't pull it[nl]off in the end,[nl]huh...[END]
+*[KING_NIKO]She couldn't[nl]pull it off,[nl]huh...[END]
 @29@2476
 *[GLASSES_GUY]Arale has[nl]cleared the[nl]round![END]
 @30/48/64/92/116@2540/3924/5336/7340/9384
 *[KING_NIKO]She's got this[nl]in the bag.[END]
 @31@2584
-*[GLASSES_GUY]What a shocker![nl][PINK]Peasuke[WHITE] has been[nl]eliminated! That[nl]leaves only[nl]Arale and[nl][PINK]Obotchaman[WHITE] in[nl]the running![nl]Good luck you[nl]two![END]
+*[GLASSES_GUY]What a shocker![nl][PINK]Peasuke[WHITE] has been[nl]eliminated![END]
 @32@2736
 *[KING_NIKO]I figured this[nl]would happen.[END]
 @33@2760
-*[GLASSES_GUY]Now let's hear[nl]from our[nl]contestants. I[nl]think it's time[nl]for some[nl]interviews.[END]
+*[GLASSES_GUY]Now let's hear[nl]from our[nl]contestants.[END]
 @34@2828
-*[GLASSES_GUY][PINK]Peasuke[WHITE]. Too[nl]bad about that[nl]last round, any[nl]comments for our[nl]viewers?[END]
+*[GLASSES_GUY][PINK]Peasuke[WHITE]. Any[nl]comments for our[nl]viewers?[END]
 @35@2904
 *[PEASUKE_WHITE]Waaahhh... I[nl]was having[nl]fun...[END]
 @36@2956
-*[GLASSES_GUY][PINK]Peasuke[WHITE], please[nl]calm down. For[nl]the time being[nl]let's hear from[nl]our remaining[nl]two competitors.[END]
+*[GLASSES_GUY][PINK]Peasuke[WHITE], please[nl]calm down. Now[nl]let's hear from[nl]our remaining[nl]two competitors.[END]
 @37@3036
 *[OBOTCHAMAN]I'm giving it[nl]my all! I won't[nl]lose, no matter[nl]what![END]
 @38@3124
@@ -80,29 +80,29 @@
 @39@3192
 *[ARALE]Me too! I'm not[nl]losing![END]
 @40@3220
-*[GLASSES_GUY]You can really[nl]feel the fiery[nl]passion from[nl]both of our[nl]contenders.[nl]Things are going[nl]to get[nl]interesting! And[nl]now it's time[nl]for the [YELLOW]final[nl]round[WHITE] which will[nl]be held at the[nl]lovely [BLUE]Southern[nl]Islands[WHITE]![END]
+*[GLASSES_GUY]You can really[nl]feel the fiery[nl]passion from[nl]both of our[nl]contestants. Now[nl]it's time for[nl]the [YELLOW]final round[WHITE][nl]which will be[nl]held at the[nl]lovely [BLUE]Southern[nl]Islands[WHITE]![END]
 @41@3404
 *[GLASSES_GUY]Too bad, Arale[nl]has dropped out[nl]of the[nl]competition![END]
 @43@3512
 *[GLASSES_GUY][PINK]Obotchaman[WHITE] and[nl][PINK]Peasuke[WHITE] will[nl]battle it out in[nl]the [YELLOW]final round[WHITE]![END]
 @44@3600
-*[GLASSES_GUY]Too bad, Arale[nl]has dropped out[nl]of the[nl]competition![END]
+*[GLASSES_GUY]Too bad, Arale[nl]has failed the[nl]round![END]
 @45@3660
 *[KING_NIKO]You'll need to[nl]use your [GREEN]Long[nl]Jump[WHITE] to make it.[END]
 @46@3712
 *[GLASSES_GUY][PINK]Obotchaman[WHITE] has[nl]just [YELLOW]cleared[WHITE] the[nl]round! That[nl]leaves Arale and[nl][PINK]Peasuke[WHITE] to[nl]compete for the[nl]final spot![END]
 @47@3856
-*[GLASSES_GUY]Arale has[nl]cleared the[nl]round! She[nl]successfully[nl]found her[nl][YELLOW]treasure[WHITE]![END]
+*[GLASSES_GUY]Arale has[nl]cleared the[nl]treasure round![END]
 @49@3968
-*[GLASSES_GUY][PINK]Akane[WHITE] has been[nl]eliminated! Our[nl]remaining[nl]contestants are[nl]Arale,[nl][PINK]Obotchaman[WHITE], and[nl][PINK]Peasuke[WHITE]! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
+*[GLASSES_GUY][PINK]Akane[WHITE] has been[nl]eliminated! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
 @50@4252
 *[KING_NIKO]Our next event[nl]will test your[nl]mastery of your[nl]abilities.[END]
 @51@4308
 *[GLASSES_GUY]Their[nl]abilities!?[END]
 @52@4340
-*[KING_NIKO]You'll need to[nl]carefully jump[nl]across a number[nl]of [YELLOW]Police Cars[WHITE][nl]without touching[nl]the ground.[END]
+*[KING_NIKO]You'll need to[nl]jump across a[nl]number of [YELLOW]Police[nl]Cars[WHITE] without[nl]touching the[nl]ground.[END]
 @53@4396
-*[GLASSES_GUY]How[nl]challenging! Now[nl]then, all[nl]contestants[nl]report to the[nl][BLUE]Police Station[WHITE].[END]
+*[GLASSES_GUY]Now then, all[nl]contestants[nl]report to the[nl][BLUE]Police Station[WHITE].[END]
 @54@4488
 *[GLASSES_GUY]Oh no, Arale[nl]has fallen for[nl]another [YELLOW]fake[nl]treasure[WHITE]! Arale[nl]has been[nl]eliminated![END]
 @56@4636
@@ -110,33 +110,33 @@
 @57/60@4740/4996
 *[GLASSES_GUY]Oh dear, it[nl]seems Arale has[nl]fallen for a[nl][YELLOW]fake treasure[WHITE]![END]
 @58/61@4816/5072
-*[KING_NIKO]Don't get[nl]fooled by any of[nl]them [YELLOW]Fake[nl]Treasures[WHITE]![END]
+*[KING_NIKO]Don't get[nl]fooled by a [YELLOW]Fake[nl]Treasures[WHITE]![END]
 @59@4860
-*[GLASSES_GUY]This just in,[nl][PINK]Obotchaman[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]round! Let's[nl]send back to our[nl]broadcast of the[nl]event![END]
+*[GLASSES_GUY]This just in,[nl][PINK]Obotchaman[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]round! Back to[nl]the event![END]
 @62@5116
-*[GLASSES_GUY]This just in,[nl][PINK]Peasuke[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]round! Let's[nl]send back to our[nl]broadcast of the[nl]event![END]
+*[GLASSES_GUY]This just in,[nl][PINK]Peasuke[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]round! Back to[nl]the event![END]
 @63@5244
-*[GLASSES_GUY]Arale has done[nl]it! She has[nl]successfully[nl]made [PINK]Granny[nl]Oharu[WHITE] laugh![END]
+*[GLASSES_GUY]Arale has done[nl]it! She made[nl][PINK]Granny Oharu[WHITE][nl]laugh![END]
 @65@5380
-*[GLASSES_GUY]Unfortunately,[nl][PINK]Tsukutsun[WHITE] has[nl]dropped out of[nl]the running![nl]That leaves[nl]Arale,[nl][PINK]Obotchaman[WHITE],[nl][PINK]Peasuke[WHITE], and[nl][PINK]Akane[WHITE]! I'll now[nl]throw it over to[nl][PINK]Nikochan[WHITE] to[nl]explain our next[nl]event.[END]
+*[GLASSES_GUY][PINK]Tsukutsun[WHITE] has[nl]dropped out of[nl]the running![nl]I'll now throw[nl]it over to[nl][PINK]Nikochan[WHITE] to[nl]explain our next[nl]event.[END]
 @66@5684
 *[KING_NIKO]The next event[nl]will test your[nl]observation[nl]skills.[END]
 @67@5744
 *[GLASSES_GUY]Oho?[nl]Observation!?[END]
 @68@5780
-*[KING_NIKO]We've hidden[nl]many [YELLOW]treasures[WHITE][nl]around [BLUE]Penguin[nl]Village[WHITE]. Your[nl]job is to find a[nl]treasure and[nl]bring it back.[END]
+*[KING_NIKO]We've hidden[nl][YELLOW]treasures[WHITE] around[nl][BLUE]Penguin Village[WHITE].[nl]Your job is to[nl]find one and[nl]bring it back.[END]
 @69@5876
 *[GLASSES_GUY]How will they[nl]know when[nl]they've found a[nl]treasure?[END]
 @70@5928
-*[KING_NIKO]Keep an eye out[nl]for anything[nl][YELLOW]shining[WHITE], that[nl]means you're in[nl]the right area.[nl]But look out for[nl][YELLOW]fake treasures[WHITE]![nl]That's how they[nl]get'cha.[END]
+*[KING_NIKO]Keep an eye out[nl]for anything[nl][YELLOW]shining[WHITE]. But[nl]look out for[nl][YELLOW]fake treasures[WHITE]![nl]That's how they[nl]get'cha.[END]
 @71/160@6088/12656
 *[GLASSES_GUY]Seems tough.[nl]Well then, let[nl]the round...[SHORT_PAUSE][nl]begin![END]
 @72/78/83/88@6160/6464/6724/7008
-*[GLASSES_GUY]Too bad for[nl]Arale, she[nl]couldn't get a[nl]laugh from[nl][PINK]Granny Oharu[WHITE]![END]
+*[GLASSES_GUY]Too bad for[nl]Arale, [PINK]Granny[nl]Oharu[WHITE] wasn't[nl]amused![END]
 @73/74/79/84/89@6236/6236/6540/6800/7084
 *[KING_NIKO]That [PINK]Granny[WHITE] is[nl]one tough[nl]cookie.[END]
 @75/100/126@6276/8144/10540
-*[GLASSES_GUY]While we were[nl]chatting another[nl]challenger has[nl][YELLOW]cleared[WHITE] the[nl]round! That[nl]means Arale has[nl]been eliminated![END]
+*[GLASSES_GUY]We have the[nl]results! Arale[nl]has been[nl]eliminated![END]
 @77/102/128@6424/8292/10688
 *[GLASSES_GUY]Onto our next[nl]event...[END]
 @80@6580
@@ -148,13 +148,13 @@
 @85@6840
 *[GLASSES_GUY]Look at that,[nl][PINK]Peasuke[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]challenge![END]
 @86@6900
-*[KING_NIKO]I'm getting[nl]hungry. Do we[nl]have any [YELLOW]Daikon[WHITE][nl]around here?[END]
+*[KING_NIKO]I'm getting[nl]hungry. Do we[nl]have any [YELLOW]daikon[WHITE][nl]around here?[END]
 @90/114@7124/9176
 *[GLASSES_GUY]Look at that,[nl][PINK]Obotchaman[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]challenge! Let's[nl]throw it back to[nl]the action![END]
 @91@7256
 *[GLASSES_GUY]This just in,[nl]Arale has[nl]cleared the[nl]round![END]
 @93@7384
-*[GLASSES_GUY]I'm getting a[nl]report that [PINK]Taro[WHITE][nl]has been[nl]eliminated! Our[nl]remaining[nl]contestants are[nl]Arale,[nl][PINK]Obotchaman[WHITE],[nl][PINK]Peasuke[WHITE], and[nl][PINK]Akane[WHITE], and[nl][PINK]Tsukutsun[WHITE]! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
+*[GLASSES_GUY]I'm getting a[nl]report that [PINK]Taro[WHITE][nl]has been[nl]eliminated! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
 @94@7708
 *[KING_NIKO]The next[nl]challenge will[nl]test your comedy[nl]skills.[END]
 @95@7768
@@ -162,11 +162,11 @@
 @96@7800
 *[KING_NIKO]If you can make[nl][PINK]Granny Oharu[WHITE][nl]laugh, you win.[END]
 @97@7864
-*[GLASSES_GUY]Sounds tough.[nl][PINK]Granny Oharu[WHITE] is[nl]waiting for our[nl]challengers at[nl]the [BLUE]Hills[WHITE]. All[nl]contestants[nl]report to the[nl][BLUE]Hills[WHITE] at once![END]
+*[GLASSES_GUY]Sounds tough.[nl][PINK]Granny Oharu[WHITE] is[nl]waiting at the[nl][BLUE]Hills[WHITE]. All[nl]contestants[nl]report to the[nl][BLUE]Hills[WHITE] at once![END]
 @98/103/106/109/112@8028/8332/8572/8816/9060
-*[GLASSES_GUY]Oh dear, Arale[nl]was unable to[nl]find her[nl]borrowed item.[nl]She has been[nl]eliminated![END]
+*[GLASSES_GUY]Oh dear, Arale[nl]has fallen behind![END]
 @99/104/107/110/113@8100/8404/8644/8888/9132
-*[KING_NIKO]She has to[nl]think carefully[nl]about who would[nl]have that item.[END]
+*[KING_NIKO]Think carefully[nl]about who would[nl]have that item.[END]
 @105@8448
 *[GLASSES_GUY]This just in,[nl][PINK]Akane[WHITE] has[nl][YELLOW]cleared[WHITE] the[nl]round! Let's[nl]throw it back to[nl]the action![END]
 @108@8688
@@ -176,25 +176,25 @@
 @115@9308
 *[GLASSES_GUY]Arale has done[nl]it! She's[nl]secured a spot[nl]in our next[nl]round![END]
 @117@9428
-*[GLASSES_GUY]I'm getting a[nl]report that[nl][PINK]Kinoko[WHITE] has been[nl]eliminated! Our[nl]remaining[nl]contestants are[nl]Arale,[nl][PINK]Obotchaman[WHITE],[nl][PINK]Peasuke[WHITE], and[nl][PINK]Akane[WHITE], [PINK]Taro[WHITE], and[nl][PINK]Tsukutsun[WHITE]! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
+*[GLASSES_GUY]I'm getting a[nl]report that[nl][PINK]Kinoko[WHITE] has been[nl]eliminated! I'll[nl]now throw it[nl]over to [PINK]Nikochan[WHITE][nl]to explain our[nl]next event.[END]
 @118@9776
 *[KING_NIKO]The next event[nl]will test your[nl]speed and[nl]deductive[nl]reasoning[nl]skills.[END]
 @119@9876
 *[GLASSES_GUY]Speed and[nl]deductive[nl]reasoning!?[nl]Really!?[END]
 @120@9920
-*[KING_NIKO]Each contestant[nl]will have a[nl]different item[nl]they need to[nl]find. They'll[nl]need to find the[nl]person in[nl][BLUE]Penguin Village[WHITE][nl]that they think[nl]would have that[nl]item.[END]
+*[KING_NIKO]Each contestant[nl]will have an[nl]item to find.[nl]They'll need to[nl]find the person[nl]in [BLUE]Penguin[nl]Village[WHITE] that[nl]they think would[nl]have that item.[END]
 @121@10064
 *[GLASSES_GUY]So it's a[nl][YELLOW]scavenger hunt[WHITE]?[nl]But they won't[nl]even know who[nl]they're supposed[nl]to be looking[nl]for![END]
 @122@10148
 *[KING_NIKO]That's where[nl]the deductive[nl]reasoning comes[nl]in.[END]
 @123@10204
-*[GLASSES_GUY]Sounds tough.[nl]Well then, get[nl]ready[nl]contestants! [PINK]Mr.[nl]Kurigashira[WHITE] will[nl]tell you what it[nl]is you're[nl]looking for ![nl]After you've[nl]found it, come[nl]back to [PINK]Mr.[nl]Kurigashira[WHITE]![END]
+*[GLASSES_GUY]Sounds tough.[nl]Well then, get[nl]ready[nl]contestants! [PINK]Mr.[nl]Kurigashira[WHITE] will[nl]tell you what it[nl]is you're[nl]looking for![nl]After you've[nl]found it, come[nl]back to [PINK]Mr.[nl]Kurigashira[WHITE]![END]
 @124/129/134/139/144/149@10428/10728/11008/11280/11552/11832
-*[GLASSES_GUY]Whoops, looks[nl]like Arale[nl]couldn't find[nl]the right item![END]
+*[GLASSES_GUY]Whoops, Arale[nl]had a little[nl]setback![END]
 @125/130/135/140/145/150@10480/10780/11060/11332/11604/11884
-*[KING_NIKO]It might be[nl]tricky, think[nl]hard about what[nl]you should bring[nl]back.[END]
+*[KING_NIKO]Think hard[nl]about what you[nl]should bring[nl]back.[END]
 @131@10840
-*[GLASSES_GUY]Oh? Just now it[nl]seems that [PINK]Taro[WHITE][nl]has [YELLOW]cleared[WHITE] the[nl]challenge![END]
+*[GLASSES_GUY]Oh? Just now it[nl]seems that [PINK]Taro[WHITE][nl]has [YELLOW]cleared[WHITE] the[nl]round![END]
 @132/147@10908/11732
 *[KING_NIKO]Don't let the[nl]challenge get[nl]the better of[nl]you![END]
 @136@11120
@@ -220,9 +220,9 @@
 @158@12336
 *[GLASSES_GUY]Their[nl]intelligence!?[nl]Really!?[END]
 @159@12368
-*[KING_NIKO]We've put a[nl]bunch of[nl]envelopes with[nl]questions in[nl]them around[nl][BLUE]Suppaman's Tent[WHITE].[nl]Grab one of them[nl]and bring it[nl]back to [PINK]Mr.[nl]Kurigashira[WHITE] so[nl]he can ask you[nl]the [YELLOW]question[WHITE].[nl]Answer[nl]correctly, and[nl]you'll [YELLOW]clear[WHITE] the[nl]round![END]
+*[KING_NIKO]We've put a[nl]bunch of[nl]envelopes with[nl]questions in[nl]them around[nl][BLUE]Suppaman's Tent[WHITE].[nl]Grab one of them[nl]and bring it[nl]back to [PINK]Mr.[nl]Kurigashira[WHITE],[nl]then answer the[nl]question![END]
 @161@12728
-*[GLASSES_GUY]Ladies and[nl]gentlemen, the[nl][YELLOW]Penguin Village[nl]Children's[nl]Tournament[WHITE] is[nl]about to begin![nl]We've gathered[nl]the best and[nl]brightest boys[nl]and girls in[nl][BLUE]Penguin Village[WHITE][nl]to determine[nl]who's the best[nl]kid in town![nl]Reporting live[nl]to you is I,[nl][PINK]Klark Kenta[WHITE].[nl]Joining me for[nl]color commentary[nl]is...[END]
+*[GLASSES_GUY]Ladies and[nl]gentlemen, the[nl][YELLOW]Penguin Village[nl]Children's[nl]Tournament[WHITE] is[nl]about to begin![nl]Reporting live[nl]to you is I,[nl][PINK]Klark Kenta[WHITE].[nl]Joining me for[nl]color commentary[nl]is...[END]
 @162@12980
 *[KING_NIKO]Me.[END]
 @163@12996
@@ -232,46 +232,46 @@
 @165@13168
 *[KING_NIKO]No kiddin'?[nl]Gwa-ha-ha![END]
 @166@13204
-*[GLASSES_GUY]Thanks for[nl]joining us for[nl]this event.[END]
+*[GLASSES_GUY]Thanks for[nl]joining us.[END]
 @167@13244
 *[KING_NIKO]Leave it to me.[END]
 @168@13264
 *[GLASSES_GUY]Well then, time[nl]to introduce our[nl]competitors![END]
 @169/176@13312/13312
-*Nice going! You[nl][YELLOW]Captured[WHITE] the[nl][GREEN]「Tantrum Punch」[WHITE][nl]ability! Press[nl]the [YELLOW]punch button[WHITE][nl]while [GREEN]dashing[WHITE] to[nl]unleash a flurry[nl]of blows![END]
+*You [YELLOW]Captured[WHITE] the[nl][GREEN]「Tantrum Punch」[WHITE][nl]ability! Press[nl]the [YELLOW]punch button[WHITE][nl]while [GREEN]dashing[WHITE] to[nl]unleash a flurry[nl]of blows![END]
 @177/304@13444/13444
-*Checking [YELLOW]memory[nl]card[WHITE].[END]
+*[END]
 @305@13488
-*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+*[END]
 @306@13548
-*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+*[END]
 @307@13592
-*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+*[END]
 @308@13644
-*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+*[END]
 @309@13732
-*[YELLOW]Formatting...[END]
+*[END]
 @310@13828
-*[YELLOW]Formatting[nl][WHITE]complete![END]
+*[END]
 @311@13856
-*[YELLOW]Save[WHITE] your game?[END]
+*[END]
 @312@13892
-*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+*[END]
 @313@13956
-*[YELLOW]Saving[WHITE]...[END]
+*[END]
 @314@14056
-*Overwrite[nl]existing save?[END]
+*[END]
 @315@14100
-*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+*[END]
 @316@14152
-*[YELLOW]Save[WHITE] complete![END]
+*[END]
 @317/321@14172/14240
 *Back[END]
 @318@14180
 *OK[END]
 @319@14192
-*[WHITE]Select a file[END]
+*[END]
 @320@14224
-*[YELLOW]Save[END]
+*[END]
 @322@14248
-*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
+*[END]

@@ -1,0 +1,145 @@
+@@S08_M04B.PAC.232.lzss.uncomp@@323@@648@@5148
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/59/60/61/62/63/75/76/77/78/79/91/92/93/94/95/107/108/109/110/111/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/256/257/258/259/260/261/262/263/264/265/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[POLICE_COMISSIONER]Congratulations[nl]on your [YELLOW]victory[WHITE].[END]
+@1/4/7/57@680/792/904/2444
+*[POLICE_COMISSIONER]Are you trying[nl]your best out[nl]there?[END]
+@2/5/8/58/64@704/816/928/2468/2468
+*[ARALE]Hoi![END]
+@3/6/9/65@716/828/940/2480
+*[POLICE_COMISSIONER]We're going to[nl]be helping out[nl]with the 5th[nl]round of the[nl]event.[END]
+@10/16@1016/1016
+*[POLICE_COMISSIONER]You're still[nl]here? You need[nl]to hurry back to[nl][BLUE]School[WHITE] with[nl]that.[END]
+@17@1088
+*[ARALE]Hey, hand me[nl]your [YELLOW]handcuffs[WHITE].[END]
+@18@1128
+*[POLICE_COMISSIONER]N-no way jose![nl]I can't let you[nl]have it![END]
+@19@1180
+*[ARALE]C'mon, gimme![END]
+@20@1204
+*[POLICE_COMISSIONER]Seems like my[nl]hands are[nl]tied... just[nl]don't tell[nl]anyone I gave[nl]you this![END]
+@21@1280
+*[ARALE]U-ho-hoi! I got[nl]the [YELLOW]handcuffs[WHITE]![END]
+@22@1328
+*[POLICE_COMISSIONER]Yikes![END]
+@23/68@1348/2628
+*[ARALE]Hey mister, do[nl]you have a[nl][YELLOW]fountain pen[WHITE] I[nl]could borrow?[END]
+@24@1392
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@25/70@1452/2708
+*[ARALE]Hey mister, do[nl]you have a pair[nl]of [YELLOW]scissors[WHITE] I[nl]could borrow?[END]
+@26/32@1492/1492
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@33/72@1548/2784
+*[ARALE]Hey mister, do[nl]you have a[nl][YELLOW]drinking glass[WHITE] I[nl]could borrow?[END]
+@34@1588
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@35/82@1644/2940
+*[ARALE]Hey mister, do[nl]you have some[nl][YELLOW]tissues[WHITE] I could[nl]borrow?[END]
+@36@1688
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@37/84@1748/3020
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]phone[nl]book[WHITE] I could[nl]borrow?[END]
+@38@1792
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@39/86@1852/3100
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]sour[nl]plum[WHITE] I could[nl]borrow?[END]
+@40@1892
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@41/88@1948/3176
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]cook[nl]pot[WHITE] I could[nl]borrow?[END]
+@42/48@1984/1984
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@49/90/96@2036/3248/3248
+*[ARALE]Hey mister, do[nl]you have an[nl][YELLOW]apron[WHITE] I could[nl]borrow?[END]
+@50@2076
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@51/98@2132/3324
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]dirty[nl]book[WHITE] I could[nl]borrow?[END]
+@52@2176
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@53/100@2236/3404
+*[ARALE]Hey mister, do[nl]you have a [YELLOW]bib[WHITE] I[nl]could borrow?[END]
+@54@2280
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@55/102@2340/3484
+*[ARALE]Hey mister, do[nl]you have a pair[nl]of [YELLOW]strawberry[nl]panties[WHITE] I could[nl]borrow?[END]
+@56@2384
+*[POLICE_COMISSIONER]No, I don't[nl]have anything[nl]like that[nl]here...[END]
+@66/104@2556/3564
+*[POLICE_GIRL]It's been[nl]pretty peaceful[nl]lately.[END]
+@67@2588
+*[POLICE_GIRL]You should[nl]hurry back to[nl][BLUE]Schook[WHITE].[END]
+@69/71/73/83/85/87/89/97/99/101/103@2672/2748/2824/2984/3064/3140/3212/3288/3368/3448/3528
+*[POLICE_GIRL]Sorry, but I[nl]don't have[nl]anything on me.[END]
+@74/80@2860/2860
+*[ARALE]Hey, let me[nl]borrow your[nl][YELLOW]handcuffs[WHITE].[END]
+@81@2900
+*[POLICE_GIRL]Sorry kid,[nl]can't let you[nl]have 'em.[END]
+@105@3596
+*[ARALE]Hello? I'm[nl]Arale, is anyone[nl]there?[END]
+@106/112@3648/3648
+*[POLICE_COMISSIONER]No prank[nl]calling! That's[nl]an important[nl]line![END]
+@113@3688
+*[PAPER]Damage report[nl]·? [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@114/115@3724/3752
+*[POLICE_COMISSIONER]There's nothing[nl]in there.[END]
+@116@3780
+*[MICROPHONE]No problems[nl]here.[END]
+@117/192@3804/3804
+*[PAPER]Damage report[nl]·0 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@193@3848
+*[PAPER]Damage report[nl]·1 [YELLOW]Patrol Car[WHITE][nl]destroyed.[END]
+@194@3892
+*[PAPER]Damage report[nl]·2 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@195@3936
+*[PAPER]Damage report[nl]·3 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@196@3980
+*[PAPER]Damage report[nl]·4 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@197@4024
+*[PAPER]Damage report[nl]·5 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@198@4068
+*[PAPER]Damage report[nl]·6 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@199@4112
+*[PAPER]Damage report[nl]·7 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@200@4156
+*[PAPER]Damage report[nl]·8 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@201@4200
+*[PAPER]Damage report[nl]·9 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@202@4244
+*[PAPER]Damage report[nl]·10 [YELLOW]Patrol Cars[WHITE][nl]destroyed.[END]
+@203/304@4292/4292
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@4336
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@4396
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@4440
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@4492
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@4580
+*[YELLOW]Formatting...[END]
+@310@4676
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@4704
+*[YELLOW]Save[WHITE] your game?[END]
+@312@4740
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@4804
+*[YELLOW]Saving[WHITE]...[END]
+@314@4904
+*Overwrite[nl]existing save?[END]
+@315@4948
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@5000
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@5020/5088
+*Back[END]
+@318@5028
+*OK[END]
+@319@5040
+*[WHITE]Select a file[END]
+@320@5072
+*[YELLOW]Save[END]
+@322@5096
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

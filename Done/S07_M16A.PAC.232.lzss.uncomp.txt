@@ -1,0 +1,115 @@
+@@S07_M16A.PAC.232.lzss.uncomp@@323@@648@@3264
+@0/11/12/13/14/15/27/28/29/30/31/40/41/42/43/44/45/46/47/51/52/53/54/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/264/265/266/267/268/269/270/271/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[TSURURIN]I haven't seen[nl]him around[nl]here...[END]
+@1@692
+*[ARALE]Hey hey, have[nl]you seen [PINK]Turbo[WHITE]?[END]
+@2@732
+*[TSURURIN]Has something[nl]happened to him?[END]
+@3@768
+*[ARALE]He's missing.[END]
+@4@796
+*[TSURURIN]Oh no! This is[nl]very bad, must[nl]find him quick![END]
+@5@844
+*[TSUKUTSUN]Not seen him[nl]around here...[END]
+@6@876
+*[ARALE]Hey [PINK]Tsukutsun[WHITE].[nl]Have you seen[nl][PINK]Turbo[WHITE] anywhere?[nl]He's gone[nl]missing.[END]
+@7@960
+*[TSUKUTSUN]Is this for[nl]real!? I will[nl]help you search![END]
+@8@1016
+*[ARALE][PINK]Tuuurbooo[WHITE]![nl]Where are you?[nl]Not here[nl]either...[END]
+@9@1100
+*[TSUKUTSUN]Hello there[nl]Arale.[END]
+@10/16@1128/1128
+*[TSUNODA]Thanks to that[nl][PINK]Senbei[WHITE], the[nl][BLUE]house[WHITE] is a big[nl]mess.[END]
+@17@1192
+*[TSUNODA]Please, come[nl]visit again.[END]
+@18@1216
+*[TSUNODA]The [BLUE]house[WHITE] is[nl]currently being[nl]cleaned up. Try[nl]coming later.[END]
+@19/38@1300/1988
+*[TSUNODA]What is that[nl]clattering!?[nl]Work you piece[nl]of junk![END]
+@20@1372
+*[TSURUTEN]I-Is it really[nl]fixed...?[END]
+@21@1420
+*[HAKASE]Ha-ha-ha! No[nl]need to worry,[nl]I've modelled[nl]the [YELLOW]engine[WHITE] after[nl]a real deal[nl][YELLOW]alien space[nl]ship[WHITE].[END]
+@22@1564
+*[TSUKUTSUN]You're amazing,[nl][PINK]Senbei[WHITE]! [PINK]Father[WHITE][nl]could learn a[nl]thing or two[nl]from you.[END]
+@23@1640
+*[TSUNODA]That's right![nl]Dear, you should[nl]try following in[nl][PINK]Senbei[WHITE]'s[nl]footsteps.[END]
+@24@1704
+*[HAKASE]A-ha-ha-ha![END]
+@25@1732
+*[TSURUTEN]So[nl]frustrating...[END]
+@26/32@1768/1768
+*[TSUNODA]It was a[nl]pleasure to meet[nl]you.[END]
+@33@1816
+*[TSURURIN]Farewell,[nl]Arale.[END]
+@34@1852
+*[TSUKUTSUN]I will write[nl][YELLOW]letters[WHITE].[END]
+@35@1880
+*[ARALE]Bye'cha![END]
+@36@1896
+*[HAKASE]Hooray![nl]Success![nl]......huh?[END]
+@37@1964
+*[TSURUTEN]It isn't fixed[nl]at all![END]
+@39/48@2060/2060
+*[HAKASE]Hooray![nl]Success![END]
+@49@2100
+*[HAKASE]......huh?[END]
+@50/256@2132/2132
+*Where to?[END]
+@257@2152
+*Stay here[END]
+@258@2168
+*[BLUE]Home[END]
+@259@2188
+*[BLUE]Smoke Shop[END]
+@260@2208
+*[BLUE]Kinoko's[END]
+@261@2232
+*[BLUE]Suppaman's[END]
+@262/272@2260/2260
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@273@2284
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@274@2312
+*[ARALE]Let's go to[nl][BLUE]Kinoko's House[WHITE].[END]
+@275@2344
+*[ARALE]Let's go to the[nl][BLUE]Mysterious[nl]House[WHITE].[END]
+@276@2372
+*[ARALE]Let's go to[nl][BLUE]Suppaman's[nl]House[WHITE].[END]
+@277/304@2408/2408
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2452
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2512
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2556
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2608
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2696
+*[YELLOW]Formatting...[END]
+@310@2792
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2820
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2856
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2920
+*[YELLOW]Saving[WHITE]...[END]
+@314@3020
+*Overwrite[nl]existing save?[END]
+@315@3064
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3116
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3136/3204
+*Back[END]
+@318@3144
+*OK[END]
+@319@3156
+*[WHITE]Select a file[END]
+@320@3188
+*[YELLOW]Save[END]
+@322@3212
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

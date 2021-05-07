@@ -1,0 +1,101 @@
+@@S08_M06B.PAC.232.lzss.uncomp@@323@@648@@3912
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/59/60/61/62/63/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/262/263/264/265/266/267/268/269/270/271/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PEASUKE_WHITE]Hmm... which[nl]one to choose...[END]
+@1@684
+*[KINOKO_STYLISH]Hmph. Don't[nl]underestimate[nl]me. I'm sure[nl]I've chosen the[nl]easiest[nl]question.[END]
+@2@760
+*[SUPPAMAN]Just take it[nl]back to [BLUE]School[WHITE].[END]
+@3/8/17/20/23/26/32/35/38/41/50/53/56@812/1160/1300/1436/1572/1708/1708/1848/1988/2120/2256/2396/2536
+*[SUPPAMAN]Have you come[nl]to take one of[nl]my extra special[nl][YELLOW]sour plums[WHITE]?[END]
+@4@880
+*[ARALE]Yup. Hand it[nl]over.[END]
+@5@904
+*[SUPPAMAN]Wa-ha-ha-ha![nl]Who wouldn't[nl]want these[nl]things! Alright,[nl]but first let me[nl]hear you ask for[nl]them properly![END]
+@6@1060
+*[ARALE]Just give it to[nl]me, [PINK]Suppaman[WHITE].[END]
+@7@1092
+*[SUPPAMAN]Wa-ha-ha-ha![nl]Okay kid, I'll[nl]deign to give[nl]you one.[END]
+@9@1228
+*[ARALE]Umm, I wanted a[nl][YELLOW]fountain pen[WHITE].[nl]Bye'cha![END]
+@10/16/19/22/25/34/37/40/49/52/55/58/64@1276/1276/1412/1548/1684/1824/1964/2096/2232/2372/2512/2652/2652
+*[SUPPAMAN]...[END]
+@18@1368
+*[ARALE]Umm, I wanted[nl][YELLOW]scissors[WHITE].[nl]Bye'cha![END]
+@21@1504
+*[ARALE]Umm, I wanted a[nl][YELLOW]drinking glass[WHITE].[nl]Bye'cha![END]
+@24@1640
+*[ARALE]Umm, I wanted[nl][YELLOW]handcuffs[WHITE].[nl]Bye'cha![END]
+@33@1776
+*[ARALE]Umm, I wanted[nl][YELLOW]tissues[WHITE].[nl]Bye'cha![END]
+@36@1916
+*[ARALE]Umm, I wanted a[nl][YELLOW]phone book[WHITE].[nl]Bye'cha![END]
+@39@2056
+*[ARALE]Umm, I wanted a[nl][YELLOW]cook pot[WHITE].[nl]Bye'cha![END]
+@42/48@2188/2188
+*[ARALE]Umm, I wanted[nl]an [YELLOW]apron[WHITE].[nl]Bye'cha![END]
+@51@2324
+*[ARALE]Umm, I wanted a[nl][YELLOW]dirty book[WHITE].[nl]Bye'cha![END]
+@54@2464
+*[ARALE]Umm, I wanted a[nl][YELLOW]bib[WHITE]. Bye'cha![END]
+@57@2604
+*[ARALE]Umm, I wanted[nl][YELLOW]strawberry[nl]panties[WHITE].[nl]Bye'cha![END]
+@65@2676
+*[KINOKO_STYLISH]You greedy[nl]nitwit! Why are[nl]you taking more[nl]than one[nl]envelope!?[END]
+@66@2768
+*[ARALE]I'll take...[nl]this one.[END]
+@67@2792
+*[KINOKO_STYLISH]U-fu-fu. That[nl]one's obviously[nl]a dud.[END]
+@68@2836
+*[ARALE]There's no one[nl]here.[END]
+@69/256@2864/2864
+*Where to?[END]
+@257@2884
+*Stay here[END]
+@258@2900
+*[BLUE]Reh Tsu Goh[END]
+@259@2924
+*[BLUE]Smoke Shop[END]
+@260@2944
+*[BLUE]Kinoko's[END]
+@261/272@2968/2968
+*[ARALE]Let's go to the[nl][BLUE]Reh Tsu Goh[WHITE].[END]
+@273@2996
+*[ARALE]Let's go to the[nl][BLUE]Smoke Shop[WHITE].[END]
+@274@3024
+*[ARALE]Let's go to[nl][BLUE]Kinoko's House[WHITE].[END]
+@275/304@3056/3056
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3100
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3160
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3204
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3256
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3344
+*[YELLOW]Formatting...[END]
+@310@3440
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3468
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3504
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3568
+*[YELLOW]Saving[WHITE]...[END]
+@314@3668
+*Overwrite[nl]existing save?[END]
+@315@3712
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3764
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3784/3852
+*Back[END]
+@318@3792
+*OK[END]
+@319@3804
+*[WHITE]Select a file[END]
+@320@3836
+*[YELLOW]Save[END]
+@322@3860
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

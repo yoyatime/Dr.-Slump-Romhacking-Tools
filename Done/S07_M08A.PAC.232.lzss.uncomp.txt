@@ -4,7 +4,7 @@
 @1@732
 *[TOUGH_GUY_RED_HAIR_BALLS]Score! More[nl][YELLOW]poop[WHITE]![END]
 @2@776
-*[TOUGH_GUY_RED_HAIR_BALLS]...buzzz.[MEDIUM_PAUSE] And[nl]it's still[nl]fresh, what a[nl]haul![nl]Hyak-hyak-hyak♪[END]
+*[TOUGH_GUY_RED_HAIR_BALLS]It's still[nl]fresh, what a[nl]haul![nl]Hyak-hyak-hyak♪[END]
 @3@864
 *[ARALE]Ho-yo?[END]
 @4/256@876/876
@@ -16,7 +16,7 @@
 @259@944
 *[BLUE]Cinema[END]
 @260@972
-*[BLUE]Obotchaman[END]
+*[BLUE]Obotchaman's[END]
 @261/272@1004/1004
 *[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
 @273@1044

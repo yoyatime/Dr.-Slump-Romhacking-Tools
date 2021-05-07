@@ -1,0 +1,177 @@
+@@S08_M00C.PAC.232.lzss.uncomp@@387@@776@@7960
+@0/1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/27/28/29/30/31/43/44/45/46/47/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776/776
+*[HAKASE]What's the[nl]matter? Hurry[nl]and take that to[nl][BLUE]school[WHITE].[END]
+@17@852
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]dirty[nl]book[WHITE].[END]
+@18@908
+*[HAKASE]Wh-why do you[nl]think I'd have[nl]something like[nl]that...[END]
+@19@968
+*[ARALE]Hand it over![END]
+@20@984
+*[HAKASE]I-I guess you[nl]can hold on to[nl]this... but make[nl]sure to bring it[nl]back![END]
+@21/309/313/317/321/325/329/333/337/341/345/349/353/357/361/365/367/369@1036/3900/4124/4336/4520/4696/4888/5076/5264/5448/5624/5836/6096/6400/6552/6768/6924/7080
+*[ARALE]U-ho-hoi![END]
+@22@1056
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a[nl][YELLOW]fountain pen[WHITE].[END]
+@23@1112
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@24@1160
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need [YELLOW]scissors[WHITE].[END]
+@25@1208
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@26/32@1252/1252
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a[nl][YELLOW]drinking glass[WHITE].[END]
+@33@1300
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@34@1344
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a pair of[nl][YELLOW]handcuffs[WHITE].[END]
+@35@1396
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@36@1440
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need some[nl][YELLOW]tissues[WHITE].[END]
+@37@1492
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@38@1540
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]phone[nl]book[WHITE].[END]
+@39@1596
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@40@1644
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]sour[nl]plum[WHITE].[END]
+@41@1696
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@42/48@1740/1740
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]cook[nl]pot[WHITE].[END]
+@49@1788
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@50@1828
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]apron[WHITE].[END]
+@51@1880
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around. You[nl]should try[nl]asking [PINK]Midori[WHITE].[END]
+@52@1960
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a [YELLOW]bib[WHITE].[END]
+@53@2012
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around. You[nl]should try[nl]asking [PINK]Turbo[WHITE].[END]
+@54@2092
+*[ARALE]Hey, [PINK]Professor[WHITE].[nl]I need a pair of[nl][YELLOW]strawberry print[nl]panties[WHITE].[END]
+@55@2148
+*[HAKASE]Sorry, I don't[nl]have anything[nl]like that[nl]around.[END]
+@56/80@2196/2196
+*[HAKASE]Still hanging[nl]in there?[END]
+@81@2240
+*[ARALE]Hoi![END]
+@82@2252
+*[HAKASE]What's the[nl]matter? You seem[nl]to be in good[nl]shape.[END]
+@83@2296
+*[HAKASE]Quit messing[nl]around, Arale.[END]
+@84@2348
+*[HAKASE]That thing's[nl]important, don't[nl]touch it.[END]
+@85@2404
+*[HAKASE]This ain't a[nl]playground.[END]
+@86@2444
+*[HAKASE]Stop that this[nl]instant! Are you[nl]trying to bring[nl]the house down!?[END]
+@87/256@2492/2492
+*Stay here[END]
+@257@2508
+*[BLUE]My Room[END]
+@258@2532
+*[BLUE]Living Room[END]
+@259@2552
+*[BLUE]Outside[END]
+@260@2568
+*Where to?[END]
+@261@2588
+*[ARALE]Never mind.[END]
+@262@2608
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@263@2640
+*[ARALE]Let's go to the[nl][BLUE]Living Room[WHITE].[END]
+@264@2668
+*[ARALE]Let's go[nl][BLUE]Outside[WHITE].[END]
+@265@2692
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@304@3548
+*[HAKASE]What is it,[nl]Arale? Ah, I see[nl]you've filled up[nl]your [YELLOW]Pep Gauge[WHITE].[nl]Ooh, I feel a[nl]new idea[nl]bubbling up.[END]
+@305/382/386@3652/7676/7944
+*[ARALE]Oh, boy![END]
+@306@3668
+*[HAKASE]...I've done[nl]it. What a[nl]marvelous[nl]creation! I[nl]truly am a super[nl][YELLOW]genius[WHITE]♪[END]
+@307@3744
+*[ARALE]Really? What[nl]did you make?[END]
+@308@3776
+*[HAKASE]Behold the[nl][BLUE]Speedometer[WHITE]! It[nl]can tell you how[nl]fast you're[nl]moving. You can[nl]find it on the[nl]right side of[nl]the screen.[END]
+@310/314/318/322/326/330/334/338@3920/4144/4356/4540/4716/4908/5096/5284
+*[HAKASE]You can turn it[nl]on and off at[nl]the [YELLOW]Invention[nl]Machine[WHITE].[END]
+@311/312@4000/4000
+*[HAKASE]Behold the[nl][BLUE]Altimeter[WHITE]! It[nl]can tell you how[nl]high you [GREEN]jump[WHITE].[nl]You can find it[nl]on the sides of[nl]the screen.[END]
+@315/316@4224/4224
+*[HAKASE]Behold the[nl][BLUE]Compass[WHITE]! It can[nl]tell you what[nl]direction you're[nl]heading. You can[nl]find it at the[nl]top right of the[nl]screen.[END]
+@319/320@4436/4436
+*[HAKASE]Behold the[nl][BLUE]Audio Meter[WHITE]! You[nl]can find it[nl]right by your[nl][YELLOW]Pep Gauge[WHITE].[END]
+@323/324@4620/4620
+*[HAKASE]Behold the[nl][BLUE]Prank Effects[WHITE]![nl]It replaces[nl]various sound[nl]effects with[nl]funnier ones![END]
+@327/328@4796/4796
+*[HAKASE]Behold the [BLUE]Star[nl]Wipe[WHITE]! It[nl]replaces the[nl]regular screen[nl]transition[nl]effect with a[nl]star pattern![END]
+@331/332@4988/4988
+*[HAKASE]Behold the[nl][BLUE]Charm Circuit[WHITE]![nl]It replaces your[nl]movements when[nl]standing still.[END]
+@335/336@5176/5176
+*[HAKASE]Behold the[nl][BLUE]Contact Lenses[WHITE]![nl]Get rid of your[nl]big glasses and[nl]enjoy a brand[nl]new look.[END]
+@339/340@5364/5364
+*[HAKASE]Behold the[nl][BLUE]Window Colorer[WHITE]![nl]It can change[nl]the color of[nl]dialog boxes to[nl]one of your[nl]choosing![END]
+@342@5468
+*[HAKASE]Remember to[nl]visit the[nl][YELLOW]Invention[nl]Machine[WHITE] to pick[nl]out a color you[nl]like.[END]
+@343/344@5544/5544
+*[HAKASE]Behold the [BLUE]Font[nl]Selector[WHITE]! It can[nl]change the on[nl]screen font to[nl]one of your[nl]choosing![END]
+@346@5644
+*[HAKASE]Remember to[nl]visit the[nl][YELLOW]Invention[nl]Machine[WHITE] to pick[nl]out a font you[nl]like.[END]
+@347/348@5720/5720
+*[HAKASE]Behold the[nl][BLUE]Golden Poop[nl]Tally[WHITE]! It lets[nl]you view the[nl]status of[nl]collectible[nl]items whenever[nl]you like![END]
+@350@5856
+*[HAKASE]Remember to[nl]visit the[nl][YELLOW]Invention[nl]Machine[WHITE] to see[nl]it.[END]
+@351/352@5932/5932
+*[HAKASE]Behold the [BLUE]MAX[nl]Pep Circuit[WHITE]! It[nl]boosts your [YELLOW]Pep[nl]Gauge[WHITE] to max.[nl]That's the last[nl]invention I can[nl]give you for[nl]now, Arale. Good[nl]luck out there![END]
+@354@6116
+*[HAKASE]Because it is[nl]my [YELLOW]Final[nl]Invention[WHITE], I[nl]gave it a nifty[nl]little extra[nl]feature. The [BLUE]MAX[nl]Pep Circuit[WHITE] will[nl]slightly refill[nl]your [YELLOW]Energy[nl]Gauge[WHITE] when[nl]touching [YELLOW]poop[WHITE].[END]
+@355/356@6324/6324
+*[HAKASE]Behold the[nl][BLUE]Jukebox[WHITE]! It lets[nl]you listen to[nl]all the music in[nl]the game![END]
+@358@6420
+*[HAKASE]Remember to[nl]visit the [YELLOW]Stereo[WHITE][nl]to listen to it.[END]
+@359/360@6476/6476
+*[HAKASE]Behold the [BLUE]SFX[nl]Test[WHITE]! It lets[nl]you listen to[nl]the sound[nl]effects from the[nl]game![END]
+@362@6572
+*[HAKASE]Remember to[nl]visit the [YELLOW]Stereo[WHITE][nl]to listen to it.[END]
+@363/364@6632/6632
+*[HAKASE]Behold the[nl][BLUE]B-Baller's[nl]Uniform[WHITE]! It's an[nl]outfit you can[nl]wear by visiting[nl]the [YELLOW]Coat Rack[WHITE] in[nl][BLUE]Your Room[WHITE].[END]
+@366@6788
+*[HAKASE]Behold the[nl][BLUE]Ninja Suit[WHITE]! It's[nl]an outfit you[nl]can wear by[nl]visiting the[nl][YELLOW]Coat Rack[WHITE] in[nl][BLUE]Your Room[WHITE].[END]
+@368@6944
+*[HAKASE]Behold the[nl][BLUE]Nostalgic[nl]Outfit[WHITE]! It's an[nl]outfit you can[nl]wear by visiting[nl]the [YELLOW]Coat Rack[WHITE] in[nl][BLUE]Your Room[WHITE].[END]
+@370@7100
+*[HAKASE]That's all for[nl]my [YELLOW]Inventions[WHITE].[nl]Good luck out[nl]there![END]
+@371@7160
+*[HAKASE]What is it,[nl]Arale? I'm busy,[nl]go bother[nl]someone else.[nl]Come back when[nl]you've filled up[nl]your [YELLOW]Pep Gauge[END]
+@372@7300
+*[ARALE]Seems familiar.[END]
+@373@7320
+*[ARALE]Hee hee hee...[END]
+@374@7340
+*[HAKASE]What is it[nl]Arale? You're[nl]looking awfully[nl]pleased with[nl]yourself.[END]
+@375@7396
+*[ARALE]Hey, hey[nl][PINK]Professor[WHITE]. I got[nl]something to[nl]show you.[END]
+@376@7448
+*[HAKASE]Wait what is[nl]that... could it[nl]really be?[END]
+@377@7480
+*[HAKASE]Oh my! Did you[nl]really do it[nl]Arale!? Did you[nl]get every [YELLOW]Golden[WHITE][nl]one!?[END]
+@378@7544
+*[ARALE]I got 'em all.[END]
+@379@7568
+*[HAKASE]Outstanding[nl]Arale![END]
+@380@7596
+*[ARALE]I want a [YELLOW]prize[WHITE].[END]
+@381@7628
+*[HAKASE]I see...[nl][MEDIUM_PAUSE]Alright, just[nl]wait a moment.[END]
+@383@7692
+*[HAKASE]...I've done[nl]it. I went to[nl]great lengths to[nl]create this for[nl]you, Arale[END]
+@384@7772
+*[ARALE]U-ho-hoi! What[nl]did you make?[END]
+@385@7816
+*[HAKASE]It wouldn't be[nl]any fun if I[nl]told you what it[nl]was. Go to the[nl][YELLOW]Coat Rack[WHITE] in[nl][BLUE]Your Room[WHITE] and[nl]see it for[nl]yourself.[END]

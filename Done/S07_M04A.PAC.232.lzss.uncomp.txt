@@ -12,7 +12,7 @@
 @260@816
 *[BLUE]Bank[END]
 @261@848
-*[BLUE]Obotchaman[END]
+*[BLUE]Obotchaman's[END]
 @262/272@880/880
 *[ARALE]Let's go [BLUE]Home[WHITE].[END]
 @273@908

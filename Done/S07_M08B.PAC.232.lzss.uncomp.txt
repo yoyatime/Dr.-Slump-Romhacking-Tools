@@ -8,7 +8,7 @@
 @3@776
 *[ARALE][PINK]Tuuurbooo[WHITE]![nl]Where are you?[nl]Not here[nl]either...[END]
 @4@860
-*[BANKER_TORI]The nerve of[nl]this kid![END]
+*[BANKER_TORI]Have you come[nl]to torment me[nl]some more?[END]
 @5/19@888/1036
 *[ARALE]U-ho-hoi![END]
 @6/20@908/1056

@@ -1,0 +1,111 @@
+@@S08_M14A.PAC.232.lzss.uncomp@@323@@648@@3504
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/59/60/61/62/63/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[TOBACCO_GRANNY]Nuh-uh. I ain't[nl]laughing.[END]
+@1@676
+*[ARALE]Ho-yo?[END]
+@2@688
+*[TOBACCO_GRANNY]If you want to[nl]make me laugh,[nl]you'll need to[nl]pull off a[nl]really funny[nl][GREEN]ability[WHITE].[END]
+@3@752
+*[TSUKUTSUN]I'm not good at[nl]comedy... What[nl]to do...[END]
+@4@816
+*[OBOTCHAMAN]She's a tough[nl]nut to crack.[END]
+@5@844
+*[AKANE]I've got a joke[nl]I've been saving[nl]for a time like[nl]this.[END]
+@6@888
+*[PEASUKE_WHITE]Hmm...[END]
+@7@908
+*[TOBACCO_GRANNY]Wa-ha-ha-ha![nl]What the heck[nl]was that!? Eat[nl]too many beans,[nl]did you!?[END]
+@8/18@980/1160
+*[ARALE]U-ho-hoi! You[nl]laughed, I got[nl]you![END]
+@9/19@1028/1208
+*[TOBACCO_GRANNY]W-Whoops![END]
+@10/16/20@1048/1048/1228
+*[TSUKUTSUN]Very clever,[nl]Arale.[END]
+@17@1088
+*[TOBACCO_GRANNY]Wa-ha-ha-ha![nl]What the heck[nl]was that!? You[nl]fell flat on[nl]your butt![END]
+@21@1268
+*[TOBACCO_GRANNY]Bah, there's[nl]nothing funny[nl]about that move.[END]
+@22/24/34/36/38/42/48/50/52/54/56/58/64@1348/1444/1532/1620/1708/1796/1796/1892/1984/2064/2156/2220/2220
+*[ARALE]Ho-yo~[END]
+@23@1360
+*[TOBACCO_GRANNY]Bah, there's[nl]nothing funny[nl]about the earth[nl]being destroyed.[END]
+@25/39@1456/1720
+*[TOBACCO_GRANNY]Heh... Snrk...[END]
+@26/32/40@1476/1476/1740
+*[ARALE]Oh, boy![END]
+@33/41@1492/1756
+*[TOBACCO_GRANNY]Bah, that[nl]seemed[nl]dangerous.[END]
+@35@1544
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@37@1632
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@49@1808
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@51@1904
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@53@1996
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@55@2076
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@57@2168
+*[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
+@65@2232
+*[TOBACCO_GRANNY]Foolish kids![nl]You don't have a[nl]chance of making[nl]me laugh![nl]A-ha-ha-ha![END]
+@66@2300
+*[TSUKUTSUN]Ah! You just[nl]laughed![END]
+@67@2332
+*[TOBACCO_GRANNY]T-That one[nl]didn't count![nl]We'll start...[nl]now![END]
+@68@2384
+*[ARALE]I did it! I[nl]found the[nl][YELLOW]treasure[WHITE]![MEDIUM_PAUSE] Wait a[nl]minute, what is[nl]this?[END]
+@69@2444
+*[ARALE]Nothing here.[END]
+@70@2468
+*[ARALE]Oopsie, this[nl]isn't the[nl]treasure...[END]
+@71/256@2500/2500
+*Where to?[END]
+@257@2520
+*Stay here[END]
+@258@2536
+*[BLUE]School[END]
+@259@2556
+*[BLUE]Secret Lair[END]
+@260/272@2584/2584
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@273@2612
+*[ARALE]Let's go to the[nl][BLUE]Secret Lair[WHITE].[END]
+@274/304@2648/2648
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2692
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2752
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2796
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2848
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2936
+*[YELLOW]Formatting...[END]
+@310@3032
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3060
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3096
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3160
+*[YELLOW]Saving[WHITE]...[END]
+@314@3260
+*Overwrite[nl]existing save?[END]
+@315@3304
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3356
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3376/3444
+*Back[END]
+@318@3384
+*OK[END]
+@319@3396
+*[WHITE]Select a file[END]
+@320@3428
+*[YELLOW]Save[END]
+@322@3452
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

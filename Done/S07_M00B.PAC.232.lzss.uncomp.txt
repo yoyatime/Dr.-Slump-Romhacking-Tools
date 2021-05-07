@@ -1,0 +1,107 @@
+@@S07_M00B.PAC.232.lzss.uncomp@@323@@648@@3236
+@0/11/12/13/14/15/21/22/23/24/25/26/27/28/29/30/31/43/44/45/46/47/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[HAKASE]You've gotta[nl]look for him[nl]too![END]
+@1@680
+*[HAKASE]This is real[nl]bad! [PINK]Turbo[WHITE] is[nl]missing![END]
+@2@760
+*[ARALE]Ho-yo?[END]
+@3@772
+*[HAKASE]He must have[nl]snuck off while[nl]I was[nl]preoccupied in[nl]the [YELLOW]Lab[WHITE]. You've[nl]got to look for[nl]him too![END]
+@4@892
+*[ARALE]Hoi![END]
+@5@904
+*[YAMABUKI]Please ask[nl]everyone for[nl]help![END]
+@6@932
+*[YAMABUKI]Please Arale![nl]Help us look for[nl]him![END]
+@7/9@988/1064
+*[HAKASE]This isn't the[nl]time for that![END]
+@8@1036
+*[ARALE]It still isn't[nl]fixed.[END]
+@10/16/53@1112/1112/2072
+*[ARALE]There's nothing[nl]inside.[END]
+@17/54@1140/2100
+*[ARALE]U-ho-hoi! I[nl]found some[nl][YELLOW]money[WHITE]♪[END]
+@18@1184
+*[YAMABUKI]What did you[nl]say--!? [PINK]Turbo[WHITE] is[nl]missing!?[END]
+@19@1264
+*[HAKASE]I-I only took[nl]my eyes off of[nl]him for a[nl]second! I'm so,[nl]so sorry![END]
+@20/32@1320/1320
+*[YAMABUKI]I hope this[nl][YELLOW]engine[WHITE] turns out[nl]alright.[END]
+@33@1372
+*[YAMABUKI]Another [YELLOW]space[nl]ship[WHITE] crash[nl]landed? [PINK]Nikochan[WHITE][nl]might have[nl]something to say[nl]about this.[END]
+@34@1456
+*[YAMABUKI][PINK]Obotchaman[WHITE][nl]drinks[nl][YELLOW]Robovita-A[WHITE] too?[nl]Kids these days[nl]sure are weird.[END]
+@35@1544
+*[YAMABUKI]A [YELLOW]space ship[WHITE][nl]crash landed? It[nl]could be[nl]dangerous, don't[nl]get too close to[nl]it.[END]
+@36@1624
+*[YAMABUKI]They say a[nl][YELLOW]shooting star[WHITE][nl]fell somewhere[nl]over by the[nl][BLUE]Hills[WHITE].[END]
+@37@1684
+*[TURBO]It'll be okay[nl]this time.[END]
+@38@1716
+*[TURBO]Umm, I think[nl]you should try[nl]looking around[nl]near the [BLUE]Hills[WHITE].[END]
+@39@1784
+*[TURBO]Oopsie, not[nl]good![END]
+@40/49@1808/1924
+*[TURBO]Big sis...[END]
+@41/50@1836/1952
+*[YAMABUKI][PINK]Turbo[WHITE], you[nl]learned to talk[nl]already!?[END]
+@42/48/51@1912/1912/2028
+*[ARALE]Ho-yo~[END]
+@52@2040
+*[YAMABUKI]I hope it gets[nl]fixed soon.[END]
+@55@2144
+*[ARALE]Kya-ha-ha-ha![END]
+@56/256@2168/2168
+*Stay here[END]
+@257@2184
+*[BLUE]My Room[END]
+@258@2208
+*[BLUE]Lab[END]
+@259@2236
+*[BLUE]Outside[END]
+@260@2252
+*Where to?[END]
+@261@2272
+*[ARALE]Never mind.[END]
+@262@2292
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@263@2324
+*[ARALE]Let's go to the[nl][BLUE]Lab[WHITE].[END]
+@264@2356
+*[ARALE]Let's go[nl][BLUE]Outside[WHITE].[END]
+@265/304@2380/2380
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@2424
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@2484
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@2528
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@2580
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@2668
+*[YELLOW]Formatting...[END]
+@310@2764
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@2792
+*[YELLOW]Save[WHITE] your game?[END]
+@312@2828
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@2892
+*[YELLOW]Saving[WHITE]...[END]
+@314@2992
+*Overwrite[nl]existing save?[END]
+@315@3036
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3088
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3108/3176
+*Back[END]
+@318@3116
+*OK[END]
+@319@3128
+*[WHITE]Select a file[END]
+@320@3160
+*[YELLOW]Save[END]
+@322@3184
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
