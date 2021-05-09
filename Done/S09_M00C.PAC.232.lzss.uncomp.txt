@@ -94,7 +94,7 @@
 @371@5848
 *[HAKASE]What is it,[nl]Arale? I'm busy,[nl]go bother[nl]someone else.[nl]Come back when[nl]you've filled up[nl]your [YELLOW]Pep Gauge[WHITE].[END]
 @372@5988
-*[ARALE]Seems familiar.[END]
+*[ARALE]Aww.[END]
 @373@6008
 *[ARALE]Hee hee hee...[END]
 @374@6028

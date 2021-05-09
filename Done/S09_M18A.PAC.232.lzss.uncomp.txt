@@ -10,7 +10,7 @@
 @4/16@996/996
 *[ARALE]Hey, let's go[nl]in [BLUE]your house[WHITE].[END]
 @17@1056
-*[OBOTCHAMAN]W-we mustn't go[nl]in there![END]
+*[OBOTCHAMAN]W-We mustn't go[nl]in there![END]
 @18@1080
 *[ARALE]Ho-yo?[END]
 @19@1092

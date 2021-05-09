@@ -1,0 +1,217 @@
+@@S08_M00A.PAC.232.lzss.uncomp@@432@@868@@7500
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/59/60/61/62/63/75/76/77/78/79/91/92/93/94/95/107/108/109/110/111/123/124/125/126/127/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/264/265/266/267/268/269/270/271/279/280/281/282/283/284/285/286/287/298/299/300/301/302/303/324/325/326/327/328/329/330/331/332/333/334/335/336/337/338/339/340/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/356/357/358/359/360/361/362/363/364/365/366/367/368/369/370/371/372/373/374/375/376/377/378/379/380/381/382/383/384/385/386/387/388/389/390/391/399/407/411/412/413/414/415/420/421/422/423@868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868
+*[MR_TIME]Well if it[nl]isn't Ms. Arale.[nl]With the power[nl]of [YELLOW]Time Travel[WHITE],[nl]I can take you[nl]to any [YELLOW]Action[nl]Stage[WHITE] that[nl]you've[nl]previously[nl][YELLOW]completed[WHITE]. Does[nl]that tickle your[nl]fancy? Shall we[nl]be off?[END]
+@1@1056
+*[MR_TIME]Oh, well that[nl]is fine I[nl]suppose.[nl]Whenever it[nl]strikes you to[nl]experience [YELLOW]Time[nl]Travel[WHITE], you can[nl]find me here.[END]
+@2@1132
+*[YAMABUKI]Arale you did[nl]it! You won![END]
+@3@1180
+*[YAMABUKI]Just two more[nl]rounds left! You[nl]can win it,[nl]Arale![END]
+@4/6/8/55/129@1248/1328/1408/3076/5200
+*[ARALE]Hoi![END]
+@5@1260
+*[YAMABUKI]Just three more[nl]rounds left! You[nl]can win it,[nl]Arale![END]
+@7@1340
+*[YAMABUKI]Just four more[nl]rounds left! You[nl]can win it,[nl]Arale![END]
+@9@1420
+*[YAMABUKI]What's the[nl]matter? You[nl]should head back[nl]to [BLUE]school[WHITE].[END]
+@10/16@1484/1484
+*[ARALE]I'm looking for[nl]an [YELLOW]apron[WHITE]. Can[nl]you help me?[END]
+@17@1540
+*[YAMABUKI]An [YELLOW]apron[WHITE]? Sure,[nl]here you go.[END]
+@18@1588
+*[ARALE]U-ho-hoi! I got[nl]it![END]
+@19@1636
+*[ARALE]I'm looking for[nl]a [YELLOW]fountain pen[WHITE].[nl]Can you help me?[END]
+@20@1696
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@21@1760
+*[ARALE]I'm looking for[nl][YELLOW]scissors[WHITE]. Can[nl]you help me?[END]
+@22@1816
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@23@1876
+*[ARALE]I'm looking for[nl]a [YELLOW]drinking[nl]glass[WHITE]. Can you[nl]help me?[END]
+@24@1932
+*[YAMABUKI]Hmm... sorry. I[nl]think [PINK]Gatchan[WHITE][nl]ate them all.[END]
+@25@2008
+*[GATCHAN]Ku-pi-pu...[END]
+@26/32@2028/2028
+*[ARALE]I'm looking for[nl][YELLOW]handcuffs[WHITE]. Can[nl]you help me?[END]
+@33@2084
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@34@2148
+*[ARALE]I'm looking for[nl][YELLOW]tissues[WHITE]. Can you[nl]help me?[END]
+@35@2208
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@36@2276
+*[ARALE]I'm looking for[nl]a [YELLOW]phone book[WHITE].[nl]Can you help me?[END]
+@37@2336
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@38@2400
+*[ARALE]I'm looking for[nl]a [YELLOW]sour plum[WHITE]. Can[nl]you help me?[END]
+@39@2456
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@40@2516
+*[ARALE]I'm looking for[nl]a [YELLOW]cook pot[WHITE]. Can[nl]you help me?[END]
+@41@2568
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@42/48@2628/2628
+*[ARALE]I'm looking for[nl]a [YELLOW]dirty book[WHITE].[nl]Can you help me?[END]
+@49@2688
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@50@2752
+*[ARALE]I'm looking for[nl]a [YELLOW]bib[WHITE]. Can you[nl]help me?[END]
+@51@2812
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@52@2876
+*[ARALE]I'm looking for[nl]a pair of[nl][YELLOW]strawberry[nl]panties[WHITE]. Can you[nl]help me?[END]
+@53@2936
+*[YAMABUKI]Hmm... sorry. I[nl]don't think I[nl]have that with[nl]me.[END]
+@54@3000
+*[YAMABUKI]The [YELLOW]children's[nl]tournament[WHITE] will[nl]be a lot of fun.[nl]I'm rooting for[nl]you, Arale![END]
+@56/69/82/89/102/115@3088/3428/3768/4108/4448/4788
+*[MR_TIME]Oh, did you[nl]lose? That's[nl]unfortunate.[END]
+@57/70/83/90/96/103/116@3144/3484/3824/4164/4164/4504/4844
+*[ARALE]I wanna go back[nl]in time so I can[nl]win the[nl]tournament.[END]
+@58/64/71/84/97/104/117@3216/3216/3556/3896/4236/4576/4916
+*[MR_TIME]Arale, I[nl]believe that[nl]wouldn't be very[nl]sporting for the[nl]other[nl]competitors...[END]
+@65/72/85/98/105/118@3280/3620/3960/4300/4640/4980
+*[ARALE]No! I need to[nl]win![END]
+@66/73/86/99/106/112/119@3300/3640/3980/4320/4660/4660/5000
+*[MR_TIME]Oh well, but[nl]only this time,[nl]understood?[END]
+@67/74/80/87/100/113/120@3372/3712/3712/4052/4392/4732/5072
+*[ARALE]U-ho-hoi![END]
+@68/81/88/101/114/121@3392/3732/4072/4412/4752/5092
+*[MR_TIME]TIIIME...[nl]SLIIIP![END]
+@122/128@5128/5128
+*[YAMABUKI]How are you[nl]feeling, Arale?[nl]I think you're[nl]going to win for[nl]sure![END]
+@130@5212
+*[ARALE]I did it! I[nl]found the[nl][YELLOW]treasure[WHITE]![MEDIUM_PAUSE] Wait a[nl]minute, what is[nl]this?[END]
+@131@5272
+*[YAMABUKI]What is it,[nl]Arale?[END]
+@132@5304
+*[ARALE]Oopsie, this[nl]isn't the[nl]treasure...[END]
+@133/256/292@5336/5336/5776
+*Where to?[END]
+@257/278/288@5356/5688/5688
+*Stay here[END]
+@258@5372
+*[BLUE]Coffee Pot[END]
+@259@5400
+*[BLUE]Barber Shop[END]
+@260@5428
+*[BLUE]School[END]
+@261@5448
+*[BLUE]Police[END]
+@262@5480
+*[BLUE]Reh Tsu Goh[END]
+@263/272@5504/5504
+*[ARALE]Let's go play![END]
+@273@5524
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@274@5556
+*[ARALE]Let's go to the[nl][BLUE]Barber Shop[WHITE].[END]
+@275@5592
+*[ARALE]Let's go to[nl][BLUE]School[WHITE].[END]
+@276@5620
+*[ARALE]Let's go to the[nl][BLUE]Police Station[WHITE].[END]
+@277@5660
+*[ARALE]Let's go to the[nl][BLUE]Reh Tsu Goh[WHITE].[END]
+@289@5704
+*[BLUE]My Room[END]
+@290@5728
+*[BLUE]Living Room[END]
+@291@5748
+*[BLUE]Lab[END]
+@293@5796
+*[ARALE]Never mind.[END]
+@294@5816
+*[ARALE]Let's go to [BLUE]My[nl]Room[WHITE].[END]
+@295@5848
+*[ARALE]Let's go to the[nl][BLUE]Living Room[WHITE].[END]
+@296@5876
+*[ARALE]Let's go to the[nl][BLUE]Lab[WHITE].[END]
+@297/304@5908/5908
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@5952
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@6012
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@6056
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@6108
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@6196
+*[YELLOW]Formatting...[END]
+@310@6292
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@6320
+*[YELLOW]Save[WHITE] your game?[END]
+@312@6356
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@6420
+*[YELLOW]Saving[WHITE]...[END]
+@314@6520
+*Overwrite[nl]existing save?[END]
+@315@6564
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@6616
+*[YELLOW]Save[WHITE] complete![END]
+@317/321/419/424@6636/6704/7408/7408
+*Back[END]
+@318@6644
+*OK[END]
+@319@6656
+*[WHITE]Select a file[END]
+@320@6688
+*[YELLOW]Save[END]
+@322@6712
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]
+@323/392@6764/6764
+*Stay[END]
+@393@6776
+*Oh boy![END]
+@394@6788
+*[ARALE]I'm not going.[END]
+@395@6804
+*[ARALE]Oh, boy![END]
+@396@6820
+*[ARALE]I guess I'm not[nl]going anywhere.[END]
+@397@6844
+*[MR_TIME]Which [YELLOW]Action[nl]Stage[WHITE] would you[nl]like to visit?[END]
+@398/400@6904/6904
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]1[WHITE].[END]
+@401@6960
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]2[WHITE].[END]
+@402@7016
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]3[WHITE].[END]
+@403@7072
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]5[WHITE].[END]
+@404@7128
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]6[WHITE].[END]
+@405@7184
+*[MR_TIME]Very well![nl]Warping to [YELLOW]Stage[nl]7[WHITE].[END]
+@406/408@7240/7240
+*[MR_TIME]TIIIME!![END]
+@409@7260
+*[MR_TIME]SLIIIP!![END]
+@410/416@7284/7284
+*[MR_TIME]Welcome back.[nl]Fantastic work[nl]out there. We[nl]can do this[nl]again anytime.[END]
+@417@7364
+*[ARALE]Aha! That was[nl]fun![END]
+@418@7392
+*[GATCHAN]Ku-pi-po![END]
+@425@7416
+*Stage 1[END]
+@426@7428
+*Stage 2[END]
+@427@7440
+*Stage 3[END]
+@428@7452
+*Stage 5[END]
+@429@7464
+*Stage 6[END]
+@430@7476
+*Stage 7[END]
+@431@7488
+*Stage 8[END]

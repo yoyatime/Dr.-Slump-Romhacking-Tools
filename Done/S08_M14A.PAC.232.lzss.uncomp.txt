@@ -34,7 +34,7 @@
 @26/32/40@1476/1476/1740
 *[ARALE]Oh, boy![END]
 @33/41@1492/1756
-*[TOBACCO_GRANNY]Bah, that[nl]seemed[nl]dangerous.[END]
+*[TOBACCO_GRANNY]Phew, that was[nl]close.[END]
 @35@1544
 *[TOBACCO_GRANNY]Bah, was that[nl]supposed to make[nl]me laugh?[END]
 @37@1632

@@ -8,7 +8,7 @@
 @3@824
 *[TSURURIN]I wasn't[nl]interested.[nl]There's no way I[nl]could beat you,[nl]anyways.[END]
 @4@904
-*[TSUNODA][PINK]Tsukutsun[WHITE] was[nl]eliminated, just[nl]as I expected.[nl]5th place out of[nl]7? Sloppy work,[nl]bro.[END]
+*[TSUNODA][PINK]Tsukutsun[WHITE] was[nl]eliminated, as I[nl]expected. 5th[nl]place out of 7?[nl]Sloppy work.[END]
 @5@984
 *[TSUNODA][PINK]Tsukutsun[WHITE] will[nl]lose for sure.[nl]Hopefully he can[nl]at least get 3rd[nl]place.[END]
 @6/304@1068/1068

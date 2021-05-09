@@ -1,0 +1,125 @@
+@@S08_M02B.PAC.232.lzss.uncomp@@323@@648@@3892
+@0/11/12/13/14/15/27/28/29/30/31/43/44/45/46/47/59/60/61/62/63/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PRINCIPAL]Congratulations[nl]on winning! Good[nl]luck in the[nl]final challenge![END]
+@1/3/5/7/53@716/784/852/920/2576
+*[ARALE]Hoi![END]
+@2@728
+*[PRINCIPAL]Just two more[nl]rounds left. I[nl]believe in you![END]
+@4@796
+*[PRINCIPAL]Just three more[nl]rounds left. I[nl]believe in you![END]
+@6@864
+*[PRINCIPAL]Just four more[nl]rounds left. I[nl]believe in you![END]
+@8@932
+*[PRINCIPAL]You should take[nl]that back to [PINK]Mr.[nl]Kurigashira[WHITE].[END]
+@9@1000
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]fountain[nl]pen[WHITE].[END]
+@10/16@1064/1064
+*[PRINCIPAL]A [YELLOW]fountain pen[WHITE]?[nl]It's pretty[nl]expensive, so be[nl]careful with it.[END]
+@17@1144
+*[ARALE]U-ho-hoi![END]
+@18@1164
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]scissors[WHITE].[END]
+@19@1220
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@20@1280
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]drinking[nl]glass[WHITE].[END]
+@21@1336
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@22@1396
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]handcuffs[WHITE].[END]
+@23@1456
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@24@1520
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]tissues[WHITE].[END]
+@25@1580
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@26/32@1644/1644
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]phone book[WHITE].[END]
+@33@1708
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@34@1776
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]sour plum[WHITE].[END]
+@35@1836
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@36@1900
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]cook pot[WHITE].[END]
+@37@1956
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@38@2016
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]apron[WHITE].[END]
+@39@2076
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@40@2140
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]dirty book[WHITE].[END]
+@41@2204
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@42/48@2272/2272
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]bib[WHITE].[END]
+@49@2332
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@50@2396
+*[ARALE]Hey, [PINK]Principal[WHITE].[nl]I need to borrow[nl]your [YELLOW]strawberry[nl]panties[WHITE].[END]
+@51@2460
+*[PRINCIPAL]Unfortunately I[nl]don't have[nl]anything like[nl]that lying[nl]around.[END]
+@52@2528
+*[PRINCIPAL]Try to become[nl]the champion![nl]I'm rooting for[nl]you![END]
+@54@2588
+*[OBOTCHAMAN]I was sure the[nl][PINK]Principal[WHITE] would[nl]be carrying[nl]it... I had[nl]solid evidence[nl]he had it...[END]
+@55@2692
+*[ARALE]Hee...[nl]hee-hee...[END]
+@56@2708
+*[PRINCIPAL]H-How rude![nl]Wh-Why on earth[nl]would I be[nl]carrying a [YELLOW]dirty[nl]book[WHITE] around![END]
+@57@2800
+*[OBOTCHAMAN]Ahh! I'm so[nl]sorry![END]
+@58/64@2832/2832
+*[PRINCIPAL]Do you really[nl]have time for[nl]this?[END]
+@65@2876
+*[PRINCIPAL]Get down from[nl]there.[END]
+@66/256@2900/2900
+*Where to?[END]
+@257@2920
+*Stay here[END]
+@258@2936
+*[BLUE]Classroom[END]
+@259@2960
+*[BLUE]School Yard[END]
+@260/272@2980/2980
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@273@3008
+*[ARALE]Let's go to the[nl][BLUE]School Yard[WHITE].[END]
+@274/304@3036/3036
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@3080
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@3140
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@3184
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@3236
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@3324
+*[YELLOW]Formatting...[END]
+@310@3420
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@3448
+*[YELLOW]Save[WHITE] your game?[END]
+@312@3484
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@3548
+*[YELLOW]Saving[WHITE]...[END]
+@314@3648
+*Overwrite[nl]existing save?[END]
+@315@3692
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@3744
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@3764/3832
+*Back[END]
+@318@3772
+*OK[END]
+@319@3784
+*[WHITE]Select a file[END]
+@320@3816
+*[YELLOW]Save[END]
+@322@3840
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

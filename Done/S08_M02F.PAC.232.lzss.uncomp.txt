@@ -1,0 +1,327 @@
+@@S08_M02F.PAC.232.lzss.uncomp@@323@@648@@9308
+@0/13/14/15/27/28/29/30/31/43/44/45/46/47/75/76/77/78/79/91/92/93/94/95/123/124/125/126/127/139/140/141/142/143/155/156/157/158/159/171/172/173/174/175/187/188/189/190/191/198/199/200/201/202/203/204/205/206/207/263/270/271/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[DR_BRAIN]Our next event[nl]will take place[nl]at the [BLUE]Police[nl]Stations[WHITE]. Please[nl]make your way[nl]there now.[END]
+@1/5/68/70/72/74/80/82/84/86/88/90/96/98/100/102@756/972/3372/3424/3476/3528/3528/3584/3640/3692/3744/3796/3796/3852/3908/3964
+*[ARALE]Hoi![END]
+@2/7/54/162@768/1064/2652/5748
+*[DR_BRAIN]One more winner[nl]and the round[nl]will be over.[nl]Please try to[nl]hurry![END]
+@3/8/55/163@836/1132/2720/5816
+*[DR_BRAIN]Two more[nl]winners and the[nl]round will be[nl]over. Please try[nl]to hurry![END]
+@4@904
+*[DR_BRAIN]You'll need to[nl]search [BLUE]Penguin[nl]Village[WHITE] for[nl][YELLOW]treasures[WHITE].[END]
+@6@984
+*[DR_BRAIN]Investigate[nl]areas with[nl]shining objects.[nl]Watch out for[nl][YELLOW]fakes[WHITE].[END]
+@9@1200
+*[DR_BRAIN]Three more[nl]winners and the[nl]round will be[nl]over. Please try[nl]to hurry![END]
+@10@1268
+*[DR_BRAIN]Where are you[nl]going!?[END]
+@11@1332
+*[DR_BRAIN]Arale, please[nl]try to find the[nl][YELLOW]picture book[WHITE].[END]
+@12/16@1384/1384
+*[DR_BRAIN]Our next event[nl]will take place[nl]at the [BLUE]Hills[WHITE].[nl]Please make your[nl]way there now.[END]
+@17@1468
+*[ARALE]I brought the[nl]thing![END]
+@18@1496
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]fountain[nl]pen[WHITE]. You have[nl]cleared the[nl]round![END]
+@19/21/23/25/33/35/37/39/41/49/51/53/152/180@1576/1668/1760/1856/1952/2052/2148/2240/2336/2436/2532/2632/5616/6476
+*[ARALE]U-ho-hoi![END]
+@20@1596
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]scissors[WHITE].[nl]You have cleared[nl]the round![END]
+@22@1688
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]drinking[nl]glass[WHITE]. You have[nl]cleared the[nl]round![END]
+@24@1780
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]handcuffs[WHITE].[nl]You have cleared[nl]the round![END]
+@26/32@1876/1876
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]those are indeed[nl]the [YELLOW]tissues[WHITE]. You[nl]have cleared the[nl]round![END]
+@34@1972
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]phone book[WHITE].[nl]You have cleared[nl]the round![END]
+@36@2072
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]sour plum[WHITE].[nl]You have cleared[nl]the round![END]
+@38@2168
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]cook pot[WHITE].[nl]You have cleared[nl]the round![END]
+@40@2260
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]apron[WHITE]. You[nl]have cleared the[nl]round![END]
+@42/48@2356/2356
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]dirty book[WHITE].[nl]You have cleared[nl]the round![END]
+@50@2456
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]that is indeed[nl]the [YELLOW]bib[WHITE]. You[nl]have cleared the[nl]round![END]
+@52@2552
+*[DR_BRAIN]Let's see[nl]here... Yes,[nl]those are indeed[nl]the [YELLOW]strawberry[nl]panties[WHITE]. You[nl]have cleared the[nl]round![END]
+@56/164@2788/5884
+*[DR_BRAIN]Three more[nl]winners and the[nl]round will be[nl]over. Please try[nl]to hurry![END]
+@57/165@2856/5952
+*[DR_BRAIN]Four more[nl]winners and the[nl]round will be[nl]over. Please try[nl]to hurry![END]
+@58@2924
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]fountain pen[WHITE].[END]
+@59@2976
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl]pair of[nl][YELLOW]scissors[WHITE].[END]
+@60@3024
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]drinking glass[WHITE].[END]
+@61@3072
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl]pair of[nl][YELLOW]handcuffs[WHITE].[END]
+@62@3120
+*[DR_BRAIN]Quickly, you[nl]must bring me[nl][YELLOW]tissues[WHITE].[END]
+@63@3172
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]phone book[WHITE].[END]
+@64@3224
+*[ARALE]So what do I[nl]have to bring?[END]
+@65@3276
+*[DR_BRAIN]Arale, let's[nl]see...[END]
+@66/104/113/116/119/122/128/131/134/137/146/149@3312/4008/4412/4516/4644/4784/4784/4920/5048/5196/5328/5468
+*[ARALE]Oh, boy![END]
+@67@3328
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]fountain pen[WHITE].[END]
+@69@3384
+*[DR_BRAIN]Please bring me[nl]a pair of[nl][YELLOW]scissors[WHITE].[END]
+@71@3436
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]drinking[nl]glass[WHITE].[END]
+@73@3488
+*[DR_BRAIN]Please bring me[nl]a pair of[nl][YELLOW]handcuffs[WHITE].[END]
+@81@3540
+*[DR_BRAIN]Please bring me[nl]some [YELLOW]tissues[WHITE].[END]
+@83@3596
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]phone book[WHITE].[END]
+@85@3652
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]sour plum[WHITE].[END]
+@87@3704
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]cook pot[WHITE].[END]
+@89@3756
+*[DR_BRAIN]Please bring me[nl]an [YELLOW]apron[WHITE].[END]
+@97@3808
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]dirty book[WHITE].[END]
+@99@3864
+*[DR_BRAIN]Please bring me[nl]a [YELLOW]bib[WHITE].[END]
+@101@3920
+*[DR_BRAIN]Please bring me[nl]a pair of[nl][YELLOW]strawberry[nl]panties[WHITE].[END]
+@103/112/115/118/121/130/133/136/145/148@3976/4380/4484/4612/4752/4888/5016/5164/5296/5436
+*[DR_BRAIN]And the[nl]question is...[END]
+@105/114@4024/4428
+*[DR_BRAIN]Sorry, this was[nl]a dud question![nl]Try again![END]
+@106@4080
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]sour plum[WHITE].[END]
+@107@4128
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]cook pot[WHITE].[END]
+@108@4176
+*[DR_BRAIN]Quickly, you[nl]must bring me an[nl][YELLOW]apron[WHITE].[END]
+@109@4224
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]dirty book[WHITE].[END]
+@110@4276
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl][YELLOW]bib[WHITE].[END]
+@111@4328
+*[DR_BRAIN]Quickly, you[nl]must bring me a[nl]pair of[nl][YELLOW]strawberry[nl]panties[WHITE].[END]
+@117@4532
+*[DR_BRAIN]What's the name[nl]of the [YELLOW]alien[WHITE] who[nl]loves [YELLOW]poop[WHITE]?[END]
+@120@4660
+*[DR_BRAIN]What planet did[nl]the [YELLOW]alien[WHITE] who[nl]crash landed in[nl]the [BLUE]Hills[WHITE] come[nl]from?[END]
+@129@4800
+*[DR_BRAIN]How many[nl]articles of[nl]clothing are[nl]hanging from the[nl]clothesline by[nl][BLUE]Kinoko's House[WHITE]?[END]
+@132@4936
+*[DR_BRAIN]Which of these[nl]words are[nl]sloppily written[nl]on [BLUE]Suppaman's[nl]Tent[WHITE]?[END]
+@135@5064
+*[DR_BRAIN]How many eggs[nl]did you need to[nl]collect in the[nl]first [YELLOW]action[nl]stage[WHITE]?[END]
+@138/144@5212/5212
+*[DR_BRAIN]Which of these[nl]objects will you[nl]NOT find in the[nl][BLUE]Penguin Village[nl]Bank[WHITE]?[END]
+@147@5344
+*[DR_BRAIN]What kind of[nl]design did the[nl]underwear[nl]hanging in [BLUE]Dr.[nl]Mashirito's Lair[WHITE][nl]have?[END]
+@150@5484
+*[DR_BRAIN]What is placed[nl]on top of the[nl]kotatsu in[nl][BLUE]Midori's[nl]Apartment[WHITE]?[END]
+@151@5572
+*[DR_BRAIN]Correct! Well[nl]done![END]
+@153@5636
+*[DR_BRAIN]Too bad! You're[nl]wrong![END]
+@154/160@5672/5672
+*[ARALE]Whoops.[END]
+@161@5692
+*[DR_BRAIN]You have one[nl]more chance to[nl]answer[nl]correctly.[END]
+@166@6020
+*[DR_BRAIN]5 more[nl]contestants will[nl]be eliminated[nl]before the end.[END]
+@167@6088
+*[DR_BRAIN]The [YELLOW]question[nl]sheets[WHITE] are at[nl][BLUE]Suppaman's Tent[WHITE].[END]
+@168@6144
+*[TSUKUTSUN]I'm not good at[nl]quizzes...[END]
+@169@6176
+*[OBOTCHAMAN]Here we go,[nl]answer[nl]carefully![END]
+@170/176@6224/6224
+*[DR_BRAIN]Did you find[nl]the [YELLOW]picture[nl]book[WHITE]? Then let's[nl]begin.[END]
+@177@6304
+*[OBOTCHAMAN]Arale... can[nl]you hear me?[END]
+@178@6348
+*[ARALE][PINK]Obotchaman[WHITE]?[nl]Where are you?[END]
+@179@6392
+*[OBOTCHAMAN]Please come to[nl]the [BLUE]Police[nl]Station[WHITE]... I[nl]found the[nl][YELLOW]picture book[WHITE]![END]
+@181/183/185/193/195@6496/6620/6736/6860/6980
+*[DR_BRAIN]Good luck,[nl]Arale.[END]
+@182@6532
+*[DR_BRAIN]Onto the next[nl]event! Let's[nl]head to the[nl][BLUE]Police Station[WHITE].[nl]Everyone,[nl]quickly make[nl]your way there.[END]
+@184@6656
+*[DR_BRAIN]Onto the next[nl]event! It's a[nl][YELLOW]treasure hunt[WHITE].[nl]Hurry and look[nl]for treasure![END]
+@186/192@6772/6772
+*[DR_BRAIN]Onto the next[nl]event! Let's[nl]head to the[nl][BLUE]Hills[WHITE]. Everyone,[nl]quickly make[nl]your way there.[END]
+@194@6896
+*[DR_BRAIN]Onto the next[nl]event! It's a[nl][YELLOW]scavenger hunt[WHITE].[nl]Please, listen[nl]to me for your[nl]instructions.[END]
+@196@7016
+*[DR_BRAIN]First, we have[nl]a quiz event.[nl]The questions[nl]are scattered[nl]around[nl][BLUE]Suppaman's Tent[WHITE].[nl]Hurry and grab[nl]one, and then[nl]bring it back to[nl]me.[END]
+@197/208@7132/7132
+*Bossman[END]
+@209@7148
+*Buzzman[END]
+@210@7164
+*Buzzoman[END]
+@211@7180
+*[ARALE]He's Bossman.[END]
+@212@7204
+*[ARALE]He's Buzzman.[END]
+@213@7228
+*[ARALE]He's Buzzoman.[END]
+@214@7252
+*Lumaluma[END]
+@215@7272
+*Malumalu[END]
+@216@7292
+*Lumalin[END]
+@217@7312
+*[ARALE]Planet[nl]Lumaluma![END]
+@218@7336
+*[ARALE]Planet[nl]Malumalu![END]
+@219@7360
+*[ARALE]Planet Lumalin![END]
+@220@7384
+*3[END]
+@221@7392
+*4[END]
+@222@7400
+*5[END]
+@223@7408
+*[ARALE]Is it 3?[END]
+@224@7432
+*[ARALE]Is it 4?[END]
+@225@7456
+*[ARALE]Is it 5?[END]
+@226@7480
+*Ally[END]
+@227@7500
+*Master[END]
+@228@7516
+*Champion[END]
+@229@7532
+*[ARALE]Ally![END]
+@230@7560
+*[ARALE]Master![END]
+@231@7584
+*[ARALE]Champion![END]
+@232@7608
+*9[END]
+@233@7616
+*10[END]
+@234@7624
+*12[END]
+@235@7632
+*[ARALE]Umm, 9![END]
+@236@7656
+*[ARALE]Umm, 10![END]
+@237@7684
+*[ARALE]Umm, 12![END]
+@238@7712
+*A plant[END]
+@239@7720
+*A safe[END]
+@240@7728
+*A chair[END]
+@241@7736
+*[ARALE]A potted plant![END]
+@242@7756
+*[ARALE]A safe![END]
+@243@7776
+*[ARALE]A chair![END]
+@244@7796
+*Striped[END]
+@245@7812
+*Polka dot[END]
+@246@7828
+*Str.berry[END]
+@247@7844
+*[ARALE]Striped![END]
+@248@7868
+*[ARALE]Polka dot![END]
+@249@7892
+*[ARALE]Strawberry![END]
+@250@7912
+*Mandarin[END]
+@251@7920
+*Tea[END]
+@252@7928
+*Crackers[END]
+@253@7940
+*[ARALE]Mandarins![END]
+@254@7968
+*[ARALE]Tea![END]
+@255@7996
+*[ARALE]Crackers![END]
+@256/275@8024/8352
+*Where to?[END]
+@257/269/272@8044/8284/8284
+*Stay here[END]
+@258@8060
+*[BLUE]Home[END]
+@259@8080
+*[BLUE]Coffee Pot[END]
+@260@8108
+*[BLUE]Barber Shop[END]
+@261@8136
+*[BLUE]Hills[END]
+@262/264@8156/8156
+*[ARALE]Let's go [BLUE]Home[WHITE].[END]
+@265@8184
+*[ARALE]Let's go to the[nl][BLUE]Coffee Pot[WHITE].[END]
+@266@8216
+*[ARALE]Let's go to the[nl][BLUE]Barber Shop[WHITE].[END]
+@267@8252
+*[ARALE]Let's go to the[nl][BLUE]Hills[WHITE].[END]
+@268@8280
+*[END]
+@273@8300
+*[BLUE]Classroom[END]
+@274@8324
+*[BLUE]Office[END]
+@276@8372
+*[ARALE]Never mind.[END]
+@277@8392
+*[ARALE]Let's go to the[nl][BLUE]Classroom[WHITE].[END]
+@278@8420
+*[ARALE]Let's go to the[nl][BLUE]Principal's[nl]Office[WHITE].[END]
+@279/304@8452/8452
+*Checking [YELLOW]memory[nl]card[WHITE].[END]
+@305@8496
+*Unable to access[nl][YELLOW]Memory Card[WHITE].[END]
+@306@8556
+*No [YELLOW]Memory Card[WHITE][nl]detected.[END]
+@307@8600
+*Insufficient[nl]space on [YELLOW]Memory[nl]Card[WHITE].[END]
+@308@8652
+*This [YELLOW]Memory Card[WHITE][nl]is [YELLOW]unformatted[WHITE].[nl]Do you want to[nl][YELLOW]format[WHITE] it?[END]
+@309@8740
+*[YELLOW]Formatting...[END]
+@310@8836
+*[YELLOW]Formatting[nl][WHITE]complete![END]
+@311@8864
+*[YELLOW]Save[WHITE] your game?[END]
+@312@8900
+*Creating a new[nl][YELLOW]Save File[WHITE].[nl]Proceed?[END]
+@313@8964
+*[YELLOW]Saving[WHITE]...[END]
+@314@9064
+*Overwrite[nl]existing save?[END]
+@315@9108
+*Unable to [YELLOW]Save[WHITE][nl]correctly.[END]
+@316@9160
+*[YELLOW]Save[WHITE] complete![END]
+@317/321@9180/9248
+*Back[END]
+@318@9188
+*OK[END]
+@319@9200
+*[WHITE]Select a file[END]
+@320@9232
+*[YELLOW]Save[END]
+@322@9256
+*[WHITE]Unable to [YELLOW]format[WHITE][nl]correctly.[END]

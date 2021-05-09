@@ -44,7 +44,7 @@
 @66/81/160@1748/1820/1820
 *[ARALE]U-ho-hoi! All[nl]done![END]
 @67/80@1784/1784
-*[LADY_WITH_EARRINGS]Sorry, but I[nl]can't let you in[nl]there.[END]
+*[LADY_WITH_EARRINGS]Sorry, but I[nl]can't let you[nl]back here.[END]
 @161@1856
 *[LADY_WITH_EARRINGS]Thanks, Arale.[END]
 @162@1884
@@ -54,9 +54,9 @@
 @165@2012
 *[LADY_WITH_EARRINGS]Gather them by[nl]pressing the[nl][YELLOW]punch button[WHITE] in[nl]front of the[nl][YELLOW]tables[WHITE].[END]
 @166/192/193/194@2080/2080/2096/2112
-*Full service[END]
+*Buffet[END]
 @195/196/197@2128/2148/2168
-*[ARALE]Full service.[END]
+*[ARALE]A buffet![END]
 @198/224@2188/2188
 *Don't[END]
 @225@2200

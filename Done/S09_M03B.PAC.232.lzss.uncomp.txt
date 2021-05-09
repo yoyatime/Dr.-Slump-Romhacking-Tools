@@ -36,7 +36,7 @@
 @103@1708
 *[PAPA_SORAMAME]You look just[nl]like a [YELLOW]frog[WHITE] when[nl]you do that.[END]
 @104@1752
-*[PAPA_SORAMAME]Wh-what was[nl]that [GREEN]move[WHITE]!?[nl]That's a funny[nl]one![END]
+*[PAPA_SORAMAME]Wh-What was[nl]that [GREEN]move[WHITE]!?[nl]That's a funny[nl]one![END]
 @105@1824
 *[PAPA_SORAMAME]Maybe you[nl]should try not[nl]to do that one[nl]so much...[END]
 @106@1876
@@ -60,7 +60,7 @@
 @115@2424
 *[PAPA_SORAMAME]Hey it's filthy[nl]down there, you[nl]know?[END]
 @116@2460
-*[PAPA_SORAMAME]Wh-who taught[nl]you to do that?[nl]Don't get into[nl]any mischief,[nl]Arale.[END]
+*[PAPA_SORAMAME]Wh-Who taught[nl]you to do that?[nl]Don't get into[nl]any mischief,[nl]Arale.[END]
 @117@2540
 *[PAPA_SORAMAME]Cool [YELLOW]ninja[WHITE][nl]moves.[END]
 @118@2584

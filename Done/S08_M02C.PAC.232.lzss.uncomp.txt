@@ -14,7 +14,7 @@
 @6@868
 *[PAPER]Who will be[nl]crowned the [YELLOW]best[nl]kid in Penguin[nl]Village[WHITE]!?[END]
 @7@912
-*[ARALE]Aya? It won't[nl]open.[END]
+*[ARALE]Huh? It won't[nl]open.[END]
 @8/256@940/940
 *Where to?[END]
 @257@960

@@ -58,9 +58,9 @@
 @41@1996
 *[LADY_WITH_EARRINGS]Hmm... sorry, I[nl]don't think we[nl]have that around[nl]here.[END]
 @42/48@2044/2044
-*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] never[nl]stood a chance.[END]
+*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] doesn't[nl]stand a chance.[END]
 @49@2076
-*[PEASUKE_WHITE]I'm too[nl]embarrassed to[nl]ask someone for[nl][YELLOW]strawberry[nl]panties[WHITE]...[END]
+*[PEASUKE_WHITE]I'm too[nl]embarrassing to[nl]ask someone for[nl][YELLOW]strawberry[nl]panties[WHITE]...[END]
 @50@2128
 *[LADY_WITH_EARRINGS]What did you[nl]just ask for!?[nl]You want[nl][YELLOW]strawberry[nl]panties[WHITE]!?[END]
 @51@2188

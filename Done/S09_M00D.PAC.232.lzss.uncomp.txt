@@ -138,7 +138,7 @@
 @373@2772
 *Prank Effect[END]
 @374@2792
-*Star Wipe [END]
+*Star Wipe   [END]
 @375@2816
 *CharmCircuit[END]
 @376@2836

@@ -164,7 +164,7 @@
 @97@7864
 *[GLASSES_GUY]Sounds tough.[nl][PINK]Granny Oharu[WHITE] is[nl]waiting at the[nl][BLUE]Hills[WHITE]. All[nl]contestants[nl]report to the[nl][BLUE]Hills[WHITE] at once![END]
 @98/103/106/109/112@8028/8332/8572/8816/9060
-*[GLASSES_GUY]Oh dear, Arale[nl]has fallen behind![END]
+*[GLASSES_GUY]Oh dear, Arale[nl]has fallen[nl]behind![END]
 @99/104/107/110/113@8100/8404/8644/8888/9132
 *[KING_NIKO]Think carefully[nl]about who would[nl]have that item.[END]
 @105@8448

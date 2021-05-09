@@ -12,7 +12,7 @@
 @17@1088
 *[ARALE]Hey, hand me[nl]your [YELLOW]handcuffs[WHITE].[END]
 @18@1128
-*[POLICE_COMISSIONER]N-no way jose![nl]I can't let you[nl]have it![END]
+*[POLICE_COMISSIONER]N-No way jose![nl]I can't let you[nl]have it![END]
 @19@1180
 *[ARALE]C'mon, gimme![END]
 @20@1204
