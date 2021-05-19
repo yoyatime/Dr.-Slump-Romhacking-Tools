@@ -1,0 +1,25 @@
+@@S00_M02D.PAC.232.lzss.uncomp@@13@@28@@284
+@0@28
+*Rester ici.[END]
+@1@44
+*Cafetière[END]
+@2@68
+*Barbier[END]
+@3@92
+*Ecole[END]
+@4@108
+*Débit de tabac[END]
+@5@124
+*Police[END]
+@6@140
+*Où aller?[END]
+@7/8@160/160
+*[ARALE]Trouvons[nl]Akane.[END]
+@9@188
+*[ARALE]Trouvons[nl]Taro.[END]
+@10@212
+*[ARALE]Allons à[nl]l'école.[END]
+@11@236
+*[ARALE]Allons au[nl]débit de tabac.[END]
+@12@260
+*[ARALE]Allons au[nl]commissariat[nl]de police.[END]

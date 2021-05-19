@@ -1,0 +1,31 @@
+@@S00_M02B.PAC.232.lzss.uncomp@@48@@100@@584
+@0@100
+*Rester là[END]
+@1@116
+*Cour de l'école[END]
+@2@136
+*Salle de classe[END]
+@3/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/40/41/42/43/44/45/46/47@156/248/252/256/260/264/268/272/276/280/284/288/292/296/300/304/308/312/316/320/324/328/332/336/340/552/556/560/564/568/572/576/580
+* [END]
+@4@160
+*Aller où?[END]
+@5@180
+*[ARALE]Peu importe.[END]
+@6@200
+*[ARALE]Allons dans la[nl]cour de l'école.[END]
+@7@224
+*[ARALE]Allons dans la[nl]salle de classe.[END]
+@32@344
+*[ARALE]N'cha![END]
+@33@356
+* Et tu es?[END]
+@34@376
+*[ARALE]Je suis Arale.[END]
+@35@392
+* Je vois.[nl]Bien, continue[nl]comme ça.[END]
+@36/39@440/540
+*[ARALE]Hoi![END]
+@37@452
+*[ARALE]N'cha![END]
+@38@468
+* Encore toi?[nl]Tu ne peux pas[nl]jouer ici,[nl]retourne dans[nl]ta classe.[END]
