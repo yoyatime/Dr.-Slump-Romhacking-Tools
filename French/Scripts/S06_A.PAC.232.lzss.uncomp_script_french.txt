@@ -1,7 +1,0 @@
-@@S06_A.PAC.232.lzss.uncomp@@3@@8@@224
-@0@8
-*[ARALE]U-ho-hoi![WHITE][nl]Alors voici la[nl][BLUE]région du grand[nl]froid[WHITE], hein?![nl]Brrr... il y[nl]règne un froid[nl]de canard![nl]Brrr... Bon il[nl]faut que je[nl]trouve le père[nl]Penseal, vite![END]
-@1@152
-*[ARALE]Kya ha ha![nl]J'ai réussi.[nl]En route pour[nl]la prochaine[nl]destination![END]
-@2@192
-*[ARALE]Oups... Je suis[nl]épuisée.[END]
