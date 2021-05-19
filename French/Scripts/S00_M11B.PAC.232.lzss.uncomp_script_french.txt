@@ -1,0 +1,9 @@
+@@S00_M11B.PAC.232.lzss.uncomp@@4@@12@@156
+@0@12
+*[ARALE]Wouah! Il fait[nl]chaud par ici.[END]
+@1@40
+*[ARALE]Ah, la sortie[nl]est de ce côté.[END]
+@2@76
+*[ARALE]Je vais faire[nl]de mon mieux.[END]
+@3@100
+*[ARALE]Kya-ha-ha! I[nl]J'ai réussi.[nl]En route pour[nl]la prochaine[nl]destination![END]

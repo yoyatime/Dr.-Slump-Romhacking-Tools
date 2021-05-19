@@ -1,0 +1,41 @@
+@@OPTION.PAC.0.lzss.uncomp@@20@@44@@784
+@0@44
+*Message de la[nl]carte mémoire[END]
+@1@72
+*Vérification de[nl]la carte mémoire[END]
+@2@112
+*Erreur de[nl]transmission[END]
+@3@136
+*Aucune carte[nl]mémoire insérée[END]
+@4@176
+*Carte mémoire[nl]échangée[END]
+@5@208
+*Non formatée,[nl]le faire?[END]
+@6@260
+*Aucune donnée[nl]sauvegardée[END]
+@7@288
+*Données[nl]corrompues[END]
+@8@316
+*Espace[nl]insuffisant[END]
+@9@348
+*Chargement des[nl]données...[END]
+@10@376
+*Données[nl]sauvegardées[END]
+@11@404
+*Chargement[nl]terminé![END]
+@12@420
+*Sauvegarde[nl]terminée![END]
+@13@436
+*Ecraser sauv.[nl]existante?[nl_space] Oui ○Non[END]
+@14@504
+*Ecraser sauv.[nl]existante?[nl_space]○Oui  Non[END]
+@15@572
+*Non formaté,[nl]le faire?[nl_space] Oui ○Non[END]
+@16@640
+*Non formaté,[nl]le faire?[nl_space]○Oui  Non[END]
+@17@708
+*Formatage...[END]
+@18@736
+*Formatage[nl]terminé![END]
+@19@760
+*Erreur inconnue[END]
