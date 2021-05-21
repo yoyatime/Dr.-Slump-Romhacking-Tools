@@ -8,6 +8,6 @@
 @3@136
 *Aller où?[END]
 @4@156
-*[ARALE]Peu importe.[END]
+*[ARALE]Peu importe[END]
 @5/6@176/204
 *[ARALE]Allons chez[nl]Kinoko Sarada.[END]

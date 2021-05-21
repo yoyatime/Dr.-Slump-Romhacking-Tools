@@ -10,7 +10,7 @@
 @4@160
 *Aller où?[END]
 @5@180
-*[ARALE]Peu importe.[END]
+*[ARALE]Peu importe[END]
 @6@200
 *[ARALE]Allons dans la[nl]cour de l'école.[END]
 @7@224

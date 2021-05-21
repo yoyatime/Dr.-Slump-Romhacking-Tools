@@ -1,8 +1,8 @@
 @@S00_M06B.PAC.232.lzss.uncomp@@13@@28@@284
 @0@28
-*Rester ici.[END]
+*Rester là[END]
 @1@44
-*Cafetière[END]
+*Coffee Pot[END]
 @2@68
 *Barbier[END]
 @3@92
@@ -12,7 +12,7 @@
 @5@124
 *Police[END]
 @6@140
-*Où aller?[END]
+*Aller où?[END]
 @7/8@160/160
 *[ARALE]Trouvons[nl]Akane.[END]
 @9@188

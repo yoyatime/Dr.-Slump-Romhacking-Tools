@@ -10,7 +10,7 @@
 @4@172
 *Aller où?[END]
 @5@192
-*[ARALE]Peu importe.[END]
+*[ARALE]Peu importe[END]
 @6@212
 *[ARALE]Allons au[nl]débit de tabac.[END]
 @7@236

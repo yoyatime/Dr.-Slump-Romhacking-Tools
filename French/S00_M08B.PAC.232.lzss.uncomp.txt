@@ -1,6 +1,6 @@
 @@S00_M08B.PAC.232.lzss.uncomp@@48@@100@@400
 @0@100
-*Restes ici[END]
+*Rester là[END]
 @1@116
 *Banque[END]
 @2@132
@@ -8,7 +8,7 @@
 @3@148
 *Aller où?[END]
 @4@168
-*[ARALE]Peu importe.[END]
+*[ARALE]Peu importe[END]
 @5@188
 *[ARALE]Allons à la[nl]banque.[END]
 @6@212

@@ -1,6 +1,6 @@
 @@S00_M09B.PAC.232.lzss.uncomp@@48@@100@@472
 @0@100
-*Restes ici[END]
+*Rester là[END]
 @1@116
 *Maison[END]
 @2@132
@@ -12,7 +12,7 @@
 @5@192
 *Aller où?[END]
 @6@212
-*[ARALE]Peu importe.[END]
+*[ARALE]Peu importe[END]
 @7@232
 *[ARALE]Rentrons à la[nl]maison.[END]
 @8@252

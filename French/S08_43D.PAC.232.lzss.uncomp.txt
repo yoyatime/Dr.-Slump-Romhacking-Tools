@@ -2,6 +2,6 @@
 @0@8
 *[ARALE]U-ho-hoi! Ca[nl]va être amusant![END]
 @1@52
-*[ARALE]Kya-ha-ha![nl]Alons dans un[nl]autre endroit.[END]
+*[ARALE]Kya-ha-ha![nl]Allons dans un[nl]autre endroit.[END]
 @2@92
 *[ARALE]Oops... Je suis[nl]épuisé.[END]
