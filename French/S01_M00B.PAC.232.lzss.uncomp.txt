@@ -118,11 +118,11 @@
 @185/256@4232/4232
 *Restes là.[END]
 @257@4248
-*[BLUE]Ma chambre.[END]
+*[BLUE]Ma chambre[END]
 @258@4272
-*[BLUE]Laboratoire.[END]
+*[BLUE]Laboratoire[END]
 @259@4300
-*[BLUE]Extérieur.[END]
+*[BLUE]Extérieur[END]
 @260@4316
 *Aller où?[END]
 @261@4336

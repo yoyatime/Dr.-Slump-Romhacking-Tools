@@ -18,7 +18,7 @@
 @19/32@1120/1120
 *[DINOSAUR]Gwa ha ha![nl]Ces attaques[nl]pitoyables ne[nl]feront pas de[nl]mal à mon corps[nl]solide comme[nl]le roc![END]
 @33@1192
-*[ARALE]Ho-yo, mais[nl]dis-moi tes[nl][YELLOW]jambes[WHITE]sont[nl]toute fines,[nl]elles ont l'air[nl]un peu faibles.[END]
+*[ARALE]Ho-yo, mais[nl]dis-moi, tes[nl][YELLOW]jambes[WHITE]sont[nl]toute fines,[nl]elles ont l'air[nl]un peu faibles.[END]
 @34@1236
 *[DINOSAUR]Tais-toi![END]
 @35/304@1260/1260

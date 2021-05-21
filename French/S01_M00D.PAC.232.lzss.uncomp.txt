@@ -1,0 +1,275 @@
+@@S01_M00D.PAC.232.lzss.uncomp@@406@@816@@6504
+@0/8/9/10/11/12/13/14/15/19/20/21/22/23/24/25/26/27/28/29/30/31/41/42/43/44/45/46/47/52/53/54/55/56/57/58/59/60/61/62/63/67/68/69/70/71/72/73/74/75/76/77/78/79/87/88/89/90/91/92/93/94/95/107/108/109/110/111/123/124/125/126/127/133/134/135/136/137/138/139/140/141/142/143/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/266/267/268/269/270/271/272/273/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303/350/351/383/396/397/398/399@816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816/816
+*[HAKASE]Je pense que[nl]nous sommes[nl]prêts à nous[nl]diriger vers le[nl][BLUE]laboratoire[WHITE][nl]maintenant.[nl]On peut y[nl]accéder par[nl]cette porte.[END]
+@1@900
+*[HAKASE]Arale, ne[nl]veux-tu pas en[nl]savoir plus sur[nl]ce magnifique[nl][YELLOW]journal[WHITE]?[END]
+@2@968
+*[HAKASE]Arale, ne[nl]veux-tu pas en[nl]apprendre plus[nl]sur ce[nl][YELLOW]porte-manteaux[WHITE]?[END]
+@3@1040
+*[HAKASE]Arale, jette un[nl]oeil à la [YELLOW]stéréo[WHITE][nl]au niveau de[nl]la fenêtre.[END]
+@4@1104
+*[ARALE]Euh... il est[nl]temps de se[nl]coucher...[END]
+@5@1152
+*[HAKASE]Réveille-toi,[nl]Arale![nl]C'est le matin![END]
+@6@1208
+*[ARALE]Zzz...[MEDIUM_PAUSE]![END]
+@7/16@1232/1232
+*[HAKASE]Tu pourras[nl][YELLOW]sauvegarder la[nl]partie[WHITE] dans ce[nl][YELLOW]journal[WHITE].[nl]Si tu as envie[nl]d'arrêter le[nl]jeu, ouvre le[nl]menu [YELLOW]journal[WHITE][nl]et sélectionne[nl]d'abord l'option[nl][YELLOW]sauvegarder[WHITE].[END]
+@17/121@1448/3916
+*[ARALE]Hoi![END]
+@18/32@1460/1460
+*[HAKASE]Tu peux changer[nl]ta tenue[nl]depuis le[nl][YELLOW]porte-manteaux[WHITE].[nl]Ce ne serait pas[nl]très élégant de[nl]porter toujours[nl]la même tenue.[END]
+@33@1584
+*[ARALE]Tu veux dire[nl]comme toi?[END]
+@34@1608
+*[HAKASE]Ce n'est pas[nl]grave si je suis[nl]toujours[nl]habiller comme[nl]cela![nl]Mais les gens[nl]trouveraient ça[nl]étrange si une[nl][YELLOW]jeune  fille[WHITE][nl]telle que toi,[nl]portait la même[nl]chose tous les[nl]jours.[nl]Nous ne voulons[nl]pas que les gens[nl]pensent qu'il y[nl]a quelque chose[nl]de bizarre chez[nl]toi.[END]
+@35@1788
+*[ARALE]Ok, quelles[nl]tenues ai-je?[END]
+@36@1816
+*[HAKASE]Eh bien...[nl]il n'y en a pas[nl]pour le moment.[nl]Tu devras faire[nl]avec ce que[nl]tu as.[END]
+@37@1892
+*[ARALE]...[END]
+@38@1912
+*[HAKASE]Gloup...[END]
+@39/130/146@1928/4000/4136
+*[ARALE]Zzzz...[END]
+@40/48@1948/1948
+*[HAKASE]L'option [YELLOW]Stéréo[WHITE][nl]te permet de[nl]modifier[nl]les [YELLOW]paramètres[nl]audio[WHITE].[nl]Il suffit de[nl]choisir [YELLOW]Stéréo[WHITE][nl]si tu as un[nl]téléviseur[nl]stéréo, et [YELLOW]Mono[WHITE][nl]si tu utilises[nl]toujours un[nl]téléviseur[nl]monaural.[nl]Les paramètres[nl]sont modifiable[nl]à tous moment.[END]
+@49@2192
+*[ARALE]Tu ne sait pas[nl]jouer de la[nl]musique?[END]
+@50@2220
+*[HAKASE]Q-qui a besoin[nl]de savoir?[END]
+@51/64@2292/2292
+*[ARALE]Il fait trop[nl]sombre pour[nl]voir quoi que[nl]ce soit.[END]
+@65@2324
+*[HAKASE]Arale, tu[nl]pourras t'amuser[nl]là-dedans[nl]plus tard.[END]
+@66/80/81@2384/2384/2440
+*[HAKASE]Où vas-tu ?[nl]Tu devrais te[nl]reposer pour[nl]l'instant.[END]
+@82@2496
+*[HAKASE]La prochaine[nl]étape c'est mon[nl][BLUE]laboratoireab[WHITE].[END]
+@83@2544
+*[HAKASE]Arale, ne[nl]veux-tu pas en[nl]savoir plus sur[nl]ce magnifique[nl][YELLOW]journal[WHITE]?[END]
+@84@2624
+*[HAKASE]Arale, ne[nl]veux-tu pas en[nl]apprendre plus[nl]sur ce[nl][YELLOW]porte-manteaux[WHITE]?[END]
+@85@2708
+*[HAKASE]Arale, jette un[nl]oeil à la [YELLOW]stéréo[WHITE][nl]au niveau de[nl]la fenêtre.[END]
+@86/96/97@2784/2784/2804
+*[ARALE]Qui est-ce?[END]
+@98@2824
+*[HAKASE]C'est la femme[nl]de mes rêves...[END]
+@99@2900
+*[ARALE]Elle est hors[nl]de ta portée.[nl]Tu ne joues pas[nl]dans la même[nl]cour.[END]
+@100@2916
+*[HAKASE](Argh! Quelle[nl]sale gosse[nl]exaspérante!)[END]
+@101/103/129/145@2984/3068/3976/4112
+*[ARALE]C'est génial![END]
+@102@3008
+*[HAKASE]Hum, cette photo[nl]pourrait être un[nl]peu trop[nl]effrayante pour[nl]un enfant comme[nl]toi...[END]
+@104@3092
+*[HAKASE]Quel[nl]soulagement...[END]
+@105@3120
+*[HAKASE]Tais-toi et va[nl]te coucher![END]
+@106/112@3188/3188
+*[HAKASE]Ceci est mon[nl][YELLOW]invention[WHITE], la[nl][YELLOW]machine à[nl]inventions[WHITE]![END]
+@113@3248
+*[ARALE]C'est un nom[nl]évident.[END]
+@114@3268
+*[HAKASE]Ferme ta bouche![nl][nl]bien, cette[nl]machine peut[nl]ajuster la[nl]configuration de[nl]ta [YELLOW]manette[WHITE].[nl]Par exemple, il[nl]est possible[nl]d'associer la[nl]touche [YELLOW][TRIANGLE][WHITE] à la[nl]touche [GREEN]poing[WHITE], ou[nl]le bouton [GREEN]saut[WHITE][nl]à la touche [CIRCLE].[END]
+@115/119@3548/3792
+*[ARALE]Euh euh.[END]
+@116@3560
+*[HAKASE]Tsss, tu ne[nl]comprends pas le[nl]travail qui a[nl]été fait pour[nl]créer ça.[END]
+@117@3632
+*[ARALE]M-humm.[END]
+@118@3648
+*[HAKASE]Les inventions[nl]que je te donne[nl]pour remplir ta[nl][YELLOW]jauge de Pep's[WHITE][nl]peuvent toutes[nl]être configurées[nl]ici aussi![nl]Que dis-tu de[nl]cela, incroyable[nl]n'est-ce pas?![END]
+@120@3804
+*[HAKASE]Arfff![nl]C'est pas comme[nl]si tu pouvais[nl]comprendre à[nl]quel point c'est[nl]génial.[nl]Quoi qu'il en[nl]soit, il est[nl]temps pour moi[nl]d'aller me[nl]coucher.[nl]Pourquoi[nl]n'irais-tu pas[nl]te coucher[nl]aussi, Arale?[END]
+@122/128@3928/3928
+*[ARALE]Ha ha ha, elle[nl]n'est qu'un[nl]substitut de la[nl]vraie[nl][PINK]Mlle. Midori[WHITE].[END]
+@131@4020
+*[ARALE]Je n'y comprends[nl]rien.[END]
+@132/144@4056/4056
+*[ARALE]Pourquoi y[nl]a-t-il une photo[nl]de [PINK]Ms. Midori[WHITE][nl]ici?[END]
+@147@4156
+*[ARALE]C'est trop[nl]sombre.[nl][nl]Je ne peux rien[nl]faire ici.[END]
+@148/256@4184/4184
+*Rester là[END]
+@257@4200
+*[BLUE]Salle de séjour[END]
+@258@4220
+*[BLUE]Laboratoire[END]
+@259@4248
+*[BLUE]A l'extérieur[END]
+@260@4264
+*Aller où?[END]
+@261@4284
+*[ARALE]Peu importe.[END]
+@262@4304
+*[ARALE]Allons dans la[nl][BLUE]salle de séjour[WHITE].[END]
+@263@4332
+*[ARALE]Allons à le[nl][BLUE]laboratoire[WHITE].[END]
+@264@4364
+*[ARALE]Allons à[nl][BLUE]l'extérieur[WHITE].[END]
+@265/304@4388/4388
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@305@4432
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
+@306@4492
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
+@307@4536
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
+@308@4588
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
+@309@4676
+*[YELLOW]Formatage[WHITE]...[END]
+@310@4772
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
+@311@4800
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
+@312@4836
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
+@313@4900
+*[YELLOW]Sauvegarde[WHITE]...[END]
+@314@5000
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
+@315@5044
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
+@316@5096
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
+@317/321/325@5116/5184/5268
+*Retour[END]
+@318@5124
+*OK[END]
+@319@5136
+*[WHITE]Choisir fichier.[END]
+@320@5168
+*[YELLOW]Sauvegarde.[END]
+@322@5192
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
+@323/324@5244/5244
+*Que voudrais-tu[nl]porter?[END]
+@326@5276
+*Par défaut[END]
+@327@5292
+*Baseball[END]
+@328@5308
+*Ninja[END]
+@329@5324
+*Nostalgie[END]
+@330@5356
+*[ARALE]Revenons à[nl]la tenue[nl]habituelle.[END]
+@331@5384
+*[ARALE]C'est le moment[nl]de mettre la[nl]tenue B-ball.[END]
+@332@5412
+*[ARALE]Devenons un[nl]ninja![END]
+@333@5440
+*[ARALE]Soyons[nl]nostalgiques.[END]
+@334@5468
+*[ARALE]Portons la[nl]salopette.[END]
+@335/336@5496/5496
+*Inventions[END]
+@337/341/349/352/368/385/401@5520/5592/5728/5728/5956/6268/6428
+*[YELLOW]Retour[END]
+@338/342@5528/5600
+*Commandes[END]
+@339@5544
+*Inventions[END]
+@340/343@5568/5616
+*Guide capture[END]
+@344@5640
+*Options audio[END]
+@345@5660
+*FX louche[END]
+@346@5676
+*Jukebox[END]
+@347@5692
+*Test SFX[END]
+@348@5708
+*Réglages système[END]
+@353@5736
+*Appuie sur[END]
+@354@5748
+*Ascenseur[END]
+@355@5760
+*Ramper[END]
+@356@5776
+*Saut grenouille[END]
+@357@5792
+*Coup/pied glissé[END]
+@358@5808
+*Poing remonter[END]
+@359@5824
+*Marche Shinobi[END]
+@360@5836
+*Souffle Hover[END]
+@361@5852
+*Poing de colère[END]
+@362@5868
+*Double saut[END]
+@363@5884
+*Rouler[END]
+@364@5900
+*Crochet[END]
+@365@5912
+*Saut en longueur[END]
+@366@5924
+*Fendeur de terre[END]
+@367@5940
+*Broyage au sol[END]
+@369@5964
+*Compteur vitesse[END]
+@370@5988
+*Altimètre[END]
+@371@6008
+*Boussole[END]
+@372@6028
+*Indicateur audio[END]
+@373@6052
+*Effet farceur[END]
+@374@6072
+*Tampon étoile[END]
+@375@6096
+*Circuit charme[END]
+@376@6116
+*Verres/contact[END]
+@377@6140
+*Couleur/fenêtres[END]
+@378@6164
+*Choix/police[END]
+@379@6184
+*Collection[END]
+@380@6212
+*Jukebox[END]
+@381@6228
+*Test SFX[END]
+@382/384@6240/6240
+*Choisir couleur fenêtre[END]
+@386@6276
+*Par défaut[END]
+@387@6292
+*Sombre[END]
+@388@6304
+*Rougeâtre[END]
+@389@6316
+*Verdâtre[END]
+@390@6332
+*Bleuâtre[END]
+@391@6344
+*Jaunâtre[END]
+@392@6360
+*Eau douce[END]
+@393@6376
+*Rosâtre[END]
+@394@6392
+*Pourpre[END]
+@395/400@6408/6408
+*Choisir police[END]
+@402@6436
+*Mignonne[END]
+@403@6452
+*Sérieuse[END]
+@404@6468
+*Net[END]
+@405@6488
+*Ancient[END]

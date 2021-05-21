@@ -1,6 +1,6 @@
-@@S01_M00A.PAC.232.lzss.uncomp@@432@@868@@8764
+@@S01_M00E.PAC.232.lzss.uncomp@@432@@868@@8764
 @0/6/7/8/9/10/11/12/13/14/15/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/74/75/76/77/78/79/84/85/86/87/90/91/92/93/94/95/103/104/105/106/107/108/109/110/111/125/126/127/134/135/136/137/138/139/140/141/142/143/148/149/150/151/152/153/154/155/156/157/158/159/168/169/170/171/172/173/174/175/181/182/183/184/185/186/187/188/189/190/191/197/198/199/200/201/202/203/204/205/206/207/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/253/254/255/266/267/268/269/270/271/279/280/281/282/283/284/285/286/287/298/299/300/301/302/303/324/325/326/327/328/329/330/331/332/333/334/335/336/337/338/339/340/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/356/357/358/359/360/361/362/363/364/365/366/367/368/369/370/371/372/373/374/375/376/377/378/379/380/381/382/383/384/385/386/387/388/389/390/391/399/407/411/412/413/414/415/420/421/422/423@868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868
-*[HAKASE]Tu as dû[nl]apprendre[nl]pas mal de[nl][JAUNE]capacités[BLANC][nl]en ville.[nl]Pourquoi ne me[nl]montrerais-tu[nl]pas tous les[nl]mouvements que[nl]tu as appris[nl]jusqu'à présent.[END]
+*[HAKASE]Hummm, tu as[nl]certainement[nl]appris beaucoup[nl]de [YELLOW]capacités[WHITE].[nl]Pour ton bien,[nl]je suppose que[nl]je peux te[nl]former à tout[nl]ce que tu as[nl]appris jusqu'à[nl]présent.[nl]Parle-moi et[nl]je t'expliquerai[nl]toutes tes[nl][YELLOW]capacités[WHITE].[END]
 @1/24/71/119@1080/1992/3892/4896
 *[ARALE]Hoi![END]
 @2@1092
@@ -8,31 +8,31 @@
 @3/17/22/36@1236/1356/1872/2476
 *[ARALE]Ho-yo?[END]
 @4@1248
-*[HAKASE]Montre-moi tous[nl]les mouvements[nl]que tu as[nl]appris![END]
+*[HAKASE]Et ça ne[nl]s'arrête pas[nl]là![END]
 @5/16@1284/1284
-*[HAKASE]Hé Arale, tu ne[nl]veux pas tester[nl]quelques-unes[nl]de tes capacités[nl]de déplacements?[END]
+*[HAKASE]Hé Arale, tu ne[nl]veux pas tester[nl]certaines de tes[nl]fonctions de[nl]mouvement?[END]
 @18@1368
 *[HAKASE]Les enfants[nl]devraient faire[nl]des bonds dans[nl]tous les sens,[nl]comme cela...[END]
 @19@1448
 *[HAKASE]Voilà c'est[nl]mieux comme ça![nl]J'ai installé[nl]un[nl][YELLOW]circuit spécial[WHITE][nl]qui te permet[nl]de copier toutes[nl]les[nl][YELLOW]capacités[nl]spéciales[WHITE][nl]dont tu es[nl]témoin![nl]Je l'ai appelé[nl]le[nl][YELLOW]circuit de[nl]capture[WHITE].[nl]N'est-ce pas[nl]excitant?[nl]Ooh, j'en ai[nl]des frissons.[END]
 @20@1712
-*[ARALE]C'est incroyable![END]
+*[ARALE]C'est génial![END]
 @21@1740
 *[HAKASE](C'est inattendu.[nl]Je ne savais[nl]même pas que[nl]j'avais[nl]construit cette[nl]fonctionnalité.[nl]Je me surprends[nl]moi-même[nl]parfois...♪)[END]
 @23@1884
 *[HAKASE]Chaque fois que[nl]tu [YELLOW]captures[WHITE][nl]quelque chose,[nl]tu apprendras[nl]comment faire[nl]ce mouvement.[nl]Alors fais[nl]attention quand[nl]ça arrive,[nl]d'accord?[END]
 @25@2004
-*[HAKASE]Maintenant, sors[nl]et découvre[nl]le monde.[nl]Ca a l'air[nl]amusant, non?[END]
+*[HAKASE]Maintenant, sors[nl]et découvre[nl]le monde.[nl]Ca a l'air[nl]amusant, non?[END]]
 @26@2072
-*[HAKASE]Es-tu allé jouer[nl]avec [PINK]Akane[WHITE]?[nl]Utilise le[nl][YELLOW]panneau de[nl]signalisation[WHITE],[nl]et rends-toi[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[nl]C'est là-bas[nl]qu'elle vis.[END]
+*[HAKASE]Es-tu allé jouer[nl]avec [PINK]Akane[WHITE]?[nl]Utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE],[nl]et rends-toi[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[nl]C'est là-bas[nl]qu'elle vis.[END]
 @27/32@2184/2184
 *[ARALE]Hey [PINK]professeur[WHITE],[nl]je me suis fait[nl]des[YELLOW]amis[WHITE].[END]
 @33@2240
-*[HAKASE]*[HAKASE]Je vois que[nl]tu as rencontré[nl][PINK]Akane[WHITE].[nl]Je crois qu'elle[nl]vit dans la[nl]maison en forme[nl]de [BLUE]cafetière[WHITE].[nl]Pourquoi ne pas[nl]y retourner?[nl]Prends le[nl][YELLOW]panneau[nl]indicateurs[WHITE][nl]et retourne[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[END]
+*[HAKASE]Je vois que[nl]tu as rencontré[nl][PINK]Akane[WHITE].[nl]Je crois qu'elle[nl]vit dans la[nl]maison en forme[nl]de [BLUE]cafetière[WHITE].[nl]Pourquoi ne pas[nl]y retourner?[nl]Prends le[nl][YELLOW]panneau[nl]indicateurs[WHITE][nl]et retourne[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[END]
 @34@2428
 *[ARALE]J'y vais![END]
 @35@2452
-*[HAKASE]Attends une[nl]seconde.[END]
+*[HAKASE]Attends un peu.[END]
 @37@2488
 *[HAKASE]Lorsque tu as[nl]parlé avec[nl][PINK]Akane[WHITE],le[nl][YELLOW]compteur[WHITE]en haut[nl]de l'écran a[nl]fait "ding" et[nl]s'est rempli[nl]un peu.[nl] C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
 @38/50@2672/3096
@@ -40,7 +40,7 @@
 @39/51@2688/3112
 *[HAKASE]Si tu arrives à[nl]la remplir,[nl]viens dans mon[nl][BLUE]laboratoire[WHITE].[nl]Je créerai une[nl]toute nouvelle[nl][YELLOW]invention[WHITE] pour[nl] toi.[END]
 @40/52@2820/3244
-*[ARALE]Ok...[END]
+*[ARALE]Ok.[END]
 @41/53@2832/3256
 *[HAKASE]Cela mérite plus[nl]qu'un simple[nl]"ok"![nl]Sois un peu plus[nl]enthousiaste![END]
 @42/48@2884/2884
@@ -80,7 +80,7 @@
 @100@4380
 *[ARALE]Ho-yo.[END]
 @101@4392
-*[HAKASE](Euh, elle n'a[nl]pas l'air très[nl]impressionnée.)[MEDIUM_PAUSE][nl]Bien Arale,[nl]pourquoi ne pas[nl]faire un essai?[nl]Parles-en avec[nl][PINK]Mr. Time[WHITE].[END]
+*[HAKASE]Euh, elle n'a[nl]pas l'air très[nl]impressionnée.)[MEDIUM_PAUSE][nl]Bien Arale,[nl]pourquoi ne pas[nl]faire un essai?[nl]Parles-en avec[nl][PINK]Mr. Time[WHITE].[END]
 @102/112@4520/4520
 *[ARALE]Qui es-tu?[END]
 @113@4540
@@ -170,11 +170,11 @@
 @250/395@6532/8068
 *[ARALE]Oh, bon sang![END]
 @251@6548
-*[ARALE]Attends[nl]une minute.[END]
+*[ARALE]Attends une minute.[END]
 @252/256/292@6572/6572/7040
 *Aller où?[END]
 @257/259/278/288@6592/6624/6952/6952
-*Rester là.[END]
+*Rester là[END]
 @258@6608
 *Aller jouer[END]
 @260@6640
@@ -192,13 +192,13 @@
 @273@6788
 *[ARALE]Allons au café[nl]le [BLUE]Coffee Pot[WHITE].[END]
 @274@6820
-*[ARALE]Rendons-nous[nl]chez le[nl][BLUE]barbier[WHITE].[END]
+*[ARALE]Allons chez le [BLUE]barbier[WHITE].[END]
 @275@6856
 *[ARALE]Rendons-nous à[nl]l'[BLUE]école[WHITE].[END]
 @276@6884
 *[ARALE]Allons au[nl][BLUE]débit de tabac[WHITE].[END]
 @277@6912
-*[ARALE]Allons au[nl][BLUE]commisariat[nl]de police[WHITE].[END]
+*[ARALE]FAllons au[nl][BLUE]commisariat[nl]de police[WHITE].[END]
 @289@6968
 *[BLUE]Ma chambre[END]
 @290@6992
@@ -208,11 +208,11 @@
 @293@7060
 *[ARALE]Peu importe[END]
 @294@7080
-*[ARALE]Allons dans[nl]ma[BLUE]chambre[WHITE].[END]
+*[ARALE]Allons dans ma[BLUE]chambre[WHITE].[END]
 @295@7112
 *[ARALE]Allons dans[nl]le[BLUE]séjour[WHITE].[END]
 @296@7140
-*[ARALE]Allons au[nl][BLUE]laboratoire[WHITE].[END]
+*[ARALE]Allons au [BLUE]laboratoire[WHITE].[END]
 @297/304@7172/7172
 *Vérification, de la [YELLOW]carte mémoire[WHITE].[END]
 @305@7216
@@ -252,27 +252,27 @@
 @323/392@8028/8028
 *Rester[END]
 @394@8052
-*[ARALE]Je ne vais pas[nl]y aller.[END]
+*[ARALE]Je ne vais pas y aller.[END]
 @396@8084
-*[ARALE]Je suppose que[nl]je ne vais[nl]nulle part.[END]
+*[ARALE]Je suppose que je ne vais nulle part.[END]
 @397@8108
-*[MR_TIME]Quel[nl][YELLOW]scène d'action[WHITE][nl]voudrais-tu[nl]visiter?[END]
+*[MR_TIME]Quel [YELLOW]scène d'action[WHITE] voudrais-tu visiter?[END]
 @398/400@8168/8168
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 1[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 1[WHITE].[END]
 @401@8224
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 2[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 2[WHITE].[END]
 @402@8280
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 3[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 3[WHITE].[END]
 @403@8336
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 5[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 5[WHITE].[END]
 @404@8392
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 6[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 6[WHITE].[END]
 @405@8448
-*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 7[WHITE].[END]
+*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 7[WHITE].[END]
 @410/416@8548/8548
-*[MR_TIME]Bienvenue à la[nl]maison.[nl][nl]Excellent[nl]travail.[nl][nl]On peut le[nl]refaire[nl]n'importe quand.[END]
+*[MR_TIME]Bienvenue à la maison.  Excellent travail.  On peut le refaire n'importe quand.[END]
 @417@8628
-*[ARALE]Yep ha ha![nl]C'était amusant![END]
+*[ARALE]Yep ha ha! C'était amusant![END]
 @425@8680
 *Scène 1[END]
 @426@8692
