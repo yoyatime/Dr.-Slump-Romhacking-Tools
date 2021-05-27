@@ -1,0 +1,291 @@
+@@S01_M02A.PAC.232.lzss.uncomp@@323@@648@@8228
+@0/11/12/13/14/15/22/23/24/25/26/27/28/29/30/31/38/39/40/41/42/43/44/45/46/47/54/55/56/57/58/59/60/61/62/63/74/75/76/77/78/79/87/88/89/90/91/92/93/94/95/106/107/108/109/110/111/120/121/122/123/124/125/126/127/134/135/140/141/142/143/157/158/159/169/170/171/172/173/174/175/188/189/190/191/197/198/199/200/201/202/203/204/205/206/207/213/214/215/216/217/218/219/220/221/222/223/232/233/234/235/236/237/238/239/248/249/250/251/252/253/254/255/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[AKANE]Mec, t'es[nl]vraiment nul.[nl]Tu ne peux pas[nl]bouger plus vite[nl]que ça?[nl]Laisse-moi te[nl]montrer de la[nl]vraie vitesse.[END]
+@1@732
+*[AKANE]Impressionnant,[nl]n'est-ce pas?[END]
+@2@804
+*[AKANE]Tu veux y[nl]retourner?[END]
+@3@836
+*[AKANE]Tu m'as vraiment[nl]épuisé[nl]aujourd'hui.[END]
+@4@880
+*[AKANE]Rentrons à la[nl]maison.[END]
+@5@912
+*[AKANE]Tu m'as épuisé.[nl]On arrête là[nl]pour[nl]aujourd'hui,[nl]d'accord?[END]
+@6@984
+*[AKANE]Wouah, tu es[nl]plutôt rapide.[nl]Que dirais-tu[nl]de faire la[nl]course avec moi?[nl]Qu'est-ce que[nl]t'en dis?[END]
+@7@1064
+*[AKANE]Tu es vraiment[nl]différente...[END]
+@8@1124
+*[AKANE]Quel est le[nl]problème,[nl]effrayée?[nl]On a une course[nl]à faire, ma[nl]grande.[END]
+@9@1184
+*[AKANE]Je suis partant[nl]pour un autre[nl]tour.[END]
+@10/16@1216/1216
+*[AKANE]Heeeeey Arale?[nl]Qu'est-ce qui[nl]t'a pris tout ce[nl]temps, espèce[nl]de tortue?[END]
+@17@1292
+*[AKANE]A plus tard.[END]
+@18@1316
+*[AKANE]Yo, ne me laisse[nl]pas seule[nl]dehors. Viens,[nl]j'ai quelque[nl]chose à te dire.[END]
+@19@1384
+*[AKANE]Tu ne veux pas[nl]faire attendre[nl]les gens,[nl]n'est-ce pas,[nl]Arale?[END]
+@20@1448
+*[AKANE]Il est temps de[nl]sortir d'ici.[END]
+@21/32@1488/1488
+*[HAKASE]Nous avons[nl]réussi.[nl]C'est ton[nl][BLUE]école[WHITE].[END]
+@33@1536
+*[ARALE]N'cha![END]
+@34@1556
+*[HAKASE]Crétin! Tu n'as[nl]pas besoin de[nl]lui parler![END]
+@35@1624
+*[AKANE]C'est parti![END]
+@36@1668
+*[ARALE]U ho hoi![END]
+@37/48@1684/1684
+*[TARO]Tu ne dois[nl]absolument[nl]rien dire à[nl]personne,[nl]d'accord?[END]
+@49@1732
+*[TARO]S'il te plaît,[nl]ne me taquine[nl]pas, Arale...[END]
+@50@1776
+*[ARALE]Kya ha ha![nl]Tu es nul,[nl][PINK]Tarosie[WHITE].[END]
+@51@1824
+*[TARO]Vraiment? Tu me[nl]sauves les[nl]miches![END]
+@52@1880
+*[TARO]Ne reste pas[nl]comme ça...[END]
+@53/64@1916/1916
+*[TARO]Cette [YELLOW]clé[WHITE][nl]dois sûrement[nl]déverrouiller[nl]un super trésor,[nl]j'en suis sûr.[END]
+@65@2000
+*[ARALE]Oh, bon sang![END]
+@66@2016
+*[TARO]Pas possible!?[nl]Elle a détruit[nl]une [YELLOW]voiture[nl]de police[WHITE]?[END]
+@67@2068
+*[AKANE]C'est fou,[nl]hein!? Je ne[nl]l'aurais jamais[nl]cru, sauf que[nl]c'est arrivé[nl]juste devant[nl]mes yeux![END]
+@68@2136
+*[TARO]Arale... waouh.[END]
+@69@2172
+*[AKANE]Alors [PINK]Taro[WHITE],[nl]j'ai entendu[nl]dire que tu[nl]allais me faire[nl]payer pour ce[nl]que j'ai dit.[nl]Puisque Arale et[nl]moi sommes des[nl]amis proches[nl]maintenant,[nl]tu réalises[nl]qu'un de mes[nl]ennemis est un[nl]ennemi d'Arale,[nl]nop?[END]
+@70@2356
+*[ARALE]U ho hoi![nl]Des amis[nl]proches![END]
+@71@2396
+*[TARO]Je plaisantais![nl]En fait, Arale,[nl]j'ai quelque[nl]chose de sympa[nl]à te donner![END]
+@72/100/104/129@2532/3092/3272/3696
+*[ARALE]Ho yo?[END]
+@73/80@2544/2544
+*[ARALE][PINK]Tarosie[WHITE]![nl][PINK]Akane[WHITE] a dit[nl]de l'attendre[nl]ici.[END]
+@81@2612
+*[TARO][PINK]Akane[WHITE] a dit ça?[nl]Que veux-tu[nl]dire, Arale?[END]
+@82@2664
+*[ARALE]Je vais amener[nl][PINK]Peasuke[WHITE] ici.[END]
+@83@2708
+*[TARO]Arale... Et si[nl]tu arrêtais de[nl]m'appeler[nl][PINK]Tarosie[WHITE]?[nl]Ca ne me donne[nl]pas l'air très[nl]cool, tu sais?[END]
+@84@2808
+*[ARALE]Hoi. Tchao,[nl][PINK]Tarosie[WHITE]![END]
+@85@2852
+*[TARO]...[END]
+@86/96@2876/2876
+*[ARALE]Hey hey[nl][PINK]Tarosie[WHITE].[nl]Est-ce que tu es[nl]un gringalet?[END]
+@97@2928
+*[TARO]D'où est-ce que[nl]ça vient?[END]
+@98@2968
+*[ARALE][PINK]Akane[WHITE] a dit[nl]que ton équipe[nl]était vraiment[nl]faible.[END]
+@99@3040
+*[TARO]Quelle idiote...[nl]Je vais lui[nl]faire payer pour[nl]avoir dit ça.[END]
+@101@3104
+*[TARO]...[END]
+@102@3124
+*[ARALE]N'cha![END]
+@103@3140
+*[TARO]Bonjour Arale,[nl]tu as l'air[nl]plutôt dynamique[nl]aujourd'hui.[nl]Je me sens[nl]plutôt déprimé,[nl]pourtant.[nl]Mon équipe de[nl]baseball[nl]n'arrive pas à[nl]gagner un seul[nl]match...[END]
+@105/112@3284/3284
+*[AKANE]Au fait, je[nl]crois avoir vu[nl]une [YELLOW]clé[WHITE][nl]quelque part[nl]dans la [BLUE]salle[nl]de classe[WHITE]...[END]
+@113@3376
+*[PEASUKE_WHITE]Hé, et si on[nl]refaisait ça?[END]
+@114@3416
+*[PEASUKE_WHITE]Ennuyeux.[END]
+@115@3444
+*[TARO]Je te donne[nl]cette [YELLOW]clé[WHITE] que[nl]j'ai trouvée[nl]dans la [BLUE]salle[nl]de classe[YELLOW].[nl]Je n'ai aucune[nl]idée de ce[nl]qu'elle ouvre,[nl]cependant.[END]
+@116@3548
+*[ARALE]U ho hoi![END]
+@117@3568
+*[TARO]Cela fait de moi[nl]un ami proche[nl]d'Arale, aussi![END]
+@118@3620
+*[AKANE]C'est[nl]pathétique...[END]
+@119/128@3644/3644
+*[TARO]Ouah! Arale,[nl]ce [YELLOW]livre[WHITE][nl]que tu tiens!!![END]
+@130@3708
+*[TARO][PINK]Mlle Midori[WHITE][nl]m'a confisqué[nl]ce [YELLOW]livre[WHITE].[nl]Comment as-tu[nl]trouvé ça?[nl]Et si tu me[nl]le rendais?[END]
+@131@3844
+*[ARALE]Je ne veux pas.[END]
+@132@3860
+*[TARO]T-Très bien[nl]alors. Ne dis[nl]à personne que[nl]c'était le mien,[nl]compris?[END]
+@133/136@3940/3940
+*[PEASUKE_WHITE][PINK]Akane[WHITE], est-il[nl]arrivé quelque[nl]chose?[END]
+@137@4000
+*[AKANE]Non, rien du[nl]tout.[END]
+@138@4020
+*[PEASUKE_WHITE]Ah... mais tu[nl]m'as appelé...[END]
+@139/144@4100/4100
+*[AKANE]Hé Arale, que[nl]fais-tu ici le[nl]match est déjà[nl]terminé![END]
+@145@4176
+*[TARO]On a réussi,[nl]Arale![nl]Nous avons enfin[nl]gagné![nl][PINK]Peasuke[WHITE] a fait[nl]de grands[nl]progrès[nl]aujourd'hui.[END]
+@146@4272
+*[PEASUKE_WHITE]Hé hé hé.[END]
+@147@4284
+*[AKANE]Sans les[nl]nouvelles[nl][GREEN]glissades[WHITE] de[nl][PINK]Peasuke[WHITE], nous[nl]aurions perdu.[END]
+@148@4356
+*[ARALE][PINK]Peasuke[WHITE], tu es[nl]incroyable![END]
+@149@4388
+*[PEASUKE_WHITE]C'est grâce à[nl]toi, Arale.[END]
+@150@4456
+*[TARO]Tu es plutôt[nl]douée pour la[nl][GREEN]glissade[WHITE] aussi,[nl]Arale.[nl][PINK]Peasuke[WHITE] nous en[nl]a parlé.[END]
+@151@4540
+*[ARALE]Je peux le faire[nl]moi aussi![END]
+@152@4564
+*[TARO]Hein?[END]
+@153@4572
+*[ARALE]Je veux jouer[nl]avec vous[nl]les gars![END]
+@154@4624
+*[AKANE]Désolé, mais[nl]nous sommes[nl]épuisés et nous[nl]rentrons à la[nl]maison.[nl]A plus tard,[nl]Arale.[END]
+@155@4704
+*[ARALE]Boo...[END]
+@156/160@4724/4724
+*[AKANE]Désolé mais nous[nl]sommes épuisés.[nl]Nous étions sur[nl]le point de[nl]rentrer à la[nl]maison.[END]
+@161/165@4824/5016
+*[TARO]Bonne[nl]continuation,[nl]Arale.[END]
+@162/166@4852/5044
+*[PEASUKE_WHITE]Bye bye![END]
+@163/167@4868/5060
+*[ARALE]Bye'cha![END]
+@164@4888
+*[AKANE]Oh, alors vous[nl]auriez dû venir[nl]plus tôt.[nl]Je suis épuisé,[nl]on rentre à[nl]la maison.[END]
+@168/176@5080/5080
+*[TARO]Oh? [PINK]Peasuke[WHITE][nl]est dehors à[nl]faire son[nl][YELLOW]entraînement[WHITE][nl]spécial, hein?[END]
+@177@5156
+*[TARO]Merde! Où est[nl][PINK]Peasuke[WHITE]?[END]
+@178@5204
+*[ARALE]Hé, je l'ai[nl]trouvé.[END]
+@179@5244
+*[TARO]Vraiment!? Donc[nl]il était[nl][BLUE]derrière[WHITE][nl]l'école?[END]
+@180@5304
+*[AKANE]Je pensais avoir[nl]inspecté cet[nl]endroit.[END]
+@181@5332
+*[ARALE]Hein? Il n'y a[nl]pas plus[nl][PINK]Peasuke[WHITE].[END]
+@182@5372
+*[AKANE]Nan, on ne sait[nl]juste pas où il[nl]est.[END]
+@183@5424
+*[TARO]Bon sang, où[nl]s'est-il[nl]barré...?![END]
+@184@5460
+*[TARO]Je n'arrive pas[nl]à le trouver.[nl]Où diable[nl]est-il?[END]
+@185@5536
+*[AKANE]Il n'est plus[nl]là... Où a-t-il[nl]pu s'enfuir?[END]
+@186@5616
+*[TARO][PINK]Peasuke[WHITE], où te[nl]caches-tu?[END]
+@187/192@5676/5676
+*[AKANE][PINK]Peasuke[WHITE] fait[nl]son [YELLOW]entraînement[nl]spécial[WHITE], on[nl]dirait.[nl]Il y travaille[nl]très dur,[nl]j'ai de grands[nl]espoirs.[END]
+@193@5768
+*[AKANE]C'est pas cool,[nl][PINK]Peasuke.[WHITE]...[END]
+@194@5812
+*[AKANE]L'équipe de[nl]baseball de[nl][PINK]Taro[WHITE] est[nl]en perte de[nl]vitesse depuis[nl]un certain temps[nl]et il n'en[nl]pouvait plus.[nl]Au nom de[nl]l'entraînement,[nl]il a fait subir[nl]à [PINK]Peasuke[WHITE][nl]des conditions[nl]d'entraînement[nl]particulièrement[nl]pénibles.[END]
+@195@5880
+*[AKANE]Ecoute d'abord[nl]ce que [PINK]Taro[WHITE] a[nl]à dire.[END]
+@196/208@5932/5932
+*[PEASUKE_WHITE]Ahh! Pourquoi[nl]es-tu là...[nl]tu m'as fait[nl]peur.[nl]Mon [PINK]grand frère[WHITE][nl]n'arrête pas de[nl]me taquiner[nl]alors je me[nl]cache ici.[nl]Ne lui dis pas,[nl]d'accord?[END]
+@209@6128
+*[PEASUKE_WHITE]Ahh! Pourquoi[nl]es-tu là...[nl]tu m'as fait[nl]peur.[nl]Ne le dis à[nl]personne que[nl]je suis là,[nl]compris?[END]
+@210@6240
+*[TARO]Je suis désolé[nl]mais pourrais-tu[nl]m'aider à[nl]trouver [PINK]Peasuke[WHITE].[END]
+@211@6304
+*[AKANE]On compte sur[nl]toi.[END]
+@212/224@6320/6320
+*[AKANE]La vérité est[nl]que [PINK]Peasuke[WHITE] a[nl]disparu.[END]
+@225@6380
+*[ARALE]Mais pourquoi?[END]
+@226@6396
+*[AKANE][PINK]L'équipe de[nl]baseball de[nl][PINK]Taro[WHITE] est[nl]en perte de[nl]vitesse depuis[nl]un certain temps[nl]et il n'en[nl]pouvait plus.[nl]Au nom de[nl]l'entraînement,[nl]il a fait subir[nl]à [PINK]Peasuke[WHITE][nl]des conditions[nl]d'entraînement[nl]particulièrement[nl]pénibles.[END]
+@227@6556
+*[ARALE]Ho yo yo.[END]
+@228@6572
+*[AKANE]Je suppose qu'il[nl]n'en pouvait[nl]plus et qu'il[nl]s'est enfui.[END]
+@229@6612
+*[AKANE]Hé, pourquoi on[nl]n'irait pas[nl]chercher [PINK]Peasuke[WHITE][nl]ensemble?[END]
+@230@6688
+*[ARALE]Hoi![END]
+@231/240@6700/6700
+*Ok[END]
+@241@6708
+*Pas moyen.[END]
+@242@6716
+*Joli! Tu as[nl]capturé la[nl][YELLOW]capacité[WHITE] de[nl]「course」![nl]Appuie sur[nl][YELLOW]la touche[WHITE] [R1] ou [R2][nl]pour courir[nl]très vite![END]
+@243@6844
+*Retour[END]
+@244@6856
+*Course[END]
+@245@6868
+*[ARALE]Nop.[END]
+@246@6892
+*[ARALE]Okie dokie.[END]
+@247/256/272@6912/6912/7204
+*Rester là[END]
+@257@6928
+*[BLUE]Maison[END]
+@258@6948
+*[BLUE]Barbier[END]
+@259@6976
+*[BLUE]Coffee Pot[END]
+@260@7004
+*[BLUE]Collines[END]
+@261/275@7024/7272
+*Aller où?[END]
+@262/276@7044/7292
+*[ARALE]Peu importe.[END]
+@263@7064
+*[ARALE]Allons à [nl]la [BLUE]maison[WHITE].[END]
+@264@7088
+*[ARALE]Allons chez [nl]le[BLUE]barbier[WHITE].[END]
+@265@7124
+*[ARALE]Aller au café[nl]du [BLUE]Coffee Pot[WHITE].[END]
+@266@7156
+*[ARALE]Aller dans les[nl][BLUE]collines[WHITE].[END]
+@267/268/269/270/271@7184/7188/7192/7196/7200
+*[END]
+@273@7220
+*[BLUE]La classe[END]
+@274@7244
+*[BLUE]Bureau[END]
+@277@7312
+*[ARALE]Allons dans la[nl][BLUE]salle de classe[WHITE].[END]
+@278@7340
+*[ARALE]Allons dans le[nl][BLUE]bureau du[nl]Principal[WHITE].[END]
+@279/304@7372/7372
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@305@7416
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
+@306@7476
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
+@307@7520
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
+@308@7572
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
+@309@7660
+*[YELLOW]Formatage[WHITE]...[END]
+@310@7756
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
+@311@7784
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
+@312@7820
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
+@313@7884
+*[YELLOW]Sauvegarde[WHITE]...[END]
+@314@7984
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
+@315@8028
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
+@316@8080
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
+@317/321@8100/8168
+*Retour[END]
+@318@8108
+*OK[END]
+@319@8120
+*[WHITE]Choisir fichier.[END]
+@320@8152
+*[YELLOW]Sauvegarde.[END]
+@322@8176
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

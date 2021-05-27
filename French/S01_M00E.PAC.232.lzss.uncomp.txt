@@ -52,7 +52,7 @@
 @65@3384
 *[ARALE]C'est quoi ce[nl]truc?[END]
 @66@3404
-*[HAKASE]Écoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
+*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
 @67/69@3564/3692
 *[ARALE]Huh? Je ne peux[nl]pas aller plus[nl]loin.[END]
 @68@3604
@@ -184,7 +184,7 @@
 @262@6696
 *[BLUE]Ecole[END]
 @263@6716
-*[BLUE]Débit de tabac[END]
+*[BLUE]Débit tabac[END]
 @264@6736
 *[BLUE]Police[END]
 @265/272@6768/6768
@@ -202,11 +202,11 @@
 @289@6968
 *[BLUE]Ma chambre[END]
 @290@6992
-*[BLUE]Salle de séjour[END]
+*[BLUE]Séjour[END]
 @291@7012
 *[BLUE]Laboratoire[END]
 @293@7060
-*[ARALE]Peu importe[END]
+*[ARALE]Peu importe.[END]
 @294@7080
 *[ARALE]Allons dans ma[BLUE]chambre[WHITE].[END]
 @295@7112
@@ -214,31 +214,31 @@
 @296@7140
 *[ARALE]Allons au [BLUE]laboratoire[WHITE].[END]
 @297/304@7172/7172
-*Vérification, de la [YELLOW]carte mémoire[WHITE].[END]
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
 @305@7216
-*Impossible d'accéder à la [YELLOW]carte mémoire[WHITE].[END]
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
 @306@7276
-*Aucune [YELLOW]carte mémoire[WHITE] détectée.[END]
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
 @307@7320
-*Espace [YELLOW]carte mémoire[WHITE] insufisant.[END]
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
 @308@7372
-*Cette [YELLOW]carte mémoire[WHITE] n'est pas [YELLOW]formatée[WHITE]. Voulez-vous la [YELLOW]formater[WHITE]?[END]
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
 @309@7460
 *[YELLOW]Formatage[WHITE]...[END]
 @310@7556
-*[YELLOW]Formatage [WHITE]terminé![END]
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
 @311@7584
-*[YELLOW]Sauver la [WHITE]progression?[END]
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
 @312@7620
-*Créer un nouveau fichier de [YELLOW]sauvegarde[WHITE]?[END]
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
 @313@7684
 *[YELLOW]Sauvegarde[WHITE]...[END]
 @314@7784
-*Ecraser une sauvegarde existante?[END]
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
 @315@7828
-*Impossible de [YELLOW]sauvegarder[WHITE] correctement.[END]
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
 @316@7880
-*[YELLOW]Sauvegarde[WHITE] complète![END]
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
 @317/321/419/424@7900/7968/8672/8672
 *Retour.[END]
 @318@7908
@@ -248,31 +248,31 @@
 @320@7952
 *[YELLOW]Sauvegarde.[END]
 @322@7976
-*[WHITE]Impossible de [YELLOW]formater[WHITE] correctement.[END]
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
 @323/392@8028/8028
 *Rester[END]
 @394@8052
-*[ARALE]Je ne vais pas y aller.[END]
+*[ARALE]Je ne vais pas[nl]y aller.[END]
 @396@8084
-*[ARALE]Je suppose que je ne vais nulle part.[END]
+*[ARALE]Je suppose que[nl]je ne vais[nl]nulle part.[END]
 @397@8108
-*[MR_TIME]Quel [YELLOW]scène d'action[WHITE] voudrais-tu visiter?[END]
+*[MR_TIME]Quel[nl][YELLOW]scène d'action[WHITE][nl]voudrais-tu[nl]visiter?[END]
 @398/400@8168/8168
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 1[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 1[WHITE].[END]
 @401@8224
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 2[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 2[WHITE].[END]
 @402@8280
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 3[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 3[WHITE].[END]
 @403@8336
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 5[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 4[WHITE].[END]
 @404@8392
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 6[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 5[WHITE].[END]
 @405@8448
-*[MR_TIME]Très bien! Déplacement vers la [YELLOW]scène 7[WHITE].[END]
+*[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 6[WHITE].[END]
 @410/416@8548/8548
-*[MR_TIME]Bienvenue à la maison.  Excellent travail.  On peut le refaire n'importe quand.[END]
+*[MR_TIME]Bienvenue à la[nl]maison.[nl][nl]Excellent[nl]travail.[nl][nl]On peut le[nl]refaire[nl]n'importe quand.[END]
 @417@8628
-*[ARALE]Yep ha ha! C'était amusant![END]
+*[ARALE]Yep ha ha![nl]C'était amusant![END]
 @425@8680
 *Scène 1[END]
 @426@8692

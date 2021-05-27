@@ -1,0 +1,185 @@
+@@S01_M01B.PAC.232.lzss.uncomp@@323@@648@@6104
+@0/6/7/8/9/10/11/12/13/14/15/23/24/25/26/27/28/29/30/31/38/39/47/55/56/57/58/59/60/61/62/63/68/69/70/71/77/78/79/85/86/87/88/89/90/91/92/93/94/95/104/105/106/107/108/109/110/111/120/121/122/123/124/125/126/127/132/133/134/135/136/137/138/139/140/141/142/143/151/152/153/154/155/156/157/158/159/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/240/241/242/243/244/245/246/247/248/249/250/251/252/253/254/255/263/271/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[LADY_WITH_EARRINGS]Quel âge as-tu,[nl]Arale?[END]
+@1@680
+*[ARALE]Je sors tout[nl]juste du four![END]
+@2@712
+*[LADY_WITH_EARRINGS]...?[END]
+@3@736
+*[LADY_WITH_EARRINGS]Arale, si tu[nl]veux t'asseoir,[nl]place-toi devant[nl]le tabouret[nl]juste là et[nl]appuie sur la[nl][YELLOW]touche[WHITE] [SQUARE].[END]
+@4/84/96/145@872/3064/3064/4284
+*[LADY_WITH_EARRINGS]Tu veux me[nl]donner un coup[nl]de main pour le[nl]café, Arale?[nl]Désolé, mais[nl]pas maintenant.[END]
+@5/16@944/944
+*[AKANE]Dans quelle[nl][BLUE]école[WHITE] vas-tu?[END]
+@17@996
+*[ARALE]Je vais devoir[nl]demander au[nl][PINK]professeur[WHITE] ce[nl]qu'il en est.[END]
+@18@1048
+*[AKANE]...Quoi?[END]
+@19@1076
+*[ARALE]Qu'est-ce que tu[nl]fais là, [PINK]Akane[WHITE]?[END]
+@20@1112
+*[AKANE]Tu ne vois pas?[nl]Je donne un coup[nl]de main au café.[END]
+@21@1160
+*[AKANE]Au fait, [BLUE]Taro[WHITE][nl]vit chez le[nl][BLUE]Barbier[WHITE] nommé[nl]le [BLUE]"Barbier[nl]Soramame"[WHITE].[nl]Pourquoi ne pas[nl]le trouver pour[nl]jouer avec lui[nl]là-bas?[END]
+@22/32@1308/1308
+*[AKANE]Qu'est-ce qu'il[nl]y a, Arale?[END]
+@33@1336
+*[LADY_WITH_EARRINGS]Donc ton nom est[nl]Arale?[nl][PINK]Akane[WHITE] m'a parlé[nl]de toi.[nl]Je m'appelle[nl][PINK]Aoi.[END]
+@34@1428
+*[AKANE]Il s'agit de ma[nl][PINK]grande soeur[WHITE].[END]
+@35@1456
+*[ARALE]N'cha![END]
+@36@1476
+*[LADY_WITH_EARRINGS]Haaa mais voilà[nl]Arale,[nl]bienvenue![END]
+@37/40/103/112/150/160@1516/1516/3452/3452/4492/4492
+*[LADY_WITH_EARRINGS]Sais-tu quel[nl]est le[nl][YELLOW]plat du jour[WHITE]?[END]
+@41/113/161@1572/3508/4548
+*[LADY_WITH_EARRINGS]Mauvaise[nl]réponse.[nl]Jette un coup[nl]d'œil au [YELLOW]tableau[nl]d'affichage[WHITE] pour[nl]voir la[nl][YELLOW]spécialité[WHITE][nl]du jour.[END]
+@42@1640
+*[LADY_WITH_EARRINGS]Bravo![nl]Je vais te[nl]récompenser[nl]avec un conseil[nl]utile.[END]
+@43/115/163@1740/3680/4720
+*[ARALE]U ho hoi![END]
+@44@1756
+*[LADY_WITH_EARRINGS]Si tu remplis[nl]ta [YELLOW]jauge de[nl]Pep's, parle[WHITE]à[nl][PINK]Senbei[WHITE]et il[nl]te fera une[nl][YELLOW]invention[WHITE].[nl]Ce ne sera rien[nl]de fou, alors[nl]n'en attends pas[nl]trop.[nl]C'est compris?[END]
+@45/73@1984/2628
+*[ARALE]Hoi![END]
+@46/48@1996/1996
+*[AKANE]A plus tard![END]
+@49@2012
+*[AKANE]Vas à la [BLUE]place[nl]Taro[WHITE].[nl]Prends le[nl][YELLOW]panneau de[nl]signalisation[WHITE][nl]et va chez le[nl][BLUE]barbier[WHITE].[END]
+@50@2108
+*[AKANE]Il n'y a pas[nl]d'urgence![nl]D'abord, il faut[nl]se détendre[nl]un peu ici.[END]
+@51@2184
+*[ARALE]C'est quoi ce[nl]truc?[END]
+@52@2204
+*[AKANE]Je ne sais[nl]pas.[END]
+@53@2248
+*[LADY_WITH_EARRINGS]Vous, les[nl]enfants, vous[nl]ne pourriez[nl]pas comprendre.[END]
+@54/64@2288/2288
+*[LADY_WITH_EARRINGS]Nan nan nan,[nl]Arale. Cette[nl]porte mène à[nl]notre maison,[nl]je ne peux pas[nl]te laisser[nl]entrer pour le[nl]moment.[nl]Mais tu peux[nl]lire le [YELLOW]journal[WHITE][nl]que j'ai sur[nl]cette porte[nl]à la place.[END]
+@65@2444
+*[AKANE]Tu es folle![nl]Descends de la[nl][YELLOW]table[WHITE], meuf![END]
+@66@2528
+*[AKANE]Je m'en fiche...[nl]fais ce que[nl]tu veux.[END]
+@67/72@2572/2572
+*[LADY_WITH_EARRINGS]Je peux prendre[nl]ta commande,[nl]Arale?[END]
+@74@2640
+*[LADY_WITH_EARRINGS]Les clients[nl]doivent d'abord[nl]être assis.[nl]Appuie sur la[nl][YELLOW]touche[WHITE] [SQUARE] de[nl]ce tabouret[nl]pour t'asseoir.[END]
+@75@2712
+*[LADY_WITH_EARRINGS]Appuie sur la[nl][YELLOW]touche[WHITE] [SQUARE][nl]devant la[nl][YELLOW]chaise[WHITE] pour[nl]t'asseoir.[END]
+@76/80@2808/2808
+*[LADY_WITH_EARRINGS]Un autre[nl]accident[nl]de voiture...[END]
+@81@2856
+*[LADY_WITH_EARRINGS]...j'aurais aimé[nl]être là pour[nl]voir l'accident[nl]de voiture.[END]
+@82@2916
+*[LADY_WITH_EARRINGS]Tu n'aimes pas[nl]venir ici?[nl]Passe de temps[nl]en temps, s'il[nl]te plaît.[END]
+@83@2976
+*[LADY_WITH_EARRINGS]Jette un coup[nl]d'œil au journal[nl]sur la porte.[nl]Je l'ai fait[nl]moi-même![END]
+@97/99@3136/3252
+*[LADY_WITH_EARRINGS]Bienvenue,[nl]Arale.[END]
+@98@3176
+*[LADY_WITH_EARRINGS]Pardon, mais...[nl]c'était quoi ce[nl]grand bruit à[nl]l'instant?[END]
+@100/147@3292/4376
+*[LADY_WITH_EARRINGS]A très bientôt![END]
+@101@3308
+*[LADY_WITH_EARRINGS]C'est si étrange[nl]que ça?[nl]Il se trouve que[nl]j'aime ça.[END]
+@102@3368
+*[PAPER]Quelques soucis[nl]pour l'équipe[nl]de base-ball!!![nl][PINK]Taro[WHITE] le lanceur[nl]n'arrive pas à[nl]faire un strike![END]
+@114/162@3576/4616
+*[LADY_WITH_EARRINGS]Bravo! Je vais[nl]te récompenser[nl]avec un conseil[nl]utile.[END]
+@116@3696
+*[LADY_WITH_EARRINGS]On peut entrer[nl]et sortir de[nl]l'[BLUE]école[WHITE] par[nl]d'autres portes.[nl]Par exemple la[nl]fenêtre de la[nl][BLUE]salle de classe[WHITE][nl]et le [BLUE]bureau[WHITE].[END]
+@117@3840
+*[ARALE]Wouahou![END]
+@118@3856
+*[LADY_WITH_EARRINGS]Ah, mais ne[nl]tente pas de[nl]les utiliser.[nl]Ce serait[nl]dangereux.[END]
+@119/128@3900/3900
+*[LADY_WITH_EARRINGS][PINK]Senbei[WHITE] fait[nl]encore ces[nl]inventions[nl]stupides, me[nl]semble-t-il.[END]
+@129@3980
+*[LADY_WITH_EARRINGS]Arfff... pas un[nl]seul [YELLOW]client[WHITE].[END]
+@130@4024
+*[LADY_WITH_EARRINGS][PINK]Peasuke[WHITE]?[nl]Je suis désolé[nl]mais je ne l'ai[nl]pas vu.[nl]Il est peut-être[nl]aux [BLUE]collines[WHITE]?[nl]Je pense que[nl]tu devrais[nl]demander à la[nl][PINK]police[WHITE]. Ce sont[nl]ceux qui[nl]conduisent dans[nl]les [YELLOW]voitures de[nl]patrouille[WHITE].[END]
+@131/144@4228/4228
+*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] est probablement à l'[BLUE]école[WHITE].[END]
+@146@4356
+*[LADY_WITH_EARRINGS]Bienvenue![END]
+@148@4392
+*[ARALE]N'cha![END]
+@149@4408
+*[PAPER]La [YELLOW]voiture de[nl]police[WHITE] a été[nl]détruite![nl]Une [YELLOW]fille[WHITE] avec[nl]un pouvoir[nl]terrifiant est[nl]apparue![END]
+@164@4736
+*[LADY_WITH_EARRINGS]Si tu marques[nl]des points avec[nl]le père de[nl][PINK]Peasuke[WHITE], il[nl]pourrait te[nl]laisser vérifier[nl]sa [YELLOW]caisse[nl] enregistreuse[WHITE].[nl]Je suis sûr que[nl]tu obtiendras[nl]quelque chose[nl]de sympa de[nl]sa part.[END]
+@165@4876
+*[ARALE]Oh, bon sang![END]
+@166/256@4892/4892
+*Huile moteur[END]
+@257@4908
+*Café[END]
+@258@4924
+*Cake[END]
+@259@4940
+*[ARALE]Huile moteur![END]
+@260@4960
+*[ARALE]Café?[END]
+@261@4984
+*[ARALE]C'est un cake.[END]
+@262/264@5008/5008
+*Citron[END]
+@265@5024
+*Raisin[END]
+@266@5044
+*Orange[END]
+@267@5064
+*[ARALE]Jus de citron![END]
+@268@5088
+*[ARALE]Jus de raisin![END]
+@269@5112
+*[ARALE]Jus d'orange![END]
+@270/272@5136/5136
+*Petit gâteau[END]
+@273@5152
+*Cookies[END]
+@274@5168
+*Pancakes[END]
+@275@5184
+*[ARALE]Petit gâteau![END]
+@276@5208
+*[ARALE]Cookies![END]
+@277@5228
+*[ARALE]Pancakes![END]
+@278/304@5248/5248
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@305@5292
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
+@306@5352
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
+@307@5396
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
+@308@5448
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
+@309@5536
+*[YELLOW]Formatage[WHITE]...[END]
+@310@5632
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
+@311@5660
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
+@312@5696
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
+@313@5760
+*[YELLOW]Sauvegarde[WHITE]...[END]
+@314@5860
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
+@315@5904
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
+@316@5956
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
+@317/321@5976/6044
+*Retour[END]
+@318@5984
+*OK[END]
+@319@5996
+*[WHITE]Choisir fichier.[END]
+@320@6028
+*[YELLOW]Sauvegarde.[END]
+@322@6052
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

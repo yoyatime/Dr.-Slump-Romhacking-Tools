@@ -1,0 +1,109 @@
+@@S01_M14A.PAC.232.lzss.uncomp@@323@@648@@3960
+@0/3/4/5/6/7/8/9/10/11/12/13/14/15/26/27/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/274/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PEASUKE_WHITE]Merci Arale![nl]Maintenant, je[nl]peux me[nl]concentrer sur[nl]mon [YELLOW]entraînement[WHITE][nl]spécial.[END]
+@1@720
+*[PEASUKE_WHITE]Il en reste[nl]encore...[END]
+@2/16@752/752
+*[PEASUKE_WHITE]Très bien,[nl]tu es arrivé[nl]jusqu'ici![END]
+@17@796
+*[ARALE]Qu'est-ce que[nl]tu fais,[nl][PINK]Peasuke[WHITE]?[END]
+@18@836
+*[PEASUKE_WHITE]Je dois[nl]commencer à[nl]suivre un[nl]entraînement[nl]spécial[WHITE] pour que[nl]mon [PINK]grand frère[WHITE][nl]et les autres[nl]arrêtent de s'en[nl]prendre à moi.[nl]C'est le genre[nl]d'entraînement[nl]qui nécessite[nl]un isolement[nl]total.[END]
+@19@976
+*[ARALE]J'ai entendu[nl]dire qu'il y[nl]avait des[nl][YELLOW]monstres[WHITE] ici.[nl]En as-tu vu?[END]
+@20@1040
+*[PEASUKE_WHITE]Beurk!?[nl][YELLOW]M.. monstres[WHITE]!?[nl]Qu'est-ce que[nl]je fais?[nl]Arale, tu dois[nl]m'aider![END]
+@21@1136
+*[ARALE]Est-ce qu'ils[nl]sont balèze ces[nl][nl][YELLOW]monstre[WHITE][nl]?[END]
+@22@1176
+*[PEASUKE_WHITE]Bien sûr qu'ils[nl]le sont![nl]Ils sont ultra[nl]méga forts![END]
+@23@1232
+*[ARALE]Oh, bon sang![END]
+@24@1248
+*[PEASUKE_WHITE]Ces buissons[nl]semblent un peu[nl]suspects...[END]
+@25/32@1300/1300
+*[PEASUKE_WHITE]Je m'entraîne à[nl]faire des [GREEN]coups[nl]de pied glissés[WHITE].[nl]Tu veux qu'on[nl]s'entraîne[nl]ensemble?[END]
+@33@1376
+*[PEASUKE_WHITE]Où vas-tu?[nl]Pratiquons le[nl][GREEN]coup de pied[nl]glissé[WHITE] ensemble,[nl]allez![END]
+@34@1464
+*[PEASUKE_WHITE]A-Arale![nl]Ne me laisse[nl]pas tomber![END]
+@35@1516
+*[PEASUKE_WHITE]Bien joué,[nl]Arale! Il n'a[nl]fallu qu'un[nl]regard et tu as[nl]maîtrisé la[nl]technique![END]
+@36@1588
+*[PEASUKE_WHITE]La grande[nl]classe![END]
+@37@1612
+*[PEASUKE_WHITE]Pas mal, Arale.[END]
+@38@1648
+*[PEASUKE_WHITE]Je vais[nl]continuer à[nl]m'entraîner.[END]
+@39@1680
+*[PEASUKE_WHITE]Ouf, ça fait[nl]du bien d'être[nl]dehors.[END]
+@40@1712
+*[PEASUKE_WHITE]Très bien, je[nl]crois que je[nl]suis prêt![nl]Merci pour ton[nl]aide, Arale![nl]C'est parti![END]
+@41@1848
+*[ARALE]Bye'cha![END]
+@42/48@1872/1872
+*[ARALE]Pas de [YELLOW]monstres[WHITE][nl]par ici.[END]
+@49@1912
+*[ARALE]Mais où sont[nl]passés les[nl][YELLOW]monstres[WHITE]?[END]
+@50@1944
+*[ARALE]Ah! [YELLOW]Monstre[WHITE][nl]droit devant![END]
+@51@1992
+*[PEASUKE_WHITE]Beurk!!![END]
+@52@2012
+*[PEASUKE_WHITE]Je pense qu'ils[nl]se cachent dans[nl]les buissons.[nl]On peut les[nl]voir bouger[nl]parfois...[END]
+@53@2132
+*[ARALE]Tous les[nl][YELLOW]monstres[WHITE][nl]sont-ils[nl]aussi chétifs?[END]
+@54/80@2184/2184
+*[ARALE]Kya ha ha![nl]Je t'ai eu![END]
+@81/96@2220/2220
+*[PEASUKE_WHITE]Hé, travaillons[nl]ensemble sur[nl]notre [YELLOW]formation[nl]spéciale[WHITE].[END]
+@97/240@2280/2280
+*Joli! Tu as[nl][YELLOW]capturé[WHITE][nl]l'abilité[nl][GREEN]「coup de pied[nl]glissé」[WHITE]![nl]Tout en te[nl]déplaçant,[nl]appuie sur la[nl]touche d'[nl][GREEN]accroupissement[WHITE][nl]pour effectuer[nl]un [GREEN]coup de pied[nl]glissé[WHITE].[END]
+@241/256@2416/2416
+*Rester là[END]
+@257@2432
+*[BLUE]Ecole[END]
+@258@2452
+*Aller où?[END]
+@259@2472
+*[ARALE]Allons à[nl][BLUE]l'école[WHITE].[END]
+@260/272@2500/2500
+*Glissade Peasuke[END]
+@273@2532
+*Vérification[nl]carte mémoire.[END]
+@304@3104
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@305@3148
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
+@306@3208
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
+@307@3252
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
+@308@3304
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
+@309@3392
+*[YELLOW]Formatage[WHITE]...[END]
+@310@3488
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
+@311@3516
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
+@312@3552
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
+@313@3616
+*[YELLOW]Sauvegarde[WHITE]...[END]
+@314@3716
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
+@315@3760
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
+@316@3812
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
+@317/321@3832/3900
+*Retour[END]
+@318@3840
+*OK[END]
+@319@3852
+*[WHITE]Choisir fichier.[END]
+@320@3884
+*[YELLOW]Sauvegarde.[END]
+@322@3908
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

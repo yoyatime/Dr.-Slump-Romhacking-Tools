@@ -52,7 +52,7 @@
 @65@3384
 *[ARALE]C'est quoi ce[nl]truc?[END]
 @66@3404
-*[HAKASE]Écoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
+*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
 @67/69@3564/3692
 *[ARALE]Huh? Je ne peux[nl]pas aller plus[nl]loin.[END]
 @68@3604
@@ -202,11 +202,11 @@
 @289@6968
 *[BLUE]Ma chambre[END]
 @290@6992
-*[BLUE]Salle de séjour[END]
+*[BLUE]Séjour[END]
 @291@7012
 *[BLUE]Laboratoire[END]
 @293@7060
-*[ARALE]Peu importe[END]
+*[ARALE]Peu importe.[END]
 @294@7080
 *[ARALE]Allons dans[nl]ma[BLUE]chambre[WHITE].[END]
 @295@7112

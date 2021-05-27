@@ -1,0 +1,195 @@
+@@S01_M02B.PAC.232.lzss.uncomp@@323@@648@@4940
+@0/7/8/9/10/11/12/13/14/15/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47/58/59/60/61/62/63/72/73/74/75/76/77/78/79/85/86/87/88/89/90/91/92/93/94/95/103/104/105/106/107/108/109/110/111/121/122/123/124/125/126/127/140/141/142/143/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
+*[PRINCIPAL]Oh? Tu as des[nl]questions à me[nl]poser?[END]
+@1@672
+*[ARALE]Nop, je ne suis[nl]pas venue voir[nl]un [YELLOW]vieil homme[WHITE][nl]comme toi, je[nl]suis là pour[nl][PINK]Akane[WHITE].[END]
+@2@736
+*[PRINCIPAL]Qui est-ce que[nl]tu traites de[nl][YELLOW]vieil homme[WHITE]!?[END]
+@3@768
+*[PRINCIPAL][PINK]Mlle. Midori[WHITE][nl]t'attend à la[nl]porte.[nl]Elle te conduira[nl]dans ta[nl][BLUE]salle de classe[WHITE].[END]
+@4@868
+*[HAKASE]Je ferais mieux[nl]de venir aussi.[END]
+@5@904
+*[PRINCIPAL]Ce n'est pas la[nl]peine![END]
+@6/16@940/940
+*[YAMABUKI]Viens Arale, [nl]je t'emmène à la[nl][BLUE]salle de classe[WHITE].[END]
+@17/20@1000/1128
+*[ARALE]Hoi![END]
+@18@1012
+*[HAKASE]Quelle chance,[nl]Arale...[END]
+@19@1044
+*[HAKASE]Sois une bonne[nl]fille, Arale.[nl]Ecoute tout ce[nl]que dit[nl][PINK]Mlle Midori[WHITE],[nl]d'accord?[END]
+@21@1140
+*[HAKASE][PINK]Mlle Midori...[WHITE][PINK_HEART][END]
+@22@1172
+*[ARALE][PINK]Professeur[WHITE],[nl]pourquoi[nl]tu baves.[END]
+@23@1204
+*[ARALE]Oups, comment[nl]ai-je atterri[nl]ici?[END]
+@24/32@1240/1240
+*[HAKASE]...heu c'est[nl]une longue[nl]histoire.[nl]S'il te plaît,[nl]veille sur[nl]Arale.[END]
+@33@1308
+*[PRINCIPAL]Très bien.[nl][PINK]Mlle Midori[WHITE] va[nl]accompagner[nl]Arale dans sa[nl][BLUE]salle de classe[WHITE].[END]
+@34@1408
+*[YAMABUKI]Ravi de te[nl]rencontrer,[nl]Arale.[END]
+@35@1440
+*[ARALE]N'cha![END]
+@36@1456
+*[HAKASE]Enchanté de[nl]faire votre[nl]connaissance.[nl]Je suis son[nl]grand frère,[nl][PINK]Senbei[WHITE].[nl]S'il vous plaît,[nl]prenez bien[nl]soin d'Arale.[END]
+@37@1536
+*[YAMABUKI]D'accord...[END]
+@38/48/52@1556/1556/1680
+*[HAKASE]Arrête de[nl]jouer avec[nl]ça![END]
+@49@1608
+*[ARALE]Je vais prendre[nl]ça.[END]
+@50@1628
+*[PRINCIPAL]Ha ha ha...[nl]heuuu... nan.[END]
+@51@1656
+*[ARALE]Que signifie ce[nl]drapeau?[END]
+@53/55@1732/1784
+*[ARALE]Pfioouuu,[nl]ça pue![END]
+@54@1752
+*[PRINCIPAL]...merci pour[nl]votre[nl]implication.[END]
+@56@1804
+*[HAKASE]Vous n'avez pas[nl]besoin d'être[nl]si honnête![END]
+@57/64@1860/1860
+*[PRINCIPAL]Ha ha ha... ça[nl]va être inscrit[nl]dans ton dossier[nl]permanent.[END]
+@65@1924
+*[HAKASE]Psst! Arale![nl]Descends de là![END]
+@66@1980
+*[YAMABUKI]Tu pourrais[nl]te blesser,[nl]Arale.[END]
+@67@2012
+*[ARALE]Ces plantes[nl]sont fanées.[END]
+@68@2036
+*[YAMABUKI]Tu admires les[nl]plantes, Arale?[END]
+@69@2072
+*[ARALE]Allez, on va[nl]aller à la[nl]maison[nl]de [PINK]Akane[WHITE].[END]
+@70@2120
+*[PRINCIPAL]Oh ho ho.[nl]Tu ne l'ouvriras[nl]pas sans[nl]une [YELLOW]clé[WHITE].[END]
+@71/80@2168/2168
+*[PRINCIPAL]Il s'agit d'un[nl][YELLOW]livre[WHITE] que[nl][PINK]Mlle Midori[WHITE] a[nl]confisqué.[nl]Il n'est[nl]absolument pas[nl]à moi![END]
+@81@2272
+*[PRINCIPAL]Tu ne me[nl]crois pas?[END]
+@82@2304
+*[PRINCIPAL]Arale,[nl]connais-tu les[nl][YELLOW]dinosaures[WHITE],[nl]par hasard?[END]
+@83@2368
+*[PRINCIPAL]Ho ho ho![END]
+@84/96@2388/2388
+*[ARALE]Le [nl][PINK]principal[WHITE][nl]n'est pas ici?[END]
+@97@2436
+*[PRINCIPAL]Tu as besoin de[nl]quelque chose?[END]
+@98@2468
+*[ARALE]C'est vide.[END]
+@99@2500
+*[PRINCIPAL]Il n'y a plus[nl]rien là-dedans.[END]
+@100@2536
+*[ARALE]Qu'est-ce que[nl]c'est?[nl][nl]J'ai trouvé[nl]quelque chose.[END]
+@101@2572
+*[PRINCIPAL]Aaah! Pourquoi[nl]as-tu cette[nl][YELLOW]clé[WHITE]![END]
+@102/112@2636/2636
+*[ARALE]Hein? Qu'est-ce[nl]qui se passe[nl]avec ce livre?[END]
+@113@2672
+*[PRINCIPAL]Stooppp![nl]Je t'en supplie![nl]Ne regardes pas[nl]ça![END]
+@114@2720
+*[ARALE]Hé, comment se[nl]fait-il que ces[nl]gens soient[nl]tout nus?[END]
+@115@2768
+*[PRINCIPAL]Je... je n'en ai[nl]aucune idée...[END]
+@116@2800
+*[ARALE]Je vais aller montrer ça à[PINK]Mlle Midori[WHITE].[END]
+@117@2852
+*[PRINCIPAL]Houlala... Il ne[nl]faut absolument[nl]pas faire ça![END]
+@118@2884
+*[PRINCIPAL]Arrête de[nl]déconner avec[nl]ça, c'est vide[nl]de toute façon.[END]
+@119/135/137@2936/3220/3296
+*[PRINCIPAL]Pars tout de[nl]suite![END]
+@120/128@2968/2968
+*[ARALE]Et que signifie[nl]ce drapeau?[END]
+@129@2988
+*[PRINCIPAL]Tu ne[nl]comprendrais[nl]pas.[END]
+@130@3016
+*[PRINCIPAL]Où est-ce que[nl]tu te crois?[nl]Va-t'en d'ici![END]
+@131@3072
+*[PRINCIPAL]Whoua, mais[nl]qu'est-ce que[nl]tu cherches[nl]au juste?[END]
+@132/134@3104/3172
+*[PRINCIPAL]Ne jouez pas[nl]ici.[nl]Dégage.[END]
+@133@3152
+*[PRINCIPAL]Ha ha ha...[END]
+@136@3252
+*[PRINCIPAL]C'est dangereux,[nl]arrête-toi s'il[nl]te plaît![END]
+@138@3328
+*[PRINCIPAL](Bah... elle n'en[nl]a même pas[nl]encore vu un...)[END]
+@139/144@3388/3388
+*[PRINCIPAL]Zzz zzz...[END]
+@145/149@3408/3564
+*[PRINCIPAL]Heu... Qu'est-ce[nl]que c'est,[nl]qu'est-ce qui[nl]s'est passé?![END]
+@146/150@3448/3604
+*[ARALE]Kya ha ha ha![END]
+@147/151@3468/3624
+*[PRINCIPAL]Oh, c'est toi.[nl]Je n'ai pas le[nl]temps pour tes[nl]bêtises, je suis[nl]très occupé.[END]
+@148/152@3552/3708
+*[ARALE]Ok.[END]
+@153@3720
+*[PRINCIPAL]Pourquoi est-ce[nl]que tu me[nl]regardes comme[nl]ça?[nl]Ecoute, je vais[nl]remplir ta jauge[nl]un peu, alors[nl]pars s'il te[nl]plaît![END]
+@154@3808
+*[ARALE]Quel grand[nl]drapeau.[END]
+@155@3832
+*[ARALE]C'est dégoûtant![END]
+@156@3848
+*[ARALE]N'cha![END]
+@157@3864
+*[ARALE]Je n'ai pas la[nl][YELLOW]clé[WHITE],donc[nl]ça ne s'ouvrira[nl]pas.[END]
+@158/240@3900/3900
+*Oui[END]
+@241@3908
+*Non[END]
+@242@3920
+*[ARALE]Oui.[END]
+@243@3932
+*[ARALE]Non.[END]
+@244/256@3948/3948
+*Aller où?[END]
+@257@3968
+*Rester là[END]
+@258@3984
+*[BLUE]Salle de classe[END]
+@259@4008
+*[BLUE]Cour d'école[END]
+@260/272@4028/4028
+*[ARALE]Allons dans la[nl][BLUE]salle de classe[WHITE].[END]
+@273@4056
+*[ARALE]Allons dans la[nl][BLUE]cour de l'école[WHITE].[END]
+@274/304@4084/4084
+*Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@305@4128
+*Impossible[nl]d'accéder à la[nl][YELLOW]carte mémoire[WHITE].[END]
+@306@4188
+*Aucune[nl][YELLOW]carte mémoire[WHITE][nl]détectée.[END]
+@307@4232
+*Espace[nl][YELLOW]carte mémoire[WHITE][nl]insufisant.[END]
+@308@4284
+*Cette[nl][YELLOW]carte mémoire[WHITE][nl]n'est pas[nl][YELLOW]formatée[WHITE].[nl]Voulez-vous la[nl][YELLOW]formater[WHITE]?[END]
+@309@4372
+*[YELLOW]Formatage[WHITE]...[END]
+@310@4468
+*[YELLOW]Formatage[nl][WHITE]terminé![END]
+@311@4496
+*[YELLOW]Sauver la[nl][WHITE]progression?[END]
+@312@4532
+*Créer un nouveau[nl]fichier de[nl][YELLOW]sauvegarde[WHITE]?[END]
+@313@4596
+*[YELLOW]Sauvegarde[WHITE]...[END]
+@314@4696
+*Ecraser une[nl]sauvegarde[nl]existante?[END]
+@315@4740
+*Impossible de[nl][YELLOW]sauvegarder[WHITE][nl]correctement.[END]
+@316@4792
+*[YELLOW]Sauvegarde[WHITE][nl]complète![END]
+@317/321@4812/4880
+*Retour[END]
+@318@4820
+*OK[END]
+@319@4832
+*[WHITE]Choisir fichier.[END]
+@320@4864
+*[YELLOW]Sauvegarde.[END]
+@322@4888
+*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
