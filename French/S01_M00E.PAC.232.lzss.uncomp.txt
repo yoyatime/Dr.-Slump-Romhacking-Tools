@@ -22,7 +22,7 @@
 @23@1884
 *[HAKASE]Chaque fois que[nl]tu [YELLOW]captures[WHITE][nl]quelque chose,[nl]tu apprendras[nl]comment faire[nl]ce mouvement.[nl]Alors fais[nl]attention quand[nl]ça arrive,[nl]d'accord?[END]
 @25@2004
-*[HAKASE]Maintenant, sors[nl]et découvre[nl]le monde.[nl]Ca a l'air[nl]amusant, non?[END]]
+*[HAKASE]Maintenant, sors[nl]et découvre[nl]le monde.[nl]Ca a l'air[nl]amusant, non?[END]
 @26@2072
 *[HAKASE]Es-tu allé jouer[nl]avec [PINK]Akane[WHITE]?[nl]Utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE],[nl]et rends-toi[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[nl]C'est là-bas[nl]qu'elle vis.[END]
 @27/32@2184/2184
