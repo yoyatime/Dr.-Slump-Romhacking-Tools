@@ -22,7 +22,7 @@
 @24/32@1108/1108
 *[AKANE]Tu l'as trouvé!?[nl]Ouf... désolée[nl]pour tout à[nl]l'heure.[nl]Je m'appelle[nl][PINK]Akane[WHITE], au fait.[END]
 @33@1212
-*[ARALE]Je m'appelle[nl]Arale.[nl]Je suis venu[nl]ici de la part[nl]du professeur.END]
+*[ARALE]Je m'appelle[nl]Arale.[nl]Je suis venu[nl]ici de la part[nl]du professeur.[END]
 @34@1268
 *[AKANE]Le [PINK]professeur[WHITE]?[nl]Oh, tu dois[nl]vouloir dire[nl][PINK]Senbei[WHITE].[nl]Es-tu son cousin[nl]ou quelque chose[nl]du genre?[nl]Eh, peu importe.[nl]Le grand type[nl]ici, c'est [PINK]Taro[WHITE].[END]
 @35@1392
