@@ -94,7 +94,7 @@
 @117@3500
 *[AKANE]C'est ça![nl][GALA]Cours[WHITE] jusqu'à[nl]lui, à toute[nl]vitesse![END]
 @119/144@3572/3572
-*[AKANE][PINK]Taro[WHITE] et[nl][PINK]Peasuke[WHITE] sont[nl]dans l'équipe[nl]de baseball.[nl]Leur équipe est[nl]super faible,[nl]mais ils[nl]n'abandonnent[nl] jamais.[END]
+*[AKANE][PINK]Taro[WHITE] et[nl][PINK]Peasuke[WHITE] sont[nl]dans l'équipe[nl]de baseball.[nl]Leur équipe est[nl]super faible,[nl]mais ils[nl]n'abandonnent[nl]jamais.[END]
 @145@3708
 *[ARALE][PINK]Tarosie[WHITE] est[nl]un gringalet?[END]
 @146@3740
@@ -104,7 +104,7 @@
 @148@3816
 *[AKANE]Tu devrais jeter[nl]un coup d'oeil[nl]au [YELLOW]journal[WHITE][nl]dans le café.[END]
 @150/160@3904/3904
-*[AKANE]Whoua, Arale![nl]Pourquoi as-tu[nl]ce genre de[nl][YELLOW]livre[WHITE] avec toi?[nl]Tu ne peux pas[nl]te promener[nl]comme ça avec[nl]quelque chose[nl] comme ça.[nl]Tu devrais le[nl]donner à [PINK]Senbei[WHITE][nl]et admirer la[nl]tête qu'il va[nl]faire.[END]
+*[AKANE]Whoua, Arale![nl]Pourquoi as-tu[nl]ce genre de[nl][YELLOW]livre[WHITE] avec toi?[nl]Tu ne peux pas[nl]te promener[nl]comme ça avec[nl]quelque chose[nl]comme ça.[nl]Tu devrais le[nl]donner à [PINK]Senbei[WHITE][nl]et admirer la[nl]tête qu'il va[nl]faire.[END]
 @161@4064
 *[AKANE]Yo Arale,[nl]Viens par ici![END]
 @162@4116
@@ -142,7 +142,7 @@
 @197@4952
 *[AKANE]Euh, essuie ça[nl]d'abord.[END]
 @198/240@5012/5012
-*Joli! Tu as[nl][YELLOW]capturé[WHITE][nl]la capacité[nl][GREEN]「accroupir」[WHITE]![nl]Appuie sur la[nl][YELLOW]touche[WHITE] [CIRCLE][nl]pour[nl] [YELLOW]t'accroupir[WHITE].[END]
+*Joli! Tu as[nl][YELLOW]capturé[WHITE][nl]la capacité[nl][GREEN]「accroupir」[WHITE]![nl]Appuie sur la[nl][YELLOW]touche[WHITE] [CIRCLE][nl]pour[nl][YELLOW]t'accroupir[WHITE].[END]
 @241@5132
 *[ARALE]Qu'est-ce que[nl]ça veut dire?[END]
 @242/256@5156/5156
@@ -196,6 +196,6 @@
 @319@6132
 *[WHITE]Choisir fichier.[END]
 @320@6164
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@6188
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

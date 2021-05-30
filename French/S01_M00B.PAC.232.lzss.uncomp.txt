@@ -14,7 +14,7 @@
 @6/33/180@1056/1672/3900
 *[ARALE]Humm.[END]
 @7@1072
-*[HAKASE]Ensuite, tu[nl]verras une[nl][YELLOW]liste[WHITE] des[nl]endroits que tu[nl]peux atteindre[nl]depuis cette[nl]zone.[nl]Il y a des[nl]endroits[nl] [YELLOW]autres que les[nl]portes[WHITE] où cela[nl]fonctionne,[nl]comme par[nl]exemple [YELLOW]les[nl]escaliers[WHITE].[nl]Essaie de le[nl]faire partout.[nl] Compris?[END]
+*[HAKASE]Ensuite, tu[nl]verras une[nl][YELLOW]liste[WHITE] des[nl]endroits que tu[nl]peux atteindre[nl]depuis cette[nl]zone.[nl]Il y a des[nl]endroits[nl][YELLOW]autres que les[nl]portes[WHITE] où cela[nl]fonctionne,[nl]comme par[nl]exemple [YELLOW]les[nl]escaliers[WHITE].[nl]Essaie de le[nl]faire partout.[nl]Compris?[END]
 @8@1328
 *[ARALE]Humm, et si je[nl]dois faire la[nl]numéro une?[END]
 @9@1368
@@ -24,7 +24,7 @@
 @17/32@1480/1480
 *[HAKASE]Tu es plutôt[nl]maline,[nl]laisse-moi te[nl]dire comment te[nl]déplacer dans[nl]les différentes[nl]zones.[nl]Lorsque tu veux[nl]te déplacer,[nl]place-toi devant[nl]une [YELLOW]porte[WHITE] et[nl]appuie sur la[nl][YELLOW]touche[WHITE] [SQUARE].[nl]Tout comme tu[nl]l'as fait la[nl]dernière fois.[END]
 @34@1688
-*[HAKASE]Ensuite, tu[nl]verras une[nl][YELLOW]liste[WHITE] des[nl]endroits que tu[nl]peux atteindre[nl]depuis cette[nl]zone.[nl]Il y a des[nl]endroits[nl] [YELLOW]autres que les[nl]portes[WHITE] où cela[nl]fonctionne,[nl]comme par[nl]exemple [YELLOW]les[nl]escaliers[WHITE].[nl]Essaie de le[nl]faire partout.[nl] Compris?[END]
+*[HAKASE]Ensuite, tu[nl]verras une[nl][YELLOW]liste[WHITE] des[nl]endroits que tu[nl]peux atteindre[nl]depuis cette[nl]zone.[nl]Il y a des[nl]endroits[nl][YELLOW]autres que les[nl]portes[WHITE] où cela[nl]fonctionne,[nl]comme par[nl]exemple [YELLOW]les[nl]escaliers[WHITE].[nl]Essaie de le[nl]faire partout.[nl]Compris?[END]
 @35@1956
 *[ARALE]Hoi.[END]
 @36/37/48/85@1968/1980/1980/2468
@@ -44,7 +44,7 @@
 @65@2204
 *[HAKASE]Tu ne trouveras[nl]rien là-dedans,[nl]alors ne te[nl]donne pas la[nl]peine de[nl]chercher.[END]
 @67@2272
-*[ARALE]U-ho-hoi![nl]J'ai trouvé[nl]quelques[nl][YELLOW]pièces[WHITE]![END]
+*[ARALE]U ho hoi![nl]J'ai trouvé[nl]quelques[nl][YELLOW]pièces[WHITE]![END]
 @68/80@2320/2320
 *[ARALE]N'cha![END]
 @81@2336
@@ -68,7 +68,7 @@
 @99/151@2644/3692
 *[ARALE]Cela me semble[nl]familier.[END]
 @100/145/147/148/150@2676/3412/3508/3552/3648
-*[ARALE]U-ho-hoi![nl]J'ai trouvé[nl]quelques[nl][YELLOW]pièces[WHITE]![END]
+*[ARALE]U ho hoi![nl]J'ai trouvé[nl]quelques[nl][YELLOW]pièces[WHITE]![END]
 @102/112@2748/2748
 *[ARALE]Hey, [PINK]professeur[WHITE],[nl]comment accéder[nl]aux [BLUE]collines[WHITE]?[END]
 @113@2816
@@ -112,7 +112,7 @@
 @181@3916
 *[HAKASE]J'ai trouvé![nl]Arale![nl]Tu pourrais[nl]t'appeler[nl]Arale Norimaki![nl]C'est réglé![END]
 @182@3984
-*[ARALE]U-ho-hoi![END]
+*[ARALE]U ho hoi![END]
 @183@4004
 *[HAKASE]Tu as encore[nl]un peu la tête[nl]ailleurs, alors[nl]laisse-moi[nl]t'expliquer[nl]quelques trucs.[nl]En fait, ce[nl]serait peut-être[nl]mieux de te[nl]laisser courir[nl]un peu.[nl]Quand tu auras[nl]fini, parle-moi[nl]en te plaçant[nl]devant moi en[nl]appuyant sur le[nl][YELLOW]bouton[WHITE] [SQUARE].[END]
 @185/256@4232/4232
@@ -166,6 +166,6 @@
 @319@5192
 *[WHITE]Choisir fichier.[END]
 @320@5224
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@5248
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

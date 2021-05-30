@@ -82,7 +82,7 @@
 @98@3676
 *[HAKASE]Chut, tais-toi![nl]C'est ici que[nl]je fais toutes[nl]mes recherches.[nl]Si jamais tu as[nl]besoin de moi,[nl]tu me trouveras[nl]là.[END]
 @100@3796
-*[HAKASE]Si jamais[nl]tu aimerais[nl]partir d'ici,[nl]alors place toi[nl]devant les[nl][YELLOW]escaliers[WHITE] et[nl]appuie sur la[nl] touche[WHITE] [SQUARE][YELLOW].[END]
+*[HAKASE]Si jamais[nl]tu aimerais[nl]partir d'ici,[nl]alors place toi[nl]devant les[nl][YELLOW]escaliers[WHITE] et[nl]appuie sur la[nl]touche[WHITE] [SQUARE][YELLOW].[END]
 @102@3896
 *[HAKASE]Arale...[nl]dépêche-toi,[nl]et va-t'en.[nl]Souviens-toi[nl]appuie sur la[nl]touche[YELLOW] [SQUARE][WHITE][nl]en faisant face[nl]aux [YELLOW]escaliers[WHITE].[END]
 @134/144@4356/4356
@@ -110,23 +110,23 @@
 @169/192@5520/5520
 *[ARALE]Kya-ha-ha![END]
 @193@5540
-*[ARALE]U-ho-hoi![END]
+*[ARALE]U ho hoi![END]
 @194@5556
 *[ARALE]Beurp...[END]
 @195/208@5576/5576
-*[HAKASE]Grâce à mon[nl]inégalable[nl][YELLOW]génie[WHITE], le monde[nl]est sur le point[nl]d'être témoin[nl]de la naissance[nl]du premier[nl]cyborg autonome![nl] Non...[MEDIUM_PAUSE][nl]de la naissance[nl]du premier[nl][YELLOW]humanoide robot[WHITE]![END]
+*[HAKASE]Grâce à mon[nl]inégalable[nl][YELLOW]génie[WHITE], le monde[nl]est sur le point[nl]d'être témoin[nl]de la naissance[nl]du premier[nl]cyborg autonome![nl]Non...[MEDIUM_PAUSE][nl]de la naissance[nl]du premier[nl][YELLOW]humanoide robot[WHITE]![END]
 @209@5712
-*[HAKASE]Oui! Oui! Je[nl]suis l'ultra[nl]méga super[nl][YELLOW]génie[WHITE]! Je vais[nl]finalement[nl]obtenir la plus[nl]magnifique et[nl]pétillante des[nl] [YELLOW]robot[WHITE] de mes[nl]rêves.[nl]Tout ce qu'il[nl]me reste à faire[nl]c'est actionner[nl][YELLOW]l'intérupteur[WHITE].[nl]Et c'est parti![MEDIUM_PAUSE][nl]activation![END]
+*[HAKASE]Oui! Oui! Je[nl]suis l'ultra[nl]méga super[nl][YELLOW]génie[WHITE]![nl]Je vais[nl]finalement[nl]obtenir la plus[nl]magnifique et[nl]pétillante des[nl][YELLOW]robot[WHITE] de mes[nl]rêves.[nl]Tout ce qu'il[nl]me reste à faire[nl]c'est actionner[nl][YELLOW]l'intérupteur[WHITE].[nl]Et c'est parti![MEDIUM_PAUSE][nl]activation![END]
 @210@5956
 *[HAKASE]...!![MEDIUM_PAUSE][nl]Qu'est-ce que...[nl]c'est que cette[nl][YELLOW]éclair[WHITE] au juste[nl]maintenant?[END]
 @211@6024
 *[HAKASE]Mince elle a[nl]l'aire si[nl][YELLOW]petite[WHITE]?[END]
 @213@6076
-*[HAKASE]J'ai sûrement dû[nl]me tromper[nl]quelque part.[nl]Non... non, elle[nl]n'est pas censée[nl]ressembler à[nl]ça![nl]Ceci est[nl]probablement dû[nl]à ce terrible[nl][YELLOW]éclair[WHITE]![nl]Elle était[nl]supposer être[nl]une charmante[nl][YELLOW]supermodèle[nl]robot[WHITE]femme![END]
+*[HAKASE]J'ai sûrement[nl]dû me tromper[nl]quelque part.[nl]Non... non, elle[nl]n'est pas censée[nl]ressembler à[nl]ça![nl]Ceci est[nl]probablement dû[nl]à ce terrible[nl][YELLOW]éclair[WHITE]![nl]Elle était[nl]supposer être[nl]une charmante[nl][YELLOW]supermodèle[nl]robot[WHITE]femme![END]
 @214@6236
 *[ARALE]Hé toi, tu[nl]ressembles à un[nl][YELLOW]gorille[WHITE].[END]
 @215@6260
-*[HAKASE]Qui est-ce que[nl]tu traîtes de[nl][YELLOW]gorille[WHITE]!?[nl]Tu n'as surement[nl]pas les yeux en[nl]face des trous.[nl]Tiens, voici[nl] pour toi une[nl]belle paire de[nl][YELLOW]lunette[WHITE].[END]
+*[HAKASE]Qui est-ce que[nl]tu traîtes de[nl][YELLOW]gorille[WHITE]!?[nl]Tu n'as surement[nl]pas les yeux en[nl]face des trous.[nl]Tiens, voici[nl]pour toi une[nl]belle paire de[nl][YELLOW]lunette[WHITE].[END]
 @216@6376
 *[ARALE]Waouh, tout[nl]paraît si clair[nl]maintenant.[nl]Hé, mais oui...[nl]tu as bien[nl]une tête de[nl][YELLOW]gorille[WHITE].[END]
 @217@6432
@@ -158,7 +158,7 @@
 @308@7736
 *[HAKASE]Voici le[nl][BLUE]compteur de[nl]vitesse[WHITE]![nl]Il peut te dire[nl]à quelle vitesse[nl]tu te déplaces.[nl]Il se trouve sur[nl]le côté droit[nl]de l'écran.[END]
 @309/313/317/321/325/329/333/337/341/345/349/353/357/361/365/367/369@7860/8084/8296/8480/8656/8848/9036/9224/9408/9584/9796/10056/10360/10512/10728/10884/11040
-*[ARALE]U-ho-hoi![END]
+*[ARALE]U ho hoi![END]
 @310/314/318/322/326/330/334/338@7880/8104/8316/8500/8676/8868/9056/9244
 *[HAKASE]Tu peux soit[nl]l'activer, soit[nl]le désactiver à[nl][YELLOW]la machine à[nl]inventions[WHITE].[END]
 @311/312@7960/7960
@@ -228,6 +228,6 @@
 @383@11652
 *[HAKASE]...Je l'ai fait.[nl]Je me suis donné[nl]beaucoup de mal[nl]pour créer ceci[nl]pour toi, Arale.[END]
 @384@11732
-*[ARALE]U-ho-hoi![nl]Qu'est-ce que[nl]tu as fait?[END]
+*[ARALE]U ho hoi![nl]Qu'est-ce que[nl]tu as fait?[END]
 @385@11776
-*[HAKASE]Ce ne serait pas[nl]drôle si je te[nl]disais ce que[nl]c'est.[nl][nl]Rends-toi au[nl][YELLOW]porte-manteau[WHITE] de[nl]ta [BLUE]chambre[WHITE] et[nl] vois-le par[nl]toi-même.[END]
+*[HAKASE]Ce ne serait pas[nl]drôle si je te[nl]disais ce que[nl]c'est.[nl][nl]Rends-toi au[nl][YELLOW]porte-manteau[WHITE] de[nl]ta [BLUE]chambre[WHITE] et[nl]vois-le par[nl]toi-même.[END]

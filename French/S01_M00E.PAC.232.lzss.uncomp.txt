@@ -34,11 +34,11 @@
 @35@2452
 *[HAKASE]Attends un peu.[END]
 @37@2488
-*[HAKASE]Lorsque tu as[nl]parlé avec[nl][PINK]Akane[WHITE],le[nl][YELLOW]compteur[WHITE]en haut[nl]de l'écran a[nl]fait "ding" et[nl]s'est rempli[nl]un peu.[nl] C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
+*[HAKASE]Lorsque tu as[nl]parlé avec[nl][PINK]Akane[WHITE],le[nl][YELLOW]compteur[WHITE]en haut[nl]de l'écran a[nl]fait "ding" et[nl]s'est rempli[nl]un peu.[nl]C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
 @38/50@2672/3096
 *[ARALE]Huummm.[END]
 @39/51@2688/3112
-*[HAKASE]Si tu arrives à[nl]la remplir,[nl]viens dans mon[nl][BLUE]laboratoire[WHITE].[nl]Je créerai une[nl]toute nouvelle[nl][YELLOW]invention[WHITE] pour[nl] toi.[END]
+*[HAKASE]Si tu arrives à[nl]la remplir,[nl]viens dans mon[nl][BLUE]laboratoire[WHITE].[nl]Je créerai une[nl]toute nouvelle[nl][YELLOW]invention[WHITE] pour[nl]toi.[END]
 @40/52@2820/3244
 *[ARALE]Ok.[END]
 @41/53@2832/3256
@@ -52,7 +52,7 @@
 @65@3384
 *[ARALE]C'est quoi ce[nl]truc?[END]
 @66@3404
-*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
+*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl]choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
 @67/69@3564/3692
 *[ARALE]Huh? Je ne peux[nl]pas aller plus[nl]loin.[END]
 @68@3604
@@ -148,7 +148,7 @@
 @196/208/418@6112/6112/8656
 *[GATCHAN]Ku-pi-po![END]
 @209@6128
-*[ARALE]U-ho-hoi![END]
+*[ARALE]U ho hoi![END]
 @210@6148
 *[HAKASE]Quel genre de[nl]bébé est-ce?[END]
 @211@6180
@@ -246,7 +246,7 @@
 @319@7920
 *[WHITE]Choisir fichier.[END]
 @320@7952
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@7976
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
 @323/392@8028/8028

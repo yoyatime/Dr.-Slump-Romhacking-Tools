@@ -108,7 +108,7 @@
 @149@4408
 *[PAPER]La [YELLOW]voiture de[nl]police[WHITE] a été[nl]détruite![nl]Une [YELLOW]fille[WHITE] avec[nl]un pouvoir[nl]terrifiant est[nl]apparue![END]
 @164@4736
-*[LADY_WITH_EARRINGS]Si tu marques[nl]des points avec[nl]le père de[nl][PINK]Peasuke[WHITE], il[nl]pourrait te[nl]laisser vérifier[nl]sa [YELLOW]caisse[nl] enregistreuse[WHITE].[nl]Je suis sûr que[nl]tu obtiendras[nl]quelque chose[nl]de sympa de[nl]sa part.[END]
+*[LADY_WITH_EARRINGS]Si tu marques[nl]des points avec[nl]le père de[nl][PINK]Peasuke[WHITE], il[nl]pourrait te[nl]laisser vérifier[nl]sa [YELLOW]caisse[nl]enregistreuse[WHITE].[nl]Je suis sûr que[nl]tu obtiendras[nl]quelque chose[nl]de sympa de[nl]sa part.[END]
 @165@4876
 *[ARALE]Oh, bon sang![END]
 @166/256@4892/4892
@@ -180,6 +180,6 @@
 @319@5996
 *[WHITE]Choisir fichier.[END]
 @320@6028
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@6052
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

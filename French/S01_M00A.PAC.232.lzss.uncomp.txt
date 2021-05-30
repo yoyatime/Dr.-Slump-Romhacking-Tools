@@ -1,6 +1,6 @@
 @@S01_M00A.PAC.232.lzss.uncomp@@432@@868@@8764
 @0/6/7/8/9/10/11/12/13/14/15/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/74/75/76/77/78/79/84/85/86/87/90/91/92/93/94/95/103/104/105/106/107/108/109/110/111/125/126/127/134/135/136/137/138/139/140/141/142/143/148/149/150/151/152/153/154/155/156/157/158/159/168/169/170/171/172/173/174/175/181/182/183/184/185/186/187/188/189/190/191/197/198/199/200/201/202/203/204/205/206/207/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/253/254/255/266/267/268/269/270/271/279/280/281/282/283/284/285/286/287/298/299/300/301/302/303/324/325/326/327/328/329/330/331/332/333/334/335/336/337/338/339/340/341/342/343/344/345/346/347/348/349/350/351/352/353/354/355/356/357/358/359/360/361/362/363/364/365/366/367/368/369/370/371/372/373/374/375/376/377/378/379/380/381/382/383/384/385/386/387/388/389/390/391/399/407/411/412/413/414/415/420/421/422/423@868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868/868
-*[HAKASE]Tu as dû[nl]apprendre[nl]pas mal de[nl][JAUNE]capacités[BLANC][nl]en ville.[nl]Pourquoi ne me[nl]montrerais-tu[nl]pas tous les[nl]mouvements que[nl]tu as appris[nl]jusqu'à présent.[END]
+*[HAKASE]Tu as dû[nl]apprendre[nl]pas mal de[nl][YELLOW]capacités[WHITE][nl]en ville.[nl]Pourquoi ne me[nl]montrerais-tu[nl]pas tous les[nl]mouvements que[nl]tu as appris[nl]jusqu'à présent.[END]
 @1/24/71/119@1080/1992/3892/4896
 *[ARALE]Hoi![END]
 @2@1092
@@ -34,11 +34,11 @@
 @35@2452
 *[HAKASE]Attends une[nl]seconde.[END]
 @37@2488
-*[HAKASE]Lorsque tu as[nl]parlé avec[nl][PINK]Akane[WHITE],le[nl][YELLOW]compteur[WHITE]en haut[nl]de l'écran a[nl]fait "ding" et[nl]s'est rempli[nl]un peu.[nl] C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
+*[HAKASE]Lorsque tu as[nl]parlé avec[nl][PINK]Akane[WHITE],le[nl][YELLOW]compteur[WHITE]en haut[nl]de l'écran a[nl]fait "ding" et[nl]s'est rempli[nl]un peu.[nl]C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
 @38/50@2672/3096
 *[ARALE]Huummm.[END]
 @39/51@2688/3112
-*[HAKASE]Si tu arrives à[nl]la remplir,[nl]viens dans mon[nl][BLUE]laboratoire[WHITE].[nl]Je créerai une[nl]toute nouvelle[nl][YELLOW]invention[WHITE] pour[nl] toi.[END]
+*[HAKASE]Si tu arrives à[nl]la remplir,[nl]viens dans mon[nl][BLUE]laboratoire[WHITE].[nl]Je créerai une[nl]toute nouvelle[nl][YELLOW]invention[WHITE] pour[nl]toi.[END]
 @40/52@2820/3244
 *[ARALE]Ok...[END]
 @41/53@2832/3256
@@ -52,7 +52,7 @@
 @65@3384
 *[ARALE]C'est quoi ce[nl]truc?[END]
 @66@3404
-*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl] choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
+*[HAKASE]Ecoute Arale,[nl]à chaque fois[nl]que tu veux[nl]aller quelque[nl]part, utilise le[nl][YELLOW]panneau[nl]indicateurs[WHITE].[nl]Il suffit de[nl]choisir[nl]l'endroit où[nl]tu veux aller et[nl]il t'y emmènera.[END]
 @67/69@3564/3692
 *[ARALE]Huh? Je ne peux[nl]pas aller plus[nl]loin.[END]
 @68@3604
@@ -148,7 +148,7 @@
 @196/208/418@6112/6112/8656
 *[GATCHAN]Ku-pi-po![END]
 @209@6128
-*[ARALE]U-ho-hoi![END]
+*[ARALE]U ho hoi![END]
 @210@6148
 *[HAKASE]Quel genre de[nl]bébé est-ce?[END]
 @211@6180
@@ -246,7 +246,7 @@
 @319@7920
 *[WHITE]Choisir fichier.[END]
 @320@7952
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@7976
 *[WHITE]Impossible de [YELLOW]formater[WHITE] correctement.[END]
 @323/392@8028/8028

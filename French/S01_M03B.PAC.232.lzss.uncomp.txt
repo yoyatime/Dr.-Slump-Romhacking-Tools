@@ -98,7 +98,7 @@
 @103@3516
 *[ARALE]Je suis triste[nl]maintenant...[END]
 @104@3536
-*[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl] [YELLOW]100 points[WHITE]![END]
+*[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl][YELLOW]100 points[WHITE]![END]
 @105@3712
 *[ARALE]U ho hoi! Super![nl]J'ai obtenu une[nl]centaine de[nl]points![END]
 @106@3764
@@ -108,9 +108,9 @@
 @108@3940
 *[PAPA_SORAMAME]C'est évident.[nl]Mais essaie de[nl]ne le dire à[nl]personne,[nl]d'accord?[END]
 @109@4024
-*[PAPA_SORAMAME]Je vois. Je suis[nl]content que[nl][PINK]Taro[WHITE] puisse[nl]compter sur toi,[nl]mais ne le[nl]laisse pas[nl]t'entraîner dans[nl]sa chute[nl] [YELLOW]50 points[WHITE],[nl]c'est tout ce[nl]que je peux[nl]te donner.[END]
+*[PAPA_SORAMAME]Je vois. Je suis[nl]content que[nl][PINK]Taro[WHITE] puisse[nl]compter sur toi,[nl]mais ne le[nl]laisse pas[nl]t'entraîner dans[nl]sa chute[nl][YELLOW]50 points[WHITE],[nl]c'est tout ce[nl]que je peux[nl]te donner.[END]
 @111@4196
-*[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl] [YELLOW]100 points[WHITE]![END]
+*[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl][YELLOW]100 points[WHITE]![END]
 @116@4616
 *[PAPA_SORAMAME]Désolé Arale.[nl]Je n'ai plus de[nl][YELLOW]prix[WHITE] pour toi.[END]
 @117@4680
@@ -168,6 +168,6 @@
 @319@6156
 *[WHITE]Choisir fichier.[END]
 @320@6188
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@6212
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

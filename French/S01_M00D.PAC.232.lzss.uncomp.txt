@@ -144,7 +144,7 @@
 @319@5136
 *[WHITE]Choisir fichier.[END]
 @320@5168
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@5192
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
 @323/324@5244/5244

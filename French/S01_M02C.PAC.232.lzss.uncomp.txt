@@ -12,7 +12,7 @@
 @5@868
 *[AKANE]Dépêchons-nous[nl]et sortons de[nl]là.[END]
 @6/16@900/900
-*[YAMABUKI]Ecoutez, tout le[nl]monde![nl]Nous avons une[nl]nouvelle élève[nl]qui nous rejoint[nl]aujourd'hui.[nl]Veuillez[nl]accueillir[nl]chaleureusement[nl] Arale Norimaki.[END]
+*[YAMABUKI]Ecoutez, tout le[nl]monde![nl]Nous avons une[nl]nouvelle élève[nl]qui nous rejoint[nl]aujourd'hui.[nl]Veuillez[nl]accueillir[nl]chaleureusement[nl]Arale Norimaki.[END]
 @17@976
 *[ARALE]N'cha![END]
 @18@996
@@ -130,7 +130,7 @@
 @177@4116
 *[YAMABUKI]Attends une[nl]minute, Arale.[nl]Pourquoi ne pas[nl]essayer un petit[nl]quizz?[END]
 @178@4192
-*[YAMABUKI]Quel grand[nl]enthousiasme![nl]Voici la[nl]question.[nl]Combien de[nl][YELLOW]pupitres[WHITE]y a-t-il[nl]dans cette[nl][BLUE]salle de[nl] classe[WHITE]?[END]
+*[YAMABUKI]Quel grand[nl]enthousiasme![nl]Voici la[nl]question.[nl]Combien de[nl][YELLOW]pupitres[WHITE]y a-t-il[nl]dans cette[nl][BLUE]salle de[nl]classe[WHITE]?[END]
 @179@4312
 *[YAMABUKI]Malheureusement,[nl]la bonne réponse[nl]était 17.[nl]Quel dommage.[END]
 @180@4372
@@ -262,6 +262,6 @@
 @319@6576
 *[WHITE]Choisir fichier.[END]
 @320@6608
-*[YELLOW]Sauvegarde.[END]
+*[YELLOW]Sauver?[END]
 @322@6632
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
