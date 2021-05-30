@@ -232,11 +232,11 @@
 @375@6096
 *Circuit charme[END]
 @376@6116
-*Verres/contact[END]
+*Verres-contact[END]
 @377@6140
-*Couleur/fenêtres[END]
+*Couleur-fenêtres[END]
 @378@6164
-*Choix/police[END]
+*Choix-police[END]
 @379@6184
 *Collection[END]
 @380@6212
