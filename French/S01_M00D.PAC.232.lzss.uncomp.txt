@@ -196,7 +196,7 @@
 @356@5776
 *Saut grenouille[END]
 @357@5792
-*Coup/pied glissé[END]
+*Coup-pied glissé[END]
 @358@5808
 *Poing remonter[END]
 @359@5824
