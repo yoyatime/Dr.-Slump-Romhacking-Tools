@@ -8,13 +8,13 @@
 @17@796
 *[ARALE]Qu'est-ce que[nl]tu fais,[nl][PINK]Peasuke[WHITE]?[END]
 @18@836
-*[PEASUKE_WHITE]Je dois[nl]commencer à[nl]suivre un[nl]entraînement[nl]spécial[WHITE] pour que[nl]mon [PINK]grand frère[WHITE][nl]et les autres[nl]arrêtent de s'en[nl]prendre à moi.[nl]C'est le genre[nl]d'entraînement[nl]qui nécessite[nl]un isolement[nl]total.[END]
+*[PEASUKE_WHITE]Je dois[nl]commencer à[nl]suivre un[nl][YELLOW]entraînement[nl]spécial[WHITE] pour que[nl]mon [PINK]grand frère[WHITE][nl]et les autres[nl]arrêtent de s'en[nl]prendre à moi.[nl]C'est le genre[nl]d'entraînement[nl]qui nécessite[nl]un isolement[nl]total.[END]
 @19@976
 *[ARALE]J'ai entendu[nl]dire qu'il y[nl]avait des[nl][YELLOW]monstres[WHITE] ici.[nl]En as-tu vu?[END]
 @20@1040
 *[PEASUKE_WHITE]Beurk!?[nl][YELLOW]M.. monstres[WHITE]!?[nl]Qu'est-ce que[nl]je fais?[nl]Arale, tu dois[nl]m'aider![END]
 @21@1136
-*[ARALE]Est-ce qu'ils[nl]sont balèze ces[nl][nl][YELLOW]monstre[WHITE][nl]?[END]
+*[ARALE]Est-ce qu'ils[nl]sont balèze ces[nl][YELLOW]monstre[WHITE][nl]?[END]
 @22@1176
 *[PEASUKE_WHITE]Bien sûr qu'ils[nl]le sont![nl]Ils sont ultra[nl]méga forts![END]
 @23@1232
@@ -102,7 +102,7 @@
 @318@3840
 *OK[END]
 @319@3852
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@3884
 *[YELLOW]Sauver?[END]
 @322@3908

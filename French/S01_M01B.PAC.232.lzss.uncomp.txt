@@ -16,7 +16,7 @@
 @18@1048
 *[AKANE]...Quoi?[END]
 @19@1076
-*[ARALE]Qu'est-ce que tu[nl]fais là, [PINK]Akane[WHITE]?[END]
+*[ARALE]Qu'est-ce que[nl]tu fais là,[nl][PINK]Akane[WHITE]?[END]
 @20@1112
 *[AKANE]Tu ne vois pas?[nl]Je donne un coup[nl]de main au café.[END]
 @21@1160
@@ -24,7 +24,7 @@
 @22/32@1308/1308
 *[AKANE]Qu'est-ce qu'il[nl]y a, Arale?[END]
 @33@1336
-*[LADY_WITH_EARRINGS]Donc ton nom est[nl]Arale?[nl][PINK]Akane[WHITE] m'a parlé[nl]de toi.[nl]Je m'appelle[nl][PINK]Aoi.[END]
+*[LADY_WITH_EARRINGS]Donc ton nom[nl]c'est Arale?[nl][PINK]Akane[WHITE] m'a parlé[nl]de toi.[nl]Je m'appelle[nl][PINK]Aoi.[END]
 @34@1428
 *[AKANE]Il s'agit de ma[nl][PINK]grande soeur[WHITE].[END]
 @35@1456
@@ -40,7 +40,7 @@
 @43/115/163@1740/3680/4720
 *[ARALE]U ho hoi![END]
 @44@1756
-*[LADY_WITH_EARRINGS]Si tu remplis[nl]ta [YELLOW]jauge de[nl]Pep's, parle[WHITE]à[nl][PINK]Senbei[WHITE]et il[nl]te fera une[nl][YELLOW]invention[WHITE].[nl]Ce ne sera rien[nl]de fou, alors[nl]n'en attends pas[nl]trop.[nl]C'est compris?[END]
+*[LADY_WITH_EARRINGS]Si tu remplis[nl]ta [YELLOW]jauge de[nl]Pep's[WHITE], parle à[nl][PINK]Senbei[WHITE]et il[nl]te fera une[nl][YELLOW]invention[WHITE].[nl]Ce ne sera rien[nl]de fou, alors[nl]n'en attends pas[nl]trop.[nl]C'est compris?[END]
 @45/73@1984/2628
 *[ARALE]Hoi![END]
 @46/48@1996/1996
@@ -58,9 +58,9 @@
 @54/64@2288/2288
 *[LADY_WITH_EARRINGS]Nan nan nan,[nl]Arale. Cette[nl]porte mène à[nl]notre maison,[nl]je ne peux pas[nl]te laisser[nl]entrer pour le[nl]moment.[nl]Mais tu peux[nl]lire le [YELLOW]journal[WHITE][nl]que j'ai sur[nl]cette porte[nl]à la place.[END]
 @65@2444
-*[AKANE]Tu es folle![nl]Descends de la[nl][YELLOW]table[WHITE], meuf![END]
+*[AKANE]Tu es folle![nl]Descends de la[nl][YELLOW]table[WHITE]![END]
 @66@2528
-*[AKANE]Je m'en fiche...[nl]fais ce que[nl]tu veux.[END]
+*[AKANE]Je m'en fiche,[nl]fais ce que[nl]tu veux.[END]
 @67/72@2572/2572
 *[LADY_WITH_EARRINGS]Je peux prendre[nl]ta commande,[nl]Arale?[END]
 @74@2640
@@ -82,13 +82,13 @@
 @100/147@3292/4376
 *[LADY_WITH_EARRINGS]A très bientôt![END]
 @101@3308
-*[LADY_WITH_EARRINGS]C'est si étrange[nl]que ça?[nl]Il se trouve que[nl]j'aime ça.[END]
+*[LADY_WITH_EARRINGS]C'est si[nl]étrange que[nl]ça? Il se[nl]trouve que[nl]j'aime ça.[END]
 @102@3368
 *[PAPER]Quelques soucis[nl]pour l'équipe[nl]de base-ball!!![nl][PINK]Taro[WHITE] le lanceur[nl]n'arrive pas à[nl]faire un strike![END]
 @114/162@3576/4616
 *[LADY_WITH_EARRINGS]Bravo! Je vais[nl]te récompenser[nl]avec un conseil[nl]utile.[END]
 @116@3696
-*[LADY_WITH_EARRINGS]On peut entrer[nl]et sortir de[nl]l'[BLUE]école[WHITE] par[nl]d'autres portes.[nl]Par exemple la[nl]fenêtre de la[nl][BLUE]salle de classe[WHITE][nl]et le [BLUE]bureau[WHITE].[END]
+*[LADY_WITH_EARRINGS]On peut entrer[nl]et sortir de[nl][BLUE]l'école[WHITE] par[nl]d'autres portes.[nl]Par exemple la[nl]fenêtre de la[nl][BLUE]salle de classe[WHITE][nl]et le [BLUE]bureau[WHITE].[END]
 @117@3840
 *[ARALE]Wouahou![END]
 @118@3856
@@ -100,25 +100,25 @@
 @130@4024
 *[LADY_WITH_EARRINGS][PINK]Peasuke[WHITE]?[nl]Je suis désolé[nl]mais je ne l'ai[nl]pas vu.[nl]Il est peut-être[nl]aux [BLUE]collines[WHITE]?[nl]Je pense que[nl]tu devrais[nl]demander à la[nl][PINK]police[WHITE]. Ce sont[nl]ceux qui[nl]conduisent dans[nl]les [YELLOW]voitures de[nl]patrouille[WHITE].[END]
 @131/144@4228/4228
-*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] est probablement à l'[BLUE]école[WHITE].[END]
+*[LADY_WITH_EARRINGS][PINK]Akane[WHITE] est[nl]probablement à[nl][BLUE]l'école[WHITE].[END]
 @146@4356
 *[LADY_WITH_EARRINGS]Bienvenue![END]
 @148@4392
 *[ARALE]N'cha![END]
 @149@4408
-*[PAPER]La [YELLOW]voiture de[nl]police[WHITE] a été[nl]détruite![nl]Une [YELLOW]fille[WHITE] avec[nl]un pouvoir[nl]terrifiant est[nl]apparue![END]
+*[PAPER]La [YELLOW]voiture de[nl]police[WHITE] a été[nl]détruite![nl]Une [YELLOW]fillette[WHITE][nl]avec un[nl]pouvoir[nl]terrifiant est[nl]apparue![END]
 @164@4736
 *[LADY_WITH_EARRINGS]Si tu marques[nl]des points avec[nl]le père de[nl][PINK]Peasuke[WHITE], il[nl]pourrait te[nl]laisser vérifier[nl]sa [YELLOW]caisse[nl]enregistreuse[WHITE].[nl]Je suis sûr que[nl]tu obtiendras[nl]quelque chose[nl]de sympa de[nl]sa part.[END]
 @165@4876
 *[ARALE]Oh, bon sang![END]
 @166/256@4892/4892
-*Huile moteur[END]
+*Huile sale[END]
 @257@4908
 *Café[END]
 @258@4924
 *Cake[END]
 @259@4940
-*[ARALE]Huile moteur![END]
+*[ARALE]Huile sale![END]
 @260@4960
 *[ARALE]Café?[END]
 @261@4984
@@ -136,7 +136,7 @@
 @269@5112
 *[ARALE]Jus d'orange![END]
 @270/272@5136/5136
-*Petit gâteau[END]
+*Gâteau[END]
 @273@5152
 *Cookies[END]
 @274@5168
@@ -178,7 +178,7 @@
 @318@5984
 *OK[END]
 @319@5996
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@6028
 *[YELLOW]Sauver?[END]
 @322@6052

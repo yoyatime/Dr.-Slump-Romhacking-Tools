@@ -1,0 +1,69 @@
+@@S00_M14A.PAC.232.lzss.uncomp@@273@@548@@2340
+@0/3/4/5/6/7/8/9/10/11/12/13/14/15/26/27/28/29/30/31/43/44/45/46/47/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125/126/127/128/129/130/131/132/133/134/135/136/137/138/139/140/141/142/143/144/145/146/147/148/149/150/151/152/153/154/155/156/157/158/159/160/161/162/163/164/165/166/167/168/169/170/171/172/173/174/175/176/177/178/179/180/181/182/183/184/185/186/187/188/189/190/191/192/193/194/195/196/197/198/199/200/201/202/203/204/205/206/207/208/209/210/211/212/213/214/215/216/217/218/219/220/221/222/223/224/225/226/227/228/229/230/231/232/233/234/235/236/237/238/239/242/243/244/245/246/247/248/249/250/251/252/253/254/255/261/262/263/264/265/266/267/268/269/270/271@548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548/548
+*[PEASUKE_WHITE]Merci Arale![nl]Maintenant je[nl]peux me[nl]concentrer[nl]sur mon[nl][YELLOW]entraînement[nl]spécial[WHITE].[END]
+@1@620
+*[PEASUKE_WHITE]C'est toujours[nl]là...[END]
+@2/16@652/652
+*[PEASUKE_WHITE]Très bien,[nl]tu es arrivée[nl]jusqu'ici![END]
+@17@696
+*[ARALE]Peasuke,[nl]qu'est-ce que[nl]tu fais?[END]
+@18@732
+*[PEASUKE_WHITE]Je dois[nl]commencer à[nl]suivre un[nl][YELLOW]entraînement[nl]spécial[WHITE] pour[nl]que mon [PINK]grand[nl]frère[WHITE] et les[nl]autres arrêtent[nl]de s'en prendre[nl]à moi.[nl]C'est le genre[nl]d'entraînement[nl]qui nécessite[nl]un isolement[nl]total.[END]
+@19@868
+*[ARALE]J'ai entendu[nl]dire qu'il y[nl]avait des[nl][YELLOW]monstres[WHITE] ici.[nl]En as-tu[nl]déjà vu?[END]
+@20@932
+*[PEASUKE_WHITE]Beurk!?[nl]Des [YELLOW]monstres[WHITE]!?[nl]Que dois-je[nl]faire, Arale,[nl]tu dois[nl]m'aider![END]
+@21@1028
+*[ARALE]Des monstres...[nl]sont-ils balèze?[END]
+@22@1068
+*[PEASUKE_WHITE]Bien sûr que[nl]oui![nl]Ils sont méga[nl]ultra forts![END]
+@23@1124
+*[ARALE]Oh, bon sang![END]
+@24@1140
+*[PEASUKE_WHITE]Ces buissons[nl]semblent un peu[nl]suspects...[END]
+@25/32@1192/1192
+*[PEASUKE_WHITE]Je m'entraîne[nl]à faire des[nl][GREEN]coups de pied[nl]glissés[WHITE].[nl]Tu veux[nl]t'entraîner[nl]avec moi?[END]
+@33@1268
+*[PEASUKE_WHITE]Où vas-tu?[nl]Pratiquons le[nl][GREEN]coup de pied[nl]glissé[WHITE] ensemble,[nl]allez![END]
+@34@1332
+*[PEASUKE_WHITE]A-Arale![nl]Ne me laisse pas[nl]tomber![END]
+@35@1384
+*[PEASUKE_WHITE]Bien joué[nl]Arale! Il t'a[nl]suffit d'un seul[nl]coup d'oeil[nl]pour comprendre[nl]et apprendre![END]
+@36@1456
+*[PEASUKE_WHITE]Superbe forme![END]
+@37@1480
+*[PEASUKE_WHITE]Pas mal, Arale.[END]
+@38@1516
+*[PEASUKE_WHITE]Je vais[nl]continuer à[nl]m'entraîner.[END]
+@39@1548
+*[PEASUKE_WHITE]Pfiou, ça fait[nl]du bien d'être[nl]dehors.[END]
+@40@1580
+*[PEASUKE_WHITE]Très bien,[nl]je crois que[nl]je suis prêt![nl]Merci pour ton[nl]aide, Arale![nl]C'est parti![END]
+@41@1716
+*[ARALE]Bye'cha![END]
+@42/48@1740/1740
+*[ARALE]Il n'y a plus[nl]de [YELLOW]monstres[WHITE][nl]ici.[END]
+@49@1780
+*[ARALE]Où sont les[nl][YELLOW]monstres[WHITE]...[END]
+@50@1812
+*[ARALE]Haaa![nl][YELLOW]Monstre[WHITE] repéré![END]
+@51@1860
+*[PEASUKE_WHITE]Beurk![END]
+@52@1880
+*[PEASUKE_WHITE]Je pense qu'ils[nl]se cachent dans[nl]les buissons.[nl]On peut les[nl]voir bouger[nl]parfois...[END]
+@53@2000
+*[ARALE]Est ce que tous[nl]les [YELLOW]monstres[WHITE][nl]sont aussi[nl]chétifs?[END]
+@54/80@2052/2052
+*[ARALE]Kya ha ha![nl]Je l'ai eu![END]
+@81/240@2088/2088
+*Joli! Tu as[nl]appris la[nl]capacité du[nl]「[GREEN]coup de pied[nl]glissé[WHITE]」![nl]Tout en te[nl]déplaçant,[nl]appuie sur la[nl]touche[nl][GREEN]accroupissement[WHITE][nl]pour effectuer[nl]un coup de pied[nl]glissé.[END]
+@241/256@2224/2224
+*Rester là[END]
+@257@2240
+*[BLUE]Ecole[END]
+@258@2260
+*Aller où?[END]
+@259@2280
+*[ARALE]Allons à[nl][BLUE]l'école[WHITE].[END]
+@260/272@2308/2308
+*Glissade Peasuke[END]

@@ -4,9 +4,9 @@
 @1/24/71/119@1080/1992/3892/4896
 *[ARALE]Hoi![END]
 @2@1092
-*[HAKASE]Hoo-ah![nl]J'ai une superbe[nl][YELLOW]invention[WHITE]pour[nl]toi Arale.[nl]Allons dans ta[nl][BLUE]chambre[WHITE] que[nl]je puisse te[nl]montrer ça.[END]
+*[HAKASE]Hoo ah![nl]J'ai une superbe[nl][YELLOW]invention[WHITE]pour[nl]toi Arale.[nl]Allons dans ta[nl][BLUE]chambre[WHITE] que[nl]je puisse te[nl]montrer ça.[END]
 @3/17/22/36@1236/1356/1872/2476
-*[ARALE]Ho-yo?[END]
+*[ARALE]Ho yo?[END]
 @4@1248
 *[HAKASE]Montre-moi tous[nl]les mouvements[nl]que tu as[nl]appris![END]
 @5/16@1284/1284
@@ -14,23 +14,23 @@
 @18@1368
 *[HAKASE]Les enfants[nl]devraient faire[nl]des bonds dans[nl]tous les sens,[nl]comme cela...[END]
 @19@1448
-*[HAKASE]Voilà c'est[nl]mieux comme ça![nl]J'ai installé[nl]un[nl][YELLOW]circuit spécial[WHITE][nl]qui te permet[nl]de copier toutes[nl]les[nl][YELLOW]capacités[nl]spéciales[WHITE][nl]dont tu es[nl]témoin![nl]Je l'ai appelé[nl]le[nl][YELLOW]circuit de[nl]capture[WHITE].[nl]N'est-ce pas[nl]excitant?[nl]Ooh, j'en ai[nl]des frissons.[END]
+*[HAKASE]Je t'ai[nl]installé un[nl][YELLOW]circuit spécial[WHITE][nl]qui te permet[nl]de copier toutes[nl]les[nl][YELLOW]capacités[nl]spéciales[WHITE][nl]dont tu es[nl]témoin![nl]Je l'ai appelé[nl]le [YELLOW]circuit de[nl]capture[WHITE].[nl]N'est-ce pas[nl]excitant?[nl]Ooh, j'en ai[nl]des frissons.[END]
 @20@1712
-*[ARALE]C'est incroyable![END]
+*[ARALE]C'est à peine[nl]croyable![END]
 @21@1740
-*[HAKASE](C'est inattendu.[nl]Je ne savais[nl]même pas que[nl]j'avais[nl]construit cette[nl]fonctionnalité.[nl]Je me surprends[nl]moi-même[nl]parfois...♪)[END]
+*[HAKASE](C'est fou.[nl]Je ne savais[nl]même pas que[nl]j'avais[nl]construit cette[nl]fonctionnalité.[nl]Je me surprends[nl]moi-même[nl]parfois...♪)[END]
 @23@1884
 *[HAKASE]Chaque fois que[nl]tu [YELLOW]captures[WHITE][nl]quelque chose,[nl]tu apprendras[nl]comment faire[nl]ce mouvement.[nl]Alors fais[nl]attention quand[nl]ça arrive,[nl]d'accord?[END]
 @25@2004
-*[HAKASE]Maintenant, sors[nl]et découvre[nl]le monde.[nl]Ca a l'air[nl]amusant, non?[END]
+*[HAKASE]Maintenant,[nl]sors et[nl]vas à la[nl]découverte[nl]du monde.[nl]Ca a l'air[nl]amusant, non?[END]
 @26@2072
-*[HAKASE]Es-tu allé jouer[nl]avec [PINK]Akane[WHITE]?[nl]Utilise le[nl][YELLOW]panneau de[nl]signalisation[WHITE],[nl]et rends-toi[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[nl]C'est là-bas[nl]qu'elle vis.[END]
+*[HAKASE]Es-tu allée[nl]voir [PINK]Akane[WHITE]?[nl]Utilise le[nl][YELLOW]panneau de[nl]signalisation[WHITE],[nl]et rends-toi[nl]au café le[nl][BLUE]Coffee Pot[WHITE].[nl]C'est là-bas[nl]qu'elle vis.[END]
 @27/32@2184/2184
-*[ARALE]Hey [PINK]professeur[WHITE],[nl]je me suis fait[nl]des[YELLOW]amis[WHITE].[END]
+*[ARALE]Hey [PINK]professeur[WHITE],[nl]je me suis fait[nl]des [YELLOW]amis[WHITE].[END]
 @33@2240
-*[HAKASE]*[HAKASE]Je vois que[nl]tu as rencontré[nl][PINK]Akane[WHITE].[nl]Je crois qu'elle[nl]vit dans la[nl]maison en forme[nl]de [BLUE]cafetière[WHITE].[nl]Pourquoi ne pas[nl]y retourner?[nl]Prends le[nl][YELLOW]panneau[nl]indicateurs[WHITE][nl]et retourne[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[END]
+*[HAKASE]Je vois que[nl]tu as rencontré[nl][PINK]Akane[WHITE].[nl]Je crois qu'elle[nl]vit dans la[nl]maison en forme[nl]de [BLUE]cafetière[WHITE].[nl]Pourquoi ne pas[nl]y retourner?[nl]Prends le[nl][YELLOW]panneau[nl]indicateurs[WHITE][nl]et retourne[nl]au café du[nl][BLUE]Coffee Pot[WHITE].[END]
 @34@2428
-*[ARALE]J'y vais![END]
+*[ARALE]Ok, j'y vais![END]
 @35@2452
 *[HAKASE]Attends une[nl]seconde.[END]
 @37@2488
@@ -42,11 +42,11 @@
 @40/52@2820/3244
 *[ARALE]Ok...[END]
 @41/53@2832/3256
-*[HAKASE]Cela mérite plus[nl]qu'un simple[nl]"ok"![nl]Sois un peu plus[nl]enthousiaste![END]
+*[HAKASE]Ca mérite[nl]un peu plus[nl]qu'un simple[nl]"ok"![nl]Sois un peu plus[nl]enthousiaste![END]
 @42/48@2884/2884
 *[HAKASE]Elle n'a pas[nl]progressé du[nl]tout![END]
 @49@2916
-*[HAKASE]Lorsque tu[nl]touches un[YELLOW]caca[WHITE],[nl]le [YELLOW]compteur[WHITE][nl]en haut de[nl]l'écran a fait[nl]"ding" et s'est[nl]rempli un peu.[nl]C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
+*[HAKASE]Lorsque tu[nl]touches un [YELLOW]caca[WHITE],[nl]le [YELLOW]compteur[WHITE][nl]en haut de[nl]l'écran a fait[nl]"ding" et s'est[nl]rempli un peu.[nl]C'est ta[nl][YELLOW]gauge de pep's[WHITE],[nl]elle mesure ton[nl]excitation.[END]
 @54/64@3308/3308
 *[HAKASE]Terre à Arale,[nl]j'ai quelque[nl]chose à te dire.[END]
 @65@3384
@@ -62,11 +62,11 @@
 @72@3904
 *[HAKASE]Arrête de[nl]toucher ça.[END]
 @73/80@3960/3960
-*[HAKASE]Tada! C'est ma[nl][BLUE]maison[WHITE].[nl]Ne dégage-t-elle[nl]pas une belle[nl]ambiance?[END]
+*[HAKASE]Tada![nl]Voici ma belle[nl][BLUE]maison[WHITE].[nl]Ne dégage-t-elle[nl]pas une belle[nl]ambiance?[END]
 @81@4036
-*[ARALE]C'est minuscule.[END]
+*[ARALE]C'est tout[nl]petit.[END]
 @82@4056
-*[HAKASE]Tu te trompes![END]
+*[HAKASE]Tu racontes[nl]n'importe quoi![END]
 @83/88@4084/4084
 *[HAKASE]Viens par ici,[nl]Arale.[END]
 @89/96@4136/4136
@@ -78,7 +78,7 @@
 @99@4288
 *[HAKASE]La [BLUE]pantoufle[nl]du temps[WHITE] a[nl]le pouvoir[nl]de t'emmener[nl]dans le[nl][YELLOW]passé lointain[WHITE].[END]
 @100@4380
-*[ARALE]Ho-yo.[END]
+*[ARALE]Ho yo.[END]
 @101@4392
 *[HAKASE](Euh, elle n'a[nl]pas l'air très[nl]impressionnée.)[MEDIUM_PAUSE][nl]Bien Arale,[nl]pourquoi ne pas[nl]faire un essai?[nl]Parles-en avec[nl][PINK]Mr. Time[WHITE].[END]
 @102/112@4520/4520
@@ -96,17 +96,17 @@
 @118@4816
 *[MR_TIME]Mme Arale...[nl]nous ne pouvons[nl]pas continuer[nl]l'histoire si[nl]tu ne pars pas.[END]
 @120@4908
-*[MR_TIME]B... bien alors,[nl]tu es prête?[END]
+*[MR_TIME]B-bien alors,[nl]tu es prête?[END]
 @122/123@4964/5008
 *[HAKASE]Vas-y,[nl]parle-lui.[END]
 @124/128@5052/5052
-*[HAKASE]Bon timing[nl]Arale.[nl][nl]Je viens juste[nl]de mettre la[nl]touche finale à[nl]une autre de mes[nl][YELLOW]inventions[WHITE]![END]
+*[HAKASE]Bon timing[nl]Arale.[nl]Je viens juste[nl]de mettre la[nl]touche finale à[nl]une autre de mes[nl][YELLOW]inventions[WHITE]![END]
 @129@5148
 *[HAKASE]Qu'est-ce qu'il[nl]y a Arale,[nl]tu as besoin de[nl]quelque chose?[END]
 @130@5196
 *[HAKASE]Arale![nl]Ecoute ce que[nl]j'ai à dire![END]
 @131@5244
-*[MR_TIME]Par tous les[nl]dieux...[nl][nl]Qu-Qu'est-ce[nl]que tu fais?[nl]Ne t'avise plus[nl]de me toucher[nl]avec tes mains![END]
+*[MR_TIME]Par tous les[nl]dieux...[nl]Qu-Qu'est-ce[nl]que tu fais?[nl]Ne t'avise plus[nl]de me toucher[nl]avec tes mains![END]
 @132@5324
 *[HAKASE]Hé, où est-ce[nl]que tu crois[nl]aller?[END]
 @133/144@5360/5360
@@ -116,9 +116,9 @@
 @146/409@5404/8524
 *[MR_TIME]LE TEMPS![END]
 @147/160@5428/5428
-*[HAKASE]Je vois que tu[nl]as appris à t'[nl][GREEN]「accroupir」[WHITE].[END]
+*[HAKASE]Je vois que tu[nl]as appris à[nl][GREEN]「t'accroupir」[WHITE].[END]
 @161@5480
-*[HAKASE]C'est un méchant[nl][GREEN]「poing」[WHITE] que[nl]tu as là.[nl]Ne me frappe pas[nl]avec ça![END]
+*[HAKASE]C'est un[nl]méchant[nl][GREEN]「coup de poing」[WHITE][nl]que tu as là.[nl]Ne me frappe pas[nl]avec ça![END]
 @162@5548
 *[HAKASE]Donc tu as[nl]appris à[nl][GREEN]「courir vite」[WHITE].[nl]Je vois.[END]
 @163@5580
@@ -130,9 +130,9 @@
 @166@5724
 *[HAKASE]Whoua, je vais[nl]reculer un[nl]peu, ça commence[nl]à être[nl]dangereux.[END]
 @167/176@5780/5780
-*[HAKASE]Je l'ai déjà vue[nl]s'[GREEN]accroupir[WHITE].[END]
+*[HAKASE]Je t'ai déjà[nl]vue [GREEN]t'accroupir[WHITE].[END]
 @177@5820
-*[HAKASE]C'est le même[nl]coup de[nl][GREEN]poing[WHITE] que la[nl]dernière fois,[nl]tu me l'as déjà[nl]montré.[END]
+*[HAKASE]Joli coup de[nl][GREEN]coup de poing[WHITE].[nl]Tu me l'as déjà[nl]montré.[END]
 @178@5856
 *[HAKASE]Essaie autre[nl]chose que[nl][GREEN]courir vite[WHITE][nl]maintenant.[END]
 @179@5908
@@ -146,7 +146,7 @@
 @195@6100
 *[ARALE]Ah![END]
 @196/208/418@6112/6112/8656
-*[GATCHAN]Ku-pi-po![END]
+*[GATCHAN]Ku pi po![END]
 @209@6128
 *[ARALE]U ho hoi![END]
 @210@6148
@@ -158,7 +158,7 @@
 @213@6272
 *[ARALE]Parce que ce[nl]bébé a l'air[nl]super fort.[nl]Je l'appellerai[nl][PINK]Gatchan[WHITE] pour[nl]faire court.[END]
 @214@6320
-*[GATCHAN]Ku-pi!![END]
+*[GATCHAN]Ku pi!![END]
 @215@6336
 *[HAKASE][PINK]Gatchan[WHITE], heu?[nl][PINK]Gatchan Norimaki[WHITE]...[nl]Quel genre de[nl]bébé es-tu?[END]
 @216/240@6416/6416
@@ -176,7 +176,7 @@
 @257/259/278/288@6592/6624/6952/6952
 *Rester là.[END]
 @258@6608
-*Aller jouer[END]
+*Jouer[END]
 @260@6640
 *[BLUE]Coffee Pot[END]
 @261@6668
@@ -184,7 +184,7 @@
 @262@6696
 *[BLUE]Ecole[END]
 @263@6716
-*[BLUE]Débit de tabac[END]
+*[BLUE]Buraliste[END]
 @264@6736
 *[BLUE]Police[END]
 @265/272@6768/6768
@@ -194,9 +194,9 @@
 @274@6820
 *[ARALE]Rendons-nous[nl]chez le[nl][BLUE]barbier[WHITE].[END]
 @275@6856
-*[ARALE]Rendons-nous à[nl]l'[BLUE]école[WHITE].[END]
+*[ARALE]Rendons-nous à[nl][BLUE]l'école[WHITE].[END]
 @276@6884
-*[ARALE]Allons au[nl][BLUE]débit de tabac[WHITE].[END]
+*[ARALE]Allons chez[nl][BLUE]le buraliste[WHITE].[END]
 @277@6912
 *[ARALE]Allons au[nl][BLUE]commisariat[nl]de police[WHITE].[END]
 @289@6968
@@ -204,7 +204,7 @@
 @290@6992
 *[BLUE]Séjour[END]
 @291@7012
-*[BLUE]Laboratoire[END]
+*[BLUE]Le labo[END]
 @293@7060
 *[ARALE]Peu importe.[END]
 @294@7080
@@ -244,7 +244,7 @@
 @318@7908
 *OK[END]
 @319@7920
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@7952
 *[YELLOW]Sauver?[END]
 @322@7976
@@ -270,7 +270,7 @@
 @405@8448
 *[MR_TIME]Très bien![nl]Déplacement vers[nl]la [YELLOW]scène 7[WHITE].[END]
 @410/416@8548/8548
-*[MR_TIME]Bienvenue à la[nl]maison.[nl][nl]Excellent[nl]travail.[nl][nl]On peut le[nl]refaire[nl]n'importe quand.[END]
+*[MR_TIME]Bienvenue à la[nl]maison.[nl]Excellent[nl]travail.[nl]On peut le[nl]refaire[nl]n'importe quand.[END]
 @417@8628
 *[ARALE]Yep ha ha![nl]C'était amusant![END]
 @425@8680

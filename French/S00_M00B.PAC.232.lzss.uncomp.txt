@@ -1,0 +1,51 @@
+@@S00_M00B.PAC.232.lzss.uncomp@@64@@132@@1004
+@0@132
+*Rester là[END]
+@1@148
+*Ma chambre[END]
+@2@168
+*Sous-sol[END]
+@3@184
+*Dehors[END]
+@4@196
+*Aller où?[END]
+@5@216
+*[ARALE]Peu importe.[END]
+@6@236
+*[ARALE]Allons dans ma[nl]chambre.[END]
+@7@264
+*[ARALE]Allons dans le[nl]sous-sol.[END]
+@8@288
+*[ARALE]Allons[nl]dehors.[END]
+@9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/36/44/45/46/47/51/52/53/54/55/56/57/58/59/60/61/62@308/312/316/320/324/328/332/336/340/344/348/352/356/360/364/368/372/376/380/384/388/392/396/532/808/812/816/820/952/956/960/964/968/972/976/980/984/988/992/996
+* [END]
+@32@400
+*[HAKASE]Arale,[nl]as-tu déjà[nl]apporté la[nl]lettre à[nl]Mlle Midori?[END]
+@33@460
+*[ARALE]Ah, j'ai[nl]oublié de[nl]le faire.[END]
+@34@484
+*[HAKASE]Suis le plan[nl]Arale![nl]N'oublie pas[nl]cette fois.[END]
+@35@520
+*[ARALE]Hoi![END]
+@37@536
+*[ARALE]Professeur,[nl]j'ai remis[nl]la lettre.[END]
+@38@588
+*[HAKASE]Super! Bien[nl]joué Arale![END]
+@39@628
+*[ARALE]Elle m'a donné[nl]ça pour toi.[END]
+@40@660
+*[HAKASE]Woua mamamia,[nl]Mme.[nl]Midori...[END]
+@41@696
+*[ARALE]Est-ce que je[nl]reçois une[nl]récompense?[END]
+@42@724
+*[HAKASE]Viens au Labo[nl]plus tard et[nl]je te donnerai[nl]quelque chose[nl]de sympa.[END]
+@43@780
+*[ARALE]U ho hoi! Oh[nl]bon sang![END]
+@48@824
+*[ARALE]Kya ha ha![END]
+@49@848
+*[HAKASE]Arrête ça![nl]On ne court pas[nl]à l'intérieur[nl]de la maison![END]
+@50@908
+*[ARALE]Kya ha ha![nl]Tu as l'air[nl]bizarre.[END]
+@63@1000
+* [nl_space][END]

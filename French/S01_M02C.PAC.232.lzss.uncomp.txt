@@ -2,17 +2,17 @@
 @0/7/8/9/10/11/12/13/14/15/24/25/26/27/28/29/30/31/40/41/42/43/44/45/46/47/55/56/57/58/59/60/61/62/63/71/72/73/74/75/76/77/78/79/89/90/91/92/93/94/95/102/103/104/105/106/107/108/109/110/111/120/121/122/123/124/125/126/127/134/135/136/137/138/139/140/141/142/143/149/150/151/152/153/154/155/156/157/158/159/166/167/168/169/170/171/172/173/174/175/184/185/186/187/188/189/190/191/200/201/202/203/204/205/206/207/215/216/217/218/219/220/221/222/223/239/261/262/263/264/265/266/267/268/269/270/271/275/276/277/278/279/280/281/282/283/284/285/286/287/288/289/290/291/292/293/294/295/296/297/298/299/300/301/302/303@648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648/648
 *[YAMABUKI]On va faire de[nl]notre mieux,[nl]d'accord, Arale?[END]
 @1/20@688/1052
-*[YAMABUKI]S'il te plaît,[nl]traite-la comme[nl]une amie pour[nl]que nous[nl]puissions avoir[nl]une excellente[nl]année scolaire.[END]
+*[YAMABUKI]S'il vous[nl]plaît, un peu[nl]d'attention,[nl]traitez-la comme[nl]une amie afin[nl]que nous[nl]puissions avoir[nl]une excellente[nl]année scolaire.[END]
 @2@736
-*[PEASUKE_WHITE][PINK]Grand frère[WHITE] a[nl]un grade[nl]supérieur[nl]au nôtre.[END]
+*[PEASUKE_WHITE][PINK]Grand frère[WHITE] est[nl]dans une classe[nl]supérieur[nl]à la nôtre.[END]
 @3@792
-*[PEASUKE_WHITE]Ravi de te voir,[nl]Arale.[END]
+*[PEASUKE_WHITE]Ravi de te[nl]voir, Arale.[END]
 @4@824
 *[AKANE]Ils nous ont[nl]mis dans la[nl]même classe!?[END]
 @5@868
 *[AKANE]Dépêchons-nous[nl]et sortons de[nl]là.[END]
 @6/16@900/900
-*[YAMABUKI]Ecoutez, tout le[nl]monde![nl]Nous avons une[nl]nouvelle élève[nl]qui nous rejoint[nl]aujourd'hui.[nl]Veuillez[nl]accueillir[nl]chaleureusement[nl]Arale Norimaki.[END]
+*[YAMABUKI]Ecoutez, tout[nl]le monde![nl]Nous avons une[nl]nouvelle élève[nl]qui nous[nl]à rejoint[nl]aujourd'hui.[nl]Veuillez[nl]accueillir[nl]chaleureusement[nl]Arale Norimaki.[END]
 @17@976
 *[ARALE]N'cha![END]
 @18@996
@@ -36,7 +36,7 @@
 @37@1432
 *[PEASUKE_WHITE]Ouais, parce[nl]que [PINK]Akane[WHITE][nl]n'arrête pas[nl]d'égarer ses[nl]affaires.[END]
 @38@1468
-*[AKANE]Silence, crétin![END]
+*[AKANE]Silence,[nl]crétin![END]
 @39/48@1488/1488
 *[YAMABUKI]Pourquoi diable[nl]as-tu encore ça?[nl]Donne-moi ça[nl]immédiatement![END]
 @49@1560
@@ -48,13 +48,13 @@
 @52@1724
 *[ARALE]C'est plein[nl]de gens nus![END]
 @53@1764
-*[YAMABUKI]Quooiii!? Arale,[nl]sois gentille[nl]et donne ce[nl][YELLOW]livre[WHITE] à ton[nl]professeur,[nl]d'accord?[END]
+*[YAMABUKI]Quoi!? Arale,[nl]sois gentille[nl]et donne ce[nl][YELLOW]livre[WHITE] à ton[nl]professeur,[nl]d'accord?[END]
 @54/64@1896/1896
 *[YAMABUKI]Je suis très[nl]fier de toi,[nl]Arale.[END]
 @65@1944
 *[ARALE]Je suis une[nl]gentille fille?[END]
 @66@1964
-*[YAMABUKI]Oui, c'est vrai.[END]
+*[YAMABUKI]Oui, tout[nl]à fait.[END]
 @67@1992
 *[ARALE]U ho hoi![nl]Gentille fille![nl]Gentille fille![END]
 @68@2028
@@ -82,13 +82,13 @@
 @97@2652
 *[ARALE]Ho yo?[END]
 @98@2664
-*[YAMABUKI]Nous sommes en[nl]train de[nl]redécorer[nl]l'[BLUE]école[WHITE], mais je[nl]ne me souviens[nl]pas d'un détail.[nl]Peux-tu me dire[nl]la couleur des[nl][YELLOW]rideaux[WHITE] dans le[nl][BLUE]bureau du[nl]principal[WHITE]?[END]
+*[YAMABUKI]Nous sommes en[nl]train de[nl]redécorer[nl][BLUE]l'école[WHITE], mais je[nl]ne me souviens[nl]pas d'un détail.[nl]Peux-tu me dire[nl]la couleur des[nl][YELLOW]rideaux[WHITE] dans le[nl][BLUE]bureau du[nl]principal[WHITE]?[END]
 @99@2836
 *[YAMABUKI]Si ça ne te[nl]dérange pas[nl]trop,[nl]pourrais-tu[nl]aller vérifier?[END]
 @100@2892
 *[ARALE]Hoi![END]
 @101/112@2904/2904
-*[PAPER]Les [YELLOW]clés du[nl]coffre du bureau[WHITE][nl]ont disparu.[nl]Si jamais tu[nl]les trouves,[nl]veux-tu bien les[nl]rendre à l'un[nl]des membres du[nl]personnel.[nl]C'est de la[nl]plus haute[nl]importance.[END]
+*[PAPER]Les [YELLOW]clés[WHITE] du[nl]coffre du bureau[nl]ont disparu.[nl]Si jamais tu[nl]les trouves,[nl]veux-tu bien les[nl]rendre à l'un[nl]des membres du[nl]personnel.[nl]C'est de la[nl]plus haute[nl]importance.[END]
 @113@2996
 *[YAMABUKI]Tu as laissé[nl]quelque chose[nl]derrière toi,[nl]Arale?[nl]N'oublie pas[nl]d'emballer[nl]toutes tes[nl]affaires quand[nl]tu partiras.[END]
 @114@3048
@@ -124,7 +124,7 @@
 @163@3952
 *[ARALE]U ho hoi! Je[nl]veux voir un[nl][YELLOW]monstre[WHITE]![END]
 @164@4004
-*[YAMABUKI]C'est totalement[nl]hors de[nl]question![END]
+*[YAMABUKI]C'est[nl]totalement[nl]hors de[nl]question![END]
 @165/176@4024/4024
 *[YAMABUKI]Je ne suis pas[nl]sûr que nous[nl]ayons vraiment[nl]des [YELLOW]leçons[WHITE][nl]à donner...[END]
 @177@4116
@@ -132,7 +132,7 @@
 @178@4192
 *[YAMABUKI]Quel grand[nl]enthousiasme![nl]Voici la[nl]question.[nl]Combien de[nl][YELLOW]pupitres[WHITE]y a-t-il[nl]dans cette[nl][BLUE]salle de[nl]classe[WHITE]?[END]
 @179@4312
-*[YAMABUKI]Malheureusement,[nl]la bonne réponse[nl]était 17.[nl]Quel dommage.[END]
+*[YAMABUKI]Malheureusement[nl]la bonne réponse[nl]était 17.[nl]Quel dommage.[END]
 @180@4372
 *[YAMABUKI]Bien joué,[nl]Arale![nl]Tu as dû faire[nl]très attention.[END]
 @181@4440
@@ -160,7 +160,7 @@
 @214/224@5300/5300
 *Je sais[END]
 @225@5312
-*J'ai oublié[END]
+*Sais pas![END]
 @226@5324
 *[ARALE]Je sais![END]
 @227@5340
@@ -224,7 +224,7 @@
 @258@5720
 *[BLUE]Bureau[END]
 @259@5748
-*[BLUE]Cour d'école[END]
+*[BLUE]Cour école[END]
 @260/272@5768/5768
 *[ARALE]Allons dans le[nl][BLUE]bureau du[nl]principal[WHITE].[END]
 @273@5800
@@ -260,7 +260,7 @@
 @318@6564
 *OK[END]
 @319@6576
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@6608
 *[YELLOW]Sauver?[END]
 @322@6632

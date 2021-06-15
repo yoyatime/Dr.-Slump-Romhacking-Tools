@@ -1,0 +1,61 @@
+@@S00_M00C.PAC.232.lzss.uncomp@@80@@164@@1400
+@0@164
+*Rester là[END]
+@1@180
+*Ma chambre[END]
+@2@200
+*Séjour[END]
+@3@216
+*Dehors[END]
+@4@228
+*Aller où?[END]
+@5@248
+*[ARALE]Peu importe.[END]
+@6@268
+*[ARALE]Allons dans[nl]ma chambre.[END]
+@7@296
+*[ARALE]Allons dans le[nl]séjour.[END]
+@8@320
+*[ARALE]Allons[nl]dehors.[END]
+@9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47/53/54/55/56/57/58/59/60/61/62/63/72/73/74/75/76/77/78/79@340/344/348/352/356/360/364/368/372/376/380/384/388/392/396/400/404/408/412/416/420/424/428/688/692/696/700/704/708/712/716/720/948/952/956/960/964/968/972/976/980/984/988/1368/1372/1376/1380/1384/1388/1392/1396
+*[END]
+@32@432
+*[HAKASE]Ooh, timing[nl]parfait Arale.[END]
+@33@472
+*[ARALE]Ho yo?[END]
+@34@484
+*[HAKASE]J'ai une[nl]invention[nl]vraiment[nl]géniale à te[nl]montrer.[nl]En l'utilisant,[nl]tu peux[nl]voyager dans[nl]le passé[nl]lointain![END]
+@35@576
+*[ARALE]U ho hoi![nl]Wow, c'est[nl]incroyable![END]
+@36@616
+*[HAKASE]Bien sûr[nl]que c'est[nl]incroyable,[nl]je suis un génie[nl]incroyable![END]
+@37@648
+*[ARALE]Boy, bon sang![END]
+@38@668
+*[GATCHAN]Ku pi pi pi![END]
+@48@724
+*[ARALE]Professeur,[nl]jouons![END]
+@49@744
+*[HAKASE]Non. Ne t'ai-je[nl]pas déjà dit[nl]de ne pas me[nl]déranger dans[nl]mon laboratoire?[END]
+@50@812
+*[ARALE]M'ennuie...[nl]Allez, on joue[nl]déjà![END]
+@51@848
+*[HAKASE]Je suis occupé[nl]à inventer.[nl]Tu ne peux pas[nl]aller jouer[nl]avec Akane.[END]
+@52@932
+*[ARALE]Hoi![END]
+@64@992
+*[HAKASE]Pourquoi ne pas[nl]aller jouer[nl]dans le passé[nl]lointain en[nl]utilisant mon[nl]incroyable[nl]invention?[END]
+@65@1064
+*[HAKASE]Je vois...[nl]c'est[nl]incroyable...[END]
+@66@1116
+*[HAKASE]Pourquoi ne pas[nl]aller jouer[nl]dans le passé[nl]lointain en[nl]utilisant mon[nl]incroyable[nl]invention?[END]
+@67@1176
+*[HAKASE]Bwa ha ha,[nl]Très bien.[nl]M. Time, il est[nl]temps de leur[nl]montrer la[nl]puissance de[nl]mon génie![nl]Activation![END]
+@68@1264
+*[ARALE]Non, je n'y[nl]vais pas.[END]
+@69@1284
+*[ARALE]U ho hoi![nl]Wou hou,[nl]allons-y![END]
+@70@1312
+*○Rester [nl_space]Go   [END]
+@71@1340
+* Rester [nl]○Go   [END]

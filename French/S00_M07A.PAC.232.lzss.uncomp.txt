@@ -1,0 +1,51 @@
+@@S00_M07A.PAC.232.lzss.uncomp@@64@@132@@888
+@0@132
+*Rester là[END]
+@1@148
+*Maison[END]
+@2@164
+*Chez Kinoko[END]
+@3@184
+*Suppaman[END]
+@4@204
+*Reh Tsu Goh[END]
+@5@224
+*Aller où?[END]
+@6@244
+*[ARALE]Peu importe.[END]
+@7@264
+*[ARALE]Allons à la[nl]maison.[END]
+@8@284
+*[ARALE]Allons chez[nl]Kinoko.[END]
+@9@312
+*[ARALE]Allons à la[nl]maison de[nl]Suppaman.[END]
+@10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47/55/56/57/58/59/60/61/62/63@344/348/352/356/360/364/368/372/376/380/384/388/392/396/400/404/408/412/416/420/424/428/608/612/616/620/624/628/632/636/640/852/856/860/864/868/872/876/880/884
+* [END]
+@32@432
+*[ARALE]N'cha![END]
+@33@448
+* Comment puis-je[nl]t'aider?[END]
+@34@468
+*[ARALE]Hum... bien...[nl]hum...[END]
+@35@504
+* Tu cherches[nl]du tabac?[END]
+@36@532
+*[ARALE]Kya ha ha![nl]J'ai oublié[nl]ce que je[nl]cherchais.[END]
+@37@560
+* Eh bien,[nl]reviens quand[nl]tu te[nl]rappelleras.[END]
+@38@596
+*[ARALE]Hoi![END]
+@48@644
+*[ARALE]N'cha![END]
+@49@656
+*[KINOKO]Bon sang,[nl]qu'est-ce que[nl]tu as?[nl]Tu m'as fait[nl]peur![END]
+@50@712
+*[ARALE]Kya ha ha![END]
+@51@732
+*[KINOKO]Mon Dieu, tu es[nl]une véritable[nl]campagnarde.[nl]Même un bébé[nl]pourrait acheter[nl]des cigarettes.[END]
+@52@788
+*[ARALE]Ho yo?[END]
+@53@800
+*[KINOKO]Peu importe,[nl]va là-bas.[END]
+@54@840
+*[ARALE]Ho yo yo?[END]

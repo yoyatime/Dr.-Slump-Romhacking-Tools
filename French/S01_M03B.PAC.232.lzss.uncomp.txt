@@ -10,9 +10,9 @@
 @18@848
 *[PAPA_SORAMAME][PINK]Taro[WHITE], espèce[nl]de ▲○★☆⬛![nl]Je croyais[nl]t'avoir dit de[nl]ne pas toucher[nl]à la caisse[nl]enregistreuse![END]
 @19@940
-*[TARO]Je suis désolé,[nl][PINK]papa[WHITE]![nl]S'il te plaît,[nl]arrête de me[nl]malmener![END]
+*[TARO]Je suis désolé,[nl][PINK]papa[WHITE]![nl]S'il te plaît,[nl]arrête de me[nl]frapper![END]
 @20@996
-*[PAPA_SORAMAME]Oh non, pas[nl]aujourd'hui,[nl]mon gars![nl]Je ne laisserai[nl]pas passer ça[nl]plus longtemps![END]
+*[PAPA_SORAMAME]Oh non, pas[nl]aujourd'hui,[nl]mon gars![nl]Je ne laisserai[nl]pas passer ça![END]
 @33@1068
 *[TARO]A-Arale?!?[END]
 @34@1096
@@ -24,13 +24,13 @@
 @37@1228
 *[TARO]Hey, quel âge[nl]penses-tu[nl]qu'elle a?[nl][MEDIUM_PAUSE]Attends une[nl]minute.[nl]Quel âge as-tu,[nl]Arale?[END]
 @38@1324
-*[PAPA_SORAMAME]Est-ce que tu[nl]vas à[nl]l'[BLUE]école[WHITE]?[END]
+*[PAPA_SORAMAME]Est-ce que tu[nl]vas à[nl][BLUE]l'école[WHITE]?[END]
 @39@1364
-*[ARALE]Humm, c'est quoi[nl]l'[BLUE]école[WHITE]?[END]
+*[ARALE]Hum, c'est quoi[nl][BLUE]l'école[WHITE]?[END]
 @40@1392
 *[TARO]Hein? C'est[nl]l'endroit où[nl]tu joues avec[nl]tout le monde,[nl]où tu étudies,[nl]et où tu fais[nl]plein d'autres[nl]trucs.[nl][PINK]Akane[WHITE] et [PINK]Peasuke[WHITE][nl]vont aussi à[nl]l'école.[END]
 @41@1496
-*[ARALE]U ho hoi![nl]Je veux aller[nl]à l'[WHITE]école[WHITE][nl]moi aussi![END]
+*[ARALE]U ho hoi![nl]Je veux aller[nl]à [BLUE]l'école[WHITE][nl]moi aussi![END]
 @42@1540
 *[PAPA_SORAMAME]Reviens quand[nl]tu veux.[END]
 @43/48@1568/1568
@@ -48,47 +48,47 @@
 @54@1800
 *[PAPA_SORAMAME]N'est-ce pas[nl]un look élégant?[nl]Ce look est à[nl]la mode[nl]aujourd'hui.[END]
 @55@1856
-*[PAPA_SORAMAME][PINK]Taro[WHITE], que ça te[nl]dirait d'essayer[nl]de porter[nl]une crête sur[nl]la tête?[END]
+*[PAPA_SORAMAME][PINK]Taro[WHITE], est-ce[nl]que ça te[nl]dirait d'essayer[nl]de porter[nl]une crête sur[nl]la tête?[END]
 @56@1892
-*[TARO]Pas moyen, mec.[END]
+*[TARO]Alors la...[nl]pas moyen.[END]
 @57@1908
 *[PAPA_SORAMAME]Désolé, je ne[nl]peux pas laisser[nl]mes invités[nl]entrer dans[nl]ma maison.[END]
 @58@1964
 *[PAPA_SORAMAME]Hein? Pourquoi[nl]c'est si calme[nl]tout d'un coup?[END]
 @59/64@2012/2012
-*[PAPA_SORAMAME][PINK]Taro[WHITE] et[nl][PINK]Peasuke[WHITE] font[nl]partie de[nl]l'équipe de[nl]baseball de[nl]l'[BLUE]école[WHITE].[nl]C'est dommage[nl]qu'ils perdent[nl]toujours autant.[nl]Peut-être que[nl]tu pourrais leur[nl]donner un coup[nl]de main[nl]un jour, Arale![END]
+*[PAPA_SORAMAME][PINK]Taro[WHITE] et[nl][PINK]Peasuke[WHITE] font[nl]partie de[nl]l'équipe de[nl]baseball de[nl][BLUE]l'école[WHITE].[nl]C'est dommage[nl]qu'ils perdent[nl]toujours autant.[nl]Peut-être que[nl]tu pourrais leur[nl]donner un coup[nl]de main[nl]un jour, Arale![END]
 @65/97@2200/2924
 *[ARALE]Hoi![END]
 @66@2212
 *[PAPA_SORAMAME]Ha ha ha,[nl]tu es leur[nl]sauveuse, Arale.[END]
 @68/114@2276/4412
-*[PAPA_SORAMAME]Rebonjour Arale.[nl]Tu es énergique[nl]comme[nl]d'habitude,[nl]comme un enfant[nl]doit l'être.[nl]Tu obtiens la[nl]note maximale,[nl][YELLOW]100 points[WHITE]![END]
+*[PAPA_SORAMAME]Bonjour Arale.[nl]Tu es énergique[nl]comme[nl]d'habitude,[nl]comme un enfant[nl]doit l'être.[nl]Tu obtiens la[nl]note maximale,[nl][YELLOW]100 points[WHITE]![END]
 @69/112@2420/4376
 *[ARALE]U ho hoi![END]
 @70/80/115@2436/2436/4572
 *[PAPA_SORAMAME]Tiens, mais qui[nl]voilà?[nl]Arale?[nl]Bienvenue![END]
 @81/119@2480/4808
-*[PAPA_SORAMAME]Reviens, tu[nl]entends?[END]
+*[PAPA_SORAMAME]Reviens, quand[nl]tu veux.[END]
 @82/120@2508/4836
 *[PAPA_SORAMAME]Ha ha ha![nl]Tu es une boule[nl]d'énergie,[nl]Arale.[END]
 @83/121@2548/4876
 *[PAPA_SORAMAME]Ici pour une[nl]coupe?[END]
 @84/122@2576/4904
-*[PAPA_SORAMAME]C'est un méchant[nl][YELLOW]coup de poing[WHITE][nl]que tu as là.[END]
+*[PAPA_SORAMAME]C'est un sacré[nl][YELLOW]coup de poing[WHITE][nl]que tu as là.[END]
 @85/123@2632/4960
 *[PAPA_SORAMAME]Que dirais-tu[nl]d'une belle[nl]coupe nette[nl]comme celle-là?[END]
 @86/124@2668/4996
 *[PAPA_SORAMAME]Certaines de[nl]ces nouvelles[nl]coiffures[nl]populaires sont[nl]vraiment[nl]excentriques.[nl]Je ne les[nl]aime pas.[END]
 @87/125@2720/5048
-*[PAPA_SORAMAME]Désolé petit,[nl]je ne peux pas[nl]te laisser[nl]entrer.[nl]Ca ne fait pas[nl]partie du[nl][YELLOW]magasin[WHITE].[END]
+*[PAPA_SORAMAME]Désolé petite,[nl]je ne peux pas[nl]te laisser[nl]entrer.[nl]Ca ne fait pas[nl]partie du[nl][YELLOW]magasin[WHITE].[END]
 @88/126@2780/5108
 *[PAPA_SORAMAME]Qu'est-ce qui[nl]se passe?[nl]Tu es devenu[nl]silencieux tout[nl]d'un coup.[END]
 @89/96@2840/2840
 *[PAPA_SORAMAME]Si tu as acquis[nl]des capacités[nl]intéressantes,[nl]je serais ravi[nl]de les voir[nl]en action.[END]
 @98@2936
-*[PAPA_SORAMAME]Ecoute-moi,[nl]Arale.[nl]Taro t'a-t-il[nl]dit de promettre[nl]de ne rien dire[nl]à propos de son[nl]livre dégoûtant?[END]
+*[PAPA_SORAMAME]Ecoute-moi,[nl]Arale.[nl][PINK]Taro[WHITE] t'a-t-il[nl]dit de promettre[nl]de ne rien dire[nl]à propos de son[nl]livre dégoûtant?[END]
 @99@3056
-*[PAPA_SORAMAME]Je vois. Je sais[nl]que tu le fais[nl]pour lui, mais[nl]tu ne peux pas[nl]le laisser[nl]t'entraîner dans[nl]sa chute.[nl]Je ne peux vous[nl]donner que[nl][YELLOW]30 points[WHITE][nl]aujourd'hui.[END]
+*[PAPA_SORAMAME]Je vois.[nl]Je sais que[nl]tu le fais[nl]pour lui, mais[nl]tu ne peux pas[nl]le laisser[nl]t'entraîner dans[nl]sa chute.[nl]Je ne peux vous[nl]donner que[nl][YELLOW]30 points[WHITE][nl]aujourd'hui.[END]
 @100/110@3216/4180
 *[ARALE]Oooh...[END]
 @101@3232
@@ -100,7 +100,7 @@
 @104@3536
 *[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl][YELLOW]100 points[WHITE]![END]
 @105@3712
-*[ARALE]U ho hoi! Super![nl]J'ai obtenu une[nl]centaine de[nl]points![END]
+*[ARALE]U ho hoi![nl]Super![nl]J'ai obtenu une[nl]centaine de[nl]points![END]
 @106@3764
 *[PAPA_SORAMAME]Au fait, Arale.[nl]Ce [YELLOW]livre cochon[WHITE][nl]que tu as[nl]trouvé...[nl]Je pense qu'il[nl]a été confisqué[nl]à [PINK]Taro[WHITE] par[nl]son [PINK]professeur[WHITE].[END]
 @107@3920
@@ -108,7 +108,7 @@
 @108@3940
 *[PAPA_SORAMAME]C'est évident.[nl]Mais essaie de[nl]ne le dire à[nl]personne,[nl]d'accord?[END]
 @109@4024
-*[PAPA_SORAMAME]Je vois. Je suis[nl]content que[nl][PINK]Taro[WHITE] puisse[nl]compter sur toi,[nl]mais ne le[nl]laisse pas[nl]t'entraîner dans[nl]sa chute[nl][YELLOW]50 points[WHITE],[nl]c'est tout ce[nl]que je peux[nl]te donner.[END]
+*[PAPA_SORAMAME]Je vois.[nl]Je suis[nl]content que[nl][PINK]Taro[WHITE] puisse[nl]compter sur toi,[nl]mais ne le[nl]laisse pas[nl]t'entraîner dans[nl]sa chute[nl][YELLOW]50 points[WHITE],[nl]c'est tout ce[nl]que je peux[nl]te donner.[END]
 @111@4196
 *[PAPA_SORAMAME]Bravo, Arale![nl]Tu as rendu[nl]un grand[nl]service à [PINK]Taro[WHITE],[nl]même s'il ne le[nl]sait pas.[nl]Bravo, Arale![nl]Tu as obtenu[nl][YELLOW]100 points[WHITE]![END]
 @116@4616
@@ -124,11 +124,11 @@
 @226@5196
 *[ARALE]Oui, je lui[nl]ai promis.[END]
 @227@5224
-*[ARALE]Non, je n'ai pas[nl]fait ça.[END]
+*[ARALE]Non, je n'ai[nl]pas fait ça.[END]
 @228/232@5248/5248
 *Ok[END]
 @233@5256
-*Pas question.[END]
+*Nope.[END]
 @234@5264
 *[ARALE]Oui, c'est bon.[END]
 @235@5284
@@ -166,7 +166,7 @@
 @318@6144
 *OK[END]
 @319@6156
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@6188
 *[YELLOW]Sauver?[END]
 @322@6212

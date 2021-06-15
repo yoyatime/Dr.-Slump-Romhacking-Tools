@@ -8,17 +8,17 @@
 @3@848
 *[DINOSAUR]Ca ne fait[nl]aucune[nl]différence![nl]Prépare-toi, je[nl]vais te[nl]déchiqueté![END]
 @4@908
-*[ARALE]]Oh, bon sang![END]
+*[ARALE]Oh, bon sang![END]
 @5/16@924/924
-*[DINOSAUR]T..tu m'as eu...[nl]Tiens prends ce[nl][YELLOW]gros oeuf[WHITE]et[nl]maintenant[nl]laisse-moi[nl]tranquille![nl_space][END]
+*[DINOSAUR]T-tu m'as eu...[nl]Tiens prends ce[nl][YELLOW]gros oeuf[WHITE] et[nl]maintenant[nl]laisse-moi[nl]tranquille![nl_space][END]
 @17@1024
 *[ARALE]U ho hoi![nl]Un [YELLOW]souvenir[WHITE]![END]
 @18@1072
-*[ARALE]U ho hoi![nl]J'ai obtenu[nl]un[YELLOW]souvenir[WHITE]![END]
+*[ARALE]U ho hoi![nl]J'ai obtenu[nl]un [YELLOW]souvenir[WHITE]![END]
 @19/32@1120/1120
 *[DINOSAUR]Gwa ha ha![nl]Ces attaques[nl]pitoyables ne[nl]feront pas de[nl]mal à mon corps[nl]solide comme[nl]le roc![END]
 @33@1192
-*[ARALE]Ho-yo, mais[nl]dis-moi, tes[nl][YELLOW]jambes[WHITE]sont[nl]toute fines,[nl]elles ont l'air[nl]un peu faibles.[END]
+*[ARALE]Ho yo, mais[nl]dis-moi, tes[nl][YELLOW]jambes[WHITE] sont[nl]toute fines,[nl]elles ont l'air[nl]un peu faibles.[END]
 @34@1236
 *[DINOSAUR]Tais-toi![END]
 @35/304@1260/1260
@@ -52,8 +52,8 @@
 @318@1996
 *OK[END]
 @319@2008
-*[WHITE]Choisir fichier.[END]
+*Choisir fichier[END]
 @320@2040
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@2064
-*[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
+*Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

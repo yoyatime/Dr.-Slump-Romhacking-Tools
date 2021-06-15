@@ -1,0 +1,51 @@
+@@S00_M01A.PAC.232.lzss.uncomp@@64@@132@@1080
+@0/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31@132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132/132
+*Peu importe[END]
+@1@148
+*Maison[END]
+@2@164
+*Barbier[END]
+@3@180
+*Ecole[END]
+@4@196
+*Aller où?[END]
+@5@216
+*[ARALE]Je vais rester[nl]ici un peu plus[nl]longtemps.[END]
+@6@248
+*[ARALE]Allons à la[nl]maison.[END]
+@7@272
+*[ARALE]Allons chez[nl]le barbier.[END]
+@8@300
+*[ARALE]Allons à[nl]l'école.[END]
+@9/32/39@324/324/588
+*[ARALE]N'cha![END]
+@33@340
+*[AKANE]Quoi de neuf,[nl]Arale?[nl]Comment ça[nl]va?[END]
+@34/46@384/828
+*[ARALE]Akane, jouons![END]
+@35@412
+*[AKANE]Bon sang,[nl]je n'arrive pas[nl]à suivre le[nl]rythme, tu as[nl]trop d'énergie,[nl]Arale.[END]
+@36/41@476/668
+*[ARALE]Ho yo?[END]
+@37@488
+*[AKANE]Même un ours[nl]ne pourrait pas[nl]supporter une[nl]après-midi avec[nl]toi.[nl]En parlant de[nl]ça, il y avait[nl]un ours qui se[nl]cachait dans[nl]les collines.[END]
+@38@564
+*[ARALE]Bon sang,[nl]oh bon sang![END]
+@40@604
+*[AKANE]Tu n'as pas[nl]encore rencontré[nl]Taro?[nl]Il te cherche,[nl]tu sais.[END]
+@42@680
+*[AKANE]Taro devrait[nl]trainer autour[nl]de l'école.[END]
+@43/45@732/812
+*[ARALE]Hoi![END]
+@44@748
+*[AKANE]Yo, fais gaffe,[nl]Arale![nl]Tu ne peux pas[nl]juste courir[nl]partout et[nl]casser les[nl]voitures de[nl]police![END]
+@47@856
+*[AKANE]Quoi de neuf,[nl]Arale?[nl]Que fait le[nl]professeur[nl]Norimaki?[END]
+@48@904
+*[ARALE]Le professeur[nl]est très occupé[nl]à inventer[nl]des trucs.[END]
+@49@948
+*[AKANE]Je parie qu'il[nl]prépare à[nl]nouveau quelque[nl]chose de bizarre[nl]et de pervers.[END]
+@50@1008
+*[ARALE]Kya ha ha![END]
+@51/52/53/54/55/56/57/58/59/60/61/62/63@1028/1032/1036/1040/1044/1048/1052/1056/1060/1064/1068/1072/1076
+* [END]

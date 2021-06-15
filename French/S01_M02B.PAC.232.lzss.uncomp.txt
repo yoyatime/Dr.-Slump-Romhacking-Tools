@@ -8,11 +8,11 @@
 @3@768
 *[PRINCIPAL][PINK]Mlle. Midori[WHITE][nl]t'attend à la[nl]porte.[nl]Elle te conduira[nl]dans ta[nl][BLUE]salle de classe[WHITE].[END]
 @4@868
-*[HAKASE]Je ferais mieux[nl]de venir aussi.[END]
+*[HAKASE]Je ferais mieux[nl]d'y aller moi[nl]aussi.[END]
 @5@904
-*[PRINCIPAL]Ce n'est pas la[nl]peine![END]
+*[PRINCIPAL]Ce n'est pas[nl]la peine![END]
 @6/16@940/940
-*[YAMABUKI]Viens Arale, [nl]je t'emmène à la[nl][BLUE]salle de classe[WHITE].[END]
+*[YAMABUKI]Viens Arale,[nl]je t'emmène à la[nl][BLUE]salle de classe[WHITE].[END]
 @17/20@1000/1128
 *[ARALE]Hoi![END]
 @18@1012
@@ -26,7 +26,7 @@
 @23@1204
 *[ARALE]Oups, comment[nl]ai-je atterri[nl]ici?[END]
 @24/32@1240/1240
-*[HAKASE]...heu c'est[nl]une longue[nl]histoire.[nl]S'il te plaît,[nl]veille sur[nl]Arale.[END]
+*[HAKASE]...Heu c'est[nl]une longue[nl]histoire.[nl]S'il vous plaît,[nl]veillez sur[nl]Arale.[END]
 @33@1308
 *[PRINCIPAL]Très bien.[nl][PINK]Mlle Midori[WHITE] va[nl]accompagner[nl]Arale dans sa[nl][BLUE]salle de classe[WHITE].[END]
 @34@1408
@@ -48,9 +48,9 @@
 @53/55@1732/1784
 *[ARALE]Pfioouuu,[nl]ça pue![END]
 @54@1752
-*[PRINCIPAL]...merci pour[nl]votre[nl]implication.[END]
+*[PRINCIPAL]...Bravo pour[nl]votre[nl]implication.[END]
 @56@1804
-*[HAKASE]Vous n'avez pas[nl]besoin d'être[nl]si honnête![END]
+*[HAKASE]Tu n'as pas[nl]besoin d'être[nl]aussi spontanée![END]
 @57/64@1860/1860
 *[PRINCIPAL]Ha ha ha... ça[nl]va être inscrit[nl]dans ton dossier[nl]permanent.[END]
 @65@1924
@@ -62,7 +62,7 @@
 @68@2036
 *[YAMABUKI]Tu admires les[nl]plantes, Arale?[END]
 @69@2072
-*[ARALE]Allez, on va[nl]aller à la[nl]maison[nl]de [PINK]Akane[WHITE].[END]
+*[ARALE]Allons à la[nl]maison de[nl][PINK]Akane[WHITE].[END]
 @70@2120
 *[PRINCIPAL]Oh ho ho.[nl]Tu ne l'ouvriras[nl]pas sans[nl]une [YELLOW]clé[WHITE].[END]
 @71/80@2168/2168
@@ -74,7 +74,7 @@
 @83@2368
 *[PRINCIPAL]Ho ho ho![END]
 @84/96@2388/2388
-*[ARALE]Le [nl][PINK]principal[WHITE][nl]n'est pas ici?[END]
+*[ARALE]Le[nl][PINK]principal[WHITE][nl]n'est pas ici?[END]
 @97@2436
 *[PRINCIPAL]Tu as besoin de[nl]quelque chose?[END]
 @98@2468
@@ -82,7 +82,7 @@
 @99@2500
 *[PRINCIPAL]Il n'y a plus[nl]rien là-dedans.[END]
 @100@2536
-*[ARALE]Qu'est-ce que[nl]c'est?[nl][nl]J'ai trouvé[nl]quelque chose.[END]
+*[ARALE]Qu'est-ce que[nl]c'est?[nl]J'ai trouvé[nl]quelque chose.[END]
 @101@2572
 *[PRINCIPAL]Aaah! Pourquoi[nl]as-tu cette[nl][YELLOW]clé[WHITE]![END]
 @102/112@2636/2636
@@ -92,11 +92,11 @@
 @114@2720
 *[ARALE]Hé, comment se[nl]fait-il que ces[nl]gens soient[nl]tout nus?[END]
 @115@2768
-*[PRINCIPAL]Je... je n'en ai[nl]aucune idée...[END]
+*[PRINCIPAL]Je... je n'en[nl]sais rien...[END]
 @116@2800
-*[ARALE]Je vais aller montrer ça à[PINK]Mlle Midori[WHITE].[END]
+*[ARALE]Je vais[nl]aller montrer ça[nl]à[PINK]Mlle Midori[WHITE].[END]
 @117@2852
-*[PRINCIPAL]Houlala... Il ne[nl]faut absolument[nl]pas faire ça![END]
+*[PRINCIPAL]Houlala...[nl]surtout pas!!![END]
 @118@2884
 *[PRINCIPAL]Arrête de[nl]déconner avec[nl]ça, c'est vide[nl]de toute façon.[END]
 @119/135/137@2936/3220/3296
@@ -116,11 +116,11 @@
 @136@3252
 *[PRINCIPAL]C'est dangereux,[nl]arrête-toi s'il[nl]te plaît![END]
 @138@3328
-*[PRINCIPAL](Bah... elle n'en[nl]a même pas[nl]encore vu un...)[END]
+*[PRINCIPAL](Bah... elle[nl]n'en a même[nl]pas encore[nl]vu un...)[END]
 @139/144@3388/3388
 *[PRINCIPAL]Zzz zzz...[END]
 @145/149@3408/3564
-*[PRINCIPAL]Heu... Qu'est-ce[nl]que c'est,[nl]qu'est-ce qui[nl]s'est passé?![END]
+*[PRINCIPAL]Heu...[nl]Qu'est-ce[nl]que c'est?[nl]Que sait-il[nl]passé?[END]
 @146/150@3448/3604
 *[ARALE]Kya ha ha ha![END]
 @147/151@3468/3624
@@ -132,11 +132,11 @@
 @154@3808
 *[ARALE]Quel grand[nl]drapeau.[END]
 @155@3832
-*[ARALE]C'est dégoûtant![END]
+*[ARALE]Ca dégoûte![END]
 @156@3848
 *[ARALE]N'cha![END]
 @157@3864
-*[ARALE]Je n'ai pas la[nl][YELLOW]clé[WHITE],donc[nl]ça ne s'ouvrira[nl]pas.[END]
+*[ARALE]Je n'ai pas la[nl][YELLOW]clé[WHITE], donc[nl]ça ne s'ouvrira[nl]pas.[END]
 @158/240@3900/3900
 *Oui[END]
 @241@3908
@@ -150,7 +150,7 @@
 @257@3968
 *Rester là[END]
 @258@3984
-*[BLUE]Salle de classe[END]
+*[BLUE]La classe[END]
 @259@4008
 *[BLUE]Cour d'école[END]
 @260/272@4028/4028
@@ -188,7 +188,7 @@
 @318@4820
 *OK[END]
 @319@4832
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@4864
 *[YELLOW]Sauver?[END]
 @322@4888

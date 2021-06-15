@@ -18,17 +18,17 @@
 @8/16@1084/1084
 *[AKANE]Quel est le[nl]problème, tu as[nl]peur?[nl]On a une course[nl]à faire, ma[nl]grande.[END]
 @17@1144
-*[AKANE]La course[nl]commence quand[nl]je dis "go",[nl]d'accord?[END]
+*[AKANE]La course[nl]commence quand[nl]je dis "PARTEZ",[nl]d'accord?[END]
 @18@1196
 *[AKANE]Ne tente pas de[nl]tricher en[nl]partant plus[nl]tôt, compris?[END]
 @19@1268
 *[ARALE]Hoi![END]
 @20@1280
-*[AKANE]Sur vos[nl]marques...[END]
+*[AKANE]A vos[nl]marques...[END]
 @21@1316
 *[AKANE]Prêt?!...[END]
 @22@1336
-*[AKANE]GO!!![END]
+*[AKANE]PARTEZ!!![END]
 @23/32@1356/1356
 *[ARALE]Kya ha ha! J'ai[nl]gagné![END]
 @33@1392
@@ -68,7 +68,7 @@
 @318@2776
 *OK[END]
 @319@2788
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@2820
 *[YELLOW]Sauver?[END]
 @322@2844

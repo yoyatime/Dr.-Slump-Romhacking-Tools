@@ -1,0 +1,55 @@
+@@S00_M00E.PAC.232.lzss.uncomp@@48@@100@@888
+@0/16@100/388
+*Rester là[END]
+@1@116
+*Coffee Pot[END]
+@2@140
+*Barbier[END]
+@3@164
+*Ecole[END]
+@4@180
+*Buraliste[END]
+@5@196
+*Police[END]
+@6/20@212/456
+*Aller où?[END]
+@7/21@232/476
+*[ARALE]Peu importe.[END]
+@8@252
+*[ARALE]Allons trouver[nl]Akane.[END]
+@9@280
+*[ARALE]Allons trouver[nl]Taro.[END]
+@10@304
+*[ARALE]Aller à[nl]l'école.[END]
+@11@328
+*[ARALE]Allez chez[nl]le buraliste.[END]
+@12@352
+*[ARALE]Allons au[nl]commisariat de[nl]police.[END]
+@13/14/15/25/26/27/28/29/30/31/39/40/41/42/43/44/45/46/47@376/380/384/568/572/576/580/584/588/592/852/856/860/864/868/872/876/880/884
+* [END]
+@17@404
+*Ma chambre[END]
+@18@424
+*Séjour[END]
+@19@440
+*Sous-sol[END]
+@22@496
+*[ARALE]Allons dans[nl]ma chambre.[END]
+@23@524
+*[ARALE]Allons dans[nl]le séjour.[END]
+@24@548
+*[ARALE]Allons au[nl]sous-sol.[END]
+@32@596
+*[ARALE]Hey, hey[nl]professeur.[nl]Quoi de neuf?[END]
+@33@636
+*[HAKASE]Bon timing,[nl]Arale.[nl]J'ai besoin que[nl]tu apportes[nl]cette lettre à[nl]ton professeur.[END]
+@34@708
+*[ARALE]Qu'as-tu[nl]écrit?[END]
+@35@724
+*[HAKASE]Ce n'est pas[nl]pour les[nl]enfants![END]
+@36@756
+*[ARALE]Ho yo?[END]
+@37@768
+*[HAKASE]Prends-la et[nl]ramène-moi sa[nl]réponse.[nl]Je compte sur[nl]toi, Arale![END]
+@38@836
+*[ARALE]Hoi![END]

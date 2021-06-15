@@ -1,0 +1,125 @@
+@@S00_M00D.PAC.232.lzss.uncomp@@112@@228@@1944
+@0@228
+*Rester là[END]
+@1@244
+*Séjour[END]
+@2@260
+*Sous-sol[END]
+@3@276
+*Dehors[END]
+@4@288
+*Aller où?[END]
+@5/37@308/620
+*[ARALE]Peu importe.[END]
+@6@328
+*[ARALE]Allons dans[nl]le séjour.[END]
+@7@352
+*[ARALE]Allons dans le[nl]sous-sol.[END]
+@8@376
+*[ARALE]Allons[nl]dehors.[END]
+@9/10/11/12/13/14/15/25/26/27/28/29/30/31/41/42/43/44/45/46/47/55/67/68/69@396/400/404/408/412/416/420/512/516/520/524/528/532/536/724/728/732/736/740/744/748/1060/1356/1360/1364
+*[END]
+@16@424
+*Qu'est-ce que[nl]tu veux porter?[END]
+@17@448
+*01[END]
+@18@456
+*02[END]
+@19@464
+*03[END]
+@20@472
+*04[END]
+@21@480
+*05[END]
+@22@488
+*06[END]
+@23@496
+*07[END]
+@24@504
+*08[END]
+@32/61@540/1260
+*Retour[END]
+@33@548
+*Tenue 1[END]
+@34@564
+*Tenue 2[END]
+@35@580
+*Tenue 3[END]
+@36@596
+*Qu'est-ce que[nl]tu veux porter?[END]
+@38@640
+*[ARALE]Prendre la[nl]tenue 1[END]
+@39@668
+*[ARALE]Prendre la[nl]tenue 2[END]
+@40@696
+*[ARALE]Prendre la[nl]tenue 3[END]
+@48@752
+**Vérification,[nl]de la[nl][YELLOW]carte mémoire[WHITE].[END]
+@49@792
+*Erreur de[nl]transmission[END]
+@50@816
+*Aucune carte[nl]mémoire insérée[END]
+@51@856
+*Espace libre[nl]insuffisant[nl]pour créer une[nl]sauvegarde.[END]
+@52@904
+*La carte mémoire[nl]n'est pas[nl]formatée.[nl]Formater[nl]maintenant?[END]
+@53@980
+*Formatage...[END]
+@54@1036
+*Formatage[nl]complet![END]
+@56@1064
+*Création d'un[nl]nouveau fichier[nl]de sauvegarde.[nl]Cela[nl]convient-il?[END]
+@57@1124
+*Sauvegarde...[END]
+@58@1184
+*Le fichier de[nl]sauvegarde[nl]existant sera[nl]écrasé.[nl]Cela[nl]convient-il?[END]
+@59@1228
+*Chargement[nl]terminé![END]
+@60@1244
+*Sauvegard[nl]terminée![END]
+@62/78@1268/1520
+*OK[END]
+@63@1280
+*Choisir fichier[END]
+@64/79@1312/1532
+*Retour[END]
+@65@1320
+*Param.système[END]
+@66@1340
+*Manette[END]
+@70@1368
+*Param.système[END]
+@71@1388
+*Manette[END]
+@72@1408
+*Options[END]
+@73@1432
+*Equipement[nl]de capture[END]
+@74@1456
+*Choisir fichier[END]
+@75@1484
+*Disponible[END]
+@76@1500
+*Additions[END]
+@77@1508
+*Retour[END]
+@80@1540
+*Appuyez[END]
+@81@1552
+*Ascenseur[END]
+@82@1564
+*Ramper[END]
+@83@1580
+*Saut grenouille[END]
+@84@1596
+*Pied glissé[END]
+@85@1612
+*Poing ressort[END]
+@86@1628
+*Marche Shinobi[END]
+@87@1640
+*Blast Hover[END]
+@88@1656
+*Escalade arbres[END]
+@89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111@1668/1680/1692/1704/1716/1728/1740/1752/1764/1776/1788/1800/1812/1824/1836/1848/1860/1872/1884/1896/1908/1920/1932
+*????[END]

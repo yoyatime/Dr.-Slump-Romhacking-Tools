@@ -1,0 +1,67 @@
+@@S00_M02A.PAC.232.lzss.uncomp@@72@@148@@1408
+@0/16@148/368
+*Rester là[END]
+@1@164
+*Maison[END]
+@2@180
+*Barbier[END]
+@3@196
+*Coffee Pot[END]
+@4@212
+*Collines[END]
+@5/19@224/428
+*Aller où?[END]
+@6/20@244/448
+*[ARALE]Peu importe.[END]
+@7@264
+*[ARALE]Allons à la[nl]maison.[END]
+@8@284
+*[ARALE]Allons chez[nl]le barbier.[END]
+@9@308
+*[ARALE]Allons au café[nl]Coffee Pot.[END]
+@10@328
+*[ARALE]Allons dans[nl]les collines.[END]
+@11/12/13/14/15/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37/38/39/40/41/42/43/44/45/46/47/62/63/64/65/69/70/71@348/352/356/360/364/520/524/528/532/536/540/544/548/552/556/560/564/568/572/576/580/584/588/592/596/600/604/608/612/616/1252/1256/1260/1264/1396/1400/1404
+*[END]
+@17@384
+*Classe[END]
+@18@404
+*Bureau[END]
+@21@468
+*[ARALE]Allons dans[nl]la classe.[END]
+@22@492
+*[ARALE]Allons au[nl]bureau du[nl]principal.[END]
+@48@620
+*[TARO]Oh, Arale![nl]J'ai enfin[nl]réussi à te[nl]mettre la[nl]main dessus![END]
+@49@672
+*[ARALE]Kya ha ha![nl]Tu m'as[nl]trouvée.[END]
+@50@708
+*[TARO]Jouons au[nl]baseball[nl]maintenant.[END]
+@51@736
+*[ARALE]Baseball?[END]
+@52@752
+*[TARO]Tu vas te[nl]mesurer à des[nl]joueurs très[nl]coriaces,[nl]alors je vais[nl]te confier[nl]un petit secret.[END]
+@53@828
+*[ARALE]U ho hoi![nl]Qu'est-ce que[nl]c'est, qu'est-ce[nl]que c'est?[END]
+@54@868
+*[TARO]Ne le dis à[nl]personne, mais[nl]Akane essaie[nl]de cacher[nl]quelque chose.[nl]Si tu continues[nl]à perdre contre[nl]elle, je pense[nl]qu'elle va[nl]cracher le[nl]morceau.[END]
+@55@1008
+*[ARALE]Ooh, je me[nl]demande ce que[nl]c'est...[END]
+@56@1036
+*[TARO]OK Arale,[nl]je compte sur[nl]toi.[END]
+@57@1076
+*[ARALE]Hoi![END]
+@58@1092
+*[ARALE]Hey Tarosie![END]
+@59@1120
+*[TARO]Arale, tu[nl]ne peux pas[nl]m'appeler comme[nl]ça?[nl]Ca me fait[nl]paraître pas[nl]cool...[END]
+@60@1204
+*[ARALE]Kya ha ha![nl]Tarosie,[nl]Tarosie![END]
+@61@1236
+*[TARO]...[END]
+@66@1268
+*[ARALE]Sais-tu où[nl]se trouve[nl]Mlle Midori?[END]
+@67@1308
+*[TARO]Je parie que[nl]tu peux la[nl]trouver dans la[nl]salle de classe.[END]
+@68@1356
+*[ARALE]Kya ha ha,[nl]Merci.[nl]Bye'cha![END]

@@ -8,7 +8,7 @@
 @3@848
 *[ARALE]Je vais juste[nl]abattre tous[nl]les murs.[END]
 @4@884
-*[HAKASE]Nannn! Il suffit[nl]d'utiliser la[nl][YELLOW]porte[WHITE]![END]
+*[HAKASE]Nannn![nl]Il suffit[nl]d'utiliser la[nl][YELLOW]porte[WHITE]![END]
 @5@916
 *[HAKASE]Laisse-moi te[nl]dire comment[nl]te déplacer.[nl]Il suffit de se[nl]tenir devant[nl]une [YELLOW]porte[WHITE] et[nl]appuie sur la[nl][YELLOW]touche[WHITE] [SQUARE].[END]
 @6/33/180@1056/1672/3900
@@ -16,7 +16,7 @@
 @7@1072
 *[HAKASE]Ensuite, tu[nl]verras une[nl][YELLOW]liste[WHITE] des[nl]endroits que tu[nl]peux atteindre[nl]depuis cette[nl]zone.[nl]Il y a des[nl]endroits[nl][YELLOW]autres que les[nl]portes[WHITE] où cela[nl]fonctionne,[nl]comme par[nl]exemple [YELLOW]les[nl]escaliers[WHITE].[nl]Essaie de le[nl]faire partout.[nl]Compris?[END]
 @8@1328
-*[ARALE]Humm, et si je[nl]dois faire la[nl]numéro une?[END]
+*[ARALE]Humm, et si je[nl]dois faire caca?[END]
 @9@1368
 *[HAKASE]Tu es un[nl][YELLOW]robot[WHITE]![nl]Tu n'as pas[nl]besoin de faire[nl]ce genre de[nl]choses![END]
 @10/16@1428/1428
@@ -28,7 +28,7 @@
 @35@1956
 *[ARALE]Hoi.[END]
 @36/37/48/85@1968/1980/1980/2468
-*[ARALE]Ho-i.[END]
+*[ARALE]Hoi.[END]
 @49@1992
 *[HAKASE]C'est cassé.[nl]Je vais[nl]peut-être[nl]le réparer[nl]pour la[nl]prochaine fois.[END]
 @50/52@2052/2104
@@ -70,7 +70,7 @@
 @100/145/147/148/150@2676/3412/3508/3552/3648
 *[ARALE]U ho hoi![nl]J'ai trouvé[nl]quelques[nl][YELLOW]pièces[WHITE]![END]
 @102/112@2748/2748
-*[ARALE]Hey, [PINK]professeur[WHITE],[nl]comment accéder[nl]aux [BLUE]collines[WHITE]?[END]
+*[ARALE]Hey, [PINK]professeur[WHITE][nl]comment accéder[nl]aux [BLUE]collines[WHITE]?[END]
 @113@2816
 *[HAKASE]Les [BLUE]collines[WHITE]?[nl]Je n'en ai pas[nl]la moindre idée.[nl]Mais pourquoi[nl]as-tu besoin[nl]d'aller là-bas?[END]
 @114@2872
@@ -78,7 +78,7 @@
 @115@2904
 *[HAKASE]Quoi?[nl]En tout cas,[nl]je pense que les[nl][PINK]flics[WHITE] savent[nl]comment s'y[nl]rendre.[END]
 @116@2992
-*[ARALE]Hum, [PINK]professeur[WHITE].[nl]Que veut dire[nl][PINK]"police"[WHITE]?[END]
+*[ARALE]Hum, [PINK]professeur[WHITE][nl]que veut dire[nl][PINK]"police"[WHITE]?[END]
 @117@3048
 *[HAKASE]C'est quoi[nl]cette question[nl]stupide?[nl]Ce sont les gars[nl]qui se promènent[nl]dans les[nl][YELLOW]voitures de[nl]police[WHITE].[END]
 @118/128@3128/3128
@@ -104,13 +104,13 @@
 @152/176@3724/3724
 *[ARALE]Hey [PINK]professeur[WHITE].[nl]Est-ce que[nl]tu as[nl]un nom?[END]
 @177@3768
-*[HAKASE]Eh bien, je suis[nl][PINK]Senbei Norimaki[WHITE].[nl]Tu peux[nl]m'appeler[nl][PINK]professeur[WHITE].[END]
+*[HAKASE]Eh bien, je[nl]m'appelle[nl][PINK]Senbei Norimaki[WHITE].[nl]Tu peux[nl]m'appeler[nl][PINK]professeur[WHITE].[END]
 @178@3832
-*[ARALE]Ho-yo?[END]
+*[ARALE]Ho yo?[END]
 @179@3844
-*[HAKASE]Je suppose que[nl]je peux[nl]t'appeler...[nl]hum...[END]
+*[HAKASE]Et toi tu vas[nl]t'appeler...[nl]alors...[nl]huummm...[END]
 @181@3916
-*[HAKASE]J'ai trouvé![nl]Arale![nl]Tu pourrais[nl]t'appeler[nl]Arale Norimaki![nl]C'est réglé![END]
+*[HAKASE]J'ai trouvé![nl]Arale![nl]Tu pourrais[nl]t'appeler[nl]Arale Norimaki![nl]C'est vraiment[nl]pas mal du[nl]tout![END]
 @182@3984
 *[ARALE]U ho hoi![END]
 @183@4004
@@ -120,7 +120,7 @@
 @257@4248
 *[BLUE]Ma chambre[END]
 @258@4272
-*[BLUE]Laboratoire[END]
+*[BLUE]Le labo[END]
 @259@4300
 *[BLUE]Extérieur[END]
 @260@4316
@@ -164,7 +164,7 @@
 @318@5180
 *OK[END]
 @319@5192
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@5224
 *[YELLOW]Sauver?[END]
 @322@5248

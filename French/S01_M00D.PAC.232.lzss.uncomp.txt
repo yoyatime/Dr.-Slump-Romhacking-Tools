@@ -10,7 +10,7 @@
 @4@1104
 *[ARALE]Euh... il est[nl]temps de se[nl]coucher...[END]
 @5@1152
-*[HAKASE]Réveille-toi,[nl]Arale![nl]C'est le matin![END]
+*[HAKASE]Réveille-toi,[nl]Arale![nl]Il est l'heure![END]
 @6@1208
 *[ARALE]Zzz...[MEDIUM_PAUSE]![END]
 @7/16@1232/1232
@@ -22,7 +22,7 @@
 @33@1584
 *[ARALE]Tu veux dire[nl]comme toi?[END]
 @34@1608
-*[HAKASE]Ce n'est pas[nl]grave si je suis[nl]toujours[nl]habiller comme[nl]cela![nl]Mais les gens[nl]trouveraient ça[nl]étrange si une[nl][YELLOW]jeune  fille[WHITE][nl]telle que toi,[nl]portait la même[nl]chose tous les[nl]jours.[nl]Nous ne voulons[nl]pas que les gens[nl]pensent qu'il y[nl]a quelque chose[nl]de bizarre chez[nl]toi.[END]
+*[HAKASE]Ce n'est pas[nl]grave si je suis[nl]toujours[nl]habiller comme[nl]cela![nl]Mais les gens[nl]trouveraient ça[nl]étrange si une[nl][YELLOW]jeune fille[WHITE][nl]telle que toi,[nl]portait la même[nl]chose tous les[nl]jours.[nl]Nous ne voulons[nl]pas que les gens[nl]pensent qu'il y[nl]a quelque chose[nl]de bizarre chez[nl]toi.[END]
 @35@1788
 *[ARALE]Ok, quelles[nl]tenues ai-je?[END]
 @36@1816
@@ -36,17 +36,17 @@
 @40/48@1948/1948
 *[HAKASE]L'option [YELLOW]Stéréo[WHITE][nl]te permet de[nl]modifier[nl]les [YELLOW]paramètres[nl]audio[WHITE].[nl]Il suffit de[nl]choisir [YELLOW]Stéréo[WHITE][nl]si tu as un[nl]téléviseur[nl]stéréo, et [YELLOW]Mono[WHITE][nl]si tu utilises[nl]toujours un[nl]téléviseur[nl]monaural.[nl]Les paramètres[nl]sont modifiable[nl]à tous moment.[END]
 @49@2192
-*[ARALE]Tu ne sait pas[nl]jouer de la[nl]musique?[END]
+*[ARALE]Est-ce que[nl]tu aimerais[nl]écouter de la[nl]musique?[END]
 @50@2220
-*[HAKASE]Q-qui a besoin[nl]de savoir?[END]
+*[HAKASE]Qui moi?[nl]Heu... non ce[nl]n'est pas le[nl]moment.[END]
 @51/64@2292/2292
-*[ARALE]Il fait trop[nl]sombre pour[nl]voir quoi que[nl]ce soit.[END]
+*[ARALE]Il fait trop[nl]sombre la dedans[nl]pour y voir[nl]quoi que[nl]ce soit.[END]
 @65@2324
 *[HAKASE]Arale, tu[nl]pourras t'amuser[nl]là-dedans[nl]plus tard.[END]
 @66/80/81@2384/2384/2440
-*[HAKASE]Où vas-tu ?[nl]Tu devrais te[nl]reposer pour[nl]l'instant.[END]
+*[HAKASE]Où vas-tu?[nl]Tu devrais te[nl]reposer pour[nl]l'instant.[END]
 @82@2496
-*[HAKASE]La prochaine[nl]étape c'est mon[nl][BLUE]laboratoireab[WHITE].[END]
+*[HAKASE]La prochaine[nl]étape c'est mon[nl][BLUE]laboratoire[WHITE].[END]
 @83@2544
 *[HAKASE]Arale, ne[nl]veux-tu pas en[nl]savoir plus sur[nl]ce magnifique[nl][YELLOW]journal[WHITE]?[END]
 @84@2624
@@ -66,41 +66,41 @@
 @102@3008
 *[HAKASE]Hum, cette photo[nl]pourrait être un[nl]peu trop[nl]effrayante pour[nl]un enfant comme[nl]toi...[END]
 @104@3092
-*[HAKASE]Quel[nl]soulagement...[END]
+*[HAKASE]Quelle[nl]insouciance...[END]
 @105@3120
 *[HAKASE]Tais-toi et va[nl]te coucher![END]
 @106/112@3188/3188
 *[HAKASE]Ceci est mon[nl][YELLOW]invention[WHITE], la[nl][YELLOW]machine à[nl]inventions[WHITE]![END]
 @113@3248
-*[ARALE]C'est un nom[nl]évident.[END]
+*[ARALE]C'est un nom[nl]si évident.[END]
 @114@3268
-*[HAKASE]Ferme ta bouche![nl][nl]bien, cette[nl]machine peut[nl]ajuster la[nl]configuration de[nl]ta [YELLOW]manette[WHITE].[nl]Par exemple, il[nl]est possible[nl]d'associer la[nl]touche [YELLOW][TRIANGLE][WHITE] à la[nl]touche [GREEN]poing[WHITE], ou[nl]le bouton [GREEN]saut[WHITE][nl]à la touche [CIRCLE].[END]
+*[HAKASE]Grrr, mais[nl]ferme ta bouche![nl]Bien, cette[nl]machine peut[nl]ajuster la[nl]configuration de[nl]ta [YELLOW]manette[WHITE].[nl]Par exemple, il[nl]est possible[nl]d'associer la[nl]touche [YELLOW][TRIANGLE][WHITE] à la[nl]touche [GREEN]poing[WHITE], ou[nl]le bouton [GREEN]saut[WHITE][nl]à la touche [CIRCLE].[END]
 @115/119@3548/3792
-*[ARALE]Euh euh.[END]
+*[ARALE]Pouf pouf.[END]
 @116@3560
 *[HAKASE]Tsss, tu ne[nl]comprends pas le[nl]travail qui a[nl]été fait pour[nl]créer ça.[END]
 @117@3632
 *[ARALE]M-humm.[END]
 @118@3648
-*[HAKASE]Les inventions[nl]que je te donne[nl]pour remplir ta[nl][YELLOW]jauge de Pep's[WHITE][nl]peuvent toutes[nl]être configurées[nl]ici aussi![nl]Que dis-tu de[nl]cela, incroyable[nl]n'est-ce pas?![END]
+*[HAKASE]Les inventions[nl]que je te donne[nl]pour remplir ta[nl][YELLOW]jauge de Pep's[WHITE][nl]peuvent toutes[nl]être configurées[nl]ici aussi![nl]Que dis-tu de[nl]cela, incroyable[nl]n'est-ce pas?[END]
 @120@3804
 *[HAKASE]Arfff![nl]C'est pas comme[nl]si tu pouvais[nl]comprendre à[nl]quel point c'est[nl]génial.[nl]Quoi qu'il en[nl]soit, il est[nl]temps pour moi[nl]d'aller me[nl]coucher.[nl]Pourquoi[nl]n'irais-tu pas[nl]te coucher[nl]aussi, Arale?[END]
 @122/128@3928/3928
 *[ARALE]Ha ha ha, elle[nl]n'est qu'un[nl]substitut de la[nl]vraie[nl][PINK]Mlle. Midori[WHITE].[END]
 @131@4020
-*[ARALE]Je n'y comprends[nl]rien.[END]
+*[ARALE]Je n'y[nl]comprends rien.[END]
 @132/144@4056/4056
-*[ARALE]Pourquoi y[nl]a-t-il une photo[nl]de [PINK]Ms. Midori[WHITE][nl]ici?[END]
+*[ARALE]Pourquoi y[nl]a-t-il une photo[nl]de [PINK]Mlle. Midori[WHITE][nl]ici?[END]
 @147@4156
-*[ARALE]C'est trop[nl]sombre.[nl][nl]Je ne peux rien[nl]faire ici.[END]
+*[ARALE]C'est trop[nl]sombre.[nl]Je comprends pas[nl]ce que ça fais[nl]là![END]
 @148/256@4184/4184
 *Rester là[END]
 @257@4200
-*[BLUE]Salle de séjour[END]
+*[BLUE]Séjour[END]
 @258@4220
-*[BLUE]Laboratoire[END]
+*[BLUE]Le labo[END]
 @259@4248
-*[BLUE]A l'extérieur[END]
+*[BLUE]Dehors[END]
 @260@4264
 *Aller où?[END]
 @261@4284
@@ -142,7 +142,7 @@
 @318@5124
 *OK[END]
 @319@5136
-*[WHITE]Choisir fichier.[END]
+*[WHITE]Choisir fichier[END]
 @320@5168
 *[YELLOW]Sauver?[END]
 @322@5192
@@ -194,17 +194,17 @@
 @355@5760
 *Ramper[END]
 @356@5776
-*Saut grenouille[END]
+*S.Grenouille[END]
 @357@5792
-*Coup-pied glissé[END]
+*Pied glissé[END]
 @358@5808
-*Poing remonter[END]
+*Poing haut[END]
 @359@5824
 *Marche Shinobi[END]
 @360@5836
 *Souffle Hover[END]
 @361@5852
-*Poing de colère[END]
+*Poing colère[END]
 @362@5868
 *Double saut[END]
 @363@5884
@@ -212,19 +212,19 @@
 @364@5900
 *Crochet[END]
 @365@5912
-*Saut en longueur[END]
+*Saut long[END]
 @366@5924
-*Fendeur de terre[END]
+*Fendre terre[END]
 @367@5940
-*Broyage au sol[END]
+*Broyage sol[END]
 @369@5964
-*Compteur vitesse[END]
+*Compt.vitesse[END]
 @370@5988
 *Altimètre[END]
 @371@6008
 *Boussole[END]
 @372@6028
-*Indicateur audio[END]
+*Indic.audio[END]
 @373@6052
 *Effet farceur[END]
 @374@6072
@@ -232,11 +232,11 @@
 @375@6096
 *Circuit charme[END]
 @376@6116
-*Verres-contact[END]
+*Verres contact[END]
 @377@6140
-*Couleur-fenêtres[END]
+*Coul.fenêtres[END]
 @378@6164
-*Choix-police[END]
+*Choix police[END]
 @379@6184
 *Collection[END]
 @380@6212
@@ -244,7 +244,7 @@
 @381@6228
 *Test SFX[END]
 @382/384@6240/6240
-*Choisir couleur fenêtre[END]
+*Choisir la[nl]couleur de[nl]la fenêtre[END]
 @386@6276
 *Par défaut[END]
 @387@6292

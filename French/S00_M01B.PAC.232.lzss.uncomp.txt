@@ -1,0 +1,41 @@
+@@S00_M01B.PAC.232.lzss.uncomp@@48@@100@@780
+@0@100
+*Rester là[END]
+@1@116
+*Chez Kinoko[END]
+@2/7/8/9/10/11/12/13/14/15/21/22/23/27/28/29/30/31/35/36/37/38/39/45/46/47@132/232/236/240/244/248/252/256/260/264/424/428/432/516/520/524/528/532/624/628/632/636/640/768/772/776
+* [END]
+@3@136
+*Aller où?[END]
+@4@156
+*[ARALE]Peu importe.[END]
+@5/6@176/204
+*[ARALE]Allons chez[nl]Kinoko.[END]
+@16/24/40@268/436/644
+*[ARALE]N'cha![END]
+@17@284
+* Hello, Arale.[END]
+@18@312
+*[ARALE]Akane est là?[END]
+@19@332
+* Désolé, elle[nl]est sortie jouer[nl]quelque part.[nl]Elle ne[nl]reviendra pas[nl]avant un moment.[END]
+@20@408
+*[ARALE]Hoi![END]
+@25@452
+*Non non non,[nl]Arale.[nl]Tu ne devrais[nl]pas être là.[END]
+@26@504
+*[ARALE]Ho yo?[END]
+@32@536
+*[ARALE]Kya ha ha![END]
+@33@552
+* Oh, mon Dieu,[nl]c'est vrai que[nl]tu es[nl]fatiguante,[nl]Arale.[nl]S'il te plaît,[nl]essaie de ne[nl]rien casser.[END]
+@34@608
+*[ARALE]Tée hé hé...[END]
+@41@660
+* Bienvenue,[nl]Arale.[nl]C'est toujours[nl]un plaisir de[nl]te voir ici.[END]
+@42@708
+*[ARALE]Où est Akane?[END]
+@43@728
+* Oh, n'est-elle[nl]pas juste[nl]dehors?[END]
+@44@756
+*[ARALE]Ho yo yo?[END]

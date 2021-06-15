@@ -10,11 +10,11 @@
 @4/16@1000/1000
 *[ARALE]Hey, hey[nl][PINK]professeur[WHITE].[nl]Je veux aller à[nl][BLUE]l'école[WHITE] comme[nl]tout le monde.[END]
 @17@1060
-*[HAKASE][BLUE]L'école[WHITE], hein?[MEDIUM_PAUSE][MEDIUM_PAUSE][nl]Tu n'as pas[nl]besoin d'aller à[nl][BLUE]l'école[WHITE].[nl]Mais je suppose[nl]que ce serait[nl]terriblement[nl]suspect pour un[nl]enfant de courir[nl]partout sans[nl]jamais aller[nl]à [BLUE]l'école[WHITE]...[MEDIUM_PAUSE][nl]Très bien,[nl]prépare-toi[nl]Arale, je vais[nl]t'y inscrire[nl]très bientôt.[END]
+*[HAKASE][BLUE]L'école[WHITE], hein?[MEDIUM_PAUSE][MEDIUM_PAUSE][nl]Tu n'as pas[nl]besoin d'aller à[nl][BLUE]l'école[WHITE].[nl]Mais je suppose[nl]que ce serait[nl]terriblement[nl]suspect pour un[nl]enfant de courir[nl]partout sans[nl]jamais aller[nl]à [BLUE]l'école[WHITE]...[MEDIUM_PAUSE][nl]Très bien,[nl]prépare-toi[nl]Arale, je vais[nl]t'y inscrire[nl]dès demain.[END]
 @18/68/99/101/103/112@1236/2348/3784/3884/3972/3972
 *[ARALE]Hoi![END]
 @19/32/113/128/158/160/304@1248/1248/3984/3984/5000/5000/7508
-*[HAKASE]Qu'y a-t-il,[nl]Arale ?[nl]Ah, je vois que[nl]tu as rempli ta[nl][YELLOW]jauge de pep's[WHITE].[nl]Ooh, je sens une[nl]nouvelle idée[nl]qui bouillonne.[END]
+*[HAKASE]Qu'y a-t-il,[nl]Arale?[nl]Ah, je vois que[nl]tu as rempli ta[nl][YELLOW]jauge de pep's[WHITE].[nl]Ooh, je sens une[nl]nouvelle idée[nl]qui bouillonne.[END]
 @33/129/161/305/382/386@1352/4088/5104/7612/11636/11904
 *[ARALE]Oh, mon Dieu![END]
 @34/130/162/371@1368/4104/5120/11120
@@ -28,7 +28,7 @@
 @50@1664
 *[HAKASE]Très bien[nl]maintenant[nl]rendons-nous[nl]à [BLUE]l'extérieur[WHITE].[END]
 @51@1704
-*[HAKASE]Pas si vite[nl]Arale.[nl]Viens me voir[nl]en premier.[END]
+*[HAKASE]Pas si vite[nl]Arale.[nl]Viens me voir.[END]
 @52@1768
 *[HAKASE]Dors bien,[nl]Arale.[END]
 @53/132/164@1796/4264/5280
@@ -54,7 +54,7 @@
 @72@2672
 *[ARALE]Pourquoi?[END]
 @73@2688
-*[HAKASE]Que veux-tu dire[nl]par pourquoi?[END]
+*[HAKASE]Que veux-tu[nl]dire par[nl]pourquoi?[END]
 @74/80@2712/2712
 *[HAKASE]Il s'agit de la[nl][YELLOW]machine à[nl]invention[WHITE].[nl]Tu peux[nl]l'utiliser pour[nl]configurer les[nl]paramètres de la[nl][YELLOW]manette[WHITE].[nl]Cepandant, quoi[nl]que tu fasses,[nl]la touche[YELLOW][nl][CIRCLE][WHITE],[nl]sera toujours[nl]la confirmation[nl]et la touche[YELLOW][nl][CROSS][WHITE] sera[nl]toujours[nl]l'annulation.[END]
 @81@3064
@@ -74,21 +74,21 @@
 @88/154/167@3488/4816/5424
 *[HAKASE]Cette chose[nl]est importante,[nl]n'y touche pas.[END]
 @89/155/168@3544/4872/5480
-*[HAKASE]Ce n'est pas une[nl]aire de jeux.[END]
+*[HAKASE]Ce n'est pas[nl]une aire de[nl]jeux.[END]
 @90/96@3584/3584
-*[HAKASE]Il s'agit de mon[nl][BLUE]laboratoire[WHITE].[nl]C'est ici que[nl]tu es née.[END]
+*[HAKASE]Il s'agit de[nl]mon [BLUE]laboratoire[WHITE].[nl]C'est ici que[nl]tu es née.[END]
 @97@3656
 *[ARALE]Cette endroit[nl]est un sacré[nl]bazar.[END]
 @98@3676
 *[HAKASE]Chut, tais-toi![nl]C'est ici que[nl]je fais toutes[nl]mes recherches.[nl]Si jamais tu as[nl]besoin de moi,[nl]tu me trouveras[nl]là.[END]
 @100@3796
-*[HAKASE]Si jamais[nl]tu aimerais[nl]partir d'ici,[nl]alors place toi[nl]devant les[nl][YELLOW]escaliers[WHITE] et[nl]appuie sur la[nl]touche[WHITE] [SQUARE][YELLOW].[END]
+*[HAKASE]Si jamais[nl]tu aimerais[nl]partir d'ici,[nl]alors place toi[nl]devant les[nl][YELLOW]escaliers[WHITE] et[nl]appuie sur la[nl]touche[YELLOW] [SQUARE][WHITE].[END]
 @102@3896
-*[HAKASE]Arale...[nl]dépêche-toi,[nl]et va-t'en.[nl]Souviens-toi[nl]appuie sur la[nl]touche[YELLOW] [SQUARE][WHITE][nl]en faisant face[nl]aux [YELLOW]escaliers[WHITE].[END]
+*[HAKASE]Arale...[nl]dépêche-toi,[nl]va-t'en.[nl]Souviens-toi[nl]appuie sur la[nl]touche[YELLOW] [SQUARE][WHITE][nl]en faisant face[nl]aux [YELLOW]escaliers[WHITE].[END]
 @134/144@4356/4356
 *[HAKASE]Yosh! Attends[nl]une minute![END]
 @145/212@4388/6064
-*[ARALE]Ho-yo?[END]
+*[ARALE]Ho yo?[END]
 @146@4400
 *[HAKASE]Houlala,[nl]les enfants[nl]ne doivent pas[nl]jouer avec ce[nl]genre de [YELLOW]livres[WHITE].[nl]Je ne peux pas[nl]te le laisser[nl]entre les mains.[END]
 @147@4496
@@ -102,31 +102,31 @@
 @151@4680
 *[ARALE]Oh vraiment???[END]
 @152@4696
-*[HAKASE]Aller ça suffit[nl]comme cela.[nl]Sors d'ici et[nl]va jouer[BLUE]dehors[WHITE],[nl]ça te dit?[END]
+*[HAKASE]Aller ça suffit[nl]comme cela.[nl]Sors d'ici et[nl]va jouer [BLUE]dehors[WHITE],[nl]ça te dit?[END]
 @156@4912
 *[ARALE]Attends, prends[nl]cette [YELLOW]clé[WHITE].[END]
 @157@4948
-*[HAKASE]Peu importe[nl]vas[WHITE] [BLUE]dehors[nl]maintenant![END]
+*[HAKASE]Peu importe[nl]vas [BLUE]dehors[WHITE][nl]maintenant![END]
 @169/192@5520/5520
-*[ARALE]Kya-ha-ha![END]
+*[ARALE]Kya ha ha![END]
 @193@5540
 *[ARALE]U ho hoi![END]
 @194@5556
 *[ARALE]Beurp...[END]
 @195/208@5576/5576
-*[HAKASE]Grâce à mon[nl]inégalable[nl][YELLOW]génie[WHITE], le monde[nl]est sur le point[nl]d'être témoin[nl]de la naissance[nl]du premier[nl]cyborg autonome![nl]Non...[MEDIUM_PAUSE][nl]de la naissance[nl]du premier[nl][YELLOW]humanoide robot[WHITE]![END]
+*[HAKASE]C'est[nl]effrayant...[nl]Mon [YELLOW]génie[WHITE] me[nl]fait peur[nl]à moi-même.[nl]J'ai conçu[nl]un [YELLOW]androïde[WHITE][nl]parfait en[nl]un tournemain...[END]
 @209@5712
-*[HAKASE]Oui! Oui! Je[nl]suis l'ultra[nl]méga super[nl][YELLOW]génie[WHITE]![nl]Je vais[nl]finalement[nl]obtenir la plus[nl]magnifique et[nl]pétillante des[nl][YELLOW]robot[WHITE] de mes[nl]rêves.[nl]Tout ce qu'il[nl]me reste à faire[nl]c'est actionner[nl][YELLOW]l'intérupteur[WHITE].[nl]Et c'est parti![MEDIUM_PAUSE][nl]activation![END]
+*[HAKASE]Mais quelle[nl]casse-pieds![nl]On ne m'y[nl]reprendra plus[nl]à faire la tête[nl]en premier![END]
 @210@5956
-*[HAKASE]...!![MEDIUM_PAUSE][nl]Qu'est-ce que...[nl]c'est que cette[nl][YELLOW]éclair[WHITE] au juste[nl]maintenant?[END]
+*[HAKASE]...!!![nl][MEDIUM_PAUSE]Bon après m'être[nl]fait tabasser[nl][YELLOW]les roubignoles[WHITE],[nl]puis ensuite[nl][YELLOW]chatouiller[WHITE]...[END]
 @211@6024
-*[HAKASE]Mince elle a[nl]l'aire si[nl][YELLOW]petite[WHITE]?[END]
+*[HAKASE]Ouf, elle est[nl]enfin [YELLOW]achevée[WHITE].[END]
 @213@6076
-*[HAKASE]J'ai sûrement[nl]dû me tromper[nl]quelque part.[nl]Non... non, elle[nl]n'est pas censée[nl]ressembler à[nl]ça![nl]Ceci est[nl]probablement dû[nl]à ce terrible[nl][YELLOW]éclair[WHITE]![nl]Elle était[nl]supposer être[nl]une charmante[nl][YELLOW]supermodèle[nl]robot[WHITE]femme![END]
+*[HAKASE]Bon maintenant,[nl]je vais procéder[nl]à quelques tests[nl]pour voir si[nl]tout va bien.[nl]Ca m'a l'air[nl]d'être une[nl]réussite totale.[END]
 @214@6236
-*[ARALE]Hé toi, tu[nl]ressembles à un[nl][YELLOW]gorille[WHITE].[END]
+*[ARALE]Hé toi, tu[nl]as une tête[nl]de [YELLOW]gorille[WHITE].[END]
 @215@6260
-*[HAKASE]Qui est-ce que[nl]tu traîtes de[nl][YELLOW]gorille[WHITE]!?[nl]Tu n'as surement[nl]pas les yeux en[nl]face des trous.[nl]Tiens, voici[nl]pour toi une[nl]belle paire de[nl][YELLOW]lunette[WHITE].[END]
+*[HAKASE]Aaahhh,[nl]espèce de petite[nl]malpolie, qui[nl]est-ce que tu[nl]traites de tête[nl]de [YELLOW]gorille[WHITE]?[nl]Tu n'as surement[nl]pas les yeux en[nl]face des trous.[nl]Tiens, voici[nl]pour toi une[nl]belle paire de[nl][YELLOW]lunette[WHITE].[END]
 @216@6376
 *[ARALE]Waouh, tout[nl]paraît si clair[nl]maintenant.[nl]Hé, mais oui...[nl]tu as bien[nl]une tête de[nl][YELLOW]gorille[WHITE].[END]
 @217@6432
@@ -184,11 +184,11 @@
 @346@9604
 *[HAKASE]N'oublie pas[nl]rendre visite à[nl][YELLOW]la machine à[nl]inventions[WHITE] pour[nl]choisir la font[nl]qui te plait.[END]
 @347/348@9680/9680
-*[HAKASE]Voici le[nl][BLUE]Caca [WHITE]d'or![nl]Il permet de[nl]voir la liste[nl]des objets à[nl]collectionner[nl]quand tu le[nl]souhaites.[END]
+*[HAKASE]Voici le[nl][BLUE]caca[WHITE] d'or![nl]Il permet de[nl]voir la liste[nl]des objets à[nl]collectionner[nl]quand tu le[nl]souhaites.[END]
 @350@9816
 *[HAKASE]N'oublies pas[nl]de faire un[nl]tour à la[nl][YELLOW]machine des[nl]inventions[WHITE] pour[nl]le voir.[END]
 @351/352@9892/9892
-*[HAKASE]Voici le circuit[nl][BLUE]MAXPep's[WHITE]![nl]Il booste la[nl]jauge de pep's[nl]au maximum.[nl]C'est la[nl]dernière[nl]invention[nl]que je peux te[nl]donner pour[nl]le moment,[nl]Arale.[nl]Bonne chance![END]
+*[HAKASE]Voici le[nl]circuit[nl][BLUE]MAXPep's[WHITE]![nl]Il booste la[nl]jauge de pep's[nl]au maximum.[nl]C'est la[nl]dernière[nl]invention[nl]que je peux te[nl]donner pour[nl]le moment,[nl]Arale.[nl]Bonne chance![END]
 @354@10076
 *[HAKASE]Comme il s'agit[nl]de mon [YELLOW]invention[nl]finale[WHITE], je lui[nl]ai donné une[nl]une petite[nl]fonction[nl]supplémentaire[nl]très astucieuse.[nl]La gauge[nl]du circuit[nl]de [BLUE]MAXPep's[WHITE][nl]se rechargera[nl]légèrement[nl]en énergie[nl]lorsque tu[nl]toucheras une[nl][YELLOW]crotte[WHITE].[END]
 @355/356@10284/10284
@@ -222,12 +222,12 @@
 @379@11528
 *[HAKASE]Remarquable[nl]Arale![END]
 @380@11556
-*[ARALE]Je veux un [YELLOW]prix[WHITE].[END]
+*[ARALE]Je veux un[nl][YELLOW]prix[WHITE].[END]
 @381@11588
 *[HAKASE]Je vois...[nl][MEDIUM_PAUSE]Très bien...[nl]Un moment.[END]
 @383@11652
-*[HAKASE]...Je l'ai fait.[nl]Je me suis donné[nl]beaucoup de mal[nl]pour créer ceci[nl]pour toi, Arale.[END]
+*[HAKASE]J'ai fais ça.[nl]Je me suis donné[nl]beaucoup de mal[nl]pour créer ceci[nl]pour toi, Arale.[END]
 @384@11732
 *[ARALE]U ho hoi![nl]Qu'est-ce que[nl]tu as fait?[END]
 @385@11776
-*[HAKASE]Ce ne serait pas[nl]drôle si je te[nl]disais ce que[nl]c'est.[nl][nl]Rends-toi au[nl][YELLOW]porte-manteau[WHITE] de[nl]ta [BLUE]chambre[WHITE] et[nl]vois-le par[nl]toi-même.[END]
+*[HAKASE]Ce ne serait[nl]pas drôle si[nl]je te disais[nl]ce que c'est.[nl]Rends-toi au[nl][YELLOW]porte-manteau[WHITE] de[nl]ta [BLUE]chambre[WHITE] et[nl]vois-le par[nl]toi-même.[END]
