@@ -112,7 +112,7 @@
 @165@4876
 *[ARALE]Oh, bon sang![END]
 @166/256@4892/4892
-*Huile sale[END]
+*Huile[END]
 @257@4908
 *Café[END]
 @258@4924
@@ -180,6 +180,6 @@
 @319@5996
 *[WHITE]Choisir fichier[END]
 @320@6028
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@6052
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

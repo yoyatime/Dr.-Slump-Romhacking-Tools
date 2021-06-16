@@ -152,7 +152,7 @@
 @258@3984
 *[BLUE]La classe[END]
 @259@4008
-*[BLUE]Cour d'école[END]
+*[BLUE]La cour[END]
 @260/272@4028/4028
 *[ARALE]Allons dans la[nl][BLUE]salle de classe[WHITE].[END]
 @273@4056
@@ -190,6 +190,6 @@
 @319@4832
 *[WHITE]Choisir fichier[END]
 @320@4864
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@4888
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

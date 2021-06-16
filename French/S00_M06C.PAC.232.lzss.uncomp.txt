@@ -8,7 +8,7 @@
 @3@92
 *Ecole[END]
 @4@108
-*Débit de tabac[END]
+*Buraliste[END]
 @5@124
 *Police[END]
 @6@140

@@ -262,6 +262,6 @@
 @319@6576
 *[WHITE]Choisir fichier[END]
 @320@6608
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@6632
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

@@ -2,7 +2,7 @@
 @0@100
 *Rester là[END]
 @1@116
-*Ecole Yard[END]
+*Cour[END]
 @2@132
 *Bureau[END]
 @3@156

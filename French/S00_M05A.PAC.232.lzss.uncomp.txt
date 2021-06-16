@@ -2,7 +2,7 @@
 @0@100
 *Rester là[END]
 @1@116
-*Débit de tabac[END]
+*Buraliste[END]
 @2@132
 *Suppaman[END]
 @3@152

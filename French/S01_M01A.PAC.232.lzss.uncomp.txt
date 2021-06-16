@@ -18,7 +18,7 @@
 @22/98/114/149/180@964/2872/3320/3892/4464
 *[ARALE]Ho yo?[END]
 @23@976
-*[AKANE]Ne fais pas[nl]la maligne![nl]J'ai fait tomber[nl]ma boucle[nl]d'oreille à[nl]cause de toi![nl]Descends et[nl]aide-moi à la[nl]chercher![END]
+*[AKANE]Ne fais pas[nl]la maligne![nl]J'ai fait tomber[nl]ma boucle[nl]d'oreille à[nl]cause de toi![nl]Aide-moi à la[nl]chercher![END]
 @24/32@1108/1108
 *[AKANE]Tu l'as trouvé?[nl]Ouf... désolée[nl]pour tout à[nl]l'heure.[nl]Je m'appelle[nl][PINK]Akane[WHITE], au fait.[END]
 @33@1212
@@ -196,6 +196,6 @@
 @319@6132
 *[WHITE]Choisir fichier[END]
 @320@6164
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@6188
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]

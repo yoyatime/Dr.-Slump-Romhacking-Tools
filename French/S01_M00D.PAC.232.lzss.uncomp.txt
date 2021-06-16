@@ -64,7 +64,7 @@
 @101/103/129/145@2984/3068/3976/4112
 *[ARALE]C'est génial![END]
 @102@3008
-*[HAKASE]Hum, cette photo[nl]pourrait être un[nl]peu trop[nl]effrayante pour[nl]un enfant comme[nl]toi...[END]
+*[HAKASE]Hum, cette[nl]photo pourrait[nl]être un peu trop[nl]effrayante pour[nl]un enfant comme[nl]toi...[END]
 @104@3092
 *[HAKASE]Quelle[nl]insouciance...[END]
 @105@3120
@@ -144,7 +144,7 @@
 @319@5136
 *[WHITE]Choisir fichier[END]
 @320@5168
-*[YELLOW]Sauver?[END]
+*[YELLOW]Sauver[WHITE]?[END]
 @322@5192
 *[WHITE]Impossible de[nl][YELLOW]formater[WHITE][nl]correctement.[END]
 @323/324@5244/5244

@@ -8,7 +8,7 @@
 @3@152
 *Cinéma[END]
 @4@172
-*Appartement[END]
+*Appart.[END]
 @5@192
 *Aller où?[END]
 @6@212

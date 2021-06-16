@@ -6,7 +6,7 @@
 @2@132
 *Banque[END]
 @3@148
-*Appartement[END]
+*Appart.[END]
 @4@168
 *Aller où?[END]
 @5@188
