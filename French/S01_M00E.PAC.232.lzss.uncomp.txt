@@ -208,7 +208,7 @@
 @293@7060
 *[ARALE]Peu importe.[END]
 @294@7080
-*[ARALE]Allons dans ma[BLUE]chambre[WHITE].[END]
+*[ARALE]Allons dans ma[nl][BLUE]chambre[WHITE].[END]
 @295@7112
 *[ARALE]Allons dans[nl]le[BLUE]séjour[WHITE].[END]
 @296@7140

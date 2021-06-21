@@ -30,11 +30,11 @@
 @20@1448
 *[AKANE]Il est temps de[nl]sortir d'ici.[END]
 @21/32@1488/1488
-*[HAKASE]Nous avons[nl]réussi.[nl]C'est ton[nl][BLUE]école[WHITE].[END]
+*[HAKASE]Nous y sommes.[nl]C'est ton[nl][BLUE]école[WHITE].[END]
 @33@1536
 *[ARALE]N'cha![END]
 @34@1556
-*[HAKASE]Petite[nl]insolante![nl]Tu n'as[nl]pas besoin de[nl]lui parler![END]
+*[HAKASE]Petite[nl]idiote![nl]Tu n'as[nl]pas besoin de[nl]lui dire[nl]bonjour![END]
 @35@1624
 *[AKANE]C'est parti![END]
 @36@1668

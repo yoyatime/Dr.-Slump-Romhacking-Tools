@@ -24,7 +24,7 @@
 @22/32@1308/1308
 *[AKANE]Qu'est-ce qu'il[nl]y a, Arale?[END]
 @33@1336
-*[LADY_WITH_EARRINGS]Donc ton nom[nl]c'est Arale?[nl][PINK]Akane[WHITE] m'a parlé[nl]de toi.[nl]Je m'appelle[nl][PINK]Aoi.[END]
+*[LADY_WITH_EARRINGS]Donc ton nom[nl]c'est Arale?[nl][PINK]Akane[WHITE] m'a parlé[nl]de toi.[nl]Je m'appelle[nl][PINK]Aoi[WHITE].[END]
 @34@1428
 *[AKANE]Il s'agit de ma[nl][PINK]grande soeur[WHITE].[END]
 @35@1456
@@ -40,7 +40,7 @@
 @43/115/163@1740/3680/4720
 *[ARALE]U ho hoi![END]
 @44@1756
-*[LADY_WITH_EARRINGS]Si tu remplis[nl]ta [YELLOW]jauge de[nl]Pep's[WHITE], parle à[nl][PINK]Senbei[WHITE]et il[nl]te fera une[nl][YELLOW]invention[WHITE].[nl]Ce ne sera rien[nl]de fou, alors[nl]n'en attends pas[nl]trop.[nl]C'est compris?[END]
+*[LADY_WITH_EARRINGS]Si tu remplis[nl]ta [YELLOW]jauge de[nl]Pep's[WHITE], parle à[nl][PINK]Senbei[WHITE] et il[nl]te fera une[nl][YELLOW]invention[WHITE].[nl]Ce ne sera rien[nl]de fou, alors[nl]n'en attends pas[nl]trop.[nl]C'est compris?[END]
 @45/73@1984/2628
 *[ARALE]Hoi![END]
 @46/48@1996/1996

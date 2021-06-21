@@ -4,7 +4,7 @@
 @1/24/71/119@1080/1992/3892/4896
 *[ARALE]Hoi![END]
 @2@1092
-*[HAKASE]Hoo ah![nl]J'ai une superbe[nl][YELLOW]invention[WHITE]pour[nl]toi Arale.[nl]Allons dans ta[nl][BLUE]chambre[WHITE] que[nl]je puisse te[nl]montrer ça.[END]
+*[HAKASE]Hoo ah![nl]J'ai une superbe[nl][YELLOW]invention[WHITE] pour[nl]toi Arale.[nl]Allons dans ta[nl][BLUE]chambre[WHITE] que[nl]je puisse te[nl]montrer ça.[END]
 @3/17/22/36@1236/1356/1872/2476
 *[ARALE]Ho yo?[END]
 @4@1248
